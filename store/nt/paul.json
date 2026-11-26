@@ -1,0 +1,194 @@
+{
+  "corpus": "nt",
+  "books_covered": [
+    "Romans",
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Ephesians",
+    "Philippians",
+    "Colossians",
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "1 Timothy",
+    "2 Timothy",
+    "Titus",
+    "Philemon"
+  ],
+  "books_greek": [
+    "Πρὸς Ῥωμαίους",
+    "Πρὸς Κορινθίους Α",
+    "Πρὸς Κορινθίους Β",
+    "Πρὸς Γαλάτας",
+    "Πρὸς Ἐφεσίους",
+    "Πρὸς Φιλιππησίους",
+    "Πρὸς Κολοσσαεῖς",
+    "Πρὸς Θεσσαλονικεῖς Α",
+    "Πρὸς Θεσσαλονικεῖς Β",
+    "Πρὸς Τιμόθεον Α",
+    "Πρὸς Τιμόθεον Β",
+    "Πρὸς Τίτον",
+    "Πρὸς Φιλήμονα"
+  ],
+  "source_file": "store/nt/paul.json",
+  "passages": [
+    {
+      "reference": "Romans 13:1–7",
+      "greek_reference": "Πρὸς Ῥωμαίους 13:1–7",
+      "verse_anchor": "Rom.13.1-7",
+      "greek_text": "Πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω· οὐ γὰρ ἔστιν ἐξουσία εἰ μὴ ὑπὸ θεοῦ, αἱ δὲ οὖσαι ὑπὸ θεοῦ τεταγμέναι εἰσίν.",
+      "english_translation": "Let every soul be subject to governing authorities, for there is no authority except from God, and those that exist have been appointed by God.",
+      "morphology": [
+        {
+          "surface_form": "ἐξουσίαις",
+          "lemma": "ἐξουσία",
+          "strongs": "G1849",
+          "english_gloss": "authorities / powers",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "Rom.13.1-7"
+        },
+        {
+          "surface_form": "ὑποτασσέσθω",
+          "lemma": "ὑποτάσσω",
+          "strongs": "G5293",
+          "english_gloss": "let be subject",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "Rom.13.1-7"
+        },
+        {
+          "surface_form": "τεταγμέναι",
+          "lemma": "τάσσω",
+          "strongs": "G5021",
+          "english_gloss": "appointed / ordered",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "Rom.13.1-7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Evaluated as a recorded passage in the store, while flagged for structural disruption and beneficiary analysis."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Requires careful contextual comparison with broader scriptural witness regarding obedience to God over human rulers."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Provides political and institutional leverage for governing powers and state-aligned structures demanding submission."
+        },
+        "4": {
+          "status": "FAIL",
+          "rationale": "Interrupts the surrounding discourse on love and overcoming evil with good between Romans 12:21 and Romans 13:8."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Present across extant Greek manuscripts of Romans, though subject to scholarly interpolation and structural debate."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Addresses civic order and tax obligations, though subject to scrutiny where unconditional submission is claimed."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Evaluated against the multi-witness living-word standard with attention to liberty and truth."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Appears within the Pauline corpus without citing non-canonical or pseudepigraphal texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Requires discernment so that earthly authorities are not equated uncritically with the character of God revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Evaluated against peace and love while guarding against coercive power dynamics."
+        }
+      }
+    },
+    {
+      "reference": "2 Timothy 3:16–17",
+      "greek_reference": "Πρὸς Τιμόθεον Β 3:16–17",
+      "verse_anchor": "2Tim.3.16-17",
+      "greek_text": "Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος.",
+      "english_translation": "All Scripture is God-breathed and profitable for teaching, for reproof, for correction, for training in righteousness, so that the person of God may be complete, equipped for every good work.",
+      "morphology": [
+        {
+          "surface_form": "γραφή",
+          "lemma": "γραφή",
+          "strongs": "G1124",
+          "english_gloss": "Scripture / writing",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "2Tim.3.16-17"
+        },
+        {
+          "surface_form": "θεόπνευστος",
+          "lemma": "θεόπνευστος",
+          "strongs": "G2315",
+          "english_gloss": "God-breathed",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "2Tim.3.16-17"
+        },
+        {
+          "surface_form": "ὠφέλιμος",
+          "lemma": "ὠφέλιμος",
+          "strongs": "G5624",
+          "english_gloss": "profitable / useful",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "2Tim.3.16-17"
+        },
+        {
+          "surface_form": "δικαιοσύνῃ",
+          "lemma": "δικαιοσύνη",
+          "strongs": "G1343",
+          "english_gloss": "righteousness",
+          "source_file": "store/nt/paul.json",
+          "verse_anchor": "2Tim.3.16-17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the functional pattern by which authentic Scripture operates for instruction, reproof, correction, and righteousness."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns with the framework's core standard that authentic Scripture is profitable and consistent with God's character."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Equips believers for every good work rather than serving coercive political or institutional control."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a clear, cohesive doctrinal conclusion in 2 Timothy 3."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Attested across Greek New Testament manuscripts and early Christian quotation."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Directly defines the four purposes of teaching, reproof, correction, and training in righteousness."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Serves as Witness 4 in the multi-witness living-word standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Stands within apostolic instruction without relying on non-canonical or pseudepigraphal sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Aligns with the righteous, restorative character of God revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Produces righteousness and equipment for good works aligned with the fruit of the Spirit."
+        }
+      }
+    }
+  ]
+}
