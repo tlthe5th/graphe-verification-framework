@@ -32,7 +32,7 @@ STORE_DIRS = [REPO_ROOT / "store" / "lxx", REPO_ROOT / "store" / "nt"]
 # Greek & Coptic (U+0370-U+03FF) and Greek Extended (U+1F00-U+1FFF),
 # plus numbers, whitespace, and standard punctuation used in Greek text/excerpts.
 GREEK_FIELD_PATTERN = re.compile(
-    r"^[\u0370-\u03FF\u1F00-\u1FFF0-9\s.,;·'’\"“”\-—()\[\]]+$"
+    r"^[\u0370-\u03FF\u1F00-\u1FFF0-9\s.,;:·'’\"“”\-–—()\[\]]+$"
 )
 
 # Stricter pattern for Greek morphological surface_form and lemma tokens.
