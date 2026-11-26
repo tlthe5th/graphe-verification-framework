@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Γραφή (Graphē) Verification Framework</title>
+  <style>
+    :root {
+      --bg: #0f131a;
+      --panel: #171d27;
+      --panel-2: #1e2633;
+      --text: #eef2f7;
+      --muted: #9aa7b8;
+      --border: #2c3748;
+      --pass: #22c55e;
+      --pass-bg: rgba(34, 197, 94, 0.14);
+      --fail: #ef4444;
+      --fail-bg: rgba(239, 68, 68, 0.14);
+      --accent: #60a5fa;
+      --accent-bg: rgba(96, 165, 250, 0.14);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+
+    header {
+      margin-bottom: 1.75rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1.25rem;
+    }
+
+    header h1 {
+      margin: 0 0 0.35rem;
+      font-size: 1.65rem;
+      letter-spacing: 0.01em;
+    }
+
+    header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .attribution {
+      margin-top: 0.5rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    form.verify-form {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    form.verify-form input[type="text"] {
+      flex: 1 1 320px;
+      padding: 0.75rem 0.95rem;
+      font-size: 1rem;
+      color: var(--text);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    form.verify-form input[type="text"]:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+
+    form.verify-form button {
+      padding: 0.75rem 1.25rem;
+      font-size: 1rem;
+      font-weight: 600;
+      color: #0b111a;
+      background: var(--accent);
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    form.verify-form button:hover {
+      filter: brightness(1.06);
+    }
+
+    .samples {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.75rem;
+      align-items: center;
+    }
+
+    .samples span {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-right: 0.25rem;
+    }
+
+    .sample-chip {
+      background: var(--panel-2);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.3rem 0.75rem;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+
+    .sample-chip:hover {
+      border-color: var(--accent);
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .card h2 {
+      margin: 0 0 0.85rem;
+      font-size: 1.15rem;
+    }
+
+    .verdict-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.7rem;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    .badge-pass {
+      color: var(--pass);
+      background: var(--pass-bg);
+      border: 1px solid rgba(34, 197, 94, 0.35);
+    }
+
+    .badge-fail {
+      color: var(--fail);
+      background: var(--fail-bg);
+      border: 1px solid rgba(239, 68, 68, 0.35);
+    }
+
+    .badge-info {
+      color: var(--accent);
+      background: var(--accent-bg);
+      border: 1px solid rgba(96, 165, 250, 0.35);
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .meta-item {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.65rem 0.8rem;
+    }
+
+    .meta-label {
+      display: block;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+    }
+
+    .meta-value {
+      font-weight: 600;
+      word-break: break-word;
+    }
+
+    .greek-box {
+      background: var(--panel-2);
+      border-left: 4px solid var(--accent);
+      border-radius: 6px;
+      padding: 0.9rem 1rem;
+      font-size: 1.15rem;
+      margin-bottom: 1rem;
+    }
+
+    ul.clean-list {
+      margin: 0.4rem 0 0;
+      padding-left: 1.25rem;
+    }
+
+    ul.clean-list li {
+      margin-bottom: 0.35rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.92rem;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 0.6rem 0.65rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+
+    th {
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    pre.json-out {
+      margin: 0;
+      padding: 0.9rem;
+      background: #0b0e14;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 0.82rem;
+      color: #dbeafe;
+    }
+
+    .error-banner {
+      background: var(--fail-bg);
+      border: 1px solid rgba(239, 68, 68, 0.45);
+      color: #fecaca;
+      padding: 0.9rem 1rem;
+      border-radius: 8px;
+      margin-bottom: 1.25rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Γραφή (Graphē) Verification Framework</h1>
+      <p>Fail-closed, citation-enforced scripture verification engine across LXX and NT stores using a 10-point audit.</p>
+      <div class="attribution">
+        Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) &middot; Strict NFC &middot; Exclusions Checked First
+      </div>
+    </header>
+
+    <form class="verify-form" method="post" action="/verify">
+      <input
+        type="text"
+        id="reference-input"
+        name="reference"
+        value="{{ query or '' }}"
+        placeholder="Enter English or Greek reference (e.g., John 6:63 or Ἰωάννης 6:63)"
+        required
+      />
+      <button type="submit">Verify Passage</button>
+    </form>
+
+    <div class="samples" aria-label="Sample queries">
+      <span>Samples:</span>
+      <button type="button" class="sample-chip" data-ref="John 6:63">John 6:63</button>
+      <button type="button" class="sample-chip" data-ref="2 Timothy 3:16-17">2 Timothy 3:16-17</button>
+      <button type="button" class="sample-chip" data-ref="Hebrews 4:12">Hebrews 4:12 (Excluded)</button>
+      <button type="button" class="sample-chip" data-ref="John 7:53-8:11">John 7:53-8:11 (Excluded)</button>
+      <button type="button" class="sample-chip" data-ref="Deuteronomy 20:16-18">Deut 20:16-18 (Fail)</button>
+    </div>
+
+    {% if error_message %}
+      <div class="error-banner" role="alert">
+        <strong>Error:</strong> {{ error_message }}
+      </div>
+    {% endif %}
+
+    {% if analysis %}
+      <section class="card" aria-label="Verification Summary">
+        <div class="verdict-row">
+          <div>
+            <h2 style="margin: 0;">{{ analysis.normalized_reference }}</h2>
+            <small style="color: var(--muted);">Query: {{ analysis.query }} &middot; Anchor: {{ analysis.verse_anchor }}</small>
+          </div>
+          <div>
+            {% if analysis.overall_verdict == "PASS" %}
+              <span class="badge badge-pass">VERDICT: PASS</span>
+            {% else %}
+              <span class="badge badge-fail">VERDICT: FAIL</span>
+            {% endif %}
+            {% if analysis.excluded %}
+              <span class="badge badge-fail">EXCLUDED</span>
+            {% endif %}
+            <span class="badge badge-info">CORPUS: {{ analysis.corpus|upper }}</span>
+          </div>
+        </div>
+
+        <div class="greek-box" lang="el">{{ analysis.greek_text }}</div>
+
+        <div class="meta-grid">
+          <div class="meta-item">
+            <span class="meta-label">Source File</span>
+            <span class="meta-value">{{ analysis.source_file }}</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Failed Criteria</span>
+            <span class="meta-value">
+              {% if analysis.failed_criteria %}
+                {{ analysis.failed_criteria | join(", ") }}
+              {% else %}
+                None
+              {% endif %}
+            </span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Schema Version</span>
+            <span class="meta-value">{{ analysis.schema_version }}</span>
+          </div>
+        </div>
+
+        {% if analysis.failure_reasons %}
+          <div>
+            <strong>Failure / Gate Reasons:</strong>
+            <ul class="clean-list">
+              {% for reason in analysis.failure_reasons %}
+                <li>{{ reason }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </section>
+
+      <section class="card" aria-label="Citations">
+        <h2>Citations</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>File</th>
+              <th>Anchor</th>
+              <th>Greek Excerpt</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for cite in analysis.citations %}
+              <tr>
+                <td>{{ cite.file }}</td>
+                <td>{{ cite.anchor }}</td>
+                <td lang="el">{{ cite.greek_excerpt }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </section>
+
+      <section class="card" aria-label="Morphology">
+        <h2>Morphology</h2>
+        {% if analysis.morphology %}
+          <table>
+            <thead>
+              <tr>
+                <th>Surface Form</th>
+                <th>Lemma</th>
+                <th>Strongs</th>
+                <th>English Gloss</th>
+                <th>Anchor</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for m in analysis.morphology %}
+                <tr>
+                  <td lang="el">{{ m.surface_form }}</td>
+                  <td lang="el">{{ m.lemma }}</td>
+                  <td>{{ m.strongs }}</td>
+                  <td>{{ m.english_gloss }}</td>
+                  <td>{{ m.verse_anchor }}</td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        {% else %}
+          <p style="color: var(--muted); margin: 0;">No morphological tokens recorded for this gate/exclusion result.</p>
+        {% endif %}
+      </section>
+
+      <section class="card" aria-label="10-Point Criteria Evaluations">
+        <h2>10-Point Criteria Evaluations</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Criterion</th>
+              <th>Status</th>
+              <th>Rationale</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in analysis.criteria_evaluations %}
+              <tr>
+                <td>{{ item.criterion_id }}</td>
+                <td><strong>{{ item.criterion_name }}</strong></td>
+                <td>
+                  {% if item.status == "PASS" %}
+                    <span class="badge badge-pass">PASS</span>
+                  {% else %}
+                    <span class="badge badge-fail">FAIL</span>
+                  {% endif %}
+                </td>
+                <td>{{ item.rationale }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </section>
+
+      <section class="card" aria-label="Validated JSON Payload">
+        <h2>Validated JSON Payload</h2>
+        <pre class="json-out">{{ analysis | tojson(indent=2) }}</pre>
+      </section>
+    {% endif %}
+  </div>
+
+  <script>
+    (function () {
+      const input = document.getElementById("reference-input");
+      const chips = document.querySelectorAll(".sample-chip");
+      chips.forEach((chip) => {
+        chip.addEventListener("click", () => {
+          if (!input) return;
+          input.value = chip.getAttribute("data-ref") || "";
+          input.focus();
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
