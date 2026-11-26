@@ -1,0 +1,166 @@
+{
+  "corpus": "lxx",
+  "book_english": "1 Samuel",
+  "book_greek": "Βασιλειῶν Α",
+  "source_file": "store/lxx/1_samuel.json",
+  "passages": [
+    {
+      "reference": "1 Samuel 15:3",
+      "greek_reference": "Βασιλειῶν Α 15:3",
+      "verse_anchor": "1Sam.15.3",
+      "greek_text": "Νῦν δὲ πορεύου καὶ πάταξον τὸν Ἀμαλὴκ καὶ ἐξολόθρευσον πάντα τὰ αὐτοῦ καὶ οὐ περιποιήσῃ ἐξ αὐτοῦ καὶ ἀποκτενεῖς ἀπὸ ἀνδρὸς καὶ ἕως γυναικός, καὶ ἀπὸ νηπίου καὶ ἕως θηλάζοντος.",
+      "english_translation": "Now go and strike Amalek and utterly destroy all that belongs to him, and you shall spare nothing from him, and you shall kill from man to woman, and from infant to nursing child.",
+      "morphology": [
+        {
+          "surface_form": "πάταξον",
+          "lemma": "πατάσσω",
+          "strongs": "G3960",
+          "english_gloss": "strike",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.3"
+        },
+        {
+          "surface_form": "ἐξολόθρευσον",
+          "lemma": "ἐξολοθρεύω",
+          "strongs": "G1842",
+          "english_gloss": "utterly destroy",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.3"
+        },
+        {
+          "surface_form": "ἀποκτενεῖς",
+          "lemma": "ἀποκτείνω",
+          "strongs": "G615",
+          "english_gloss": "you shall kill",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.3"
+        },
+        {
+          "surface_form": "νηπίου",
+          "lemma": "νήπιος",
+          "strongs": "G3516",
+          "english_gloss": "infant",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the broader internal witness of the book where identical infant-killing language is treated as an atrocity when carried out without divine sanction."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Creates tension with scriptural principles of individual accountability and mercy toward children."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Serves total conquest and elimination of adversaries rather than restorative truth."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Appears within the Saul and Amalek sequence in 1 Samuel 15 without a structural gap."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Present in standard LXX manuscripts, though evaluated critically on coherence and character criteria."
+        },
+        "6": {
+          "status": "FAIL",
+          "rationale": "Fails constructive alignment with training in righteousness as recorded when commanding the death of infants and nursing children."
+        },
+        "7": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the life-giving spirit and truth standard of the multi-witness test."
+        },
+        "8": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the teaching and saving mission of Jesus Christ regarding little ones and mercy."
+        },
+        "9": {
+          "status": "FAIL",
+          "rationale": "Attributes destructive and murderous acts to God that contradict the character of God the Father revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "FAIL",
+          "rationale": "Reflects works of hostility and bloodshed rather than the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "1 Samuel 15:22",
+      "greek_reference": "Βασιλειῶν Α 15:22",
+      "verse_anchor": "1Sam.15.22",
+      "greek_text": "Ἰδοὺ ἀκοὴ ὑπὲρ θυσίαν ἀγαθή, καὶ τὸ εἰσακούειν ὑπὲρ στέαρ κριῶν.",
+      "english_translation": "Behold, obedience is better than sacrifice, and hearkening is better than the fat of rams.",
+      "morphology": [
+        {
+          "surface_form": "ἀκοὴ",
+          "lemma": "ἀκοή",
+          "strongs": "G189",
+          "english_gloss": "obedience / hearing",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.22"
+        },
+        {
+          "surface_form": "θυσίαν",
+          "lemma": "θυσία",
+          "strongs": "G2378",
+          "english_gloss": "sacrifice",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.22"
+        },
+        {
+          "surface_form": "εἰσακούειν",
+          "lemma": "εἰσακούω",
+          "strongs": "G1522",
+          "english_gloss": "to hearken",
+          "source_file": "store/lxx/1_samuel.json",
+          "verse_anchor": "1Sam.15.22"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Aligns with the recurring prophetic pattern prioritizing faithful obedience and listening over ritual form alone."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Harmonizes with broader scriptural teaching on wholehearted devotion and obedience."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Exalts faithful obedience to God rather than serving self-serving institutional or political interests."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a clear, cohesive theological statement within 1 Samuel 15."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Well attested in Septuagint witnesses and echoed across the prophetic and apostolic tradition."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Directly serves teaching, reproof, correction, and training in righteousness under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Aligns with life-giving truth and active faith under the multi-witness standard without relying on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Consistent with Jesus Christ's teaching that mercy and obedience matter more than ritual sacrifice, without citing non-canonical texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Reflects the character of God seeking faithful relationship rather than attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Supports faithfulness and obedience aligned with the fruit of the Spirit."
+        }
+      }
+    }
+  ]
+}
