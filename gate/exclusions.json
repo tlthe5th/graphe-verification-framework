@@ -1,0 +1,140 @@
+{
+  "gate_name": "Γραφή (Graphē) Exclusions Gate",
+  "version": "1.0.0",
+  "evaluation_order": "FIRST — checked before loading or evaluating any passage against the 10 criteria.",
+  "fail_closed": true,
+  "excluded_books": [
+    {
+      "book_english": "Song of Solomon",
+      "book_greek": "Ἆσμα Ἀσμάτων",
+      "corpus": "lxx",
+      "source_file": "store/lxx/song_of_solomon.json",
+      "failed_criteria": [5, 6, 7, 8],
+      "reason": "Excluded from scripture verification basis: composition dated centuries after Solomon with historical debates over canonicity, fails the 2 Timothy 3:16–17 and multi-witness living-word tests, and is never cited by Ἰησοῦς Χριστός or the apostles."
+    },
+    {
+      "book_english": "Jude",
+      "book_greek": "Ἰούδα",
+      "corpus": "nt",
+      "source_file": "store/nt/jude.json",
+      "failed_criteria": [2, 5, 8],
+      "reason": "Excluded from scripture verification basis: treated as non-authoritative/disputed and cites non-canonical/pseudepigraphal writings (such as 1 Enoch and the Assumption of Moses) as authoritative while creating doctrinal friction with apostolic teaching."
+    },
+    {
+      "book_english": "James",
+      "book_greek": "Ἰακώβου",
+      "corpus": "nt",
+      "source_file": "store/nt/james.json",
+      "failed_criteria": [5, 8],
+      "reason": "Excluded from scripture verification basis per project canonical exclusion rule for scripture verification."
+    },
+    {
+      "book_english": "Hebrews",
+      "book_greek": "Πρὸς Ἑβραίους",
+      "corpus": "nt",
+      "source_file": "store/nt/hebrews.json",
+      "failed_criteria": [5, 7, 8],
+      "reason": "Excluded from scripture verification basis: disputed authorship/reception and excluded from serving as an authoritative basis or circular measuring standard in verification."
+    },
+    {
+      "book_english": "Revelation",
+      "book_greek": "Ἀποκάλυψις Ἰωάννου",
+      "corpus": "nt",
+      "source_file": "store/nt/revelation.json",
+      "failed_criteria": [5, 7, 8],
+      "reason": "Excluded from scripture verification basis per project canonical exclusion rule for scripture verification."
+    }
+  ],
+  "excluded_passages": [
+    {
+      "reference": "Genesis 9:20–27",
+      "greek_reference": "Γένεσις 9:20–27",
+      "corpus": "lxx",
+      "source_file": "store/lxx/genesis.json",
+      "verse_anchor": "Gen.9.20-27",
+      "failed_criteria": [1, 2, 3, 9, 10],
+      "reason": "Excluded/fails verification: breaks pattern and coherence, lacks rebuke of Noah's drunkenness/exposure, and has been used to justify subjugation/servitude without warrant."
+    },
+    {
+      "reference": "Genesis 19:6–8",
+      "greek_reference": "Γένεσις 19:6–8",
+      "corpus": "lxx",
+      "source_file": "store/lxx/genesis.json",
+      "verse_anchor": "Gen.19.6-8",
+      "failed_criteria": [1, 2, 3, 9, 10],
+      "reason": "Excluded/fails verification: Lot offering his daughters to a mob breaks narrative pattern and coherence and conflicts with righteousness/mercy standards."
+    },
+    {
+      "reference": "Genesis 19:30–38",
+      "greek_reference": "Γένεσις 19:30–38",
+      "corpus": "lxx",
+      "source_file": "store/lxx/genesis.json",
+      "verse_anchor": "Gen.19.30-38",
+      "failed_criteria": [1, 2, 3, 9, 10],
+      "reason": "Excluded/fails verification: incest narrative exhibits implausibility, pattern/coherence failures, and polemical origin framing."
+    },
+    {
+      "reference": "Deuteronomy 7:1–2, 16",
+      "greek_reference": "Δευτερονόμιον 7:1–2, 16",
+      "corpus": "lxx",
+      "source_file": "store/lxx/deuteronomy.json",
+      "verse_anchor": "Deut.7.1-2,16",
+      "failed_criteria": [9, 10],
+      "reason": "Excluded/fails verification: commands utter destruction without mercy, conflicting with the character of Θεὸς Πατήρ revealed in Ἰησοῦς Χριστός and the fruit of πνεῦμα ἅγιον."
+    },
+    {
+      "reference": "Deuteronomy 20:16–18",
+      "greek_reference": "Δευτερονόμιον 20:16–18",
+      "corpus": "lxx",
+      "source_file": "store/lxx/deuteronomy.json",
+      "verse_anchor": "Deut.20.16-18",
+      "failed_criteria": [9, 10],
+      "reason": "Excluded/fails verification: commands killing everything breathing without mercy, conflicting with Ἰησοῦς Χριστός character (Luke 9:55–56) and πνεῦμα fruit."
+    },
+    {
+      "reference": "1 Samuel 15:3",
+      "greek_reference": "Βασιλειῶν Α 15:3",
+      "corpus": "lxx",
+      "source_file": "store/lxx/1_samuel.json",
+      "verse_anchor": "1Sam.15.3",
+      "failed_criteria": [9, 10],
+      "reason": "Excluded/fails verification: attributes indiscriminate killing of men, women, children, and infants to Θεός, failing Χριστός character match and πνεῦμα fruit tests."
+    },
+    {
+      "reference": "John 7:53–8:11",
+      "greek_reference": "Ἰωάννης 7:53–8:11",
+      "corpus": "nt",
+      "source_file": "store/nt/gospels.json",
+      "verse_anchor": "John.7.53-8.11",
+      "failed_criteria": [4, 5],
+      "reason": "Excluded/fails verification: Pericope Adulterae is absent from earliest Greek witnesses and disrupts surrounding narrative/structural flow."
+    },
+    {
+      "reference": "Mark 16:9–20",
+      "greek_reference": "Μάρκος 16:9–20",
+      "corpus": "nt",
+      "source_file": "store/nt/gospels.json",
+      "verse_anchor": "Mark.16.9-20",
+      "failed_criteria": [4, 5],
+      "reason": "Excluded/fails verification: Long Ending of Mark is absent from earliest manuscripts and exhibits distinct vocabulary/style and structural seam."
+    },
+    {
+      "reference": "Romans 13:1–7",
+      "greek_reference": "Πρὸς Ῥωμαίους 13:1–7",
+      "corpus": "nt",
+      "source_file": "store/nt/paul.json",
+      "verse_anchor": "Rom.13.1-7",
+      "failed_criteria": [3, 4],
+      "reason": "Excluded/fails verification: interrupts the surrounding discourse on love/non-retaliation and serves political/institutional authority interests."
+    },
+    {
+      "reference": "1 John 5:7–8",
+      "greek_reference": "Ἰωάννου Α 5:7–8",
+      "corpus": "nt",
+      "source_file": "store/nt/john_letters.json",
+      "verse_anchor": "1John.5.7-8",
+      "failed_criteria": [5],
+      "reason": "Excluded/fails verification: Johannine Comma is a late textual addition absent from early Greek manuscripts."
+    }
+  ]
+}
