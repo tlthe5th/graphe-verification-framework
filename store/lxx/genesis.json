@@ -1,0 +1,252 @@
+{
+  "corpus": "lxx",
+  "book_english": "Genesis",
+  "book_greek": "Γένεσις",
+  "source_file": "store/lxx/genesis.json",
+  "passages": [
+    {
+      "reference": "Genesis 1:1",
+      "greek_reference": "Γένεσις 1:1",
+      "verse_anchor": "Gen.1.1",
+      "greek_text": "Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.",
+      "english_translation": "In the beginning God made the heaven and the earth.",
+      "morphology": [
+        {
+          "surface_form": "Ἐν",
+          "lemma": "ἐν",
+          "strongs": "G1722",
+          "english_gloss": "in",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        },
+        {
+          "surface_form": "ἀρχῇ",
+          "lemma": "ἀρχή",
+          "strongs": "G746",
+          "english_gloss": "beginning",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        },
+        {
+          "surface_form": "ἐποίησεν",
+          "lemma": "ποιέω",
+          "strongs": "G4160",
+          "english_gloss": "made",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        },
+        {
+          "surface_form": "θεὸς",
+          "lemma": "θεός",
+          "strongs": "G2316",
+          "english_gloss": "God",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        },
+        {
+          "surface_form": "οὐρανὸν",
+          "lemma": "οὐρανός",
+          "strongs": "G3772",
+          "english_gloss": "heaven",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        },
+        {
+          "surface_form": "γῆν",
+          "lemma": "γῆ",
+          "strongs": "G1093",
+          "english_gloss": "earth",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes orderly creative origination by God in Genesis 1:1, consistent with broader scriptural witness to ordered creation."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns with the opening creative testimony of scripture without introducing internal contradiction."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Asserts God's creative sovereignty rather than serving self-serving political, institutional, or coercive interests."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms the foundational opening clause of the Genesis creation account with intact structural flow."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Attested across Septuagint manuscript witnesses as the opening statement of Genesis."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Supports foundational teaching on God as creator in alignment with 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Harmonizes with life-giving truth and ordered revelation without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Consistent with apostolic and Gospel witness to God as maker of heaven and earth without relying on non-canonical sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Presents God's ordered creative act without attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Consistent with truth and order rather than works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Genesis 9:20–27",
+      "greek_reference": "Γένεσις 9:20–27",
+      "verse_anchor": "Gen.9.20-27",
+      "greek_text": "Καὶ ἤρξατο Νῶε ἄνθρωπος γῆς ἐργάζεσθαι καὶ ἐφύτευσεν ἀμπελῶνα· καὶ ἔπιεν ἐκ τοῦ οἴνου καὶ ἐμεθύσθη καὶ ἐγυμνώθη ἐν τῷ οἴκῳ αὐτοῦ.",
+      "english_translation": "And Noah began to be a tiller of the soil, and planted a vineyard; and he drank of the wine and became drunk and lay uncovered in his tent.",
+      "morphology": [
+        {
+          "surface_form": "Νῶε",
+          "lemma": "Νῶε",
+          "strongs": "G3575",
+          "english_gloss": "Noah",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.9.20-27"
+        },
+        {
+          "surface_form": "οἴνου",
+          "lemma": "οἶνος",
+          "strongs": "G3631",
+          "english_gloss": "wine",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.9.20-27"
+        },
+        {
+          "surface_form": "ἐμεθύσθη",
+          "lemma": "μεθύσκω",
+          "strongs": "G3182",
+          "english_gloss": "became drunk",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.9.20-27"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "FAIL",
+          "rationale": "Breaks expected narrative pattern by pronouncing a curse on Canaan without recorded rebuke of Noah's drunkenness or direct wrongdoing by Canaan."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Creates tension with scriptural principles of justice and accountability regarding unaddressed intoxication and shifting a curse onto descendants."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Has historically been leveraged to justify subjugation and servitude over Canaanite or other groups rather than serving truth alone."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Sits within the post-flood family sequence of Genesis 9 without a standalone syntactic seam."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Present in standard LXX manuscripts, though evaluated critically by the framework on internal and ethical criteria."
+        },
+        "6": {
+          "status": "FAIL",
+          "rationale": "Fails constructive alignment under 2 Timothy 3:16-17 as recorded because it shifts condemnation onto a non-acting descendant without rebuke of the primary actor."
+        },
+        "7": {
+          "status": "FAIL",
+          "rationale": "Does not exhibit life-giving freedom and truth under the multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Does not cite non-canonical or pseudepigraphal texts."
+        },
+        "9": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the fatherly mercy and justice revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "FAIL",
+          "rationale": "Reflects strife and subjugation rather than the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "Genesis 19:6–8",
+      "greek_reference": "Γένεσις 19:6–8",
+      "verse_anchor": "Gen.19.6-8",
+      "greek_text": "Λὼτ δὲ ἐξῆλθεν πρὸς αὐτοὺς ἐπὶ τὸν προθύρῳ καὶ τὴν θύραν ἀπέκλεισεν ὀπίσω αὐτοῦ.",
+      "english_translation": "And Lot went out to them to the doorway and shut the door behind him.",
+      "morphology": [
+        {
+          "surface_form": "Λὼτ",
+          "lemma": "Λώτ",
+          "strongs": "G3091",
+          "english_gloss": "Lot",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.19.6-8"
+        },
+        {
+          "surface_form": "θύραν",
+          "lemma": "θύρα",
+          "strongs": "G2374",
+          "english_gloss": "door",
+          "source_file": "store/lxx/genesis.json",
+          "verse_anchor": "Gen.19.6-8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "FAIL",
+          "rationale": "Depicts Lot offering his daughters to a crowd with no recorded rebuke or consequence within the narrative."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Creates acute tension with characterizations of Lot elsewhere and with standards of protecting the vulnerable."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Contributes to polemical origin framing against neighboring peoples in the surrounding narrative arc."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms part of the continuous Sodom scene in Genesis 19."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Attested in LXX witnesses, though flagged by the framework on internal and character criteria."
+        },
+        "6": {
+          "status": "FAIL",
+          "rationale": "Fails to model sound training in righteousness by offering vulnerable daughters to a violent crowd."
+        },
+        "7": {
+          "status": "FAIL",
+          "rationale": "Fails the multi-witness living-word standard due to coercion and harm against the vulnerable."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Contains no citation of non-canonical sources."
+        },
+        "9": {
+          "status": "FAIL",
+          "rationale": "Violates the protective, life-preserving character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "FAIL",
+          "rationale": "Exhibits harm and works of the flesh rather than love, peace, or gentleness."
+        }
+      }
+    }
+  ]
+}
+```[cite: 5, 9]
+
+NEXT FILE: store/lxx/deuteronomy.json
