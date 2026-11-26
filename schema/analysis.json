@@ -1,0 +1,251 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://graphe-verification-framework.local/schema/analysis.json",
+  "title": "GrapheVerificationAnalysis",
+  "description": "Strict schema for fail-closed, citation-enforced verification readouts under the 10-point Γραφή (Graphē) Verification Framework.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "query",
+    "normalized_reference",
+    "corpus",
+    "source_file",
+    "verse_anchor",
+    "greek_text",
+    "excluded",
+    "overall_verdict",
+    "failed_criteria",
+    "failure_reasons",
+    "citations",
+    "morphology",
+    "criteria_evaluations"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "query": {
+      "type": "string",
+      "minLength": 1
+    },
+    "normalized_reference": {
+      "type": "string",
+      "minLength": 1
+    },
+    "corpus": {
+      "type": "string",
+      "enum": ["lxx", "nt", "excluded_unknown"]
+    },
+    "source_file": {
+      "type": "string",
+      "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+    },
+    "verse_anchor": {
+      "type": "string",
+      "minLength": 1
+    },
+    "greek_text": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;·'’\"“”\\-—()\\[\\]]+$"
+    },
+    "excluded": {
+      "type": "boolean"
+    },
+    "overall_verdict": {
+      "type": "string",
+      "enum": ["PASS", "FAIL"]
+    },
+    "failed_criteria": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 10
+      },
+      "uniqueItems": true
+    },
+    "failure_reasons": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "citations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["file", "anchor", "greek_excerpt"],
+        "properties": {
+          "file": {
+            "type": "string",
+            "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+          },
+          "anchor": {
+            "type": "string",
+            "minLength": 1
+          },
+          "greek_excerpt": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;·'’\"“”\\-—()\\[\\]]+$"
+          }
+        }
+      }
+    },
+    "morphology": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "surface_form",
+          "lemma",
+          "strongs",
+          "english_gloss",
+          "source_file",
+          "verse_anchor"
+        ],
+        "properties": {
+          "surface_form": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF'’\\-]+$"
+          },
+          "lemma": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF'’\\-]+$"
+          },
+          "strongs": {
+            "type": "string",
+            "pattern": "^(G|H)?[0-9]{1,5}$"
+          },
+          "english_gloss": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_file": {
+            "type": "string",
+            "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$"
+          },
+          "verse_anchor": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "criteria_evaluations": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "criterion_id",
+          "criterion_name",
+          "status",
+          "rationale",
+          "citations"
+        ],
+        "properties": {
+          "criterion_id": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10
+          },
+          "criterion_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": ["PASS", "FAIL"]
+          },
+          "rationale": {
+            "type": "string",
+            "minLength": 1
+          },
+          "citations": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["file", "anchor", "greek_excerpt"],
+              "properties": {
+                "file": {
+                  "type": "string",
+                  "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+                },
+                "anchor": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "greek_excerpt": {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;·'’\"“”\\-—()\\[\\]]+$"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "overall_verdict": { "const": "FAIL" }
+        },
+        "required": ["overall_verdict"]
+      },
+      "then": {
+        "minProperties": 1,
+        "properties": {
+          "failed_criteria": { "minItems": 1 },
+          "failure_reasons": { "minItems": 1 }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "overall_verdict": { "const": "PASS" }
+        },
+        "required": ["overall_verdict"]
+      },
+      "then": {
+        "properties": {
+          "excluded": { "const": false },
+          "failed_criteria": { "maxItems": 0 },
+          "failure_reasons": { "maxItems": 0 }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "excluded": { "const": true }
+        },
+        "required": ["excluded"]
+      },
+      "then": {
+        "properties": {
+          "overall_verdict": { "const": "FAIL" },
+          "failed_criteria": { "minItems": 1 },
+          "failure_reasons": { "minItems": 1 }
+        }
+      }
+    }
+  ]
+}
