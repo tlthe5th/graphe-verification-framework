@@ -1,0 +1,180 @@
+{
+  "corpus": "nt",
+  "books_covered": [
+    "1 Peter",
+    "2 Peter"
+  ],
+  "books_greek": [
+    "Πέτρου Α",
+    "Πέτρου Β"
+  ],
+  "source_file": "store/nt/peter.json",
+  "passages": [
+    {
+      "reference": "1 Peter 3:15",
+      "greek_reference": "Πέτρου Α 3:15",
+      "verse_anchor": "1Pet.3.15",
+      "greek_text": "κύριον δὲ τὸν χριστὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν, ἕτοιμοι ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος ἀλλὰ μετὰ πραΰτητος καὶ φόβου,",
+      "english_translation": "But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you a reason for the hope that is in you, yet with gentleness and reverence.",
+      "morphology": [
+        {
+          "surface_form": "ἁγιάσατε",
+          "lemma": "ἁγιάζω",
+          "strongs": "G37",
+          "english_gloss": "sanctify / set apart as holy",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "1Pet.3.15"
+        },
+        {
+          "surface_form": "ἀπολογίαν",
+          "lemma": "ἀπολογία",
+          "strongs": "G627",
+          "english_gloss": "defense / reasoned answer",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "1Pet.3.15"
+        },
+        {
+          "surface_form": "λόγον",
+          "lemma": "λόγος",
+          "strongs": "G3056",
+          "english_gloss": "reason / word / account",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "1Pet.3.15"
+        },
+        {
+          "surface_form": "πραΰτητος",
+          "lemma": "πραΰτης",
+          "strongs": "G4240",
+          "english_gloss": "gentleness / meekness",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "1Pet.3.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the consistent pattern of giving a reasoned defense with gentleness and reverence rather than harshness or coercion."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns with the framework's requirement for reasoned accountability and peaceful witness across scripture."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Encourages transparent, reasoned answers in gentleness rather than coercive institutional authority or silencing questions."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Fits naturally within the 1 Peter 3 exhortation on steadfastness and godly conduct under pressure."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Well attested across Greek New Testament manuscript witnesses for 1 Peter."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Supports sound teaching and training in righteousness by pairing reasoned defense with gentleness under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Reflects life-giving truth and active witness under the multi-witness standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Stands within apostolic instruction centered on Christ as Lord without relying on non-canonical sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Aligns with the character of God the Father and Jesus Christ through gentleness and truth."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Explicitly embodies gentleness and reverence in harmony with the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "2 Peter 2:7–8",
+      "greek_reference": "Πέτρου Β 2:7–8",
+      "verse_anchor": "2Pet.2.7-8",
+      "greek_text": "καὶ δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐρρύσατο· βλέμματι γὰρ καὶ ἀκοῇ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν,",
+      "english_translation": "And He rescued righteous Lot, oppressed by the lawless conduct of the unprincipled; for by what he saw and heard while living among them, that righteous man was tormenting his righteous soul day after day by the lawless deeds he saw and heard.",
+      "morphology": [
+        {
+          "surface_form": "δίκαιον",
+          "lemma": "δίκαιος",
+          "strongs": "G1342",
+          "english_gloss": "righteous",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "2Pet.2.7-8"
+        },
+        {
+          "surface_form": "ἐρρύσατο",
+          "lemma": "ῥύομαι",
+          "strongs": "G4506",
+          "english_gloss": "rescued / delivered",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "2Pet.2.7-8"
+        },
+        {
+          "surface_form": "ἀνόμοις",
+          "lemma": "ἄνομος",
+          "strongs": "G459",
+          "english_gloss": "lawless",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "2Pet.2.7-8"
+        },
+        {
+          "surface_form": "ἐβασάνιζεν",
+          "lemma": "βασανίζω",
+          "strongs": "G928",
+          "english_gloss": "tormented / distressed",
+          "source_file": "store/nt/peter.json",
+          "verse_anchor": "2Pet.2.7-8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Evaluated as a recorded verse in the store, while noted for creating narrative tension when compared against Genesis 19:6-8."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Creates notable narrative tension with Genesis 19:6-8, where Lot offers his daughters to a mob without recorded rebuke."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Highlights divine deliverance and distress over lawlessness rather than serving political or institutional coercion."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a continuous part of the 2 Peter 2 contrast between judgment on the lawless and rescue of the righteous."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Present in Greek manuscripts of 2 Peter, though flagged for internal narrative tension with Genesis 19."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Distinguishes lawless deeds from righteousness, though requiring careful cross-examination alongside Genesis 19."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Evaluated against the multi-witness living-word standard with attention to truth and inner integrity."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Does not cite non-canonical or pseudepigraphal texts in these verses."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Portrays deliverance from lawless deeds without attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Contrasts lawless deeds with righteousness, though tension with Genesis 19 remains noted."
+        }
+      }
+    }
+  ]
+}
