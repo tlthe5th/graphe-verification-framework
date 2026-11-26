@@ -1,0 +1,91 @@
+{
+  "corpus": "nt",
+  "book_english": "Acts",
+  "book_greek": "Πράξεις Ἀποστόλων",
+  "source_file": "store/nt/acts.json",
+  "passages": [
+    {
+      "reference": "Acts 17:11",
+      "greek_reference": "Πράξεις Ἀποστόλων 17:11",
+      "verse_anchor": "Acts.17.11",
+      "greek_text": "Οὗτοι δὲ ἦσαν εὐγενέστεροι τῶν ἐν Θεσσαλονίκῃ, οἵτινες ἐδέξαντο τὸν λόγον μετὰ πάσης προθυμίας, καθ’ ἡμέραν ἀνακρίνοντες τὰς γραφὰς εἰ ἔχοι ταῦτα οὕτως.",
+      "english_translation": "Now these were more noble-minded than those in Thessalonica, for they received the word with all eagerness, examining the Scriptures daily to see whether these things were so.",
+      "morphology": [
+        {
+          "surface_form": "εὐγενέστεροι",
+          "lemma": "εὐγενής",
+          "strongs": "G2104",
+          "english_gloss": "more noble-minded",
+          "source_file": "store/nt/acts.json",
+          "verse_anchor": "Acts.17.11"
+        },
+        {
+          "surface_form": "λόγον",
+          "lemma": "λόγος",
+          "strongs": "G3056",
+          "english_gloss": "word",
+          "source_file": "store/nt/acts.json",
+          "verse_anchor": "Acts.17.11"
+        },
+        {
+          "surface_form": "ἀνακρίνοντες",
+          "lemma": "ἀνακρίνω",
+          "strongs": "G350",
+          "english_gloss": "examining / testing",
+          "source_file": "store/nt/acts.json",
+          "verse_anchor": "Acts.17.11"
+        },
+        {
+          "surface_form": "γραφὰς",
+          "lemma": "γραφή",
+          "strongs": "G1124",
+          "english_gloss": "Scriptures",
+          "source_file": "store/nt/acts.json",
+          "verse_anchor": "Acts.17.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the recurring Berean pattern of careful daily examination of γραφή rather than passive credulity."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Coheres directly with apostolic instructions to examine and test all things against verified γραφή."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Empowers believers to verify claims directly against γραφή rather than benefiting institutional gatekeepers or silencing inquiry."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Connects Paul's arrival in Berea seamlessly to the resulting faith recorded in Acts 17:12."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Strongly attested across early Greek manuscripts of Acts."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Directly serves teaching and training in righteousness by modeling disciplined scriptural verification under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Demonstrates active engagement with living λόγος and truth-seeking freedom under the multi-witness standard without relying on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Models apostolic reception and testing of canonical γραφή without relying on non-canonical or pseudepigraphal sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Reflects truth, transparency, and rational inquiry aligned with the character of God the Father revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Produces faithfulness, discernment, and genuine spiritual growth consistent with the fruit of the Spirit."
+        }
+      }
+    }
+  ]
+}
