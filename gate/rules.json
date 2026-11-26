@@ -1,0 +1,95 @@
+{
+  "framework_name": "Γραφή (Graphē) Verification Framework",
+  "version": "1.0.0",
+  "attribution": {
+    "author": "Tommy Richards",
+    "sources": [
+      "SpirituallySmart.com",
+      "OvertPsyops.ai"
+    ],
+    "criterion_7_note": "Revised per Criterion_7_Revision.txt to avoid circular reliance on Hebrews 4:12, evaluating living word evidence via John 6:63, 1 Thessalonians 2:13, John 8:31-32, 2 Timothy 3:16-17, and John 16:8."
+  },
+  "fail_closed_on_any_failure": true,
+  "criteria": [
+    {
+      "id": 1,
+      "name": "Pattern Consistency",
+      "greek_focus": "γραφὴ",
+      "test_question": "Does this passage follow internal patterns γραφή establishes elsewhere for similar situations?",
+      "pass_standard": "Aligns with recurring textual and narrative patterns attested across γραφή without introducing anomalous rules or exceptions.",
+      "fail_standard": "Breaks established internal patterns or invents one-off exceptions contradicted by broader γραφή witness."
+    },
+    {
+      "id": 2,
+      "name": "Narrative Coherence",
+      "greek_focus": "ἀκολουθία / συνάφεια",
+      "test_question": "Does this passage create tension or contradiction with other passages about the same person, event, or theological principle?",
+      "pass_standard": "Remains coherent with parallel accounts, personae, and core principles across verified passages.",
+      "fail_standard": "Introduces direct contradiction or irreconcilable narrative friction with other passages."
+    },
+    {
+      "id": 3,
+      "name": "Who Benefits?",
+      "greek_focus": "ὠφέλεια / συμφέρον",
+      "test_question": "If this passage were added, embellished, or altered, who gains politically, institutionally, theologically, or by silencing inquiry?",
+      "pass_standard": "Serves truth and faithful alignment rather than coercive power, institutional dominance, or suppression of inquiry.",
+      "fail_standard": "Primarily serves political/institutional control, coercive authority, financial/status gain, or shutting down scrutiny."
+    },
+    {
+      "id": 4,
+      "name": "Structural Integrity",
+      "greek_focus": "σύνδεσις / τάξις",
+      "test_question": "Does removal of this passage improve or damage the coherence and flow of the surrounding text?",
+      "pass_standard": "Forms an organic, necessary link in the surrounding passage's argument or narrative progression.",
+      "fail_standard": "Acts as a seam, interruption, or parenthetical break whose removal restores smoother flow."
+    },
+    {
+      "id": 5,
+      "name": "Manuscript and Historical Evidence",
+      "greek_focus": "χειρόγραφα / μαρτυρία",
+      "test_question": "What do textual transmission, early manuscript witnesses, and early reception tell us about this passage?",
+      "pass_standard": "Supported by reliable early Greek witnesses and coherent early reception without major interpolation flags.",
+      "fail_standard": "Marked by significant manuscript omissions, textual instability, late emergence, or known interpolation indicators."
+    },
+    {
+      "id": 6,
+      "name": "The 2 Timothy 3:16–17 Test",
+      "greek_focus": "διδασκαλία, ἔλεγμος, ἐπανόρθωσις, παιδεία ἐν δικαιοσύνῃ",
+      "test_question": "Is this passage profitable for teaching (διδασκαλία), reproof (ἐλεγμός), correction (ἐπανόρθωσις), and training in righteousness (παιδεία ἐν δικαιοσύνῃ)?",
+      "pass_standard": "Supports sound teaching, truthful reproof, restorative correction, and training in righteousness.",
+      "fail_standard": "Undermines truth, promotes unrighteousness or harm, or fails constructive instruction."
+    },
+    {
+      "id": 7,
+      "name": "Living Word Multi-Witness Test",
+      "greek_focus": "λόγος / πνεῦμα καὶ ζωή",
+      "test_question": "Does this passage exhibit the qualities of living, active λόγος — spirit and life (John 6:63), effective working in believers (1 Thess 2:13), freedom through truth (John 8:31–32), and spiritual conviction (John 16:8)?",
+      "pass_standard": "Harmonic with life-giving spirit and truth (John 6:63; John 8:31–32), active faith (1 Thess 2:13), and genuine conviction (John 16:8) without relying on Hebrews 4:12.",
+      "fail_standard": "Produces death/bondage rather than spirit and life, contradicts truth/freedom, or relies on circular proof."
+    },
+    {
+      "id": 8,
+      "name": "Ἰησοῦς Χριστός / Apostolic Citation Test",
+      "greek_focus": "Ἰησοῦς Χριστός / ἀπόστολοι",
+      "test_question": "Did Ἰησοῦς Χριστός or the apostles quote, reference, or allude to this passage, or does it cite non-canonical/pseudepigraphal sources as authoritative?",
+      "pass_standard": "Affirmed or harmonized by Ἰησοῦς Χριστός and apostolic witness without treating non-canonical/pseudepigraphal texts as authoritative scripture.",
+      "fail_standard": "Contradicted by Ἰησοῦς Χριστός or apostles, or treats non-canonical/pseudepigraphal sources as authoritative."
+    },
+    {
+      "id": 9,
+      "name": "Χριστός Character Match",
+      "greek_focus": "Θεὸς Πατήρ / Ἰησοῦς Χριστός / διάβολος",
+      "test_question": "Does this passage align with the character of Θεὸς Πατήρ as revealed in Ἰησοῦς Χριστός (John 14:9; Luke 9:55–56), or does it attribute διάβολος traits (John 8:44) to Θεός?",
+      "pass_standard": "Reflects the Father's character revealed in Ἰησοῦς Χριστός (John 14:9; Luke 9:55–56) and does not ascribe διάβολος traits (John 8:44) to Θεός.",
+      "fail_standard": "Depicts Θεός in a way that conflicts with Ἰησοῦς Χριστός or attributes deceit, murder, or διάβολος characteristics (John 8:44) to Θεός."
+    },
+    {
+      "id": 10,
+      "name": "Πνεῦμα Fruit Test",
+      "greek_focus": "καρπὸς τοῦ Πνεύματος / ἔργα τῆς σαρκός",
+      "test_question": "Does this passage reflect or produce the fruit of πνεῦμα ἅγιον (Galatians 5:22–23), or does it reflect ἔργα τῆς σαρκός (works of the flesh, Galatians 5:19–21)?",
+      "pass_standard": "Aligns with the fruit of πνεῦμα ἅγιον (Galatians 5:22–23) rather than ἔργα τῆς σαρκός (Galatians 5:19–21).",
+      "fail_standard": "Promotes, excuses, or exemplifies ἔργα τῆς σαρκός (Galatians 5:19–21) over the fruit of πνεῦμα ἅγιον."
+    }
+  ]
+}
