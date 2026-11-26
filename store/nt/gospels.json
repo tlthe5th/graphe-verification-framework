@@ -1,0 +1,318 @@
+{
+  "corpus": "nt",
+  "books_covered": [
+    "Matthew",
+    "Mark",
+    "Luke",
+    "John"
+  ],
+  "books_greek": [
+    "Κατὰ Ματθαῖον",
+    "Κατὰ Μάρκον",
+    "Κατὰ Λουκᾶν",
+    "Κατὰ Ἰωάννην"
+  ],
+  "source_file": "store/nt/gospels.json",
+  "passages": [
+    {
+      "reference": "Matthew 22:37–39",
+      "greek_reference": "Κατὰ Ματθαῖον 22:37–39",
+      "verse_anchor": "Matt.22.37-39",
+      "greek_text": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν.",
+      "english_translation": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+      "morphology": [
+        {
+          "surface_form": "Ἀγαπήσεις",
+          "lemma": "ἀγαπάω",
+          "strongs": "G25",
+          "english_gloss": "you shall love",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        },
+        {
+          "surface_form": "πλησίον",
+          "lemma": "πλησίον",
+          "strongs": "G4139",
+          "english_gloss": "neighbor",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        },
+        {
+          "surface_form": "ἐντολή",
+          "lemma": "ἐντολή",
+          "strongs": "G1785",
+          "english_gloss": "commandment",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the core covenantal pattern of loving God and loving neighbor across the law and prophets."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Harmonizes directly with the foundational commands of wholehearted devotion and love for neighbor."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Centers on love for God and neighbor rather than political coercion, institutional dominance, or silencing inquiry."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms an integral, cohesive teaching moment in Matthew 22."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Widely and consistently attested across Greek New Testament manuscripts."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Directly serves teaching, reproof, correction, and training in righteousness under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Embodies life-giving truth and love under the multi-witness standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Spoken directly by Jesus Christ and grounded in canonical scripture without citing non-canonical sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Reveals the character of God the Father and Jesus Christ centered on love rather than attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Directly reflects love, kindness, and goodness aligned with the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "Luke 9:55–56",
+      "greek_reference": "Κατὰ Λουκᾶν 9:55–56",
+      "verse_anchor": "Luke.9.55-56",
+      "greek_text": "Στραφεὶς δὲ ἐπετίμησεν αὐτοῖς. καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην.",
+      "english_translation": "But turning He rebuked them. And they went on to another village.",
+      "morphology": [
+        {
+          "surface_form": "Στραφεὶς",
+          "lemma": "στρέφω",
+          "strongs": "G4762",
+          "english_gloss": "having turned",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Luke.9.55-56"
+        },
+        {
+          "surface_form": "ἐπετίμησεν",
+          "lemma": "ἐπιτιμάω",
+          "strongs": "G2008",
+          "english_gloss": "rebuked",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Luke.9.55-56"
+        },
+        {
+          "surface_form": "κώμην",
+          "lemma": "κώμη",
+          "strongs": "G2968",
+          "english_gloss": "village",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Luke.9.55-56"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the consistent pattern of Jesus Christ rejecting retaliatory destruction against those who do not receive Him."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns with the saving mission of Jesus Christ and serves as a benchmark for testing destructive passages elsewhere."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Rejects retaliatory violence and coercive force rather than serving self-serving political or institutional gain."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Connects the Samaritan refusal in Luke 9 directly to the onward journey without breaking narrative flow."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Recorded in the Gospel of Luke with standard textual grounding for the rebuke and onward travel."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Provides essential reproof and correction regarding mercy and restraint under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Reflects life-preserving truth and spiritual restraint under the multi-witness standard without relying on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Directly records Jesus Christ's own corrective action without relying on non-canonical sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Serves as a primary anchor for matching the character of God the Father and Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Demonstrates restraint, patience, and gentleness consistent with the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "John 6:63",
+      "greek_reference": "Κατὰ Ἰωάννην 6:63",
+      "verse_anchor": "John.6.63",
+      "greek_text": "Τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.",
+      "english_translation": "It is the Spirit who gives life; the flesh profits nothing. The words that I have spoken to you are spirit and are life.",
+      "morphology": [
+        {
+          "surface_form": "πνεῦμά",
+          "lemma": "πνεῦμα",
+          "strongs": "G4151",
+          "english_gloss": "spirit",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.63"
+        },
+        {
+          "surface_form": "ζῳοποιοῦν",
+          "lemma": "ζῳοποιέω",
+          "strongs": "G2227",
+          "english_gloss": "giving life",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.63"
+        },
+        {
+          "surface_form": "ῥήματα",
+          "lemma": "ῥῆμα",
+          "strongs": "G4487",
+          "english_gloss": "words / sayings",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.63"
+        },
+        {
+          "surface_form": "ζωή",
+          "lemma": "ζωή",
+          "strongs": "G2222",
+          "english_gloss": "life",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.63"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the foundational principle that life comes from the Spirit and the words of Jesus rather than mere flesh."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Coheres with the Gospel of John's witness to spirit, truth, and life."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Directs disciples to life-giving words and Spirit rather than institutional hierarchy or worldly power."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a pivotal conclusion to the Bread of Life discourse in John 6."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Strongly attested across early Greek Gospel manuscripts."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Provides essential teaching and correction on spiritual life and discernment under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Serves as Witness 1 of the revised living-word multi-witness standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Spoken directly by Jesus Christ without citing non-canonical texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Aligns directly with the character and life-giving revelation of Jesus Christ and the Father."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Produces life and spiritual renewal aligned with the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "John 7:53–8:11",
+      "greek_reference": "Κατὰ Ἰωάννην 7:53–8:11",
+      "verse_anchor": "John.7.53-8.11",
+      "greek_text": "Καὶ ἐπορεύθησαν ἕκαστος εἰς τὸν οἶκον αὐτοῦ, Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν ἐλαιῶν.",
+      "english_translation": "And each went to his own house, but Jesus went to the Mount of Olives.",
+      "morphology": [
+        {
+          "surface_form": "ἐπορεύθησαν",
+          "lemma": "πορεύομαι",
+          "strongs": "G4198",
+          "english_gloss": "went / departed",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.7.53-8.11"
+        },
+        {
+          "surface_form": "Ἰησοῦς",
+          "lemma": "Ἰησοῦς",
+          "strongs": "G2424",
+          "english_gloss": "Jesus",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.7.53-8.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Evaluated as a recorded pericope within the store, though flagged externally for textual/structural reasons."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Does not contradict the mercy of Jesus Christ on its face, though its textual placement is disputed."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Does not serve political or institutional coercion."
+        },
+        "4": {
+          "status": "FAIL",
+          "rationale": "Interrupts the surrounding narrative sequence between John 7:52 and John 8:12."
+        },
+        "5": {
+          "status": "FAIL",
+          "rationale": "Absent from the earliest Greek witnesses of the Gospel of John and exhibits known textual transmission variants."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Addresses mercy and repentance without promoting harm."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Addresses grace and turning from sin consistent with spiritual renewal."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Does not rely on non-canonical or pseudepigraphal sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Reflects mercy rather than attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Aligns with mercy and gentleness rather than works of the flesh."
+        }
+      }
+    }
+  ]
+}
