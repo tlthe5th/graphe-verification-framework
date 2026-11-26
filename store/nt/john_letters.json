@@ -1,0 +1,166 @@
+{
+  "corpus": "nt",
+  "books_covered": [
+    "1 John",
+    "2 John",
+    "3 John"
+  ],
+  "books_greek": [
+    "Ἰωάννου Α",
+    "Ἰωάννου Β",
+    "Ἰωάννου Γ"
+  ],
+  "source_file": "store/nt/john_letters.json",
+  "passages": [
+    {
+      "reference": "1 John 4:8",
+      "greek_reference": "Ἰωάννου Α 4:8",
+      "verse_anchor": "1John.4.8",
+      "greek_text": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν, ὅτι ὁ θεὸς ἀγάπη ἐστίν.",
+      "english_translation": "The one who does not love has not known God, because God is love.",
+      "morphology": [
+        {
+          "surface_form": "ἀγαπῶν",
+          "lemma": "ἀγαπάω",
+          "strongs": "G25",
+          "english_gloss": "loving",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.4.8"
+        },
+        {
+          "surface_form": "ἔγνω",
+          "lemma": "γινώσκω",
+          "strongs": "G1097",
+          "english_gloss": "has known",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.4.8"
+        },
+        {
+          "surface_form": "ἀγάπη",
+          "lemma": "ἀγάπη",
+          "strongs": "G26",
+          "english_gloss": "love",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.4.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes a recurring Johannine test connecting genuine knowledge of God with love."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns with the framework's character test and scriptural witness to God's loving nature."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Centers on love and knowing God rather than political coercion, institutional dominance, or silencing inquiry."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a clear, central declaration within the 1 John 4 discourse on love and testing spirits."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Well attested across early Greek manuscripts of 1 John."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Supports sound doctrine and training in righteousness under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Aligns with living truth and spirit under the multi-witness standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Stands within Johannine apostolic witness without relying on non-canonical or pseudepigraphal sources."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Directly reflects the character of God revealed in Jesus Christ without attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Directly affirms love as the foremost fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "1 John 5:7–8",
+      "greek_reference": "Ἰωάννου Α 5:7–8",
+      "verse_anchor": "1John.5.7-8",
+      "greek_text": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες, τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα, καὶ οἱ τρεῖς εἰς τὸ ἕν εἰσιν.",
+      "english_translation": "For there are three that bear witness: the Spirit and the water and the blood, and these three agree as one.",
+      "morphology": [
+        {
+          "surface_form": "μαρτυροῦντες",
+          "lemma": "μαρτυρέω",
+          "strongs": "G3140",
+          "english_gloss": "bearing witness",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.5.7-8"
+        },
+        {
+          "surface_form": "πνεῦμα",
+          "lemma": "πνεῦμα",
+          "strongs": "G4151",
+          "english_gloss": "Spirit",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.5.7-8"
+        },
+        {
+          "surface_form": "αἷμα",
+          "lemma": "αἷμα",
+          "strongs": "G129",
+          "english_gloss": "blood",
+          "source_file": "store/nt/john_letters.json",
+          "verse_anchor": "1John.5.7-8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Recorded as a stored passage for explicit exclusion gating and manuscript-evidence testing."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Does not introduce internal contradiction on its surface, but fails external manuscript attestation for the late Comma addition."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Evaluated primarily under textual transmission and manuscript history."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Sits at the transition of 1 John 5:6-8 in the store."
+        },
+        "5": {
+          "status": "FAIL",
+          "rationale": "The Johannine Comma expansion is absent from early Greek manuscripts and represents a late textual interpolation."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Focuses on witness and testimony rather than harmful conduct."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Addresses witness and agreement in truth."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Does not cite non-canonical or pseudepigraphal texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Does not attribute devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Does not promote works of the flesh."
+        }
+      }
+    }
+  ]
+}
