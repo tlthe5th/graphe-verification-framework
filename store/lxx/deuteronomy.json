@@ -1,0 +1,225 @@
+{
+  "corpus": "lxx",
+  "book_english": "Deuteronomy",
+  "book_greek": "Δευτερονόμιον",
+  "source_file": "store/lxx/deuteronomy.json",
+  "passages": [
+    {
+      "reference": "Deuteronomy 6:4–5",
+      "greek_reference": "Δευτερονόμιον 6:4–5",
+      "verse_anchor": "Deut.6.4-5",
+      "greek_text": "Ἄκουε Ἰσραήλ· κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστι. καὶ ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐξ ὅλης τῆς δυνάμεώς σου.",
+      "english_translation": "Hear, O Israel: the Lord our God is one Lord; and you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+      "morphology": [
+        {
+          "surface_form": "Ἄκουε",
+          "lemma": "ἀκούω",
+          "strongs": "G191",
+          "english_gloss": "hear",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.6.4-5"
+        },
+        {
+          "surface_form": "κύριος",
+          "lemma": "κύριος",
+          "strongs": "G2962",
+          "english_gloss": "Lord",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.6.4-5"
+        },
+        {
+          "surface_form": "θεὸς",
+          "lemma": "θεός",
+          "strongs": "G2316",
+          "english_gloss": "God",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.6.4-5"
+        },
+        {
+          "surface_form": "ἀγαπήσεις",
+          "lemma": "ἀγαπάω",
+          "strongs": "G25",
+          "english_gloss": "you shall love",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.6.4-5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Establishes the foundational covenantal pattern of wholehearted devotion to the one Lord."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Aligns directly with core scriptural teaching on wholehearted love for God."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Centers devotion on God rather than serving political coercion, institutional hierarchy, or silencing inquiry."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms an integral, foundational statement within Deuteronomy 6."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Strongly attested across Septuagint manuscripts and early witness."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Directly supports foundational teaching and training in righteousness under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Reflects life-giving truth and wholehearted devotion under the multi-witness standard without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Explicitly affirmed by Jesus Christ in the Gospels as the greatest commandment without citing non-canonical texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Aligns with the character of God the Father and Jesus Christ without attributing devilish traits to God."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Promotes love and wholehearted devotion consistent with the fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "Deuteronomy 7:1–2, 16",
+      "greek_reference": "Δευτερονόμιον 7:1–2, 16",
+      "verse_anchor": "Deut.7.1-2,16",
+      "greek_text": "Καὶ ἐξολοθρεύσεις πάντας τοὺς λαούς... καὶ οὐ μὴ ἐλεήσεις αὐτούς.",
+      "english_translation": "And you shall utterly destroy all the nations... and you shall show no mercy to them.",
+      "morphology": [
+        {
+          "surface_form": "ἐξολοθρεύσεις",
+          "lemma": "ἐξολοθρεύω",
+          "strongs": "G1842",
+          "english_gloss": "you shall utterly destroy",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.7.1-2,16"
+        },
+        {
+          "surface_form": "ἐλεήσεις",
+          "lemma": "ἐλεέω",
+          "strongs": "G1653",
+          "english_gloss": "you shall show mercy",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.7.1-2,16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "FAIL",
+          "rationale": "Introduces an uncompromising no-mercy extermination directive that breaks with mercy and covenantal restoration patterns elsewhere."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Creates direct tension with scriptural declarations of God's mercy and individual accountability."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Serves conquest and territorial displacement agendas rather than mercy and truth."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Appears sequentially within the Deuteronomy 7 conquest instructions."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Present in standard LXX manuscripts, though flagged by the framework on character and coherence criteria."
+        },
+        "6": {
+          "status": "FAIL",
+          "rationale": "Fails constructive alignment with training in righteousness as recorded when commanding total absence of mercy."
+        },
+        "7": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the life-giving spirit and truth standard of the multi-witness test."
+        },
+        "8": {
+          "status": "FAIL",
+          "rationale": "Conflicts with the mercy and love-of-enemies teaching of Jesus Christ and the apostles."
+        },
+        "9": {
+          "status": "FAIL",
+          "rationale": "Contradicts the mercy and saving character of God the Father revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "FAIL",
+          "rationale": "Commands absence of mercy and wholesale destruction rather than fruit of the Spirit."
+        }
+      }
+    },
+    {
+      "reference": "Deuteronomy 20:16–18",
+      "greek_reference": "Δευτερονόμιον 20:16–18",
+      "verse_anchor": "Deut.20.16-18",
+      "greek_text": "Οὐ ζωγρήσετε πᾶν ἐμπνέον.",
+      "english_translation": "You shall not leave alive any breathing thing.",
+      "morphology": [
+        {
+          "surface_form": "ζωγρήσετε",
+          "lemma": "ζωγρέω",
+          "strongs": "G2221",
+          "english_gloss": "you shall take alive",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.20.16-18"
+        },
+        {
+          "surface_form": "ἐμπνέον",
+          "lemma": "ἐμπνέω",
+          "strongs": "G1709",
+          "english_gloss": "breathing",
+          "source_file": "store/lxx/deuteronomy.json",
+          "verse_anchor": "Deut.20.16-18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "FAIL",
+          "rationale": "Departs from offering peace terms and proportionality by ordering total destruction of every breathing thing."
+        },
+        "2": {
+          "status": "FAIL",
+          "rationale": "Contradicts principles of individual accountability and mercy across scripture."
+        },
+        "3": {
+          "status": "FAIL",
+          "rationale": "Facilitates total conquest and removal of inhabitants rather than peaceful reconciliation."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Follows immediately after the distant-city provisions in Deuteronomy 20."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Attested in LXX manuscripts, though flagged by the framework on coherence and Christ-character criteria."
+        },
+        "6": {
+          "status": "FAIL",
+          "rationale": "Fails alignment with teaching and training in righteousness by prescribing indiscriminate destruction."
+        },
+        "7": {
+          "status": "FAIL",
+          "rationale": "Fails the multi-witness living-word standard because it orders destruction rather than life."
+        },
+        "8": {
+          "status": "FAIL",
+          "rationale": "Conflicts with Jesus Christ's statement that the Son of Man came to save souls rather than destroy them."
+        },
+        "9": {
+          "status": "FAIL",
+          "rationale": "Directly conflicts with the character of God revealed in Jesus Christ and attributes destructive acts to God."
+        },
+        "10": {
+          "status": "FAIL",
+          "rationale": "Reflects works of destruction and hostility rather than the fruit of the Spirit."
+        }
+      }
+    }
+  ]
+}
