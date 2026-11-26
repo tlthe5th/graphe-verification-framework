@@ -1,0 +1,8 @@
+# Flask web interface for running reference verification readouts in the browser.
+Flask>=3.0.0,<4.0.0
+
+# JSON Schema validator to enforce strict conformance against schema/analysis.json.
+jsonschema>=4.22.0,<5.0.0
+
+# Automated test runner for executing the test suite under tests/.
+pytest>=8.0.0,<9.0.0
