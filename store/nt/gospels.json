@@ -248,6 +248,81 @@
       }
     },
     {
+      "reference": "John 6:66",
+      "greek_reference": "Κατὰ Ἰωάννην 6:66",
+      "verse_anchor": "John.6.66",
+      "greek_text": "Ἐκ τούτου πολλοὶ τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ’ αὐτοῦ περιεπάτουν.",
+      "english_translation": "From this time many of His disciples went back and walked no longer with Him.",
+      "morphology": [
+        {
+          "surface_form": "μαθητῶν",
+          "lemma": "μαθητής",
+          "strongs": "G3101",
+          "english_gloss": "disciples",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.66"
+        },
+        {
+          "surface_form": "ἀπῆλθον",
+          "lemma": "ἀπέρχομαι",
+          "strongs": "G565",
+          "english_gloss": "went away / departed",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.66"
+        },
+        {
+          "surface_form": "περιεπάτουν",
+          "lemma": "περιπατέω",
+          "strongs": "G4043",
+          "english_gloss": "walked",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "John.6.66"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Reflects the recurring pattern in John's Gospel where hard teaching separates superficial followers from true disciples."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Coheres directly with the preceding discourse on spirit and life in John 6:63 and Peter's confession that follows."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Records a genuine parting of ways without promoting coercion, institutional control, or silencing inquiry."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Forms a natural narrative transition between John 6:63–65 and Jesus's question to the twelve in John 6:67."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Attested across Greek New Testament manuscript witnesses for the Gospel of John."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Serves teaching and discernment regarding sincere allegiance versus turning back under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Directly follows Witness 1 (John 6:63) in the living-word context without circular reliance on Hebrews 4:12."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Part of the canonical Gospel narrative without citing non-canonical or pseudepigraphal texts."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Does not attribute devilish traits to God or contradict the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Evaluates discipleship and turning back without endorsing works of the flesh."
+        }
+      }
+    },
+    {
       "reference": "John 7:53–8:11",
       "greek_reference": "Κατὰ Ἰωάννην 7:53–8:11",
       "verse_anchor": "John.7.53-8.11",
