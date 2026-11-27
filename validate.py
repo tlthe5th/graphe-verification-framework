@@ -1,4 +1,4 @@
-"""Core citation-enforced verification engine for graphe-verification-framework.
+﻿"""Core citation-enforced verification engine for graphe-verification-framework.
 
 This module implements:
 1. Strict Unicode NFC normalization for Greek strings.
@@ -30,9 +30,9 @@ EXCLUSIONS_PATH = REPO_ROOT / "gate" / "exclusions.json"
 STORE_DIRS = [REPO_ROOT / "store" / "lxx", REPO_ROOT / "store" / "nt"]
 
 # Greek & Coptic (U+0370-U+03FF) and Greek Extended (U+1F00-U+1FFF),
-# plus numbers, whitespace, and standard punctuation used in Greek text/excerpts.
+# plus Greek numeral sign (U+02B9), colon, numbers, whitespace, and punctuation.
 GREEK_FIELD_PATTERN = re.compile(
-    r"^[\u0370-\u03FF\u1F00-\u1FFF0-9\s.,;:·'’\"“”\-–—()\[\]]+$"
+    r"^[\u0370-\u03FF\u1F00-\u1FFF\u02B90-9\s.,:;·'’\"“”\u2013\u2014()\[\]-]+$"
 )
 
 # Stricter pattern for Greek morphological surface_form and lemma tokens.
