@@ -36,7 +36,11 @@
     },
     "corpus": {
       "type": "string",
-      "enum": ["lxx", "nt", "excluded_unknown"]
+      "enum": [
+        "lxx",
+        "nt",
+        "excluded_unknown"
+      ]
     },
     "source_file": {
       "type": "string",
@@ -49,14 +53,17 @@
     "greek_text": {
       "type": "string",
       "minLength": 1,
-      "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;:·'’\"“”\\-–—()\\[\\]]+$"
+      "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF\\u02B90-9\\s.,:;·\\x27\\u2018\\u2019\\x22\\u201C\\u201D!?…\\u2013\\u2014()\\[\\]-]+$"
     },
     "excluded": {
       "type": "boolean"
     },
     "overall_verdict": {
       "type": "string",
-      "enum": ["PASS", "FAIL"]
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
     },
     "failed_criteria": {
       "type": "array",
@@ -80,7 +87,11 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["file", "anchor", "greek_excerpt"],
+        "required": [
+          "file",
+          "anchor",
+          "greek_excerpt"
+        ],
         "properties": {
           "file": {
             "type": "string",
@@ -93,7 +104,7 @@
           "greek_excerpt": {
             "type": "string",
             "minLength": 1,
-            "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;:·'’\"“”\\-–—()\\[\\]]+$"
+            "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF\\u02B90-9\\s.,:;·\\x27\\u2018\\u2019\\x22\\u201C\\u201D!?…\\u2013\\u2014()\\[\\]-]+$"
           }
         }
       }
@@ -167,7 +178,10 @@
           },
           "status": {
             "type": "string",
-            "enum": ["PASS", "FAIL"]
+            "enum": [
+              "PASS",
+              "FAIL"
+            ]
           },
           "rationale": {
             "type": "string",
@@ -179,7 +193,11 @@
             "items": {
               "type": "object",
               "additionalProperties": false,
-              "required": ["file", "anchor", "greek_excerpt"],
+              "required": [
+                "file",
+                "anchor",
+                "greek_excerpt"
+              ],
               "properties": {
                 "file": {
                   "type": "string",
@@ -192,7 +210,7 @@
                 "greek_excerpt": {
                   "type": "string",
                   "minLength": 1,
-                  "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF0-9\\s.,;:·'’\"“”\\-–—()\\[\\]]+$"
+                  "pattern": "^[\\u0370-\\u03FF\\u1F00-\\u1FFF\\u02B90-9\\s.,:;·\\x27\\u2018\\u2019\\x22\\u201C\\u201D!?…\\u2013\\u2014()\\[\\]-]+$"
                 }
               }
             }
@@ -205,45 +223,73 @@
     {
       "if": {
         "properties": {
-          "overall_verdict": { "const": "FAIL" }
+          "overall_verdict": {
+            "const": "FAIL"
+          }
         },
-        "required": ["overall_verdict"]
+        "required": [
+          "overall_verdict"
+        ]
       },
       "then": {
         "minProperties": 1,
         "properties": {
-          "failed_criteria": { "minItems": 1 },
-          "failure_reasons": { "minItems": 1 }
+          "failed_criteria": {
+            "minItems": 1
+          },
+          "failure_reasons": {
+            "minItems": 1
+          }
         }
       }
     },
     {
       "if": {
         "properties": {
-          "overall_verdict": { "const": "PASS" }
+          "overall_verdict": {
+            "const": "PASS"
+          }
         },
-        "required": ["overall_verdict"]
+        "required": [
+          "overall_verdict"
+        ]
       },
       "then": {
         "properties": {
-          "excluded": { "const": false },
-          "failed_criteria": { "maxItems": 0 },
-          "failure_reasons": { "maxItems": 0 }
+          "excluded": {
+            "const": false
+          },
+          "failed_criteria": {
+            "maxItems": 0
+          },
+          "failure_reasons": {
+            "maxItems": 0
+          }
         }
       }
     },
     {
       "if": {
         "properties": {
-          "excluded": { "const": true }
+          "excluded": {
+            "const": true
+          }
         },
-        "required": ["excluded"]
+        "required": [
+          "excluded"
+        ]
       },
       "then": {
         "properties": {
-          "overall_verdict": { "const": "FAIL" },
-          "failed_criteria": { "minItems": 1 },
-          "failure_reasons": { "minItems": 1 }
+          "overall_verdict": {
+            "const": "FAIL"
+          },
+          "failed_criteria": {
+            "minItems": 1
+          },
+          "failure_reasons": {
+            "minItems": 1
+          }
         }
       }
     }
