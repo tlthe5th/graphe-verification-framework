@@ -8,8 +8,8 @@
       "reference": "Ruth 1:1",
       "greek_reference": "Ῥούθ 1:1",
       "verse_anchor": "Ruth.1.1",
-      "greek_text": "και εγενετο εν ταις ημ εραις εν τω κρἴνειν τους κριτἄς και εγἔνετο λιμὅς εν τη γη και επορε υθη ανηρ απ ο Βηθλε εμ της Ιουδα ιας του παροικ ησαι εν αγρ ω Μω αβ αυτος και η",
-      "english_translation": "And it came to pass in the days in the judging of the judges. And came to pass a famine in the land. And went forth a man from Beth-lehem of Judea to sojourn in the field of Moab, he, and",
+      "greek_text": "και εγενετο εν ταις ημ εραις εν τω κρἴνειν τους κριτἄς και εγἔνετο λιμὅς εν τη γη και επορευθη ανηρ απ ο Βηθλε εμ της Ιουδαιας του παροικ ησαι εν αγρ ω Μω αβ αυτος καιη γυνἤ αυτὅυ και οι δὔο υιὅι αυτὅυ και εγἔνετο ἄνθρωπος εις εχ Αρμαθα+μ Σοφ ιμ εχ ὅρους Εφρα+μ και ὅνομα αυτὤ Ελκαν α υιοςΙεροαμ υιου Ηλιου υιου Θωκ ε υιου Σωφ εχ ὅρους Εφρα+μ",
+      "english_translation": "And it came to pass in the days in the judging of the judges. And came to pass a famine in the land. And went forth a man from Beth-lehem of Judea to sojourn in the field of Moab, he, and And there was man one from out of Ramathaim Zophim, from out of mount Ephraim, and his name was Elkanah, son of Jeroham, son of Elihu, son of Tohu, son",
       "morphology": [
         {
           "surface_form": "και",
@@ -85,31 +85,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:2",
       "greek_reference": "Ῥούθ 1:2",
       "verse_anchor": "Ruth.1.2",
-      "greek_text": "γυνἤ αυτὅυ και οι δὔο υιὅι αυτὅυ και ὅνομα τω ανδρ ι Ελιμ ελεξ και ὅνομα τη γυναικ ι αυτο υ Νοομἴ και ὅνομα τοιςδυσἴν υιὅις αυτὅυ Μααλὤν και Ξελε ων Εφραθα ιοι εκ Βηθλε εμ της Ιο υδα και ἤλθοσαν εις αγρ ον Μω αβ και ἤσαν εκει Νοεμμειν Νωεμιν",
-      "english_translation": "his wife, and [2two 3sons 1his]. And the name to the man was Elimelech, and the name to his wife was Naomi, and the name to [2two 3sons 1his] – Mahlon and Chilion, Ephrathites from out of Beth-lehem of Judah. And they came into the country of Moab, and were there.. Six..",
+      "greek_text": "και ὅνομα τω ανδρ ι Ελιμ ελεξ και ὅνομα τη γυναικ ι αυτου Νοομἴ και ὅνομα τοιςδυσἴν υιὅις αυτὅυ Μααλὤν και Ξελε ων Εφραθα ιοι εκ Βηθλε εμ της Ιουδα και ἤλθοσαν εις αγρ ον Μω αβ και ἤσαν εκει Νοεμμειν Νωεμιν και τὅυτω δὔο γυνα ικεςὅνομα τη μια Ἄννα και ὅνομα τη δευτερα Φενν ανα και ην τη Φενν ανα παιδια και τη Ἄννη ουκ ην παιδ ιον",
+      "english_translation": "his wife, and two sons his. And the name to the man was Elimelech, and the name to his wife was Naomi, and the name to two sons his – Mahlon and Chilion, Ephrathites from out of Beth-lehem of Judah. And they came into the country of Moab, and were there.. Six.. Zuph, from out of mount Ephraim. And to this one was two wives; the name to the one was Hannah, and the name to the second was Peninnah. And there was to Peninnah a child,",
       "morphology": [
-        {
-          "surface_form": "γυνἤ",
-          "lemma": "γυνἤ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.2"
-        },
-        {
-          "surface_form": "αυτὅυ",
-          "lemma": "αυτὅυ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.2"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -119,8 +105,24 @@
           "verse_anchor": "Ruth.1.2"
         },
         {
-          "surface_form": "οι",
-          "lemma": "οι",
+          "surface_form": "ὅνομα",
+          "lemma": "ὅνομα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.2"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.2"
+        },
+        {
+          "surface_form": "ανδρ",
+          "lemma": "ανδρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -168,14 +170,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:3",
       "greek_reference": "Ῥούθ 1:3",
       "verse_anchor": "Ruth.1.3",
-      "greek_text": "και απ εθανεν Ελιμ ελεξ ο ανηρ της Νοομ ι και κατελε ιφθη αυτη και οι δυο υιοι",
-      "english_translation": "And [5died 1Elimelech 2the 3husband 4of Naomi]; and [6 were left 1she 2and 4two 5sons 1135-*",
+      "greek_text": "και απ εθανεν Ελιμ ελεξ ο ανηρ της Νοομ ι και κατελε ιφθη αυτη και οι δυο υιοι αυτἤς και ανεβαινεν ο ἄνθρωπος εκεινος εχ ημερ ων εις ημ ερας εκ πὅλεως αυτὅυ εχ Αρμαθα+μ προσκυνἔιν και θυειν τω κυριω Σαβα ωθ εν Συλ ω και εκει ην Ηλ ι και οι δυο υιοι αυτου Oφν ι και Φινεες ιερε ις του κυριου",
+      "english_translation": "And died Elimelech the husband of Naomi; and were left she and two sons -* and to Hannah there was not a child. And [3ascended man that from days to days from out of his city, from out of Ramathaim, to do obeisance and to sacrifice to the of hosts in Shiloh. And there was Eli and the two sons of his, Hophni and Phinehas,",
       "morphology": [
         {
           "surface_form": "και",
@@ -251,23 +255,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:4",
       "greek_reference": "Ῥούθ 1:4",
       "verse_anchor": "Ruth.1.4",
-      "greek_text": "αυτἤς και ελἄβοσαν εαυτὅις γυνἄικας Μωαβἴτιδας ὅνομα τη μια Oρφ α και ὅνομα τη δευτερα",
-      "english_translation": "3her]. And they took to themselves Moabite wives; the name to the one was Orpah, and the name to the second",
+      "greek_text": "και ελἄβοσαν εαυτὅις γυνἄικας Μωαβἴτιδας ὅνομα τη μια Oρφ α και ὅνομα τη δευτερα Ρουθ και κατὤκησαν εκἔι ως δἔκα ἔτη και εγενετο ημ ερα και ἔθυσεν Ελκανἄ και ἔδωκε τη Φεννἄνα γυναικἴ αυτὅυ και πασι τοις υιοις αυτης και ταις θυγατρ ασιν αυτης μεριδας",
+      "english_translation": "3her]. And they took to themselves Moabite wives; the name to the one was Orpah, and the name to the second priests of the. And came to pass a day and 2380-* Elkanah sacrificed, and gave to Peninnah his wife, and to all her sons, and to her daughters, portions.",
       "morphology": [
-        {
-          "surface_form": "αυτἤς",
-          "lemma": "αυτἤς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.4"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -287,6 +285,14 @@
         {
           "surface_form": "εαυτὅις",
           "lemma": "εαυτὅις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.4"
+        },
+        {
+          "surface_form": "γυνἄικας",
+          "lemma": "γυνἄικας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -334,23 +340,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:5",
       "greek_reference": "Ῥούθ 1:5",
       "verse_anchor": "Ruth.1.5",
-      "greek_text": "Ρουθ και κατὤκησαν εκἔι ως δἔκα ἔτη και απ εθανον και γε αμφ οτεροι Μααλ ων και Ξελε ων και κατελἔιφθη η γυνἤ απὅ των δὔο υἴων αυτἤς",
-      "english_translation": "Ruth; and they dwelt there about ten years. And [7died 1also 2indeed 3both 4Mahlon 5and 6Chilion]; and [3 was left 1the 2woman] of [2two 3sons 1her],",
+      "greek_text": "και απ εθανον και γε αμφ οτεροι Μααλ ων και Ξελε ων και κατελἔιφθηη γυνἤ απὅ των δὔο υἴων αυτἤς και απὅ του ανδρὅς αυτἤς και τη Ἄννη ἔδωκε μερἴδα μἴαν ὅτι ουκ ην αυτη παιδ ιονπλην ὅτι την Ἄνναν ηγἄπα Ελκαν α υπ ερ Φενν αναν και κυριος απ εκλεισε τα περι την μἤτραν αυτἤς",
+      "english_translation": "Ruth; and they dwelt there about ten years. And died also indeed both Mahlon and Chilion; and was left the woman of two sons her, And to Hannah he gave portion one, for there was not *-25 a child to her; except that loved Hannah Elkanah above Peninnah. But the locked the matter concerning",
       "morphology": [
-        {
-          "surface_form": "Ρουθ",
-          "lemma": "Ρουθ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.5"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -360,16 +360,24 @@
           "verse_anchor": "Ruth.1.5"
         },
         {
-          "surface_form": "κατὤκησαν",
-          "lemma": "κατὤκησαν",
+          "surface_form": "απ",
+          "lemma": "απ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.5"
         },
         {
-          "surface_form": "εκἔι",
-          "lemma": "εκἔι",
+          "surface_form": "εθανον",
+          "lemma": "εθανον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -417,14 +425,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:6",
       "greek_reference": "Ῥούθ 1:6",
       "verse_anchor": "Ruth.1.6",
-      "greek_text": "και απὅ του ανδρὅς αυτἤς και ανἔστη ἄυτη και αι δυο νυμφαι αυτης και απ εστρεψαν εχ αγρὅυ Μὤαβ ὅτι ἤκουσαν εν αγρὤ Μὤαβ ὅτι επεσκεπται κυριος τον λαον αυτο υ του δουναι αυτο ις ηκουσεν Ρ ην εκει και αι δυο νυμφαι αυτης μετ' αυτης και επορε υοντο εν τη οδω του επιστρ εψαι εις την γην",
-      "english_translation": "and of her husband. And she rose up, and [2two 3daughters-in-law 1her], and they returned from out of the country of Moab; for they heard in the country of Moab that the has visited his people to give to them Six. - she heard. she was there, and [2two 3daughters-in-law 1her] with her; and they went by journey to return to the land 2036-*",
+      "greek_text": "και ανἔστη ἄυτη και αι δυο νυμφαι αυτης και απ εστρεψαν εχ αγρὅυ Μὤαβ ὅτι ἤκουσαν εν αγρὤ Μὤαβ ὅτι επεσκεπται κυριος τον λαον αυτου του δουναι αυτο ις ἄρτους ηκουσεν Ρ ην εκει και αι δυο νυμφαι αυτης μετ' αυτης και επορευοντο εν τη οδω του επιστρ εψαι εις την γην Ιουδα και παρὤργισεν αυτἤνη αντιζηλος αυτης και γε παροργισμ ω δι α το εχουθενειν αυτην ὅτι συν εκλεισε κυριος τα περι την μητραν αυτης του μη δουναι αυτη παιδ ιον",
+      "english_translation": "and of her husband. And she rose up, and two daughters-in-law her, and they returned from out of the country of Moab; for they heard in the country of Moab that the has visited his people to give to them Six. - she heard. she was there, and two daughters-in-law her with her; and they went by journey to return to the land 2036-* her womb. And provoked her to anger her rival – even indeed a provocation to anger because of the treating her with contempt, that the closed up the matters concerning her womb to not give",
       "morphology": [
         {
           "surface_form": "και",
@@ -435,24 +445,24 @@
           "verse_anchor": "Ruth.1.6"
         },
         {
-          "surface_form": "απὅ",
-          "lemma": "απὅ",
+          "surface_form": "ανἔστη",
+          "lemma": "ανἔστη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.6"
         },
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "ἄυτη",
+          "lemma": "ἄυτη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.6"
         },
         {
-          "surface_form": "ανδρὅς",
-          "lemma": "ανδρὅς",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -500,23 +510,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:7",
       "greek_reference": "Ῥούθ 1:7",
       "verse_anchor": "Ruth.1.7",
-      "greek_text": "ἄρτους και εχ ηλθεν εκ του τ οπου ου",
-      "english_translation": "breads. And she went forth from out of the place of which",
+      "greek_text": "και εχηλθεν εκ του τοπου ου ουτως εποιει ενιαυτον κατ' ενιαυτον εν τω αναβα ινειν αυτην εις οικον κυριου και",
+      "english_translation": "breads. And she went forth from out of the place of which to her a child. Thus she did year by year in her ascending unto the house of the; and",
       "morphology": [
-        {
-          "surface_form": "ἄρτους",
-          "lemma": "ἄρτους",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.7"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -526,16 +530,24 @@
           "verse_anchor": "Ruth.1.7"
         },
         {
-          "surface_form": "εχ",
-          "lemma": "εχ",
+          "surface_form": "εχηλθεν",
+          "lemma": "εχηλθεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.7"
         },
         {
-          "surface_form": "ηλθεν",
-          "lemma": "ηλθεν",
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.7"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -583,31 +595,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:8",
       "greek_reference": "Ῥούθ 1:8",
       "verse_anchor": "Ruth.1.8",
-      "greek_text": "Ιο υδα και ε ιπε Νοομ ι ταις δυς ι νυμφαις αυτης πορε υθητε δη αποστρ αφητε εκαστη εις τον οικον μητρ ος αυτης ποιησαι κυριος μεθ' υμ ων ἔλεος καθ ως εποιησατε μετα των τεθνηκ οτων και μετ' εμου Θ θεους αυτης επιστρ αφητι δη και συ οπισω της συνν υμφης σου",
-      "english_translation": "of Judah. And Naomi said to [2two 3daughters-in-law 1her], Go, please, let [2return 1each] to the house of her mother! May the deal [2with 3you 1mercy], as you did with the ones having died, and with me. her gods; [4turn back 3please 2also 1you] after your sister-in-law!",
+      "greek_text": "και ειπε Νοομ ι ταις δυς ι νυμφαις αυτης πορε υθητε δη αποστρ αφητε εκαστη εις τον οικον μητρ ος αυτης ποιησαι κυριος μεθ' υμ ων ἔλεος καθ ως εποιησατε μετα των τεθνηκ οτων και μετ' εμου θεους αυτης επιστρ αφητι δη και συ οπισω της συνν υμφης σου",
+      "english_translation": "of Judah. And Naomi said to two daughters-in-law her, Go, please, let return each to the house of her mother! May the deal with you mercy, as you did with the ones having died, and with me. her gods; turn back please also you after your sister-in-law!",
       "morphology": [
-        {
-          "surface_form": "Ιο",
-          "lemma": "Ιο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.8"
-        },
-        {
-          "surface_form": "υδα",
-          "lemma": "υδα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.8"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -617,8 +615,24 @@
           "verse_anchor": "Ruth.1.8"
         },
         {
-          "surface_form": "ιπε",
-          "lemma": "ιπε",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.8"
+        },
+        {
+          "surface_form": "Νοομ",
+          "lemma": "Νοομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.8"
+        },
+        {
+          "surface_form": "ταις",
+          "lemma": "ταις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -666,13 +680,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:9",
       "greek_reference": "Ῥούθ 1:9",
       "verse_anchor": "Ruth.1.9",
-      "greek_text": "δωη κυριος υμ ιν και ε υροιτε αναπαυσιν εκαστη εν οικω ανδρ ος αυτης και κατεφ ιλησεν αυτας και επηραν την φων ην αυτων και ἔκλαυσαν",
+      "greek_text": "δωη κυριος υμ ιν και ευροιτε αναπαυσιν εκαστη εν οικω ανδρ ος αυτης και κατεφ ιλησεν αυτας και επηραν την φων ην αυτων και ἔκλαυσαν",
       "english_translation": "May the give to you, and you should find rest each in the house of her husband. And she kissed them, and they lifted up their voice, and wept.",
       "morphology": [
         {
@@ -749,14 +765,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:10",
       "greek_reference": "Ῥούθ 1:10",
       "verse_anchor": "Ruth.1.10",
-      "greek_text": "και ε ιπον αυτη μετα σου επιστρ εψομεν επι",
-      "english_translation": "And they said to her, [2with 3you 1We shall return] unto 2036-*",
+      "greek_text": "και ειπον αυτη μετα σου επιστρ εψομεν επι τον λαον σου",
+      "english_translation": "And they said to her, with you We shall return unto 2036-*",
       "morphology": [
         {
           "surface_form": "και",
@@ -767,8 +785,8 @@
           "verse_anchor": "Ruth.1.10"
         },
         {
-          "surface_form": "ιπον",
-          "lemma": "ιπον",
+          "surface_form": "ειπον",
+          "lemma": "ειπον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -832,42 +850,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:11",
       "greek_reference": "Ῥούθ 1:11",
       "verse_anchor": "Ruth.1.11",
-      "greek_text": "τον λαον σου και ε ιπε Νοομ ι επιστρ αφητε δη θυγατ ερες μου ινατιπορε υεσθε μετ' εμου μη ἔτι μοι υιοι εν τη κοιλια μου και ἔσονται υμ ιν εις ἄνδρας",
+      "greek_text": "και ειπε Νοομ ι επιστρ αφητε δη θυγατ ερες μου ινατιπορε υεσθε μετ' εμου μη ἔτι μοι υιοι εν τη κοιλια μου και ἔσονται υμ ιν εις ἄνδρας",
       "english_translation": "your people. And Naomi said, Return, please, my daughters! Why do you go with me? Are there still to me sons in my belly, and will they be to you for husbands?",
       "morphology": [
         {
-          "surface_form": "τον",
-          "lemma": "τον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.11"
-        },
-        {
-          "surface_form": "λαον",
-          "lemma": "λαον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.11"
-        },
-        {
-          "surface_form": "σου",
-          "lemma": "σου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.11"
-        },
-        {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.11"
+        },
+        {
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.11"
+        },
+        {
+          "surface_form": "Νοομ",
+          "lemma": "Νοομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.11"
+        },
+        {
+          "surface_form": "επιστρ",
+          "lemma": "επιστρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -915,14 +935,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:12",
       "greek_reference": "Ῥούθ 1:12",
       "verse_anchor": "Ruth.1.12",
-      "greek_text": "επιστρ αφητε δη θυγατ ερες μου πορε υθητε δη ὅτι γεγηρακα του μη ε ιναι ανδρ ι ὅτι ε ιπα ἔστι μοι υπ οστασις του γενηθ ηνα ιμε ανδρ ι",
-      "english_translation": "Return, please, my daughters! Go, please! for I have grown old to not have a husband. For I said, Is it to me a reality [2to exist 3to me for a husband],",
+      "greek_text": "επιστρ αφητε δη θυγατ ερες μου πορε υθητε δη ὅτι γεγηρακα του μη ειναι ανδρ ι ὅτι ειπα ἔστι μοι υπ οστασις του γενηθ ηνα ιμε ανδρ ι και τεχομαι υιους",
+      "english_translation": "Return, please, my daughters! Go, please! for I have grown old to not have a husband. For I said, Is it to me a reality to exist to me for a husband,",
       "morphology": [
         {
           "surface_form": "επιστρ",
@@ -998,42 +1020,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:13",
       "greek_reference": "Ῥούθ 1:13",
       "verse_anchor": "Ruth.1.13",
-      "greek_text": "και τ εχομαι υιους μη αυτο υς προσδ εχεσθε ἔως ου ανδρυνθὤσιν η αυτὅις κατασξεθ ησεσθε του μη γενεσθαι ανδρ ι μη θυγατ ερες μου ὅτι επικρανθη μοι σφ οδρα υπ ερ υμ ας ὅτι εχ ηλθεν εν εμοι ξειρ κυριου",
-      "english_translation": "and shall I give birth to sons? Shall you wait for them until of which time they should become manly? Or, for them shall you hold up so as to not have a husband? No, my daughters. For it is made bitter to me exceedingly for you that [3came forth 4against 5me the hand of the].",
+      "greek_text": "μη αυτο υς προσδ εχεσθε ἔως ου ανδρυνθὤσινη αυτὅις κατασξεθ ησεσθε του μη γενεσθαι ανδρ ι μη θυγατ ερες μου ὅτι επικρανθη μοι σφ οδρα υπ ερ υμ ας ὅτι εχηλθεν εν εμοι ξειρ κυριου",
+      "english_translation": "and shall I give birth to sons? Shall you wait for them until of which time they should become manly? Or, for them shall you hold up so as to not have a husband? No, my daughters. For it is made bitter to me exceedingly for you that came forth against me the hand of the.",
       "morphology": [
-        {
-          "surface_form": "και",
-          "lemma": "και",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.13"
-        },
-        {
-          "surface_form": "εχομαι",
-          "lemma": "εχομαι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.13"
-        },
-        {
-          "surface_form": "υιους",
-          "lemma": "υιους",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.13"
-        },
         {
           "surface_form": "μη",
           "lemma": "μη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.13"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.13"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.13"
+        },
+        {
+          "surface_form": "προσδ",
+          "lemma": "προσδ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1081,7 +1105,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:14",
@@ -1164,14 +1190,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:15",
       "greek_reference": "Ῥούθ 1:15",
       "verse_anchor": "Ruth.1.15",
-      "greek_text": "και ἔιπε Νοομἴ προς Ρουθ ιδὅυ ανἔστρεψεν η ςυννυμφ ος σου προς τον λαον αυτης και προς τους",
-      "english_translation": "And Naomi said to Ruth, Behold, [3returned 2sister-in-law 1your] to her people, and to",
+      "greek_text": "και ἔιπε Νοομἴ προς Ρουθ ιδὅυ ανἔστρεψενη ςυννυμφ ος σου προς τον λαον αυτης και προς τους Θ",
+      "english_translation": "And Naomi said to Ruth, Behold, returned sister-in-law your to her people, and to",
       "morphology": [
         {
           "surface_form": "και",
@@ -1247,14 +1275,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:16",
       "greek_reference": "Ῥούθ 1:16",
       "verse_anchor": "Ruth.1.16",
-      "greek_text": "ἔιπε δε Ρουθ μη απαντἤσαι μοι του καταλιπε ιν σε η αποστρ εψαι ὅπισθἔν σου ὅτι συ ὅπου ἔαν πορευθἤς πορἔυσομαι και ὅπου ἔαν αυλισθἤς αυλισθἤσομαι ο λἄος σου",
-      "english_translation": "[3said 1And 2Ruth], Do not encounter to me to leave you, or to turn behind you! For you – where ever you should go, I shall go; and where ever you should lodge, I shall lodge. Your people",
+      "greek_text": "ἔιπε δε Ρουθ μη απαντἤσαι μοι του καταλιπε ιν σεη αποστρ εψαι ὅπισθἔν σου ὅτι συ ὅπου ἔαν πορευθἤς πορἔυσομαι και ὅπου ἔαν αυλισθἤς αυλισθἤσομαι ο λἄος σου λαος μου και ο θεος σου θεος μου",
+      "english_translation": "said And Ruth, Do not encounter to me to leave you, or to turn behind you! For you – where ever you should go, I shall go; and where ever you should lodge, I shall lodge. Your people",
       "morphology": [
         {
           "surface_form": "ἔιπε",
@@ -1330,31 +1360,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:17",
       "greek_reference": "Ῥούθ 1:17",
       "verse_anchor": "Ruth.1.17",
-      "greek_text": "λαος μου και ο θεος σου θεος μου και ου ἔαν αποθἄνης αποθανὅυμαι κακἔι ταφ ησομαι τ αδε ποιησαι κυριος μοι και τ αδε προσθἔιη ὅτι θἄνατος διαστελἔι αναμἔσον",
-      "english_translation": "shall be my people, and your God my God. And where ever you should die, I shall die, and there I shall be entombed. Thus [2do the] to me, and thus may he add more! for death only shall separate between",
+      "greek_text": "και ου ἔαν αποθἄνης αποθανὅυμαι κακἔι ταφ ησομαι ταδε ποιησαι κυριος μοι και ταδε προσθἔιη ὅτι θἄνατος διαστελἔι αναμἔσον εμου και σου",
+      "english_translation": "shall be my people, and your God my God. And where ever you should die, I shall die, and there I shall be entombed. Thus do the to me, and thus may he add more! for death only shall separate between",
       "morphology": [
-        {
-          "surface_form": "λαος",
-          "lemma": "λαος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.17"
-        },
-        {
-          "surface_form": "μου",
-          "lemma": "μου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.17"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -1364,8 +1380,24 @@
           "verse_anchor": "Ruth.1.17"
         },
         {
-          "surface_form": "θεος",
-          "lemma": "θεος",
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.17"
+        },
+        {
+          "surface_form": "ἔαν",
+          "lemma": "ἔαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.17"
+        },
+        {
+          "surface_form": "αποθἄνης",
+          "lemma": "αποθἄνης",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1413,42 +1445,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:18",
       "greek_reference": "Ῥούθ 1:18",
       "verse_anchor": "Ruth.1.18",
-      "greek_text": "εμου και σου ιδο υσα δε Νοομ ι ὅτι κραταιὅυται αυτἤ του πορἔυεσθαι μετ' αυτἤς εκὅπασε",
-      "english_translation": "me and you. [3having seen 1And 2Naomi] that she was determined to go with her, abated",
+      "greek_text": "ιδο υσα δε Νοομ ι ὅτι κραταιὅυται αυτἤ του πορἔυεσθαι μετ' αυτἤς εκὅπασε του λαλ ησαι προς αυτην ἔτι",
+      "english_translation": "me and you. having seen And Naomi that she was determined to go with her, abated",
       "morphology": [
-        {
-          "surface_form": "εμου",
-          "lemma": "εμου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.18"
-        },
-        {
-          "surface_form": "και",
-          "lemma": "και",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.18"
-        },
-        {
-          "surface_form": "σου",
-          "lemma": "σου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.1.18"
-        },
         {
           "surface_form": "ιδο",
           "lemma": "ιδο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.18"
+        },
+        {
+          "surface_form": "υσα",
+          "lemma": "υσα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.18"
+        },
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.1.18"
+        },
+        {
+          "surface_form": "Νοομ",
+          "lemma": "Νοομ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1496,42 +1530,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:19",
       "greek_reference": "Ῥούθ 1:19",
       "verse_anchor": "Ruth.1.19",
-      "greek_text": "του λαλ ησαι προς αυτην ἔτι επορε υθησαν δε αμφ οτεραι ἔως του παραγεν εσθαι αυτας εις Βηθλε εμ και εγενετο εν τω ελθειν αυτας εις Βηθλε εμ και ἤξησε πασα η πολις επ' αυτα ις και",
-      "english_translation": "to speak to her anymore. [3went 1And 2both] until their arriving in Beth-lehem. And it came to pass in their coming unto Beth-lehem, that [4resounded 1all 2the 3city] concerning them. And",
+      "greek_text": "επορευθησαν δε αμφ οτεραι ἔως του παραγεν εσθαι αυτας εις Βηθλε εμ και εγενετο εν τω ελθειν αυτας εις Βηθλε εμ και ἤξησε πασαη πολις επ' αυτα ις και ἔιπαν ει ἄυτη εστἴ Νοομἴ",
+      "english_translation": "to speak to her anymore. went And both until their arriving in Beth-lehem. And it came to pass in their coming unto Beth-lehem, that resounded all the city concerning them. And",
       "morphology": [
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "επορευθησαν",
+          "lemma": "επορευθησαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.19"
         },
         {
-          "surface_form": "λαλ",
-          "lemma": "λαλ",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.19"
         },
         {
-          "surface_form": "ησαι",
-          "lemma": "ησαι",
+          "surface_form": "αμφ",
+          "lemma": "αμφ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.19"
         },
         {
-          "surface_form": "προς",
-          "lemma": "προς",
+          "surface_form": "οτεραι",
+          "lemma": "οτεραι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1579,42 +1615,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:20",
       "greek_reference": "Ῥούθ 1:20",
       "verse_anchor": "Ruth.1.20",
-      "greek_text": "ἔιπαν ει ἄυτη εστἴ Νοομἴ και ἔιπε προς αυτἄς μη δη καλε ιτ ε με Νοομ ι καλ εσατ ε με Πικρ αν ὅτι",
+      "greek_text": "και ἔιπε προς αυτἄς μη δη καλε ιτ ε με Νοομ ι καλ εσατ ε με Πικρ αν ὅτι επικρἄνθη εν εμὅι ο ικανὅς σφὅδρα",
       "english_translation": "they said, Is this Naomi? And she said to them, Do not indeed call me Naomi! Call me, Bitter! for",
       "morphology": [
         {
-          "surface_form": "ἔιπαν",
-          "lemma": "ἔιπαν",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.20"
         },
         {
-          "surface_form": "ει",
-          "lemma": "ει",
+          "surface_form": "ἔιπε",
+          "lemma": "ἔιπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.20"
         },
         {
-          "surface_form": "ἄυτη",
-          "lemma": "ἄυτη",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.20"
         },
         {
-          "surface_form": "εστἴ",
-          "lemma": "εστἴ",
+          "surface_form": "αυτἄς",
+          "lemma": "αυτἄς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1662,42 +1700,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:21",
       "greek_reference": "Ῥούθ 1:21",
       "verse_anchor": "Ruth.1.21",
-      "greek_text": "επικρἄνθη εν εμὅι ο ικανὅς σφὅδρα εγὤ επορε υθην πλ ηρης και κενην απ εστρεψ ε με κυριος και ινατικαλε ιτ ε με Νοομ ι και κυριος εταπε ινως εμε",
-      "english_translation": "[3embittered 4me 1the 2worthy one] exceedingly. I went out full, and [4empty 2returned 3me 1the]. And why do you call me Naomi, and the humbled me, 1994-*",
+      "greek_text": "εγὤ επορευθην πλ ηρης και κενην απ εστρεψ ε με κυριος και ινατικαλε ιτ ε με Νοομ ι και κυριος εταπε ινως εμε και ο ικανὅς εκἄκωσἔ με",
+      "english_translation": "embittered me the worthy one exceedingly. I went out full, and empty returned me the. And why do you call me Naomi, and the humbled me, 1994-*",
       "morphology": [
         {
-          "surface_form": "επικρἄνθη",
-          "lemma": "επικρἄνθη",
+          "surface_form": "εγὤ",
+          "lemma": "εγὤ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.21"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "επορευθην",
+          "lemma": "επορευθην",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.21"
         },
         {
-          "surface_form": "εμὅι",
-          "lemma": "εμὅι",
+          "surface_form": "πλ",
+          "lemma": "πλ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.21"
         },
         {
-          "surface_form": "ικανὅς",
-          "lemma": "ικανὅς",
+          "surface_form": "ηρης",
+          "lemma": "ηρης",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1745,13 +1785,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:21) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 1:22",
       "greek_reference": "Ῥούθ 1:22",
       "verse_anchor": "Ruth.1.22",
-      "greek_text": "και ο ικανὅς εκἄκωσἔ με και επἔστρεψε Νοομἴ και Ρουθ η Μωαβ ιτις η νυμφη αυτης μετ' αυτης επιστρἔφουσαι εχ αγρὅυ Μὤαβ ἄυται δε παρεγεν ηθησαν εις Βηθλε εμ εν αρξ η θερισμο υ",
+      "greek_text": "και επἔστρεψε Νοομἴ και Ρουθη Μωαβ ιτιςη νυμφη αυτης μετ' αυτης επιστρἔφουσαι εχ αγρὅυ Μὤαβ ἄυται δε παρεγεν ηθησαν εις Βηθλε εμ εν αρξη θερισμου",
       "english_translation": "and the worthy one afflicted me? And Naomi returned, and Ruth the Moabitess, her daughter-in-law with her, to return from out of the country of Moab. And they came unto Beth-lehem at the beginning [2harvest",
       "morphology": [
         {
@@ -1763,24 +1805,24 @@
           "verse_anchor": "Ruth.1.22"
         },
         {
-          "surface_form": "ικανὅς",
-          "lemma": "ικανὅς",
+          "surface_form": "επἔστρεψε",
+          "lemma": "επἔστρεψε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.22"
         },
         {
-          "surface_form": "εκἄκωσἔ",
-          "lemma": "εκἄκωσἔ",
+          "surface_form": "Νοομἴ",
+          "lemma": "Νοομἴ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.1.22"
         },
         {
-          "surface_form": "με",
-          "lemma": "με",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1828,7 +1870,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 1:22) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:1",
@@ -1911,14 +1955,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:2",
       "greek_reference": "Ῥούθ 2:2",
       "verse_anchor": "Ruth.2.2",
-      "greek_text": "και ἔιπε Ρουθ η Μωαβἴτις προς Νοομἴ πορευθ ω δη εις αγρ ον και συν αχω εν τοις σταξυσι κατοπισθεν ου αν ε υρω ξαριν εν οφθαλμὅις αυτὅυ ἔιπε δε αυτἤ πορἔυου θὔγατερ",
-      "english_translation": "And [4said 1Ruth 2the 3Moabitess] to Naomi, I should go indeed into a field, and gather among the ears of wheat after of whom ever I should find favor in his eyes. And she said to her, Go, O daughter!",
+      "greek_text": "και ἔιπε Ρουθη Μωαβἴτις προς Νοομἴ πορευθ ω δη εις αγρ ον και συν αχω εν τοις σταξυσι κατοπισθεν ου αν ευρω ξαριν εν οφθαλμὅις αυτὅυ ἔιπε δε αυτἤ πορἔυου θὔγατερ",
+      "english_translation": "And said Ruth the Moabitess to Naomi, I should go indeed into a field, and gather among the ears of wheat after of whom ever I should find favor in his eyes. And she said to her, Go, O daughter!",
       "morphology": [
         {
           "surface_form": "και",
@@ -1937,8 +1983,8 @@
           "verse_anchor": "Ruth.2.2"
         },
         {
-          "surface_form": "Ρουθ",
-          "lemma": "Ρουθ",
+          "surface_form": "Ρουθη",
+          "lemma": "Ρουθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -1994,13 +2040,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:3",
       "greek_reference": "Ῥούθ 2:3",
       "verse_anchor": "Ruth.2.3",
-      "greek_text": "και επορε υθη και ελθουσα συν ελεχεν εν τω αγρὤ κατὅπισθε των θεριζὅντων και περἴεπεσε περιπτ ωματι τη μεριδι του αγρο υ Βοοζ του",
+      "greek_text": "και επορευθη και ελθουσα συν ελεχεν εν τω αγρὤ κατὅπισθε των θεριζὅντων και περἴεπεσε περιπτ ωματι τη μεριδι του αγρου Βοοζ του εκ της συγγενε ιας Ελιμ ελεξ",
       "english_translation": "And she went. And having arrived, she collected together in the field from behind the ones harvesting. And she fell by chance in the portion of the field of Boaz, the one",
       "morphology": [
         {
@@ -2012,16 +2060,8 @@
           "verse_anchor": "Ruth.2.3"
         },
         {
-          "surface_form": "επορε",
-          "lemma": "επορε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.3"
-        },
-        {
-          "surface_form": "υθη",
-          "lemma": "υθη",
+          "surface_form": "επορευθη",
+          "lemma": "επορευθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2030,6 +2070,14 @@
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.3"
+        },
+        {
+          "surface_form": "ελθουσα",
+          "lemma": "ελθουσα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2077,42 +2125,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:4",
       "greek_reference": "Ῥούθ 2:4",
       "verse_anchor": "Ruth.2.4",
-      "greek_text": "εκ της συγγενε ιας Ελιμ ελεξ και ιδο υ Βοοζ ἤλθεν εκ Βηθλε εμ και ε ιπε τοις θερἴζουσι κὔριος μεθ' υμὤν και ἔιπον αυτὤ",
+      "greek_text": "και ιδου Βοοζ ἤλθεν εκ Βηθλε εμ και ειπε τοις θερἴζουσι κὔριος μεθ' υμὤν και ἔιπον αυτὤ ευλογ ησαι σε κυριος",
       "english_translation": "from out of the kin of Elimelech. And, behold, Boaz came from out of Beth-lehem, and said to the ones harvesting, The be with you. And they said to him, 2036-*",
       "morphology": [
         {
-          "surface_form": "εκ",
-          "lemma": "εκ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.4"
         },
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.4"
         },
         {
-          "surface_form": "συγγενε",
-          "lemma": "συγγενε",
+          "surface_form": "Βοοζ",
+          "lemma": "Βοοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.4"
         },
         {
-          "surface_form": "ιας",
-          "lemma": "ιας",
+          "surface_form": "ἤλθεν",
+          "lemma": "ἤλθεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2160,42 +2210,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:5",
       "greek_reference": "Ῥούθ 2:5",
       "verse_anchor": "Ruth.2.5",
-      "greek_text": "ευλογ ησαι σε κυριος και ε ιπε Βοοζ τω παιδαρ ιω αυτο υ τω εφεστ ωτι επι τους θεριζοντας",
-      "english_translation": "May [2bless 3you the]. And Boaz said to his servant having been set over the ones harvesting,",
+      "greek_text": "και ειπε Βοοζ τω παιδαρ ιω αυτου τω εφεστ ωτι επι τους θεριζοντας τινοςη νεανις αυτη",
+      "english_translation": "May bless you the. And Boaz said to his servant having been set over the ones harvesting,",
       "morphology": [
         {
-          "surface_form": "ευλογ",
-          "lemma": "ευλογ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.5"
         },
         {
-          "surface_form": "ησαι",
-          "lemma": "ησαι",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.5"
         },
         {
-          "surface_form": "σε",
-          "lemma": "σε",
+          "surface_form": "Βοοζ",
+          "lemma": "Βοοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.5"
         },
         {
-          "surface_form": "κυριος",
-          "lemma": "κυριος",
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2243,42 +2295,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:6",
       "greek_reference": "Ῥούθ 2:6",
       "verse_anchor": "Ruth.2.6",
-      "greek_text": "τ ινος η νεανις αυτη και απεκρ ιθη το παιδ αριον το εφεστ ος επι τους θεριζοντας και ε ιπεν η παις η Μωαβ ιτις εστιν η αποστραφε ισα μετα Νοομ ι εχ αγρο υ",
-      "english_translation": "Whose young woman is this? And [7answered 1the 2servant 3having attended 4over 5the ones 6harvesting] and said, She [4servant 2the 3Moabitess 1is] having returned with Naomi from out of the country",
+      "greek_text": "και απεκρ ιθη το παιδ αριον το εφεστ ος επι τους θεριζοντας και ειπενη παιςη Μωαβ ιτις εστινη αποστραφε ισα μετα Νοομ ι εχ αγρου Μω αβ",
+      "english_translation": "Whose young woman is this? And answered the servant having attended over the ones harvesting and said, She servant the Moabitess is having returned with Naomi from out of the country",
       "morphology": [
-        {
-          "surface_form": "ινος",
-          "lemma": "ινος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.6"
-        },
-        {
-          "surface_form": "νεανις",
-          "lemma": "νεανις",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.6"
-        },
-        {
-          "surface_form": "αυτη",
-          "lemma": "αυτη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.6"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.6"
+        },
+        {
+          "surface_form": "απεκρ",
+          "lemma": "απεκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.6"
+        },
+        {
+          "surface_form": "ιθη",
+          "lemma": "ιθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.6"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2326,31 +2380,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:7",
       "greek_reference": "Ῥούθ 2:7",
       "verse_anchor": "Ruth.2.7",
-      "greek_text": "Μω αβ και ε ιπε συλλ εχω δη και συν αχω εν τοις δραγμασιν ὅπισθεν των θεριζ οντων και ἤλθε και ἔστη απὅ πρω+θεν και ἔως εσπἔρας",
+      "greek_text": "και ειπε συλλ εχω δη και συν αχω εν τοις δραγμασιν ὅπισθεν των θεριζ οντων και ἤλθε και ἔστη απὅ πρω+θεν και ἔως εσπἔρας ου κατεπαυσεν εν τω αγρ ω μικρον",
       "english_translation": "of Moab. And she said, I shall collect together please, and I will bring in the sheaves behind the ones harvesting. And she came, and stood from morning and until evening – 2036-*",
       "morphology": [
-        {
-          "surface_form": "Μω",
-          "lemma": "Μω",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.7"
-        },
-        {
-          "surface_form": "αβ",
-          "lemma": "αβ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.7"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -2360,8 +2400,24 @@
           "verse_anchor": "Ruth.2.7"
         },
         {
-          "surface_form": "ιπε",
-          "lemma": "ιπε",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.7"
+        },
+        {
+          "surface_form": "συλλ",
+          "lemma": "συλλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.7"
+        },
+        {
+          "surface_form": "εχω",
+          "lemma": "εχω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2409,42 +2465,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:8",
       "greek_reference": "Ῥούθ 2:8",
       "verse_anchor": "Ruth.2.8",
-      "greek_text": "ου κατεπαυσεν εν τω αγρ ω μικρον και ε ιπε Βοοζ προς Ρουθ ουκ ηκουσας θυγατερ μη πορευθ ης συλλ εχαιεν αγρ ω ετ ερω και συ ου πορε υση εντἔυθεν ὤδε κολλἤθητι μετἄ των κορασἴων μου",
-      "english_translation": "she rested not in the field a little. And Boaz said to Ruth, Did you not hear, O daughter? You should not go to collect into [2field 1another], and you should not go from here. [2here 1You join up] with my young women!",
+      "greek_text": "και ειπε Βοοζ προς Ρουθ ουκ ηκουσας θυγατερ μη πορευθ ης συλλ εχαιεν αγρ ω ετερω και συ ου πορε υση εντἔυθεν ὤδε κολλἤθητι μετἄ των κορασἴων μου",
+      "english_translation": "she rested not in the field a little. And Boaz said to Ruth, Did you not hear, O daughter? You should not go to collect into field another, and you should not go from here. here You join up with my young women!",
       "morphology": [
         {
-          "surface_form": "ου",
-          "lemma": "ου",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.8"
         },
         {
-          "surface_form": "κατεπαυσεν",
-          "lemma": "κατεπαυσεν",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.8"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "Βοοζ",
+          "lemma": "Βοοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.8"
         },
         {
-          "surface_form": "τω",
-          "lemma": "τω",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2492,13 +2550,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:9",
       "greek_reference": "Ῥούθ 2:9",
       "verse_anchor": "Ruth.2.9",
-      "greek_text": "και οι οφθαλμο ι σου εις τον αγρ ον ου αν θεριζωσι και πορε υση κατοπισθεν αυτων ιδο υ ενετειλαμην τοις παιδαρ ιοις του μη ἄψασθἄι σου και ὅτε διψησεις και πορευθ ηση εις τα σκἔυη και πἴεσαι ὅθεν υδρἔυωνται",
+      "greek_text": "και οι οφθαλμο ι σου εις τον αγρ ον ου αν θεριζωσι και πορε υση κατοπισθεν αυτων ιδου ενετειλ αμην τοις παιδαρ ιοις του μη ἄψασθἄι σου και ὅτε διψησεις και πορευθ ηση εις τα σκἔυη και πἴεσαι ὅθεν υδρἔυωνται τα παιδ αρια",
       "english_translation": "And let your eyes be unto the field where ever mine should harvest! and you should go after them. Behold, I gave charge to the servants to not touch you. And when you shall thirst, then you shall go to the vessels, and you shall drink from where [3should draw water",
       "morphology": [
         {
@@ -2575,42 +2635,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:10",
       "greek_reference": "Ῥούθ 2:10",
       "verse_anchor": "Ruth.2.10",
-      "greek_text": "τα παιδ αρια και ἔπεσεν επι προσωπον αυτης και προσεκ υνησεν επι την γην και ε ιπε προς αυτον τι ὅτι ἔυρον ξἄριν εν οφθαλμὅις σου του επιγνὤνἄι με",
+      "greek_text": "και ἔπεσεν επι προσωπον αυτης και προσεκ υνησεν επι την γην και ειπε προς αυτον τι ὅτι ἔυρον ξἄριν εν οφθαλμὅις σου του επιγνὤνἄι με και εγω ειμι χενη",
       "english_translation": "1the 2servants]. And she fell upon her face, and did obeisance upon the ground, and said to him, Why is it that I found favor in your eyes to recognize me, 611-*",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.10"
-        },
-        {
-          "surface_form": "παιδ",
-          "lemma": "παιδ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.10"
-        },
-        {
-          "surface_form": "αρια",
-          "lemma": "αρια",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.10"
-        },
-        {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.10"
+        },
+        {
+          "surface_form": "ἔπεσεν",
+          "lemma": "ἔπεσεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.10"
+        },
+        {
+          "surface_form": "επι",
+          "lemma": "επι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.10"
+        },
+        {
+          "surface_form": "προσωπον",
+          "lemma": "προσωπον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2658,13 +2720,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:11",
       "greek_reference": "Ῥούθ 2:11",
       "verse_anchor": "Ruth.2.11",
-      "greek_text": "και εγω ειμι χ ενη και απεκρ ιθη Βοοζ και ε ιπεν αυτἤ απαγγελἴα απηγγἔλη μοι πἄντα ὅσα πεπο ιηκας μετα της πενθερ ας σου μετα το αποθανε ιν τον ἄνδρα σου και πως κατελιπες τον πατ ερα σου και την μητ ερα σου και την γην γενεσεως σου και επορε υθης προς λαον ον ουκ ηδεις εξθες",
+      "greek_text": "και απεκρ ιθη Βοοζ και ειπεν αυτἤ απαγγελἴα απηγγἔλη μοι πἄντα ὅσα πεπο ιηκας μετα της πενθερ ας σου μετα το αποθανε ιν τον ἄνδρα σου και πως κατελιπες τον πατ ερα σου και την μητ ερα σου και την γην γενεσεως σου και επορευθης προς λαον ον ουκ ηδεις εξθες και τριτης",
       "english_translation": "and I am a stranger? And Boaz answered, and said to her, By report it was reported to me all as much as you have done with your mother-in-law after the dying of your husband; and how you left behind your father, and your mother, and the land of your origin, and went to a people which you knew not yesterday",
       "morphology": [
         {
@@ -2676,24 +2740,24 @@
           "verse_anchor": "Ruth.2.11"
         },
         {
-          "surface_form": "εγω",
-          "lemma": "εγω",
+          "surface_form": "απεκρ",
+          "lemma": "απεκρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.11"
         },
         {
-          "surface_form": "ειμι",
-          "lemma": "ειμι",
+          "surface_form": "ιθη",
+          "lemma": "ιθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.11"
         },
         {
-          "surface_form": "ενη",
-          "lemma": "ενη",
+          "surface_form": "Βοοζ",
+          "lemma": "Βοοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2741,31 +2805,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:12",
       "greek_reference": "Ῥούθ 2:12",
       "verse_anchor": "Ruth.2.12",
-      "greek_text": "και τριτης αποτ ισαι κυριος την εργας ιαν σου και γενοιτο ο μισθ ος σου πλ ηρης παρ α κυριου θεου Ισρα ηλ προς ον ἤλθες πεποιθ εναι",
-      "english_translation": "and the third day before. May the repay your work, and may [2become 1your wage] full from the God of Israel, to whom you came to have yielded",
+      "greek_text": "αποτ ισαι κυριος την εργας ιαν σου και γενοιτο ο μισθ ος σου πλ ηρης παρ α κυριου θεου Ισρα ηλ προς ον ἤλθες πεποιθ εναι υπ ο τας πτερυγας αυτου",
+      "english_translation": "and the third day before. May the repay your work, and may become your wage full from the God of Israel, to whom you came to have yielded",
       "morphology": [
-        {
-          "surface_form": "και",
-          "lemma": "και",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.12"
-        },
-        {
-          "surface_form": "τριτης",
-          "lemma": "τριτης",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.12"
-        },
         {
           "surface_form": "αποτ",
           "lemma": "αποτ",
@@ -2777,6 +2827,22 @@
         {
           "surface_form": "ισαι",
           "lemma": "ισαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.12"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.12"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2824,42 +2890,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:13",
       "greek_reference": "Ῥούθ 2:13",
       "verse_anchor": "Ruth.2.13",
-      "greek_text": "υπ ο τας πτερυγας αυτο υ η δε ε ιπεν ε υροιμι ξαριν εν οφθαλμο ις σου κυριε μου ὅτι παρεκ αλες ας με και ὅτι ελαλησας επι καρδ ιαν της δουλης σου και ιδὅυ εγὤ ἔσομαι ως μἴα των παιδισκὤν σου",
+      "greek_text": "η δε ειπεν ευροιμι ξαριν εν οφθαλμο ις σου κυριε μου ὅτι παρεκ αλες ας με και ὅτι ελαλησας επι καρδ ιαν της δουλης σου και ιδὅυ εγὤ ἔσομαι ως μἴα των παιδισκὤν σου",
       "english_translation": "under his wings. And she said, May I find favor in your eyes, O my master; for you comforted me, and because you spoke in your heart to your bondwoman; and behold, I shall be as one of your maidservants.",
       "morphology": [
         {
-          "surface_form": "υπ",
-          "lemma": "υπ",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.13"
         },
         {
-          "surface_form": "τας",
-          "lemma": "τας",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.13"
         },
         {
-          "surface_form": "πτερυγας",
-          "lemma": "πτερυγας",
+          "surface_form": "ευροιμι",
+          "lemma": "ευροιμι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.13"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "ξαριν",
+          "lemma": "ξαριν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2907,14 +2975,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:14",
       "greek_reference": "Ῥούθ 2:14",
       "verse_anchor": "Ruth.2.14",
-      "greek_text": "και ε ιπεν αυτη Βοοζ ἤδη ὤρα του φαγε ιν προσελθε ὤδε και φ αγεσαι των ἄρτων μου και βαψεις Ρ τον ψωμ ον σου εν τω ὅχει και εκαθισε Ρουθ εκ πλαγ ιων των θεριζ οντων και εβουνισεν αυτη Βὅοζ ἄλφιτον και ἔφαγε και ενεπλἤσθη και κατἔλιπε",
-      "english_translation": "And [2said 3to her 1Boaz], Already it is the hour to eat; draw near here! for you shall eat of my breads, and dip 2523-* your morsel in the vinegar. And Ruth sat from out of the side of the ones harvesting. And [2heaped up 3to her 1Boaz] toasted grain, and she ate, and was filled, and left. 1781-*",
+      "greek_text": "και ειπεν αυτη Βοοζ ἤδη ὤρα του φαγε ιν προσελθε ὤδε και φ αγεσαι των ἄρτων μου και βαψεις Ρ τον ψωμ ον σου εν τω ὅχει και εκαθισε Ρουθ εκ πλαγ ιων των θεριζ οντων και εβουνισεν αυτη Βὅοζ ἄλφιτον και ἔφαγε και ενεπλἤσθη και κατἔλιπε",
+      "english_translation": "And said to her Boaz, Already it is the hour to eat; draw near here! for you shall eat of my breads, and dip 2523-* your morsel in the vinegar. And Ruth sat from out of the side of the ones harvesting. And heaped up to her Boaz toasted grain, and she ate, and was filled, and left. 1781-*",
       "morphology": [
         {
           "surface_form": "και",
@@ -2925,8 +2995,8 @@
           "verse_anchor": "Ruth.2.14"
         },
         {
-          "surface_form": "ιπεν",
-          "lemma": "ιπεν",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -2990,14 +3060,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:15",
       "greek_reference": "Ῥούθ 2:15",
       "verse_anchor": "Ruth.2.15",
-      "greek_text": "και ανεστη του συλλ εγειν και ενετειλατο Βοοζ τοις παιδαρ ιοις αυτο υ λεγων και γε αναμ εσον των δραγμ ατων συλλεγ ετω και μη καταισξ υνητε Θ ε ιπε Ρουθ προς την πενθερ αν αυτης και γε οτι ε ιπε προς με μετα των παιδαρ ιων των εμων προσκολλ ηθητι ἔως αν τελεσωσιν ὅλον τον αμητ ον ος",
-      "english_translation": "And she rose up to collect grain, and Boaz gave charge to his servants, saying, And indeed, [2in the midst 3of the 4sheaves 1let her collect]! and you should not shame 2036-* Ruth said to her mother-in-law, And also he said to me, [2with 3the 4young men 5of mine 1You cleave]! until whenever they should finish all the harvest which 2036-*",
+      "greek_text": "και ανεστη του συλλ εγειν και ενετε ιλατο Βοοζ τοις παιδαρ ιοις αυτου λεγων και γε αναμ εσον των δραγμ ατων συλλεγ ετω και μη καταισξ υνητε αυτην ειπε Ρουθ προς την πενθερ αν αυτης και γε οτι ειπε προς με μετα των παιδαρ ιων των εμων προσκολλ ηθητι ἔως αν τελεσωσιν ὅλον τον αμητ ον ος υπ αρξει μοι",
+      "english_translation": "And she rose up to collect grain, and Boaz gave charge to his servants, saying, And indeed, in the midst of the sheaves let her collect! and you should not shame 2036-* Ruth said to her mother-in-law, And also he said to me, with the young men of mine You cleave! until whenever they should finish all the harvest which 2036-*",
       "morphology": [
         {
           "surface_form": "και",
@@ -3073,23 +3145,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:16",
       "greek_reference": "Ῥούθ 2:16",
       "verse_anchor": "Ruth.2.16",
-      "greek_text": "αυτην και γε παραβ αλλοντες παραβαλε ιτε αυτἤ εκ των βεβουνισμἔνων και ἄφετε αυτην και συλλ εχει και ουκ επιτιμησετε",
+      "greek_text": "και γε παραβ αλλοντες παραβαλε ιτε αυτἤ εκ των βεβουνισμἔνων και ἄφετε αυτην και συλλ εχει και ουκ επιτιμησετε αυτἤ Θ",
       "english_translation": "her. And indeed in setting aside, you set aside for her from out of the things having been heaped up, and allow her! and she shall collect, and you shall not reproach See Bos for variants.",
       "morphology": [
-        {
-          "surface_form": "αυτην",
-          "lemma": "αυτην",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.16"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3109,6 +3175,14 @@
         {
           "surface_form": "παραβ",
           "lemma": "παραβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.16"
+        },
+        {
+          "surface_form": "αλλοντες",
+          "lemma": "αλλοντες",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3156,23 +3230,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:17",
       "greek_reference": "Ῥούθ 2:17",
       "verse_anchor": "Ruth.2.17",
-      "greek_text": "αυτἤ και συνἔλεχεν εν τω αγρὤ ἔως εσπἔρας και ερραβδισεν α συν ελεχε και εγενηθη",
+      "greek_text": "και συνἔλεχεν εν τω αγρὤ ἔως εσπἔρας και ερραβδισεν α συν ελεχε και εγενηθη ως ὅιφι κριθὤν",
       "english_translation": "her. And she collected in the field until evening, and she beat with a rod what she collected up, and it was",
       "morphology": [
-        {
-          "surface_form": "αυτἤ",
-          "lemma": "αυτἤ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.17"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3192,6 +3260,14 @@
         {
           "surface_form": "εν",
           "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.17"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3239,34 +3315,28 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:18",
       "greek_reference": "Ῥούθ 2:18",
       "verse_anchor": "Ruth.2.18",
-      "greek_text": "ως ὅιφι κριθὤν και ἤρε και εισἤλθεν εις την πὅλιν και ἔιδεν η πενθερἄ αυτης α συν ελεχε και εχενεγκασα Ρουθ ἔδωκεν αυτἤ α κατἔλιπεν εχ ων ενεπλἤσθη",
-      "english_translation": "about an ephah of barley. And she carried it, and entered into the city. And [3saw 2mother-in-law 1627-* 1her] what she collected – and Ruth brought forth to give to her what was left from out of what she was filled up with.",
+      "greek_text": "και ἤρε και εισἤλθεν εις την πὅλιν και ἔιδενη πενθερἄ αυτης α συν ελεχε και εχενεγκασα Ρουθ ἔδωκεν αυτἤ α κατἔλιπεν εχ ων ενεπλἤσθη",
+      "english_translation": "about an ephah of barley. And she carried it, and entered into the city. And saw mother-in-law -* her what she collected – and Ruth brought forth to give to her what was left from out of what she was filled up with.",
       "morphology": [
         {
-          "surface_form": "ως",
-          "lemma": "ως",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.18"
         },
         {
-          "surface_form": "ὅιφι",
-          "lemma": "ὅιφι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.18"
-        },
-        {
-          "surface_form": "κριθὤν",
-          "lemma": "κριθὤν",
+          "surface_form": "ἤρε",
+          "lemma": "ἤρε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3275,6 +3345,14 @@
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.18"
+        },
+        {
+          "surface_form": "εισἤλθεν",
+          "lemma": "εισἤλθεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3322,14 +3400,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:19",
       "greek_reference": "Ῥούθ 2:19",
       "verse_anchor": "Ruth.2.19",
-      "greek_text": "και ε ιπεν αυτη η πενθερ α αυτης που συνἔλεχας σἤμερον και που επὅιησας ἔιη ο επιγνο υς σε ευλογημ ενος και απ ηγγειλε Ρουθ τη πενθερ α αυτης που εποιησε και ε ιπε το ὅνομα του ανδρ οςμεθ' ου εποιησα ςημερον",
-      "english_translation": "And [3said 4to her 2mother-in-law 1her], Where did you collect today? And where did you do it? May it be the one having recognized you having been blessed. And 518-* Ruth reported to her mother-in-law where she did it. And she said, The name of the man with whom I did this today",
+      "greek_text": "και ειπεν αυτηη πενθερ α αυτης που συνἔλεχας σἤμερον και που επὅιησας ἔιη ο επιγνους σε ευλογημ ενος και απ ηγγειλε Ρουθ τη πενθερ α αυτης που εποιησε και ειπε το ὅνομα του ανδρ οςμεθ' ου εποιησα ςημερον Βοοζ",
+      "english_translation": "And said to her mother-in-law her, Where did you collect today? And where did you do it? May it be the one having recognized you having been blessed. And 518-* Ruth reported to her mother-in-law where she did it. And she said, The name of the man with whom I did this today",
       "morphology": [
         {
           "surface_form": "και",
@@ -3340,16 +3420,16 @@
           "verse_anchor": "Ruth.2.19"
         },
         {
-          "surface_form": "ιπεν",
-          "lemma": "ιπεν",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.2.19"
         },
         {
-          "surface_form": "αυτη",
-          "lemma": "αυτη",
+          "surface_form": "αυτηη",
+          "lemma": "αυτηη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3405,26 +3485,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:20",
       "greek_reference": "Ῥούθ 2:20",
       "verse_anchor": "Ruth.2.20",
-      "greek_text": "Βοοζ ε ιπε δε Νοομ ι τη νυμφη αυτης ευλογητ ος εστι τω κυριω ὅτι ουκ εγκατ ελιπε το ἔλεος αυτὅυ μετα των ζ ωντων και μετα των τεθνηκ οτων και ε ιπεν αυτη Νοομ ι εγγιζει ημ ιν ο ανηρ",
-      "english_translation": "is Boaz. [3said 1And 2Naomi] to her daughter-in-law, Blessed is the, for he abandoned not his mercy with the living, and with the ones having died. And [2said 3to her 1Naomi], [3is near 4to us 1The 2man],",
+      "greek_text": "ειπε δε Νοομ ι τη νυμφη αυτης ευλογητ ος εστι τω κυριω ὅτι ουκ εγκατ ελιπε το ἔλεος αυτὅυ μετα των ζ ωντων και μετα των τεθνηκ οτων και ειπεν αυτη Νοομ ι εγγιζει ημ ιν ο ανηρ εκ των αγξιστευ οντων ημ ιν εστι",
+      "english_translation": "is Boaz. said And Naomi to her daughter-in-law, Blessed is the, for he abandoned not his mercy with the living, and with the ones having died. And said to her Naomi, is near to us The man,",
       "morphology": [
         {
-          "surface_form": "Βοοζ",
-          "lemma": "Βοοζ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.20"
-        },
-        {
-          "surface_form": "ιπε",
-          "lemma": "ιπε",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3441,6 +3515,14 @@
         {
           "surface_form": "Νοομ",
           "lemma": "Νοομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.20"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3488,18 +3570,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:21",
       "greek_reference": "Ῥούθ 2:21",
       "verse_anchor": "Ruth.2.21",
-      "greek_text": "εκ των αγξιστευ οντων ημ ιν εστι και των κορασιων",
+      "greek_text": "και των κορασιων",
       "english_translation": "from out of the ones acting as next of kin – he is of us. And & Six. - the young women.",
       "morphology": [
         {
-          "surface_form": "εκ",
-          "lemma": "εκ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3514,16 +3598,8 @@
           "verse_anchor": "Ruth.2.21"
         },
         {
-          "surface_form": "αγξιστευ",
-          "lemma": "αγξιστευ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.21"
-        },
-        {
-          "surface_form": "οντων",
-          "lemma": "οντων",
+          "surface_form": "κορασιων",
+          "lemma": "κορασιων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3571,42 +3647,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:21) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:22",
       "greek_reference": "Ῥούθ 2:22",
       "verse_anchor": "Ruth.2.22",
-      "greek_text": "υπ αρξει μοι και ε ιπε Νοομ ι προς Ρουθ την νὔμφην αυτἤς αγαθὅν θὔγατερ ὅτι εχἤλθες μετα των κορας ιων αυτο υ και ουκ απαντ ησοντα ι σοι",
+      "greek_text": "και ειπε Νοομ ι προς Ρουθ την νὔμφην αυτἤς αγαθὅν θὔγατερ ὅτι εχἤλθες μετα των κορας ιων αυτου και ουκ απαντ ησοντα ι σοι εν αγρὤ ετἔρω",
       "english_translation": "belongs to me. And Naomi said to Ruth her daughter-in-law, It is good, O daughter, that you went forth with his young women, and they shall not meet with you 4347-*",
       "morphology": [
         {
-          "surface_form": "υπ",
-          "lemma": "υπ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.22"
-        },
-        {
-          "surface_form": "αρξει",
-          "lemma": "αρξει",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.22"
-        },
-        {
-          "surface_form": "μοι",
-          "lemma": "μοι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.22"
-        },
-        {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.22"
+        },
+        {
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.22"
+        },
+        {
+          "surface_form": "Νοομ",
+          "lemma": "Νοομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.22"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3654,42 +3732,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:22) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 2:23",
       "greek_reference": "Ῥούθ 2:23",
       "verse_anchor": "Ruth.2.23",
-      "greek_text": "εν αγρὤ ετἔρω και προσεκολλἤθη Ρουθ τοις κορας ιοις του Βοοζ του συλλ εγειν ἔως συνετ ελεσεν τον θερισμὅν των κριθὤν και τον θερισμὅν των πυρὤν",
-      "english_translation": "in [2field 1another]. And Ruth cleaved to the young women of Boaz to collect until they completed the harvest of the barley, and the harvest of the wheat. See Bos for variants.",
+      "greek_text": "και προσεκολλἤθη Ρουθ τοις κορας ιοις του Βοοζ του συλλ εγεινἔως συνετ ελεσεν τον θερισμὅν των κριθὤν και τον θερισμὅν των πυρὤν",
+      "english_translation": "in field another. And Ruth cleaved to the young women of Boaz to collect until they completed the harvest of the barley, and the harvest of the wheat. See Bos for variants.",
       "morphology": [
-        {
-          "surface_form": "εν",
-          "lemma": "εν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.23"
-        },
-        {
-          "surface_form": "αγρὤ",
-          "lemma": "αγρὤ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.23"
-        },
-        {
-          "surface_form": "ετἔρω",
-          "lemma": "ετἔρω",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.2.23"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.23"
+        },
+        {
+          "surface_form": "προσεκολλἤθη",
+          "lemma": "προσεκολλἤθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.23"
+        },
+        {
+          "surface_form": "Ρουθ",
+          "lemma": "Ρουθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.2.23"
+        },
+        {
+          "surface_form": "τοις",
+          "lemma": "τοις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3737,14 +3817,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 2:23) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:1",
       "greek_reference": "Ῥούθ 3:1",
       "verse_anchor": "Ruth.3.1",
-      "greek_text": "και εκαθισε μετα της πενθερ ας αυτης και ἔιπε αυτἤ Νοομἴ η πενθερἄ αυτἤς θὔγατερ ου μη ζητησω σοι αναπαυσιν ἴνα ευ",
-      "english_translation": "And she stayed with her mother-in-law. And [4said 5to her 1Naomi 3mother-in-law 2her], O daughter, In no way shall I seek rest to you, that a good thing",
+      "greek_text": "και εκαθισε μετα της πενθερ ας αυτης και ἔιπε αυτἤ Νοομἴη πενθερἄ αυτἤς θὔγατερ ου μη ζητησω σοι αναπαυσιν ἴνα ευ γἔνητἄι σοι",
+      "english_translation": "And she stayed with her mother-in-law. And said to her Naomi mother-in-law her, O daughter, In no way shall I seek rest to you, that a good thing",
       "morphology": [
         {
           "surface_form": "και",
@@ -3820,31 +3902,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:2",
       "greek_reference": "Ῥούθ 3:2",
       "verse_anchor": "Ruth.3.2",
-      "greek_text": "γἔνητἄι σοι και νυν ουξἴ Βὅοζ γνὤριμος ημ ιν ου ης μετα των κορας ιων αυτο υ ιδο υ αυτος λικμ α τον ἄλωνα των κριθων ταυτη",
+      "greek_text": "και νυν ουξἴ Βὅοζ γνὤριμος ημ ιν ου ης μετα των κορας ιων αυτου ιδου αυτος λικμα τον ἄλωνα των κριθων ταυτη τη νυκτι",
       "english_translation": "should happen to you. And now is not Boaz acquainted to us, of whom you were with his young women? Behold, he winnows at the threshing-floor of the barley this",
       "morphology": [
-        {
-          "surface_form": "γἔνητἄι",
-          "lemma": "γἔνητἄι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.2"
-        },
-        {
-          "surface_form": "σοι",
-          "lemma": "σοι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.2"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3856,6 +3924,22 @@
         {
           "surface_form": "νυν",
           "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.2"
+        },
+        {
+          "surface_form": "ουξἴ",
+          "lemma": "ουξἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.2"
+        },
+        {
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3903,31 +3987,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:3",
       "greek_reference": "Ῥούθ 3:3",
       "verse_anchor": "Ruth.3.3",
-      "greek_text": "τη νυκτι συ δε λουση και αλειψη και περιθησεις τον ιματισμ ον σου επι σεαυτ η και αναβηθι επἴ τον ἄλω μη γνωρισθἤς τω ανδρ ι ἔως του συντελ εσαι αυτον του φαγε ιν και",
+      "greek_text": "συ δε λουση και αλειψη και περιθησεις τον ιματισμ ον σου επι σεαυτη και αναβηθι επἴ τον ἄλω μη γνωρισθἤς τω ανδρ ι ἔως του συντελ εσαι αυτον του φαγε ιν και πιειν",
       "english_translation": "night. And you shall bathe, and anoint, and put your clothes upon yourself, and ascend unto the threshing-floor! You should not make yourself known to the man, until he finishes eating and",
       "morphology": [
-        {
-          "surface_form": "τη",
-          "lemma": "τη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.3"
-        },
-        {
-          "surface_form": "νυκτι",
-          "lemma": "νυκτι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.3"
-        },
         {
           "surface_form": "συ",
           "lemma": "συ",
@@ -3939,6 +4009,22 @@
         {
           "surface_form": "δε",
           "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.3"
+        },
+        {
+          "surface_form": "λουση",
+          "lemma": "λουση",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.3"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -3986,23 +4072,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:4",
       "greek_reference": "Ῥούθ 3:4",
       "verse_anchor": "Ruth.3.4",
-      "greek_text": "πιειν και ἔσται εν τω κοιμηθ ηναι αυτον και γνωση τον τ οπον ου κοιμαται εκει και ελευση και αποκαλ υψεις τα προς ποδ ων αυτο υ και κοιμηθἤση και αυτὅς απαγγελἔι σοι α",
+      "greek_text": "και ἔσται εν τω κοιμηθ ηναι αυτον και γνωση τον τοπον ου κοιμαται εκει και ελευση και αποκαλ υψεις τα προς ποδ ων αυτου και κοιμηθἤση και αυτὅς απαγγελἔι σοι α",
       "english_translation": "drinking. And it will be at his going to sleep, that you shall perceive the place where he sleeps there, and you shall go in and uncover the things by his feet, and you shall go to sleep – and he shall report to you what",
       "morphology": [
-        {
-          "surface_form": "πιειν",
-          "lemma": "πιειν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.4"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -4022,6 +4102,14 @@
         {
           "surface_form": "εν",
           "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.4"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4069,14 +4157,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:5",
       "greek_reference": "Ῥούθ 3:5",
       "verse_anchor": "Ruth.3.5",
-      "greek_text": "ποιησεις ε ιπε δε Ρουθ προς αυτην παντα ὅσα αν ε ιπης μοι ποιησω",
-      "english_translation": "you shall do. [3said 1And 2Ruth] to her, All as much as you should tell to me I will do. See Bos for variants.",
+      "greek_text": "ποιησεις ειπε δε Ρουθ προς αυτην παντα ὅσα αν ειπης μοι ποιησω",
+      "english_translation": "you shall do. said And Ruth to her, All as much as you should tell to me I will do. See Bos for variants.",
       "morphology": [
         {
           "surface_form": "ποιησεις",
@@ -4087,8 +4177,8 @@
           "verse_anchor": "Ruth.3.5"
         },
         {
-          "surface_form": "ιπε",
-          "lemma": "ιπε",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4152,13 +4242,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:6",
       "greek_reference": "Ῥούθ 3:6",
       "verse_anchor": "Ruth.3.6",
-      "greek_text": "και κατεβη εις τον ἄλω και εποιησε κατα παντα ὅσα ενετειλατο",
+      "greek_text": "και κατεβη εις τον ἄλω και εποιησε κατα παντα ὅσα ενετε ιλατο αυτηη πενθερ α αυτης",
       "english_translation": "And she went down into the threshing-floor, and she did according to all as much as [2gave charge 2068-*",
       "morphology": [
         {
@@ -4235,34 +4327,36 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:7",
       "greek_reference": "Ῥούθ 3:7",
       "verse_anchor": "Ruth.3.7",
-      "greek_text": "αυτη η πενθερ α αυτης και ἔφαγε Βὅοζ και ἔπιε και ηγαθ υνθη η καρδ ια αυτο υ και ἤλθε του κοιμηθἤναι εν μερἴδι της στοιβἤς η δε ἤλθεν εν κρυφ η και απεκ αλυψε τα προς ποδ ων αυτο υ και",
+      "greek_text": "και ἔφαγε Βὅοζ και ἔπιε και ηγαθ υνθηη καρδ ια αυτου και ἤλθε του κοιμηθἤναι εν μερἴδι της στοιβἤςη δε ἤλθεν εν κρυφη και απεκ αλυψε τα προς ποδ ων αυτου και εκοιμἤθη",
       "english_translation": "3to her 1her mother-in-law]. And Boaz ate, and drank, and did good to his heart, and went to sleep in a portion of the pile. And she came in secret, and uncovered the things by his feet, and See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "αυτη",
-          "lemma": "αυτη",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.7"
         },
         {
-          "surface_form": "πενθερ",
-          "lemma": "πενθερ",
+          "surface_form": "ἔφαγε",
+          "lemma": "ἔφαγε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.7"
         },
         {
-          "surface_form": "αυτης",
-          "lemma": "αυτης",
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4318,23 +4412,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:8",
       "greek_reference": "Ῥούθ 3:8",
       "verse_anchor": "Ruth.3.8",
-      "greek_text": "εκοιμἤθη εγἔνετο δε εν τω μεσονυκτἴω και εχ εστη ο ανηρ και εταραξθη και ιδο υ",
-      "english_translation": "went to sleep. And it came to pass at midnight, that [3 was startled 1the 2man] and disturbed – and behold,",
+      "greek_text": "εγἔνετο δε εν τω μεσονυκτἴω και εχεστη ο ανηρ και εταραξθη και ιδου γυνη κοιμαται προς ποδ ων αυτου",
+      "english_translation": "went to sleep. And it came to pass at midnight, that was startled the man and disturbed – and behold,",
       "morphology": [
-        {
-          "surface_form": "εκοιμἤθη",
-          "lemma": "εκοιμἤθη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.8"
-        },
         {
           "surface_form": "εγἔνετο",
           "lemma": "εγἔνετο",
@@ -4354,6 +4442,14 @@
         {
           "surface_form": "εν",
           "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.8"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4401,42 +4497,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:9",
       "greek_reference": "Ῥούθ 3:9",
       "verse_anchor": "Ruth.3.9",
-      "greek_text": "γυνη κοιμαται προς ποδ ων αυτο υ ε ιπε δε τις ει συ η δε ε ιπεν εγω ειμι Ρουθ η δουλη σου και περιβαλε ις το πτερυγιον σου επἴ την δὅυλην σου ὅτι αγξιστἔυς ει συ",
-      "english_translation": "a woman slept at his feet. And he said, Who are you? And she said, I am Ruth, your bondwoman – and you shall put your garment border upon your bondwoman, for [2a relative 1you are]. 2036-*",
+      "greek_text": "ειπε δε τις ει συη δε ειπεν εγω ειμι Ρουθη δουλη σου και περιβαλε ις το πτερυγιον σου επἴ την δὅυλην σου ὅτι αγξιστἔυς ει συ",
+      "english_translation": "a woman slept at his feet. And he said, Who are you? And she said, I am Ruth, your bondwoman – and you shall put your garment border upon your bondwoman, for a relative you are. 2036-*",
       "morphology": [
         {
-          "surface_form": "γυνη",
-          "lemma": "γυνη",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.9"
         },
         {
-          "surface_form": "κοιμαται",
-          "lemma": "κοιμαται",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.9"
         },
         {
-          "surface_form": "προς",
-          "lemma": "προς",
+          "surface_form": "τις",
+          "lemma": "τις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.9"
         },
         {
-          "surface_form": "ποδ",
-          "lemma": "ποδ",
+          "surface_form": "ει",
+          "lemma": "ει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4484,14 +4582,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:10",
       "greek_reference": "Ῥούθ 3:10",
       "verse_anchor": "Ruth.3.10",
-      "greek_text": "και ε ιπε Βοοζ ευλογημ ενη συ τω κυρἴω θἔω θὔγατερ ὅτι ηγἄθυνας το ἔλἔος σου το ἔσξατον υπ ερ το πρωτον του μη πορευθ ηνα ι σε οπἴσω νεανἴων ἔιτε πτωξὅς ἔιτε ειτοι ητοι",
-      "english_translation": "And Boaz said, Having been blessed are you by the God, O daughter, for you did good in your mercy at the last over the first, [2to not 3go 1for you] after the young men, whether poor or whether Six...",
+      "greek_text": "και ειπε Βοοζ ευλογημ ενη συ τω κυρἴω θἔω θὔγατερ ὅτι ηγἄθυνας το ἔλἔος σου το ἔσξατον υπ ερ το πρωτον του μη πορευθ ηνα ι σε οπἴσω νεανἴων ἔιτε πτωξὅς ἔιτε πλο υσιος ειτοι ητοι ων υπἔρ εμἔ",
+      "english_translation": "And Boaz said, Having been blessed are you by the God, O daughter, for you did good in your mercy at the last over the first, to not go for you after the young men, whether poor or whether Six...",
       "morphology": [
         {
           "surface_form": "και",
@@ -4502,8 +4602,8 @@
           "verse_anchor": "Ruth.3.10"
         },
         {
-          "surface_form": "ιπε",
-          "lemma": "ιπε",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4567,31 +4667,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:11",
       "greek_reference": "Ῥούθ 3:11",
       "verse_anchor": "Ruth.3.11",
-      "greek_text": "πλο υσιος και νυν θυγατερ μη φοβο υ παντα ὅσα αν ε ιπης ποιησω σοι οιδε γαρ πασα φυλ η λαο υ μου ὅτι γυνη",
-      "english_translation": "rich. And now, O daughter, do not fear! All what ever you should say I will do for you. [6have known 1For 2all 5tribe 3of the people 4of my] that [3a woman",
+      "greek_text": "και νυν θυγατερ μη φοβου παντα ὅσα αν ειπης ποιησω σοι οιδε γαρ πασα φυλη λαου μου ὅτι γυνη δυναμεως ει συ",
+      "english_translation": "rich. And now, O daughter, do not fear! All what ever you should say I will do for you. have known For all tribe of the people of my that [3a woman",
       "morphology": [
-        {
-          "surface_form": "πλο",
-          "lemma": "πλο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.11"
-        },
-        {
-          "surface_form": "υσιος",
-          "lemma": "υσιος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.11"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -4603,6 +4689,22 @@
         {
           "surface_form": "νυν",
           "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.11"
+        },
+        {
+          "surface_form": "θυγατερ",
+          "lemma": "θυγατερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.11"
+        },
+        {
+          "surface_form": "μη",
+          "lemma": "μη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4650,42 +4752,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:12",
       "greek_reference": "Ῥούθ 3:12",
       "verse_anchor": "Ruth.3.12",
-      "greek_text": "δυναμεως ει συ και νυν αληθ ως αγξιστε υς εγω ειμι και γε ἔστιν αγξιστε υς εν γη",
-      "english_translation": "4of ability 2are 1you]. And now truly [3a relative 1I 2am]. But indeed there is a relative in the land",
+      "greek_text": "και νυν αληθ ως αγξιστε υς εγω ειμι και γε ἔστιν αγξιστε υς εν γη",
+      "english_translation": "4of ability 2are 1you]. And now truly a relative I am. But indeed there is a relative in the land",
       "morphology": [
-        {
-          "surface_form": "δυναμεως",
-          "lemma": "δυναμεως",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.12"
-        },
-        {
-          "surface_form": "ει",
-          "lemma": "ει",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.12"
-        },
-        {
-          "surface_form": "συ",
-          "lemma": "συ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.12"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.12"
+        },
+        {
+          "surface_form": "νυν",
+          "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.12"
+        },
+        {
+          "surface_form": "αληθ",
+          "lemma": "αληθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.12"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4733,42 +4837,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:13",
       "greek_reference": "Ῥούθ 3:13",
       "verse_anchor": "Ruth.3.13",
-      "greek_text": "ων υπἔρ εμἔ αυλἴσθητι την νὔκτα και ἔσται τοπρω+ ἔαν αγξιστἔυση σε αγαθ ον αγξιστευ ετω ε αν δε μη βουληται αγξιστε υσα ι σε αγξιστε υσω σε εγω ζη κυριος κοιμηθητι ἔως πρω+",
-      "english_translation": "who is over me. You lodge the night! and it will be in the morning, that if he should act as next of kin for you – good, let him act as next of kin! But if he should not want to act as next of kin for you, [2will act as next of kin 3for you 1I]. As the lives, you go to sleep until morning!",
+      "greek_text": "αυλἴσθητι την νὔκτα και ἔσται τοπρω+ ἔαν αγξιστἔυση σε αγαθ ον αγξιστευ ετω εαν δε μη βουληται αγξιστε υσα ι σε αγξιστε υσω σε εγω ζη κυριος κοιμηθητι ἔως πρω+",
+      "english_translation": "who is over me. You lodge the night! and it will be in the morning, that if he should act as next of kin for you – good, let him act as next of kin! But if he should not want to act as next of kin for you, will act as next of kin for you I. As the lives, you go to sleep until morning!",
       "morphology": [
-        {
-          "surface_form": "ων",
-          "lemma": "ων",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.13"
-        },
-        {
-          "surface_form": "υπἔρ",
-          "lemma": "υπἔρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.13"
-        },
-        {
-          "surface_form": "εμἔ",
-          "lemma": "εμἔ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.13"
-        },
         {
           "surface_form": "αυλἴσθητι",
           "lemma": "αυλἴσθητι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.13"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.13"
+        },
+        {
+          "surface_form": "νὔκτα",
+          "lemma": "νὔκτα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.13"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4816,14 +4922,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:14",
       "greek_reference": "Ῥούθ 3:14",
       "verse_anchor": "Ruth.3.14",
-      "greek_text": "και εκοιμηθη προς ποδ ων αυτο υ ἔως πρω+ η δε ανἔστη προ του επιγνὤναι ἄνδρα τον πλης ιον αυτο υ και ε ιπε Βοοζ μη γνωσθ ητω ὅτι",
-      "english_translation": "And she went to sleep at his feet until morning. And she rose up before [2 could recognize 1a man] 2036-* his neighbor. And Boaz said, Do not let it be known that",
+      "greek_text": "και εκοιμηθη προς ποδ ων αυτου ἔως πρω+ η δε ανἔστη προ του επιγνὤναι ἄνδρα τον πλης ιον αυτου και ειπε Βοοζ μη γνωσθ ητω ὅτι ελἤλυθε γυνἤ εις τον ἄλω",
+      "english_translation": "And she went to sleep at his feet until morning. And she rose up before could recognize a man 2036-* his neighbor. And Boaz said, Do not let it be known that",
       "morphology": [
         {
           "surface_form": "και",
@@ -4899,42 +5007,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:15",
       "greek_reference": "Ῥούθ 3:15",
       "verse_anchor": "Ruth.3.15",
-      "greek_text": "ελἤλυθε γυνἤ εις τον ἄλω και ε ιπεν αυτη φ ερε το περιζωμα το επανω σου και κρἄτησον αυτὅ η δε εκρἄτησεν αυτὅ και εμἔτρησεν εχ κριθων και επεθηκεν επ' αυτην και",
-      "english_translation": "[2has come 1a woman] unto the threshing-floor! And he said to her, Bring the apron upon you, and hold it! And she held it, and he measured six measures of barley, and placed them unto her. And",
+      "greek_text": "και ειπεν αυτη φ ερε το περιζωμα το επανω σου και κρἄτησον αυτὅη δε εκρἄτησεν αυτὅ και εμἔτρησεν εχ κριθων και επεθηκεν επ' αυτην και ειςηλθεν εις την πολιν",
+      "english_translation": "has come a woman unto the threshing-floor! And he said to her, Bring the apron upon you, and hold it! And she held it, and he measured six measures of barley, and placed them unto her. And",
       "morphology": [
         {
-          "surface_form": "ελἤλυθε",
-          "lemma": "ελἤλυθε",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.15"
         },
         {
-          "surface_form": "γυνἤ",
-          "lemma": "γυνἤ",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.15"
         },
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "αυτη",
+          "lemma": "αυτη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.15"
         },
         {
-          "surface_form": "τον",
-          "lemma": "τον",
+          "surface_form": "ερε",
+          "lemma": "ερε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -4982,42 +5092,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:16",
       "greek_reference": "Ῥούθ 3:16",
       "verse_anchor": "Ruth.3.16",
-      "greek_text": "ειςηλθεν εις την πολιν και Ρουθ ειςηλθε προς την πενθερἄν αυτἤς η δε ἔιπε τι εστι θὔγατερ και απ ηγγειλεν αυτη παντα ὅσα εποιησεν αυτη ο",
+      "greek_text": "και Ρουθ ειςηλθε προς την πενθερἄν αυτἤςη δε ἔιπε τι εστι θὔγατερ και απ ηγγειλεν αυτη παντα ὅσα εποιησεν αυτη ο ανἤρ",
       "english_translation": "she entered into the city. And Ruth entered to her mother-in-law. And she said, What is it, O daughter? And she reported to her all as much as [3did 4for her 1the",
       "morphology": [
         {
-          "surface_form": "ειςηλθεν",
-          "lemma": "ειςηλθεν",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.16"
         },
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "Ρουθ",
+          "lemma": "Ρουθ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.16"
         },
         {
-          "surface_form": "την",
-          "lemma": "την",
+          "surface_form": "ειςηλθε",
+          "lemma": "ειςηλθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.16"
         },
         {
-          "surface_form": "πολιν",
-          "lemma": "πολιν",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5065,23 +5177,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:17",
       "greek_reference": "Ῥούθ 3:17",
       "verse_anchor": "Ruth.3.17",
-      "greek_text": "ανἤρ και ἔιπεν τα εχ των κριθὤν ταυτα ἔδωκἔ μοι ὅτι ε ιπε προς με μη",
-      "english_translation": "2man]. And she said, [2six measures of barley 1These] he gave to me, for he said to me, You should not",
+      "greek_text": "και ἔιπεν τα εχ των κριθὤν ταυτα ἔδωκἔ μοι ὅτι ειπε προς με μη ειςελθης κενη προς την πενθερ αν σου",
+      "english_translation": "2man]. And she said, six measures of barley These he gave to me, for he said to me, You should not",
       "morphology": [
-        {
-          "surface_form": "ανἤρ",
-          "lemma": "ανἤρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.3.17"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -5101,6 +5207,14 @@
         {
           "surface_form": "τα",
           "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.3.17"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5148,42 +5262,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 3:18",
       "greek_reference": "Ῥούθ 3:18",
       "verse_anchor": "Ruth.3.18",
-      "greek_text": "ειςελθης κενη προς την πενθερ αν σου η δε ε ιπε καθου θυγατερ ἔως του επιγνωνα ι σε πως ου πεσε ιται το ρημα ου γαρ μη ησυξ αση ο ανἤρ ἔως αν τελἔσθη το ρἤμα σἤμερον",
-      "english_translation": "enter empty to your mother-in-law. And she said, Sit down, O daughter! until you realize how ever [2shall fall the matter]. For not in any way should [3be still 1the 2man] until whenever he should finish the matter today.",
+      "greek_text": "η δε ειπε καθου θυγατερ ἔως του επιγνωνα ι σε πως ου πεσε ιται το ρημα ου γαρ μη ησυξ αση ο ανἤρ ἔως αν τελἔσθη το ρἤμα σἤμερον",
+      "english_translation": "enter empty to your mother-in-law. And she said, Sit down, O daughter! until you realize how ever shall fall the matter. For not in any way should be still the man until whenever he should finish the matter today.",
       "morphology": [
         {
-          "surface_form": "ειςελθης",
-          "lemma": "ειςελθης",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.18"
         },
         {
-          "surface_form": "κενη",
-          "lemma": "κενη",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.18"
         },
         {
-          "surface_form": "προς",
-          "lemma": "προς",
+          "surface_form": "καθου",
+          "lemma": "καθου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.3.18"
         },
         {
-          "surface_form": "την",
-          "lemma": "την",
+          "surface_form": "θυγατερ",
+          "lemma": "θυγατερ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5231,14 +5347,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:1",
       "greek_reference": "Ῥούθ 4:1",
       "verse_anchor": "Ruth.4.1",
-      "greek_text": "και Βοοζ ανεβη επι την πυλην και εκαθισεν εκει και ιδο υ ο αγξιστε υςπαρεπορε υετο ον ελαλησε Βοοζ και ε ιπε προς αυτον Βοοζ εκκλ ινας καθισον Ρ",
-      "english_translation": "And Boaz ascended unto the gate, and sat there. 2980-* And behold, the relative came near whom Boaz spoke of. And [2said 3to 4him 1Boaz], Having turned aside, sit",
+      "greek_text": "και Βοοζ ανεβη επι την πυλην και εκαθισεν εκει και ιδου ο αγξιστε υςπαρεπορε υετοον ελαλησε Βοοζ και ειπε προς αυτον Βοοζ εκκλινας καθισον Ρ ὤδε κρυφιε και εχεκλινε και εκαθισε",
+      "english_translation": "And Boaz ascended unto the gate, and sat there. 2980-* And behold, the relative came near whom Boaz spoke of. And said to him Boaz, Having turned aside, sit",
       "morphology": [
         {
           "surface_form": "και",
@@ -5314,31 +5432,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:2",
       "greek_reference": "Ῥούθ 4:2",
       "verse_anchor": "Ruth.4.2",
-      "greek_text": "ὤδε κρυφιε και εχ εκλινε και εκαθισε και ἔλαβε Βὅοζ δεκα ἄνδρας απ ο των πρεσβυτ ερων της πολεως Θ ανηρ το υπ οδημα αυτο υ και εδιδου τω πλης ιον αυτο υ τω αγξιστε υοντι την αγξιστε ιαν αυτο υ",
+      "greek_text": "και ἔλαβε Βὅοζ δεκα ἄνδρας απ ο των πρεσβυτ ερων της πολεως και ἔιπε καθἴσατε ὤδε και εκἄθισαν ανηρ το υπ οδημα αυτου και εδιδου τω πλης ιον αυτου τω αγξιστε υοντι την αγξιστε ιαν αυτου και τουτο ην μαρτ υριον εν Ισρα ηλ",
       "english_translation": "here in private! And he turned aside, and sat. And 2983-* Boaz took ten men from the elders of the city, 2036-* 1a man] his sandal, and he gave it to his neighbor acting as next of kin for his right of inheritance.",
       "morphology": [
-        {
-          "surface_form": "ὤδε",
-          "lemma": "ὤδε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.2"
-        },
-        {
-          "surface_form": "κρυφιε",
-          "lemma": "κρυφιε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.2"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -5348,8 +5452,24 @@
           "verse_anchor": "Ruth.4.2"
         },
         {
-          "surface_form": "εχ",
-          "lemma": "εχ",
+          "surface_form": "ἔλαβε",
+          "lemma": "ἔλαβε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.2"
+        },
+        {
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.2"
+        },
+        {
+          "surface_form": "δεκα",
+          "lemma": "δεκα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5397,13 +5517,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:3",
       "greek_reference": "Ῥούθ 4:3",
       "verse_anchor": "Ruth.4.3",
-      "greek_text": "και ἔιπε καθἴσατε ὤδε και εκἄθισαν και ἔιπε Βὅοζ τω αγξιστε υοντι την μεριδα του αγρο υ η εστι του αδελφο υ ημ ων του Ελιμ ελεξ ω απἔδοτο Νοομἴ η επιστρἔψασα εχ",
+      "greek_text": "και ἔιπε Βὅοζ τω αγξιστε υοντι την μεριδα του αγρου η εστι του αδελφου ημ ων του Ελιμ ελεξ ω απἔδοτο Νοομἴη επιστρἔψασα εχ αγρου Μω αβ Θ",
       "english_translation": "and said, Sit here! And they sat. And Boaz said to the one acting as next of kin, Concerning the portion of the field which is of our brother Elimelech, in which he gave to Naomi, the one having returned from out of See Bos for variants.",
       "morphology": [
         {
@@ -5423,16 +5545,16 @@
           "verse_anchor": "Ruth.4.3"
         },
         {
-          "surface_form": "καθἴσατε",
-          "lemma": "καθἴσατε",
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.3"
         },
         {
-          "surface_form": "ὤδε",
-          "lemma": "ὤδε",
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5480,42 +5602,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:4",
       "greek_reference": "Ῥούθ 4:4",
       "verse_anchor": "Ruth.4.4",
-      "greek_text": "αγρο υ Μω αβ καγ ω ε ιπα αποκαλ υψω το ους σου λἔγων κτἤσαι εναντἴον των καθημ ενων και εναντιοντων πρεσβυτ ερων του λαο υ μου ει αγξιστε υεις αγξ ιστευε ει δε μη αγξιστἔυεις ανἄγγειλὅν μοι και γνωσομαι ὅτι ουκ εστι παρεχ σου του αγξιστἔυσαι καγὤ ειμι μετἄ σε ο δε ἔιπεν",
+      "greek_text": "καγ ω ειπα αποκαλ υψω το ους σου λἔγων κτἤσαι εναντἴον των καθημ ενων και εναντιοντων πρεσβυτ ερων του λαου μου ει αγξιστε υεις αγξ ιστευε ει δε μη αγξιστἔυεις ανἄγγειλὅν μοι και γνωσομαι ὅτι ουκ εστι παρεχ σου του αγξιστἔυσαι καγὤ ειμι μετἄ σε ο δε ἔιπεν εγω ειμι αγξιστε υσω",
       "english_translation": "the country of Moab, that I said to myself, I will uncover your ear, saying, You acquire it before the ones sitting down, and before the elders of my people! If you are acting as next of kin, then act as next of kin! But if not acting as next of kin, announce it to me, and I shall know! for there is not one besides you to act as next of kin, and I am after you. And he said, 2036-*",
       "morphology": [
         {
-          "surface_form": "αγρο",
-          "lemma": "αγρο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.4"
-        },
-        {
-          "surface_form": "Μω",
-          "lemma": "Μω",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.4"
-        },
-        {
-          "surface_form": "αβ",
-          "lemma": "αβ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.4"
-        },
-        {
           "surface_form": "καγ",
           "lemma": "καγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.4"
+        },
+        {
+          "surface_form": "ειπα",
+          "lemma": "ειπα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.4"
+        },
+        {
+          "surface_form": "αποκαλ",
+          "lemma": "αποκαλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.4"
+        },
+        {
+          "surface_form": "υψω",
+          "lemma": "υψω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5563,42 +5687,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:5",
       "greek_reference": "Ῥούθ 4:5",
       "verse_anchor": "Ruth.4.5",
-      "greek_text": "εγω ειμι αγξιστε υσω και ε ιπε Βοοζ εν ημἔρα του κτἤσασθἄι σε τον αγρὅν εκ ξειρος Νοομ ι και παρ α Ρουθ της Μωαβ ιτιδοςγυναικ ος του τεθνηκ οτος και αυτην κτησασθα ι σε δει ὤστε αναστ ησαι το ὅνομα του τεθνηκ οτος επι",
-      "english_translation": "I am. I shall act as next of kin. And Boaz said, In the day you acquire the field from out of the hand of Naomi, also of Ruth the Moabitess, wife of the one having died, even she [3acquire 1you 2must], so as to raise up the name of the one having died, for",
+      "greek_text": "και ειπε Βοοζ εν ημἔρα του κτἤσασθἄι σε τον αγρὅν εκ ξειρος Νοομ ι και παρ α Ρουθ της Μωαβ ιτιδοςγυναικ ος του τεθνηκ οτος και αυτην κτησασθα ι σε δει ὤστε αναστ ησαι το ὅνομα του τεθνηκ οτος επι της κληρονομ ιας αυτου",
+      "english_translation": "I am. I shall act as next of kin. And Boaz said, In the day you acquire the field from out of the hand of Naomi, also of Ruth the Moabitess, wife of the one having died, even she acquire you must, so as to raise up the name of the one having died, for",
       "morphology": [
         {
-          "surface_form": "εγω",
-          "lemma": "εγω",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.5"
         },
         {
-          "surface_form": "ειμι",
-          "lemma": "ειμι",
+          "surface_form": "ειπε",
+          "lemma": "ειπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.5"
         },
         {
-          "surface_form": "αγξιστε",
-          "lemma": "αγξιστε",
+          "surface_form": "Βοοζ",
+          "lemma": "Βοοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.5"
         },
         {
-          "surface_form": "υσω",
-          "lemma": "υσω",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5646,42 +5772,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:6",
       "greek_reference": "Ῥούθ 4:6",
       "verse_anchor": "Ruth.4.6",
-      "greek_text": "της κληρονομ ιας αυτο υ και ε ιπεν ο αγξιστε υς ου δυνἤσομαι αγξιστἔυσαι εμαυτὤ μἤ ποτε διαφθε ιρω την κληρονομ ιαν μου αγξ ιστευσον σεαυτ ω συ την αγξιστε ιαν μου ὅτι ου δυνησομαι",
-      "english_translation": "his inheritance. And [3said 1the 2relative], I shall not be able to act as next of kin myself, lest at any time I ruin my right of inheritance. [3act as next of kin 2yourself 1You] for my inheritance, for I shall not be able",
+      "greek_text": "και ειπεν ο αγξιστε υς ου δυνἤσομαι αγξιστἔυσαι εμαυτὤ μἤ ποτε διαφθε ιρω την κληρονομ ιαν μου αγξ ιστευσον σεαυτ ω συ την αγξιστε ιαν μου ὅτι ου δυνησομαι αγξιστἔυσαι",
+      "english_translation": "his inheritance. And said the relative, I shall not be able to act as next of kin myself, lest at any time I ruin my right of inheritance. act as next of kin yourself You for my inheritance, for I shall not be able",
       "morphology": [
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.6"
         },
         {
-          "surface_form": "κληρονομ",
-          "lemma": "κληρονομ",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.6"
         },
         {
-          "surface_form": "ιας",
-          "lemma": "ιας",
+          "surface_form": "αγξιστε",
+          "lemma": "αγξιστε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.6"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "υς",
+          "lemma": "υς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5729,23 +5857,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:7",
       "greek_reference": "Ῥούθ 4:7",
       "verse_anchor": "Ruth.4.7",
-      "greek_text": "αγξιστἔυσαι και τὅυτο το δικἄιωμα ἔμπροσθεν εν τω Ισρἄηλ επἴ την αγξιστἔιαν και επι το ανταλλαγμα του στησαι παντα λογον υπελ υετο",
+      "greek_text": "και τὅυτο το δικἄιωμα ἔμπροσθεν εν τω Ισρἄηλ επἴ την αγξιστἔιαν και επι το ανταλλαγμα του στησαι παντα λογον υπελ υετο",
       "english_translation": "to act as next of kin! And this was the ordinance in former times in Israel for the right of inheritance, and for the equivalent, to establish every matter – [2untied",
       "morphology": [
-        {
-          "surface_form": "αγξιστἔυσαι",
-          "lemma": "αγξιστἔυσαι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.7"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -5765,6 +5887,14 @@
         {
           "surface_form": "το",
           "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.7"
+        },
+        {
+          "surface_form": "δικἄιωμα",
+          "lemma": "δικἄιωμα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5812,14 +5942,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:8",
       "greek_reference": "Ῥούθ 4:8",
       "verse_anchor": "Ruth.4.8",
-      "greek_text": "και τουτο ην μαρτ υριον εν Ισρα ηλ και ε ιπεν ο αγξιστἔυς τω Βὅοζ κτἤσαι σεαυτὤ την αγξιστε ιαν μου και υπελ υσατο το υπ οδημα αυτο υ",
-      "english_translation": "And this was testimony in Israel. And [3said 1the 2relative] to Boaz, You acquire to yourself my right of inheritance! And he untied his sandal 2036-*",
+      "greek_text": "και ειπεν ο αγξιστἔυς τω Βὅοζ κτἤσαι σεαυτὤ την αγξιστε ιαν μου και υπελ υσατο το υπ οδημα αυτου και ἔδωκεν αυτὤ",
+      "english_translation": "And this was testimony in Israel. And said the relative to Boaz, You acquire to yourself my right of inheritance! And he untied his sandal 2036-*",
       "morphology": [
         {
           "surface_form": "και",
@@ -5830,24 +5962,24 @@
           "verse_anchor": "Ruth.4.8"
         },
         {
-          "surface_form": "τουτο",
-          "lemma": "τουτο",
+          "surface_form": "ειπεν",
+          "lemma": "ειπεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.8"
         },
         {
-          "surface_form": "ην",
-          "lemma": "ην",
+          "surface_form": "αγξιστἔυς",
+          "lemma": "αγξιστἔυς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.8"
         },
         {
-          "surface_form": "μαρτ",
-          "lemma": "μαρτ",
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5895,13 +6027,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:9",
       "greek_reference": "Ῥούθ 4:9",
       "verse_anchor": "Ruth.4.9",
-      "greek_text": "και ἔδωκεν αυτὤ και ἔιπε Βὅοζ τοις πρεσβυτἔροις και παντ ι τω λαω μαρτυρες υμε ις ςημερον ὅτι κἔκτημαι πἄντα τα του Ελιμἔλεξ και πἄντα ὅσα υπ αρξει τω Ξελε ων και τω Μααλ ων εκ",
+      "greek_text": "και ἔιπε Βὅοζ τοις πρεσβυτἔροις και παντ ι τω λαω μαρτυρες υμε ις ςημερον ὅτι κἔκτημαι πἄντα τα του Ελιμἔλεξ και πἄντα ὅσα υπ αρξει τω Ξελε ων και τω Μααλ ων εκ ξειρος Νοομ ι",
       "english_translation": "and gave it to him. And Boaz said to the elders, and to all the people, You are witnesses today that I have acquired all the things of Elimelech, and all as much as exists to Chilion and to Mahlon, from out of",
       "morphology": [
         {
@@ -5913,24 +6047,24 @@
           "verse_anchor": "Ruth.4.9"
         },
         {
-          "surface_form": "ἔδωκεν",
-          "lemma": "ἔδωκεν",
+          "surface_form": "ἔιπε",
+          "lemma": "ἔιπε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.9"
         },
         {
-          "surface_form": "αυτὤ",
-          "lemma": "αυτὤ",
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.9"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "τοις",
+          "lemma": "τοις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -5978,31 +6112,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:10",
       "greek_reference": "Ῥούθ 4:10",
       "verse_anchor": "Ruth.4.10",
-      "greek_text": "ξειρος Νοομ ι και γε Ρουθ την Μωαβ ιτιν την γυνα ικα Μααλ ων κεκτημαι εμαυτ ω εις γυνα ικα του αναστ ησαι το ὅνομα του τεθνηκ οτος επι της κληρονομ ιας αυτο υ και ουκ εχολοθρευθ ησεται το ὅνομα του τεθνηκ οτος εκ των αδελφὤν αυτὅυ και εκ της πὔλης του τὅπου αυτὅυ",
-      "english_translation": "the hand of Naomi. And indeed, Ruth the Moabitess, the wife of Mahlon I have acquired to myself for wife, to raise up the name of the one having died, for his inheritance, and [5shall not be utterly destroyed 1the 2name 3of the one 4having died] from out of his brothers, and from out of the gate of his place –",
+      "greek_text": "και γε Ρουθ την Μωαβ ιτιν την γυνα ικα Μααλ ων κεκτημαι εμαυτ ω εις γυνα ικα του αναστ ησαι το ὅνομα του τεθνηκ οτος επι της κληρονομ ιας αυτου και ουκ εχολοθρευθ ησεται το ὅνομα του τεθνηκ οτος εκ των αδελφὤν αυτὅυ και εκ της πὔλης του τὅπου αυτὅυ μαρτυρες υμε ις ςημερον",
+      "english_translation": "the hand of Naomi. And indeed, Ruth the Moabitess, the wife of Mahlon I have acquired to myself for wife, to raise up the name of the one having died, for his inheritance, and shall not be utterly destroyed the name of the one having died from out of his brothers, and from out of the gate of his place –",
       "morphology": [
-        {
-          "surface_form": "ξειρος",
-          "lemma": "ξειρος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.10"
-        },
-        {
-          "surface_form": "Νοομ",
-          "lemma": "Νοομ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/ruth.json",
-          "verse_anchor": "Ruth.4.10"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -6014,6 +6134,22 @@
         {
           "surface_form": "γε",
           "lemma": "γε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.10"
+        },
+        {
+          "surface_form": "Ρουθ",
+          "lemma": "Ρουθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.10"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -6061,42 +6197,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:11",
       "greek_reference": "Ῥούθ 4:11",
       "verse_anchor": "Ruth.4.11",
-      "greek_text": "μαρτυρες υμε ις ςημερον και ε ιπον πας ο λαος οι εν τη πυλη μαρτυρες και οι πρεσβὔτεροι ἔιπον δὤη κὔριος την γυνἄικα σου την εισπορευομ ενην εις τον οικ ον σου ως Ραξ ηλ και ως Λἔιαν αι ωκοδὅμησαν αμφὅτεραι τον οικον Ισρα ηλ και εποιησαν δυναμιν εν Εφραθ α και",
-      "english_translation": "you are witnesses today. And [7said 1all 2the 3people 4at 5the 6gate], We are witnesses. And the elders said, May the give your wife, the one entering into your house, to be as Rachel and as Leah, the ones who [2built 1both] the house of Israel, and did powerfully in Ephratah; and See Bos for variants.",
+      "greek_text": "και ειπον πας ο λαος οι εν τη πυλη μαρτυρες και οι πρεσβὔτεροι ἔιπον δὤη κὔριος την γυνἄικα σου την εισπορευομ ενην εις τον οικον σου ως Ραξ ηλ και ως Λἔιαν αι ωκοδὅμησαν αμφὅτεραι τον οικον Ισρα ηλ και εποιησαν δυναμιν εν Εφραθ α και ἔσται ὅνομα εν Βηθλἔεμ",
+      "english_translation": "you are witnesses today. And said all the people at the gate, We are witnesses. And the elders said, May the give your wife, the one entering into your house, to be as Rachel and as Leah, the ones who built both the house of Israel, and did powerfully in Ephratah; and See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "μαρτυρες",
-          "lemma": "μαρτυρες",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.11"
         },
         {
-          "surface_form": "υμε",
-          "lemma": "υμε",
+          "surface_form": "ειπον",
+          "lemma": "ειπον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.11"
         },
         {
-          "surface_form": "ις",
-          "lemma": "ις",
+          "surface_form": "πας",
+          "lemma": "πας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.11"
         },
         {
-          "surface_form": "ςημερον",
-          "lemma": "ςημερον",
+          "surface_form": "λαος",
+          "lemma": "λαος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -6144,42 +6282,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 4:12",
       "greek_reference": "Ῥούθ 4:12",
       "verse_anchor": "Ruth.4.12",
-      "greek_text": "ἔσται ὅνομα εν Βηθλἔεμ και γἔνοιτο ο οικ ος σου ως οικος Φαρ ες ον ἔτεκε Θἄμαρ τω Ιὅυδα εκ του σπἔρματὅς σου δὤη σοι κυριος εκ της παιδ ισκης ταυτης τ εκνα",
-      "english_translation": "it will be a name in Beth-lehem. And may [2become 5088-* 1your house] as the house of Pharez, whom Tamar bore to Judah. From out of your seed may [2give 3to you the 5from out of 6this maidservant 4children].",
+      "greek_text": "και γἔνοιτο ο οικος σου ως οικος Φαρ ες ον ἔτεκε Θἄμαρ τω Ιὅυδα εκ του σπἔρματὅς σου δὤη σοι κυριος εκ της παιδ ισκης ταυτης τεκνα",
+      "english_translation": "it will be a name in Beth-lehem. And may become -* your house as the house of Pharez, whom Tamar bore to Judah. From out of your seed may give to you the from out of this maidservant children.",
       "morphology": [
         {
-          "surface_form": "ἔσται",
-          "lemma": "ἔσται",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.12"
         },
         {
-          "surface_form": "ὅνομα",
-          "lemma": "ὅνομα",
+          "surface_form": "γἔνοιτο",
+          "lemma": "γἔνοιτο",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.12"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "οικος",
+          "lemma": "οικος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.4.12"
         },
         {
-          "surface_form": "Βηθλἔεμ",
-          "lemma": "Βηθλἔεμ",
+          "surface_form": "σου",
+          "lemma": "σου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -6227,14 +6367,866 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 4:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:13",
+      "greek_reference": "Ῥούθ 4:13",
+      "verse_anchor": "Ruth.4.13",
+      "greek_text": "και ἔλαβε Βὅοζ την Ρουθ και εγενηθη αυτω εις γυνἄικα και εισἤλθε προς αυτἤν και ἔδωκεν αυτη κυριος κυησιν και ἔτεκεν υιον",
+      "english_translation": "2983-* And Boaz took Ruth, and she became to him for wife. And he entered to her. And [2gave",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.13"
+        },
+        {
+          "surface_form": "ἔλαβε",
+          "lemma": "ἔλαβε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.13"
+        },
+        {
+          "surface_form": "Βὅοζ",
+          "lemma": "Βὅοζ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.13"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:14",
+      "greek_reference": "Ῥούθ 4:14",
+      "verse_anchor": "Ruth.4.14",
+      "greek_text": "και ἔιπον αι γυνἄικες προς Νοομἴ ευλογητὅς κὔριος ος ου κατελυς ε σοι ςημερον τον αγξιστ εα και καλἔσαι το ὅνομἄ σου εν Ισρἄηλ",
+      "english_translation": "3to her the] conception, and she bore a son. And said the women to Naomi, Blessed be the who rested not to provide to you today a relative; and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.14"
+        },
+        {
+          "surface_form": "ἔιπον",
+          "lemma": "ἔιπον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.14"
+        },
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.14"
+        },
+        {
+          "surface_form": "γυνἄικες",
+          "lemma": "γυνἄικες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:15",
+      "greek_reference": "Ῥούθ 4:15",
+      "verse_anchor": "Ruth.4.15",
+      "greek_text": "και ἔσται σοι εις επιστρ εφοντα ψυξ ην και του διαθρεψαι την πολιαν σου ὅτιη νυμφη σουη αγαπ ησας α σε ἔτεκεν αυτὅνη εστιν αγαθἤ σοι υπἔρ επτἄ υιὅυς",
+      "english_translation": "may he call out your name in Israel. And he will be to you for restoring life, and to nourish your gray hair; for your daughter-in-law having loved you bore him, which is good to you above seven 2983-*",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.15"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.15"
+        },
+        {
+          "surface_form": "σοι",
+          "lemma": "σοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.15"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:16",
+      "greek_reference": "Ῥούθ 4:16",
+      "verse_anchor": "Ruth.4.16",
+      "greek_text": "και ἔλαβε Νοομἴ το παιδἄριον και ἔθηκεν αυτὅ εις τον κολπον αυτης και εγενηθη αυτω εις τιθηνον",
+      "english_translation": "sons. And Naomi took the boy, and put him to her bosom, and became to him for a wet-nurse.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.16"
+        },
+        {
+          "surface_form": "ἔλαβε",
+          "lemma": "ἔλαβε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.16"
+        },
+        {
+          "surface_form": "Νοομἴ",
+          "lemma": "Νοομἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.16"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:17",
+      "greek_reference": "Ῥούθ 4:17",
+      "verse_anchor": "Ruth.4.17",
+      "greek_text": "και εκἄλεσαν αυτὤ αι γἔιτονες το ὅνομα λεγουσαι ετεξθη υιος τη Νοομ ι και εκαλεσαν το ὅνομα αυτὅυ Ωβἤδ ὅυτος πατἤρ Ιεσσἄι πατρὅς Δαυ ιδ",
+      "english_translation": "And called to him the neighbor women the name, saying, was birthed A son to Naomi. And they called his name Obed – this one is father of Jesse, father of David.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.17"
+        },
+        {
+          "surface_form": "εκἄλεσαν",
+          "lemma": "εκἄλεσαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.17"
+        },
+        {
+          "surface_form": "αυτὤ",
+          "lemma": "αυτὤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.17"
+        },
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:18",
+      "greek_reference": "Ῥούθ 4:18",
+      "verse_anchor": "Ruth.4.18",
+      "greek_text": "και αυται αι γενἔσεις Φαρἔς Φαρἔς εγεννησε τον Εσρ ων",
+      "english_translation": "And these are the generations of Pharez – Pharez",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.18"
+        },
+        {
+          "surface_form": "αυται",
+          "lemma": "αυται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.18"
+        },
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.18"
+        },
+        {
+          "surface_form": "γενἔσεις",
+          "lemma": "γενἔσεις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:19",
+      "greek_reference": "Ῥούθ 4:19",
+      "verse_anchor": "Ruth.4.19",
+      "greek_text": "και Εσρ ω εγεννησε τον Αρ αμ και Αρ αμ εγεννησε τον Αμιναδ αβ",
+      "english_translation": "engendered Hezron, and Hezron engendered Ram,",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.19"
+        },
+        {
+          "surface_form": "Εσρ",
+          "lemma": "Εσρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.19"
+        },
+        {
+          "surface_form": "εγεννησε",
+          "lemma": "εγεννησε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.19"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:20",
+      "greek_reference": "Ῥούθ 4:20",
+      "verse_anchor": "Ruth.4.20",
+      "greek_text": "και Αμμιναδ αβ εγεννησε τον Ναασς ων και Ναασς ων εγεννησε τον Σαλμὤν",
+      "english_translation": "and Ram engendered Amminadab, and Aminadab engendered Nahshon, and Nahshon engendered",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.20"
+        },
+        {
+          "surface_form": "Αμμιναδ",
+          "lemma": "Αμμιναδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.20"
+        },
+        {
+          "surface_form": "αβ",
+          "lemma": "αβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.20"
+        },
+        {
+          "surface_form": "εγεννησε",
+          "lemma": "εγεννησε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:21",
+      "greek_reference": "Ῥούθ 4:21",
+      "verse_anchor": "Ruth.4.21",
+      "greek_text": "και Σαλμὤν εγἔννησε τον Βὅοζ και Βὅοζ εγεννησε τον Ωβ ηδ",
+      "english_translation": "Salmon, and Salmon engendered Boaz, and Boaz",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.21"
+        },
+        {
+          "surface_form": "Σαλμὤν",
+          "lemma": "Σαλμὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.21"
+        },
+        {
+          "surface_form": "εγἔννησε",
+          "lemma": "εγἔννησε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.21"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.21"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:21) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Ruth 4:22",
+      "greek_reference": "Ῥούθ 4:22",
+      "verse_anchor": "Ruth.4.22",
+      "greek_text": "και Ωβ ηδ εγεννησε τον Ιεσσα ι και Ιεσσα ιεγεννησε τον Δαυ ιδ",
+      "english_translation": "engendered Obed, and Obed engendered Jesse, and Jesse engendered David.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.22"
+        },
+        {
+          "surface_form": "Ωβ",
+          "lemma": "Ωβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.22"
+        },
+        {
+          "surface_form": "ηδ",
+          "lemma": "ηδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.22"
+        },
+        {
+          "surface_form": "εγεννησε",
+          "lemma": "εγεννησε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/ruth.json",
+          "verse_anchor": "Ruth.4.22"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Ruth 4:22) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 21:23",
       "greek_reference": "Ῥούθ 21:23",
       "verse_anchor": "Ruth.21.23",
-      "greek_text": "οι αδελφο ι αυτων κρινεσθαι προς ημ ας και ερουμεν προς αυτο υς ελεησατε αυτο υς ὅτι ουκ ελαβεν ανηρ εαυτὤ γυνἄικα εν τω πολἔμω ὅτι ουξ υμἔις δεδὤκατε αυτο ις κατα τον καιρον ον επλημμελ ησατε και επὅιησαν ὅυτως οι υιὅι Βενιαμἴν και ἔλαβον γυνα ικας κατα τον αριθμ ον αυτων απ ο των ξορευους ων ων δι ηρπασαν και απ ηλθον και υπ εστρεψαν επι την κληρονομ ιαν αυτων και ωκοδ ομησαν τας πολεις και κατωκησαν εν αυτα ις",
-      "english_translation": "3their brothers] to quarrel with us, that we shall say to them, Show mercy on them! for [2did not take 1a man] to himself a wife in the battle, for you have not given to them according to the time which you trespassed. And [4did 5thus 1the 2sons 3of Benjamin], and took wives according to their number from the ones dancing whom they snatched. And they went and returned unto their inheritance, and built up the cities, and dwelt in them.",
+      "greek_text": "οι αδελφο ι αυτων κρινεσθαι προς ημ ας και ερουμεν προς αυτους ελεησατε αυτο υς ὅτι ουκ ελαβεν ανηρ εαυτὤ γυνἄικα εν τω πολἔμω ὅτι ουξ υμἔις δεδὤκατε αυτοις κατα τον καιρον ον επλημμελ ησατε και επὅιησαν ὅυτως οι υιὅι Βενιαμἴν και ἔλαβον γυνα ικας κατα τον αριθμ ον αυτων απ ο των ξορευους ων ων δι ηρπασαν και απ ηλθον και υπ εστρεψαν επι την κληρονομ ιαν αυτων και ωκοδ ομησαν τας πολεις και κατωκησαν εν αυτα ις",
+      "english_translation": "3their brothers] to quarrel with us, that we shall say to them, Show mercy on them! for did not take a man to himself a wife in the battle, for you have not given to them according to the time which you trespassed. And did thus the sons of Benjamin, and took wives according to their number from the ones dancing whom they snatched. And they went and returned unto their inheritance, and built up the cities, and dwelt in them.",
       "morphology": [
         {
           "surface_form": "οι",
@@ -6310,14 +7302,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 21:23) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 21:24",
       "greek_reference": "Ῥούθ 21:24",
       "verse_anchor": "Ruth.21.24",
-      "greek_text": "και περιεπ ατησαν εκειθεν οι υιοι Ισρα ηλ εν τω καιρω εκεινω ανηρ εις την φυλ ην αυτο υ και εις την συγγ ενειαν αυτο υ και εχ ηλθεν εκειθεν ανηρ",
-      "english_translation": "And [4walked 5from there 1the 2sons 3of Israel] in that time, each man to his tribe, and to his kin; and [2went forth 3from there each man]",
+      "greek_text": "και περιεπ ατησαν εκειθεν οι υιοι Ισρα ηλ εν τω καιρω εκεινω ανηρ εις την φυλ ην αυτου και εις την συγγ ενειαν αυτου και εχηλθεν εκειθεν ανηρ εις την κληρονομ ιαν αυτου",
+      "english_translation": "And walked from there the sons of Israel in that time, each man to his tribe, and to his kin; and went forth from there each man",
       "morphology": [
         {
           "surface_form": "και",
@@ -6393,42 +7387,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 21:24) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Ruth 21:25",
       "greek_reference": "Ῥούθ 21:25",
       "verse_anchor": "Ruth.21.25",
-      "greek_text": "εις την κληρονομ ιαν αυτο υ εν ταις ημ εραις εκειναις ουκ ην βασιλε υς εν Ισρα ηλ ανηρ το ευθες εν οφθαλμο ις αυτο υ εποιει",
-      "english_translation": "to his inheritance. In those days there was not a king in Israel – a man [2the 3upright thing 4in 5his eyes 1did].",
+      "greek_text": "εν ταις ημ εραις εκειναις ουκ ην βασιλε υς εν Ισρα ηλ ανηρ το ευθες εν οφθαλμο ις αυτου εποιει",
+      "english_translation": "to his inheritance. In those days there was not a king in Israel – a man the upright thing in his eyes did.",
       "morphology": [
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.21.25"
         },
         {
-          "surface_form": "την",
-          "lemma": "την",
+          "surface_form": "ταις",
+          "lemma": "ταις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.21.25"
         },
         {
-          "surface_form": "κληρονομ",
-          "lemma": "κληρονομ",
+          "surface_form": "ημ",
+          "lemma": "ημ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
           "verse_anchor": "Ruth.21.25"
         },
         {
-          "surface_form": "ιαν",
-          "lemma": "ιαν",
+          "surface_form": "εραις",
+          "lemma": "εραις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/ruth.json",
@@ -6476,7 +7472,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Ruth 21:25) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     }
   ]
 }

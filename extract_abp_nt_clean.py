@@ -86,7 +86,7 @@ def decode_newport_segment(segment: str) -> str:
 
 
 def merge_greek_chunks(chunks: list[tuple[float, float, str]]) -> str:
-    """Join decoded Greek chunks, avoiding artificial spaces when spans touch closely."""
+    """Join decoded Greek chunks, closing syllable gaps while preserving word breaks."""
     if not chunks:
         return ""
 
@@ -102,33 +102,56 @@ def merge_greek_chunks(chunks: list[tuple[float, float, str]]) -> str:
         if not parts:
             parts.append(piece)
         else:
-            same_line = prev_y0 is not None and abs(y0 - prev_y0) <= 3.5
+            same_line = prev_y0 is not None and abs(y0 - prev_y0) <= 3.0
             gap = (x0 - prev_x1) if (same_line and prev_x1 is not None) else 999.0
-            # Close small horizontal gaps between adjacent syllables of the same word
-            if same_line and 0 <= gap <= 2.2 and not parts[-1].endswith(("'", "’")):
+            # Close syllable/diacritic splits within the same Greek word
+            if same_line and -0.5 <= gap <= 1.8 and not parts[-1].endswith(("'", "’", " ")):
                 parts[-1] = unicodedata.normalize("NFC", parts[-1] + piece)
             else:
                 parts.append(piece)
 
-        prev_x1 = x0 + max(len(piece) * 4.0, 4.0)
+        prev_x1 = x0 + max(len(piece) * 4.2, 4.0)
         prev_y0 = y0
 
     joined = " ".join(parts)
     joined = re.sub(r"\s+([,.;·:!?])", r"\1", joined)
+    joined = re.sub(r"σ(?=$|[\s,.;·'’\"“”()\[\]])", "ς", joined)
     return unicodedata.normalize("NFC", joined).strip()
+
+def clean_english_gloss(text: str) -> str:
+    """Strip ABP word-order numbers inside brackets while preserving English words."""
+    def _strip_order_nums(match: re.Match[str]) -> str:
+        inner = match.group(1)
+        inner_clean = re.sub(r"(?:^|\s+)\d+(?=\s+)", " ", inner)
+        inner_clean = re.sub(r"(?:^|\s+)\d+(?=[A-Za-z])", " ", inner_clean)
+        inner_clean = re.sub(r"\b\d+\b", "", inner_clean)
+        return re.sub(r"\s+", " ", inner_clean).strip()
+
+    cleaned = re.sub(r"\[([^\]]*)\]", _strip_order_nums, text)
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    cleaned = re.sub(r"\s+([,.;:!?\]\)])", r"\1", cleaned)
+    cleaned = re.sub(r"([\[\(])\s+", r"\1", cleaned)
+    return normalize_nfc(cleaned).strip()
+
+def format_logos_gloss(greek_text: str, english_text: str) -> str:
+    """Render logos consistently as 'λόγος (logic/reason)' where present."""
+    norm_g = normalize_nfc(greek_text)
+    norm_e = clean_english_gloss(english_text)
+    if re.search(r"\b[λΛ][όοóo]γ(?:ος|ου|ον|ω|ε)\b", norm_g):
+        if "λόγος (logic/reason)" not in norm_e:
+            norm_e = re.sub(r"\b[Tt]he\s+word\b", "λόγος (logic/reason)", norm_e, count=1)
+            if "λόγος (logic/reason)" not in norm_e:
+                norm_e = re.sub(r"\bword\b", "λόγος (logic/reason)", norm_e, count=1)
+    return normalize_nfc(norm_e).strip()
 
 
 def merge_english_chunks(chunks: list[tuple[float, float, str]]) -> str:
-    """Join English gloss/text chunks cleanly."""
+    """Join English gloss/text chunks cleanly without ABP reordering brackets."""
     if not chunks:
         return ""
 
     raw = " ".join(normalize_nfc(piece) for _, _, piece in chunks if normalize_nfc(piece))
-    raw = re.sub(r"\s+([,.;:!?\]\)])", r"\1", raw)
-    raw = re.sub(r"([\[\(])\s+", r"\1", raw)
-    return normalize_nfc(raw)
-
-
+    return clean_english_gloss(raw)
 def collect_page_spans(page: pymupdf.Page) -> list[SpanItem]:
     page_dict = page.get_text("dict")
     items: list[SpanItem] = []
@@ -167,6 +190,13 @@ def group_into_rows(spans: list[SpanItem], y_tol: float = 3.5) -> list[list[Span
     return rows
 
 
+
+def _polish_greek_output(text: str) -> str:
+    cleaned = re.sub(r"\bΞριστ", "Χριστ", text)
+    cleaned = re.sub(r"(\b[\u0370-\u03FF\u1F00-\u1FFF]{2,})\s+([υη])\b", r"\1\2", cleaned)
+    return re.sub(r"\s{2,}", " ", cleaned).strip()
+
+
 def extract_book(
     pdf_path: Path,
     book_name: str,
@@ -188,25 +218,25 @@ def extract_book(
         right_col = [s for s in spans if s.x0 >= mid_x]
 
         for col in (left_col, right_col):
-            for row in group_into_rows(col):
-                # Detect chapter:verse markers on the row
-                for sp in row:
-                    match = VERSE_MARKER_RE.match(sp.text)
-                    if match:
-                        current_cv = (int(match.group(1)), int(match.group(2)))
-                        verses.setdefault(current_cv, VerseBuffer())
-
-                if current_cv is None:
-                    continue
-
-                buf = verses[current_cv]
+            # Group spans by interlinear band (y0), then process left-to-right (x0)
+            # so mid-line chapter:verse markers split spans cleanly at their x0 position.
+            for row in group_into_rows(col, y_tol=3.0):
                 for sp in row:
                     txt = sp.text
-                    if VERSE_MARKER_RE.match(txt) or STRONG_OR_NUM_RE.match(txt):
-                        continue
-                    if txt in APPARATUS_TOKENS:
+                    match = VERSE_MARKER_RE.match(txt)
+                    if match:
+                        next_cv = (int(match.group(1)), int(match.group(2)))
+                        current_cv = next_cv
+                        verses.setdefault(current_cv, VerseBuffer())
                         continue
 
+                    if current_cv is None:
+                        continue
+
+                    if STRONG_OR_NUM_RE.match(txt) or txt in APPARATUS_TOKENS:
+                        continue
+
+                    buf = verses[current_cv]
                     if sp.font == "Newport":
                         if txt in MANUSCRIPT_SIGLA:
                             continue
@@ -219,8 +249,8 @@ def extract_book(
     out_lines: list[str] = []
     for chap, ver in sorted(verses.keys()):
         buf = verses[(chap, ver)]
-        greek_str = merge_greek_chunks(buf.greek_chunks)
-        english_str = merge_english_chunks(buf.english_chunks)
+        greek_str = _polish_greek_output(merge_greek_chunks(buf.greek_chunks))
+        english_str = format_logos_gloss(greek_str, merge_english_chunks(buf.english_chunks))
         if greek_str or english_str:
             out_lines.append(f"{book_name}|{chap}|{ver}|{greek_str}|{english_str}")
 

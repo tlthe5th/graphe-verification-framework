@@ -98,7 +98,7 @@ def nfc(text: str) -> str:
     return unicodedata.normalize("NFC", text).strip()
 
 
-def build_default_criteria(ref: str, status: str = "PASS") -> dict[str, dict[str, str]]:
+def build_default_criteria(ref: str, status: str = "UNVERIFIED") -> dict[str, dict[str, str]]:
     """Return schema-valid ('PASS' or 'FAIL') 10-point criteria evaluations."""
     rationales = {
         "1": f"Loaded canonical passage ({ref}) for internal scriptural pattern audit.",

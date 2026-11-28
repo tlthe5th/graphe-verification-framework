@@ -8,8 +8,8 @@
       "reference": "Joel 1:1",
       "greek_reference": "Ἰωήλ 1:1",
       "verse_anchor": "Joel.1.1",
-      "greek_text": "λογος κυριου ος εγενηθη προς",
-      "english_translation": "The word of the which came to pass to",
+      "greek_text": "λογος κυριου ος εγενηθη προς Ιὤηλ τον του Βαθοὔηλ",
+      "english_translation": "λόγος (logic/reason) of the which came to pass to",
       "morphology": [
         {
           "surface_form": "λογος",
@@ -85,42 +85,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:2",
       "greek_reference": "Ἰωήλ 1:2",
       "verse_anchor": "Joel.1.2",
-      "greek_text": "Ιὤηλ τον του Βαθοὔηλ ακὅυσατε τἄυτα οι πρεσβ υτεροι και ενωτ ισασθε παντες οι κατοικο υντες την γην ει γεγονε τοιαυτα εν ταις ημ εραις υμ ων η εν ταις ημ εραις των πατ ερων υμ ων",
-      "english_translation": "Joel the son of Pethuel. Hear these things, O elders, and give ear all the ones dwelling the land! Have [2 taken place 1such things] in your days, or in the days of your fathers?",
+      "greek_text": "ακὅυσατε τἄυτα οι πρεσβ υτεροι και ενωτ ισασθε παντες οι κατοικουντες την γην ει γεγονε τοιαυτα εν ταις ημ εραις υμ ωνη εν ταις ημ εραις των πατ ερων υμ ων",
+      "english_translation": "Joel the son of Pethuel. Hear these things, O elders, and give ear all the ones dwelling the land! Have taken place such things in your days, or in the days of your fathers?",
       "morphology": [
         {
-          "surface_form": "Ιὤηλ",
-          "lemma": "Ιὤηλ",
+          "surface_form": "ακὅυσατε",
+          "lemma": "ακὅυσατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.2"
         },
         {
-          "surface_form": "τον",
-          "lemma": "τον",
+          "surface_form": "τἄυτα",
+          "lemma": "τἄυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.2"
         },
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "οι",
+          "lemma": "οι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.2"
         },
         {
-          "surface_form": "Βαθοὔηλ",
-          "lemma": "Βαθοὔηλ",
+          "surface_form": "πρεσβ",
+          "lemma": "πρεσβ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -168,14 +170,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:3",
       "greek_reference": "Ἰωήλ 1:3",
       "verse_anchor": "Joel.1.3",
-      "greek_text": "υπἔρ αυτὤν τοις τἔκνοις υμὤν διηγἤσασθε και τα τ εκνα υμ ων τοις τ εκνοις αυτων και τα τ εκνα αυτων",
-      "english_translation": "Concerning them, [2 to 3your children 1describe], and your children to their children, and their children",
+      "greek_text": "υπἔρ αυτὤν τοις τἔκνοις υμὤν διηγἤσασθε και τα τεκνα υμ ων τοις τεκνοις αυτων και τα τεκνα αυτων εις γενεαν ετεραν",
+      "english_translation": "Concerning them, to your children describe, and your children to their children, and their children",
       "morphology": [
         {
           "surface_form": "υπἔρ",
@@ -251,42 +255,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:4",
       "greek_reference": "Ἰωήλ 1:4",
       "verse_anchor": "Joel.1.4",
-      "greek_text": "εις γενεαν ετ εραν τα καταλοιπα της κἄμπης κατἔφαγεν η ακρἴς και τα καταλοιπα της ακρ ιδος κατεφαγεν ο βρουξος και τα καταλοιπα του βρουξου κατεφαγεν",
-      "english_translation": "unto [2generation 1another]! The things remaining of the caterpillar [3devoured 1the 2locust]; and the things remaining of the locust [3devoured 1the 2grasshopper]; and the things remaining of the grasshopper [3devoured",
+      "greek_text": "τα καταλοιπα της κἄμπης κατἔφαγενη ακρἴς και τα καταλοιπα της ακρ ιδος κατεφαγεν ο βρουξος και τα καταλοιπα του βρουξου κατεφαγενη ερυς ιβη",
+      "english_translation": "unto generation another! The things remaining of the caterpillar devoured the locust; and the things remaining of the locust devoured the grasshopper; and the things remaining of the grasshopper [3devoured",
       "morphology": [
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "τα",
+          "lemma": "τα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.4"
         },
         {
-          "surface_form": "γενεαν",
-          "lemma": "γενεαν",
+          "surface_form": "καταλοιπα",
+          "lemma": "καταλοιπα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.4"
         },
         {
-          "surface_form": "ετ",
-          "lemma": "ετ",
+          "surface_form": "της",
+          "lemma": "της",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.4"
         },
         {
-          "surface_form": "εραν",
-          "lemma": "εραν",
+          "surface_form": "κἄμπης",
+          "lemma": "κἄμπης",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -334,31 +340,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:5",
       "greek_reference": "Ἰωήλ 1:5",
       "verse_anchor": "Joel.1.5",
-      "greek_text": "η ερυς ιβη εκνηψατε οι μεθυοντες εχ οινου αυτων κλα υσατε και θρην ησατε παντες οι πινοντεςτον οινονεις μεθην ὅτι εχ ηρθη",
+      "greek_text": "εκνηψατε οι μεθυοντες εχ οινου αυτων κλα υσατε και θρην ησατε παντες οι πινοντεςτον οινονεις μεθην ὅτι εχηρθη εκ στοματος υμ ων",
       "english_translation": "1the 2blight]. Sober up, the ones intoxicated from their wine! Weep and wail all the ones drinking the wine unto intoxication! for it has been lifted away",
       "morphology": [
-        {
-          "surface_form": "ερυς",
-          "lemma": "ερυς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.5"
-        },
-        {
-          "surface_form": "ιβη",
-          "lemma": "ιβη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.5"
-        },
         {
           "surface_form": "εκνηψατε",
           "lemma": "εκνηψατε",
@@ -370,6 +362,22 @@
         {
           "surface_form": "οι",
           "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.5"
+        },
+        {
+          "surface_form": "μεθυοντες",
+          "lemma": "μεθυοντες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.5"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -417,42 +425,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:6",
       "greek_reference": "Ἰωήλ 1:6",
       "verse_anchor": "Joel.1.6",
-      "greek_text": "εκ στοματος υμ ων ὅτι ἔθνος ανεβη επι την γην μου ισξυρ ον και αναρ ιθμητον οι οδοντες αυτο υ οδοντες λεοντος και αι μυλαι αυτο υ",
-      "english_translation": "from out of your mouth. For a nation ascended upon my land, one strong and innumerable. His teeth [2teeth are as lion's], and his molars",
+      "greek_text": "ὅτι ἔθνος ανεβη επι την γην μου ισξυρ ον και αναρ ιθμητον οι οδοντες αυτου οδοντες λεοντος και αι μυλαι αυτου ως σκ υμνου",
+      "english_translation": "from out of your mouth. For a nation ascended upon my land, one strong and innumerable. His teeth teeth are as lion's, and his molars",
       "morphology": [
         {
-          "surface_form": "εκ",
-          "lemma": "εκ",
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.6"
         },
         {
-          "surface_form": "στοματος",
-          "lemma": "στοματος",
+          "surface_form": "ἔθνος",
+          "lemma": "ἔθνος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.6"
         },
         {
-          "surface_form": "υμ",
-          "lemma": "υμ",
+          "surface_form": "ανεβη",
+          "lemma": "ανεβη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.6"
         },
         {
-          "surface_form": "ων",
-          "lemma": "ων",
+          "surface_form": "επι",
+          "lemma": "επι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -500,42 +510,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:7",
       "greek_reference": "Ἰωήλ 1:7",
       "verse_anchor": "Joel.1.7",
-      "greek_text": "ως σκ υμνου εθετο την ἄμπελὅν μου εις αφανισμὅν και τας συκἄς μου εις συγκλασμὅν ερευνὤν εχηρἔυνησεν αυτἤν και ερριψεν ελἔυκανε τα",
+      "greek_text": "εθετο την ἄμπελὅν μου εις αφανισμὅν και τας συκἄς μου εις συγκλασμὅν ερευνὤν εχηρἔυνησεν αυτἤν και ερριψεν ελἔυκανε τα κληματα αυτης",
       "english_translation": "as cubs. He appointed my grapevine for extinction, and my fig-trees for a splinter. In searching he searched it, and tossed it down; he whitened See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "ως",
-          "lemma": "ως",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.7"
-        },
-        {
-          "surface_form": "σκ",
-          "lemma": "σκ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.7"
-        },
-        {
-          "surface_form": "υμνου",
-          "lemma": "υμνου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.7"
-        },
-        {
           "surface_form": "εθετο",
           "lemma": "εθετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.7"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.7"
+        },
+        {
+          "surface_form": "ἄμπελὅν",
+          "lemma": "ἄμπελὅν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.7"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -583,31 +595,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:8",
       "greek_reference": "Ἰωήλ 1:8",
       "verse_anchor": "Joel.1.8",
-      "greek_text": "κληματα αυτης θρηνησον προς με υπ ερ νυμφην περιεζωσμἔνην σἄκκον επἴ τον ἄνδρα αυτἤς παρθενον",
+      "greek_text": "θρηνησον προς με υπ ερ νυμφην περιεζωσμἔνην σἄκκον επἴ τον ἄνδρα αυτἤς παρθενον",
       "english_translation": "its vine branches. Wail to me more than a bride having been girded with sackcloth for the husband of her - virgin. i.e. husband's death.",
       "morphology": [
-        {
-          "surface_form": "κληματα",
-          "lemma": "κληματα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.8"
-        },
-        {
-          "surface_form": "αυτης",
-          "lemma": "αυτης",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.8"
-        },
         {
           "surface_form": "θρηνησον",
           "lemma": "θρηνησον",
@@ -619,6 +617,22 @@
         {
           "surface_form": "προς",
           "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.8"
+        },
+        {
+          "surface_form": "με",
+          "lemma": "με",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.8"
+        },
+        {
+          "surface_form": "υπ",
+          "lemma": "υπ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -666,14 +680,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:9",
       "greek_reference": "Ἰωήλ 1:9",
       "verse_anchor": "Joel.1.9",
-      "greek_text": "τον παρθενικὅν εχἤρται θυσἴα και σπονδ η εχ οικου κυριου πενθε ιτε οι ιερε ις οι λειτουργο ι του κυριου",
-      "english_translation": "virginity. [4have been lifted away The sacrifice 2and the libation offering] from out of the house of the. Mourn, O priests, the ones ministers of the!",
+      "greek_text": "τον παρθενικὅν εχἤρται θυσἴα και σπονδη εχ οικου κυριου πενθειτε οι ιερε ις οι λειτουργοι του κυριου",
+      "english_translation": "virginity. have been lifted away The sacrifice and the libation offering from out of the house of the. Mourn, O priests, the ones ministers of the!",
       "morphology": [
         {
           "surface_form": "τον",
@@ -749,14 +765,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:10",
       "greek_reference": "Ἰωήλ 1:10",
       "verse_anchor": "Joel.1.10",
-      "greek_text": "ὅτι τεταλαιπ ωρηκε τα πεδια πενθε ιτω η γη ὅτι τεταλαιπ ωρηκε ςιτος εχ ηρανθη οινος",
-      "english_translation": "For [3have languished 1the 2plains]. Mourn, O earth, for [2has languished the grain]! [2 was dried up the wine]; See Bos for variants.",
+      "greek_text": "ὅτι τεταλαιπ ωρηκε τα πεδια πενθειτωη γη ὅτι τεταλαιπ ωρηκε ςιτος εχηρανθη οινος ωλιγ ωθη ἔλαιον θεου υμ ων ευφρος υνη και ξαρ α",
+      "english_translation": "For have languished the plains. Mourn, O earth, for has languished the grain! was dried up the wine; See Bos for variants.",
       "morphology": [
         {
           "surface_form": "ὅτι",
@@ -832,42 +850,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:11",
       "greek_reference": "Ἰωήλ 1:11",
       "verse_anchor": "Joel.1.11",
-      "greek_text": "ωλιγ ωθη ἔλαιον εχηρανθησαν γεωργο ι θρηνε ιτε κτηματα υπ ερ πυρο υ και κριθης ὅτι απὅλωλε τρυγητὅς εχ",
-      "english_translation": "[2lessened the olive oil]. [2 were withered The farmers]. Wail for your possessions – for the wheat and barley! for [2he has destroyed the gathering of crops] from out of",
+      "greek_text": "εχηρανθησαν γεωργο ι θρηνειτε κτηματα υπ ερ πυρου και κριθης ὅτι απὅλωλε τρυγητὅς εχ αγρου",
+      "english_translation": "lessened the olive oil. were withered The farmers. Wail for your possessions – for the wheat and barley! for he has destroyed the gathering of crops from out of",
       "morphology": [
-        {
-          "surface_form": "ωλιγ",
-          "lemma": "ωλιγ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.11"
-        },
-        {
-          "surface_form": "ωθη",
-          "lemma": "ωθη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.11"
-        },
-        {
-          "surface_form": "ἔλαιον",
-          "lemma": "ἔλαιον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.11"
-        },
         {
           "surface_form": "εχηρανθησαν",
           "lemma": "εχηρανθησαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.11"
+        },
+        {
+          "surface_form": "γεωργο",
+          "lemma": "γεωργο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.11"
+        },
+        {
+          "surface_form": "θρηνειτε",
+          "lemma": "θρηνειτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.11"
+        },
+        {
+          "surface_form": "κτηματα",
+          "lemma": "κτηματα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -915,23 +935,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:12",
       "greek_reference": "Ἰωήλ 1:12",
       "verse_anchor": "Joel.1.12",
-      "greek_text": "αγρο υ η ἄμπελος εχηρανθη και αι συκα ι ωλιγὤθησαν ρὅα και φὅινιχ και μἤλον και πἄντα τα χ υλα του αγρο υ εχηρανθησαν ὅτι ἤσξυναν ξαρ αν οι υιοι των ανθρ ωπων",
-      "english_translation": "the field. The grapevine was dried up, and the fig-trees were lessened; pomegranate, and palm, and apple and all the trees of the field were dried up; for [4shamed 5joy 1the 2sons 3of men].",
+      "greek_text": "η ἄμπελος εχηρανθη και αι συκα ι ωλιγὤθησαν ρὅα και φὅινιχ και μἤλον και πἄντα τα χυλα του αγρου εχηρανθησαν ὅτι ἤσξυναν ξαρ αν οι υιοι των ανθρ ωπων",
+      "english_translation": "the field. The grapevine was dried up, and the fig-trees were lessened; pomegranate, and palm, and apple and all the trees of the field were dried up; for shamed joy the sons of men.",
       "morphology": [
-        {
-          "surface_form": "αγρο",
-          "lemma": "αγρο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.12"
-        },
         {
           "surface_form": "ἄμπελος",
           "lemma": "ἄμπελος",
@@ -951,6 +965,14 @@
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.12"
+        },
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -998,13 +1020,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:13",
       "greek_reference": "Ἰωήλ 1:13",
       "verse_anchor": "Joel.1.13",
-      "greek_text": "περιζωσασθε και κοπτεσθε οι ιερε ις θρηνε ιτε οι λειτουργο υντες θυσιαστηρ ιω ειςελθετε υπνὤσατε εν σἄκκοις λειτουργὅυντες θἔω ὅτι απ εσξηκεν εχ οικου θεου υμ ων",
+      "greek_text": "περιζωσασθε και κοπτεσθε οι ιερε ις θρηνειτε οι λειτουργουντες θυσιαστηρ ιω ειςελθετε υπνὤσατε εν σἄκκοις λειτουργὅυντες θἔω ὅτι απ εσξηκεν εχ οικου θεου υμ ων θυς ια και σπονδη",
       "english_translation": "Gird and beat yourselves, O priests! Wail, O ones ministering at the altar! Enter! Sleep in sackcloths, O ones ministering to God! for [4have been at a distance 5from the house 7of your God",
       "morphology": [
         {
@@ -1081,42 +1105,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:14",
       "greek_reference": "Ἰωήλ 1:14",
       "verse_anchor": "Joel.1.14",
-      "greek_text": "θυς ια και σπονδ η αγιασατε νηστἔιαν κηρὔχατε θεραπἔιαν συναγἄγετε πρεσβυτ ερους παντες οι κατοικο υντες την γην εις οικον κυριου θεου υμ ων και κεκραχατε προς",
+      "greek_text": "αγιασατε νηστἔιαν κηρὔχατε θεραπἔιαν συναγἄγετε πρεσβυτ ερους παντες οι κατοικουντες την γην εις οικον κυριου θεου υμ ων και κεκραχατε προς κυριον εκτενως",
       "english_translation": "the sacrifice offering 2and 3libation offering]. Sanctify a fast! Proclaim a sacred service! Bring together elders (all the ones dwelling the land), into the house of the your God! And cry out to",
       "morphology": [
         {
-          "surface_form": "θυς",
-          "lemma": "θυς",
+          "surface_form": "αγιασατε",
+          "lemma": "αγιασατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.14"
         },
         {
-          "surface_form": "ια",
-          "lemma": "ια",
+          "surface_form": "νηστἔιαν",
+          "lemma": "νηστἔιαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.14"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "κηρὔχατε",
+          "lemma": "κηρὔχατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.14"
         },
         {
-          "surface_form": "σπονδ",
-          "lemma": "σπονδ",
+          "surface_form": "θεραπἔιαν",
+          "lemma": "θεραπἔιαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1164,26 +1190,28 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:15",
       "greek_reference": "Ἰωήλ 1:15",
       "verse_anchor": "Joel.1.15",
-      "greek_text": "κυριον εκτενως οιμοι οιμοι οιμοι εις ημ εραν ὅτι εγγυς η ημ ερα κυριου και ως ταλαιπωρ ια εκ",
-      "english_translation": "the intensely! Woe, woe, woe for the day – for [4 is near 1the 2day of the]; and as misery from",
+      "greek_text": "οιμοι οιμοι οιμοι εις ημ εραν ὅτι εγγυςη ημ ερα κυριου και ως ταλαιπωρ ια εκ ταλαιπωρἴας ἤχει",
+      "english_translation": "the intensely! Woe, woe, woe for the day – for is near the day of the; and as misery from",
       "morphology": [
         {
-          "surface_form": "κυριον",
-          "lemma": "κυριον",
+          "surface_form": "οιμοι",
+          "lemma": "οιμοι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.15"
         },
         {
-          "surface_form": "εκτενως",
-          "lemma": "εκτενως",
+          "surface_form": "οιμοι",
+          "lemma": "οιμοι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1198,8 +1226,8 @@
           "verse_anchor": "Joel.1.15"
         },
         {
-          "surface_form": "οιμοι",
-          "lemma": "οιμοι",
+          "surface_form": "εις",
+          "lemma": "εις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1247,31 +1275,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:16",
       "greek_reference": "Ἰωήλ 1:16",
       "verse_anchor": "Joel.1.16",
-      "greek_text": "ταλαιπωρἴας ἤχει ουξἴ κατἔναντι των οφθαλμ ων υμ ων βρωματα εχ ηρθη εχ οικου",
-      "english_translation": "misery it shall come. Were not [3in front of 4your eyes 1foods 2lifted away] from out of the house",
+      "greek_text": "ουξἴ κατἔναντι των οφθαλμ ων υμ ων βρωματα εχηρθη εχ οικου",
+      "english_translation": "misery it shall come. Were not in front of your eyes foods lifted away from out of the house",
       "morphology": [
-        {
-          "surface_form": "ταλαιπωρἴας",
-          "lemma": "ταλαιπωρἴας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.16"
-        },
-        {
-          "surface_form": "ἤχει",
-          "lemma": "ἤχει",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.16"
-        },
         {
           "surface_form": "ουξἴ",
           "lemma": "ουξἴ",
@@ -1283,6 +1297,22 @@
         {
           "surface_form": "κατἔναντι",
           "lemma": "κατἔναντι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.16"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.16"
+        },
+        {
+          "surface_form": "οφθαλμ",
+          "lemma": "οφθαλμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1330,42 +1360,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:17",
       "greek_reference": "Ἰωήλ 1:17",
       "verse_anchor": "Joel.1.17",
-      "greek_text": "θεου υμ ων ευφρος υνη και ξαρ α εσκ ιρτησαν δαμ αλεις επιταιςφ ατναις αυτων ηφαν ισθησαν θησαυρο ι κατεσκἄφησαν ληνὅι ὅτι εχηρἄνθη σἴτος",
-      "english_translation": "of your God – even gladness and joy? [2leap 1Heifers] in their stables; [2are obliterated 1treasures]; [2 were razed 1wine vats]; for [2 was dried up the grain].",
+      "greek_text": "εσκ ιρτησαν δαμ αλεις επιταιςφ ατναις αυτων ηφαν ισθησαν θησαυρο ι κατεσκἄφησαν ληνὅι ὅτι εχηρἄνθη σἴτος",
+      "english_translation": "of your God – even gladness and joy? leap Heifers in their stables; are obliterated treasures; were razed wine vats; for was dried up the grain.",
       "morphology": [
         {
-          "surface_form": "θεου",
-          "lemma": "θεου",
+          "surface_form": "εσκ",
+          "lemma": "εσκ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.17"
         },
         {
-          "surface_form": "υμ",
-          "lemma": "υμ",
+          "surface_form": "ιρτησαν",
+          "lemma": "ιρτησαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.17"
         },
         {
-          "surface_form": "ων",
-          "lemma": "ων",
+          "surface_form": "δαμ",
+          "lemma": "δαμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.17"
         },
         {
-          "surface_form": "ευφρος",
-          "lemma": "ευφρος",
+          "surface_form": "αλεις",
+          "lemma": "αλεις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1413,14 +1445,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:18",
       "greek_reference": "Ἰωήλ 1:18",
       "verse_anchor": "Joel.1.18",
-      "greek_text": "τι αποθ ησομεν εαυτο ις ἔκλαυσαν βουκὅλια βὅων ὅτι ουξ υπἤρξε νομἤ αυτὅις και",
-      "english_translation": "What shall we put aside for ourselves? [3weep The herds 2of oxen], for [3not 2exists 1a pasture] to them; and",
+      "greek_text": "τι αποθ ησομεν εαυτοις ἔκλαυσαν βουκὅλια βὅων ὅτι ουξ υπἤρξε νομἤ αυτὅις και τα ποιμνια των προβ ατων ηφαν ισθησαν",
+      "english_translation": "What shall we put aside for ourselves? weep The herds of oxen, for not exists a pasture to them; and",
       "morphology": [
         {
           "surface_form": "τι",
@@ -1447,8 +1481,8 @@
           "verse_anchor": "Joel.1.18"
         },
         {
-          "surface_form": "εαυτο",
-          "lemma": "εαυτο",
+          "surface_form": "εαυτοις",
+          "lemma": "εαυτοις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1496,42 +1530,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:19",
       "greek_reference": "Ἰωήλ 1:19",
       "verse_anchor": "Joel.1.19",
-      "greek_text": "τα ποιμνια των προβ ατων ηφαν ισθησαν προς σε κὔριε βὅησομαι ὅτι πυρ ανἤλωσε τα ωρἄια της ερημου και φλοχ κατεκαυσε παντα τα χ υλα",
+      "greek_text": "προς σε κὔριε βὅησομαι ὅτι πυρ ανἤλωσε τα ωρἄια της ερημου και φλοχ κατεκαυσε παντα τα χυλα του αγρὅυ",
       "english_translation": "the flocks of the sheep were obliterated. To you, O, we shall yell. For fire consumed the beautiful things of the wilderness, and a flame incinerated all the trees",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.19"
         },
         {
-          "surface_form": "ποιμνια",
-          "lemma": "ποιμνια",
+          "surface_form": "σε",
+          "lemma": "σε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.19"
         },
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "κὔριε",
+          "lemma": "κὔριε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.1.19"
         },
         {
-          "surface_form": "προβ",
-          "lemma": "προβ",
+          "surface_form": "βὅησομαι",
+          "lemma": "βὅησομαι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1579,31 +1615,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 1:20",
       "greek_reference": "Ἰωήλ 1:20",
       "verse_anchor": "Joel.1.20",
-      "greek_text": "του αγρὅυ και τα κτἤνη του πεδἴου ανἔβλεψαν προς σε ὅτι εχηρανθησαν αφ εσεις υδατων και πυρ κατεφαγε τα ωρα ια της ερημου",
-      "english_translation": "of the field; and the cattle of the plain look up to you, for [3 were dried up the releases 2of waters], and fire devoured the beautiful things of the wilderness.",
+      "greek_text": "και τα κτἤνη του πεδἴου ανἔβλεψαν προς σε ὅτι εχηρανθησαν αφ εσεις υδατων και πυρ κατεφαγε τα ωρα ια της ερημου",
+      "english_translation": "of the field; and the cattle of the plain look up to you, for were dried up the releases of waters, and fire devoured the beautiful things of the wilderness.",
       "morphology": [
-        {
-          "surface_form": "του",
-          "lemma": "του",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.20"
-        },
-        {
-          "surface_form": "αγρὅυ",
-          "lemma": "αγρὅυ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.1.20"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -1615,6 +1637,22 @@
         {
           "surface_form": "τα",
           "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.20"
+        },
+        {
+          "surface_form": "κτἤνη",
+          "lemma": "κτἤνη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.1.20"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1662,14 +1700,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 1:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:1",
       "greek_reference": "Ἰωήλ 2:1",
       "verse_anchor": "Joel.2.1",
-      "greek_text": "σαλπ ισατε ςαλπιγγι εν Σιων κηρ υχατε εν ὅρει αγιω μου και συγξυθ ητωσαν παντες οι κατοικὅυντες την γην ὅτι πἄρεστιν η ημἔρα συνταραξθητωσαν",
-      "english_translation": "Trump a trumpet in Zion! Proclaim in [2mountain 1my holy], and confound all the ones dwelling the land! for [4is at hand 1the 2day - disturb.",
+      "greek_text": "σαλπ ισατε ςαλπιγγι εν Σιων κηρ υχατε εν ὅρει αγιω μου και συγξυθ ητωσαν παντες οι κατοικὅυντες την γην ὅτι πἄρεστινη ημἔρα κυριου ὅτι εγγυς συνταραξθητωσαν",
+      "english_translation": "Trump a trumpet in Zion! Proclaim in mountain my holy, and confound all the ones dwelling the land! for [4is at hand 1the 2day - disturb.",
       "morphology": [
         {
           "surface_form": "σαλπ",
@@ -1745,42 +1785,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:2",
       "greek_reference": "Ἰωήλ 2:2",
       "verse_anchor": "Joel.2.2",
-      "greek_text": "κυριου ὅτι εγγυς ημ ερα σκ οτους και γνοφου ημ ερα νεφ ελης και ομιξλης ως ὅρθρος ξυθἤσεται επἴ τα ὅρη λἄος πολὔς και ισξυρ ος ὅμοιος αυτω ου γεγονεν απ ο του αἴωνος και μετ' αυτὅν ουκ προστεθἤσεται ἔως ετὤν ουκ εσται",
-      "english_translation": "of the] – for it is near. A day of darkness and dimness, a day of cloud and fog. As the dawn shall be poured upon the mountains, [4people so a vast 2and 3strong]; likened to it has not happened from the eon, and after it it shall not be added unto years, - shall not be.",
+      "greek_text": "ημ ερα σκ οτους και γνοφου ημ ερα νεφ ελης και ομιξλης ως ὅρθρος ξυθἤσεται επἴ τα ὅρη λἄος πολὔς και ισξυρ ος ὅμοιος αυτω ου γεγονεν απ ο του αἴωνος και μετ' αυτὅν ουκ προστεθἤσεται ἔως ετὤν εις γενεας γενεων ουκ εσται",
+      "english_translation": "of the] – for it is near. A day of darkness and dimness, a day of cloud and fog. As the dawn shall be poured upon the mountains, people so a vast and strong; likened to it has not happened from the eon, and after it it shall not be added unto years, - shall not be.",
       "morphology": [
-        {
-          "surface_form": "κυριου",
-          "lemma": "κυριου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.2"
-        },
-        {
-          "surface_form": "ὅτι",
-          "lemma": "ὅτι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.2"
-        },
-        {
-          "surface_form": "εγγυς",
-          "lemma": "εγγυς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.2"
-        },
         {
           "surface_form": "ημ",
           "lemma": "ημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.2"
+        },
+        {
+          "surface_form": "ερα",
+          "lemma": "ερα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.2"
+        },
+        {
+          "surface_form": "σκ",
+          "lemma": "σκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.2"
+        },
+        {
+          "surface_form": "οτους",
+          "lemma": "οτους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1828,42 +1870,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:3",
       "greek_reference": "Ἰωήλ 2:3",
       "verse_anchor": "Joel.2.3",
-      "greek_text": "εις γενεας γενεων τα ἔμπροσθεν αυτο υ πυρ αναλ ισκον και οπισω αυτο υ αναπτομ ενη φλοχ ως παρ αδεισος τρυφ ης η γη προ Ι Ω προς ωπου αυτο υ και τα οπισω αυτο υ πεδιον",
-      "english_translation": "for generations of generations. The things before him [2fire are a consuming], and behind him [2being lit 1a flame]. As a paradise of delicacy is the earth before See Bos for variants. his face, and the things behind him a plain",
+      "greek_text": "τα ἔμπροσθεν αυτου πυρ αναλ ισκον και οπισω αυτου αναπτομ ενη φλοχ ως παρ αδεισος τρυφ ηςη γη προ Ι Ω προς ωπου αυτου και τα οπισω αυτου πεδιον αφανισμου και ανασωζ ομενος ουκ εσται αυτω",
+      "english_translation": "for generations of generations. The things before him fire are a consuming, and behind him being lit a flame. As a paradise of delicacy is the earth before See Bos for variants. his face, and the things behind him a plain",
       "morphology": [
-        {
-          "surface_form": "εις",
-          "lemma": "εις",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.3"
-        },
-        {
-          "surface_form": "γενεας",
-          "lemma": "γενεας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.3"
-        },
-        {
-          "surface_form": "γενεων",
-          "lemma": "γενεων",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.3"
-        },
         {
           "surface_form": "τα",
           "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.3"
+        },
+        {
+          "surface_form": "ἔμπροσθεν",
+          "lemma": "ἔμπροσθεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.3"
+        },
+        {
+          "surface_form": "αυτου",
+          "lemma": "αυτου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.3"
+        },
+        {
+          "surface_form": "πυρ",
+          "lemma": "πυρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1911,42 +1955,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:4",
       "greek_reference": "Ἰωήλ 2:4",
       "verse_anchor": "Joel.2.4",
-      "greek_text": "αφανισμο υ και ανασωζ ομενος ουκ εσται αυτω ως ὅρασις ἴππων η ὅψις αυτὤν και ως ιππἔις Λ μεγ αλη η ημ ερα κυριου επιφαν ης σφ οδρα και τις ἔσται ικανος αυτη",
-      "english_translation": "of extinction; and ones escaping will not be to him. As a sight of horses is the appearance of them; and as horsemen great is the day of the, [2apparent 1exceedingly]; and who will be fit for it?",
+      "greek_text": "ως ὅρασις ἴππωνη ὅψις αυτὤν και ως ιππἔις ουτως καταδι ωχονται μεγ αληη ημ ερα κυριου επιφαν ης σφ οδρα και τις ἔσται ικανος αυτη",
+      "english_translation": "of extinction; and ones escaping will not be to him. As a sight of horses is the appearance of them; and as horsemen great is the day of the, apparent exceedingly; and who will be fit for it?",
       "morphology": [
         {
-          "surface_form": "αφανισμο",
-          "lemma": "αφανισμο",
+          "surface_form": "ως",
+          "lemma": "ως",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.4"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "ὅρασις",
+          "lemma": "ὅρασις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.4"
         },
         {
-          "surface_form": "ανασωζ",
-          "lemma": "ανασωζ",
+          "surface_form": "ἴππωνη",
+          "lemma": "ἴππωνη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.4"
         },
         {
-          "surface_form": "ομενος",
-          "lemma": "ομενος",
+          "surface_form": "ὅψις",
+          "lemma": "ὅψις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -1994,42 +2040,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:5",
       "greek_reference": "Ἰωήλ 2:5",
       "verse_anchor": "Joel.2.5",
-      "greek_text": "ουτως καταδι ωχονται ως φων η αρμ ατων επι τας κορυφἄς των ορἔων εχαλὅυνται και ως φων η φλογ ος πυρ ος κατεσθιο υσης καλ αμην και ως λαος πολ υς και ισξυρ ος παρατασς ομενος εις πολεμον",
-      "english_translation": "so they shall pursue. As the sound of chariots upon the tops of the mountains they shall leap, even as the sound of a flame of fire devouring stubble, and as [4people 1a vast 2and 3strong] being deployed for battle.",
+      "greek_text": "ως φωνη αρμ ατων επι τας κορυφἄς των ορἔων εχαλὅυνται και ως φωνη φλογ ος πυρ ος κατεσθιο υσης καλ αμην και ως λαος πολ υς και ισξυρ ος παρατασς ομενος εις πολεμον",
+      "english_translation": "so they shall pursue. As the sound of chariots upon the tops of the mountains they shall leap, even as the sound of a flame of fire devouring stubble, and as people a vast and strong being deployed for battle.",
       "morphology": [
-        {
-          "surface_form": "ουτως",
-          "lemma": "ουτως",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.5"
-        },
-        {
-          "surface_form": "καταδι",
-          "lemma": "καταδι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.5"
-        },
-        {
-          "surface_form": "ωχονται",
-          "lemma": "ωχονται",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.5"
-        },
         {
           "surface_form": "ως",
           "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.5"
+        },
+        {
+          "surface_form": "φωνη",
+          "lemma": "φωνη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.5"
+        },
+        {
+          "surface_form": "αρμ",
+          "lemma": "αρμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.5"
+        },
+        {
+          "surface_form": "ατων",
+          "lemma": "ατων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2077,14 +2125,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:6",
       "greek_reference": "Ἰωήλ 2:6",
       "verse_anchor": "Joel.2.6",
-      "greek_text": "απ ο προς ωπου αυτο υ συντριβ ησονται λαο ι παν",
-      "english_translation": "From in front of him [2shall be destroyed 1peoples]; every",
+      "greek_text": "απ ο προς ωπου αυτου συντριβ ησονται λαο ι παν προσωπον ως προσκαυμα ξυτρας",
+      "english_translation": "From in front of him shall be destroyed peoples; every",
       "morphology": [
         {
           "surface_form": "απ",
@@ -2111,8 +2161,8 @@
           "verse_anchor": "Joel.2.6"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "αυτου",
+          "lemma": "αυτου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2160,23 +2210,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:7",
       "greek_reference": "Ἰωήλ 2:7",
       "verse_anchor": "Joel.2.7",
-      "greek_text": "προσωπον ως προσκαυμα ξυτρας ως μαξητα ι δραμο υνται και ως ἄνδρες πολεμιστα ι αναβ ησονται επι τα τε ιξη και ἔκαστος εν τη οδω αυτο υ πορἔυσεται και ου μη εκκλἴνωσι τας διαδραμουνται",
+      "greek_text": "ως μαξητα ι δραμο υνται και ως ἄνδρες πολεμιστα ι αναβ ησονται επι τα τειξη και ἔκαστος εν τη οδω αυτου πορἔυσεται και ου μη εκκλἴνωσι τας τρἴβους αυτὤν διαδραμουνται",
       "english_translation": "face as a burnt earthen pot. As warriors, they shall run, and as men of war they shall ascend upon the walls. And each in his way shall go, and in no way should they turn aside from - they shall run across.",
       "morphology": [
-        {
-          "surface_form": "προσωπον",
-          "lemma": "προσωπον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.7"
-        },
         {
           "surface_form": "ως",
           "lemma": "ως",
@@ -2186,16 +2230,24 @@
           "verse_anchor": "Joel.2.7"
         },
         {
-          "surface_form": "προσκαυμα",
-          "lemma": "προσκαυμα",
+          "surface_form": "μαξητα",
+          "lemma": "μαξητα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.7"
         },
         {
-          "surface_form": "ξυτρας",
-          "lemma": "ξυτρας",
+          "surface_form": "δραμο",
+          "lemma": "δραμο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.7"
+        },
+        {
+          "surface_form": "υνται",
+          "lemma": "υνται",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2243,31 +2295,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:8",
       "greek_reference": "Ἰωήλ 2:8",
       "verse_anchor": "Joel.2.8",
-      "greek_text": "τρἴβους αυτὤν και ἔκαστος απὅ του αδελφὅυ αυτὅυ ουκ αφ εχεται καταβαρυν ομενοι εν τοις ὅπλοις αυτὤν πορἔυσονται και εν τοις βἔλεσιν",
-      "english_translation": "their roads. And each [2from 3his brother 1shall not be at a distance]. [2being burdened 3with 4their shields 1They shall go]; and with arrows",
+      "greek_text": "και ἔκαστος απὅ του αδελφὅυ αυτὅυ ουκ αφ εχεται καταβαρυν ομενοι εν τοις ὅπλοις αυτὤν πορἔυσονται και εν τοις βἔλεσιν πεσο υνται και ου μη συντελεσθ ωσι",
+      "english_translation": "their roads. And each from his brother shall not be at a distance. being burdened with their shields They shall go; and with arrows",
       "morphology": [
-        {
-          "surface_form": "τρἴβους",
-          "lemma": "τρἴβους",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.8"
-        },
-        {
-          "surface_form": "αυτὤν",
-          "lemma": "αυτὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.8"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -2279,6 +2317,22 @@
         {
           "surface_form": "ἔκαστος",
           "lemma": "ἔκαστος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.8"
+        },
+        {
+          "surface_form": "απὅ",
+          "lemma": "απὅ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.8"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2326,26 +2380,36 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:9",
       "greek_reference": "Ἰωήλ 2:9",
       "verse_anchor": "Joel.2.9",
-      "greek_text": "πεσο υνται και ου μη συντελεσθ ωσι της πολεως επιληψονται και επι των τειξ εων δραμο υνται επι ταις οικιας αναβ ησονται και δι α διαδραμουνται",
-      "english_translation": "they shall fall, and no way should they be ended. [2the 3city 1They shall take hold of], and upon the walls they shall run. Unto the houses they shall ascend, and through - they shall run across.",
+      "greek_text": "της πολεως επιληψονται και επι των τειξ εων δραμο υνται επι ταιςοικιας αναβ ησονται και δι α των θυριδων εισελευσονται ως κλεπται διαδραμουνται Λ",
+      "english_translation": "they shall fall, and no way should they be ended. the city They shall take hold of, and upon the walls they shall run. Unto the houses they shall ascend, and through - they shall run across.",
       "morphology": [
         {
-          "surface_form": "πεσο",
-          "lemma": "πεσο",
+          "surface_form": "της",
+          "lemma": "της",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.9"
         },
         {
-          "surface_form": "υνται",
-          "lemma": "υνται",
+          "surface_form": "πολεως",
+          "lemma": "πολεως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.9"
+        },
+        {
+          "surface_form": "επιληψονται",
+          "lemma": "επιληψονται",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2354,14 +2418,6 @@
         {
           "surface_form": "και",
           "lemma": "και",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.9"
-        },
-        {
-          "surface_form": "ου",
-          "lemma": "ου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2409,42 +2465,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:10",
       "greek_reference": "Ἰωήλ 2:10",
       "verse_anchor": "Joel.2.10",
-      "greek_text": "των θυριδων εισελευσονται ως κλεπται προ προσὤπου αυτὅυ συγξυθἤσεται η γη και σεισθ ησεται ο ουραν ος ο ἤλιος και η σελ ηνη συσκοτἄσουσι και τα ἄστρα δὔσουσι φἔγγος αυτὤν",
-      "english_translation": "the windows they shall enter as thieves. Before his face [3shall be confounded 1the 2earth], and [3shall be shaken 1the 2heaven]. The sun and the moon shall darken, and the stars shall let down their brightness.",
+      "greek_text": "προ προσὤπου αυτὅυ συγξυθἤσεταιη γη και σεισθ ησεται ο ουραν ος ο ἤλιος καιη σελ ηνη συσκοτἄσουσι και τα ἄστρα δὔσουσι φἔγγος αυτὤν",
+      "english_translation": "the windows they shall enter as thieves. Before his face shall be confounded the earth, and shall be shaken the heaven. The sun and the moon shall darken, and the stars shall let down their brightness.",
       "morphology": [
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "προ",
+          "lemma": "προ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.10"
         },
         {
-          "surface_form": "θυριδων",
-          "lemma": "θυριδων",
+          "surface_form": "προσὤπου",
+          "lemma": "προσὤπου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.10"
         },
         {
-          "surface_form": "εισελευσονται",
-          "lemma": "εισελευσονται",
+          "surface_form": "αυτὅυ",
+          "lemma": "αυτὅυ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.10"
         },
         {
-          "surface_form": "ως",
-          "lemma": "ως",
+          "surface_form": "συγξυθἤσεταιη",
+          "lemma": "συγξυθἤσεταιη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2492,14 +2550,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:11",
       "greek_reference": "Ἰωήλ 2:11",
       "verse_anchor": "Joel.2.11",
-      "greek_text": "και κυριος δωσει φων ην αυτο υ προ προς ωπου δυναμεως αυτο υ ὅτι πολλ η εστι σφ οδρα η παρεμβολἤ αυτὅυ ὅτι ισξυρἄ ἔργα λὅγων αυτὅυ δἴοτι",
-      "english_translation": "And the shall give forth his voice from in front of his force, for [4great 2is 3exceedingly 1his camp]; for [2are strong 3works 1his words]. For",
+      "greek_text": "και κυριος δωσει φων ην αυτου προ προς ωπου δυναμεως αυτου ὅτι πολλη εστι σφ οδραη παρεμβολἤ αυτὅυ ὅτι ισξυρἄ ἔργα λὅγων αυτὅυ δἴοτι",
+      "english_translation": "And the shall give forth his voice from in front of his force, for great is exceedingly his camp; for are strong works his words. For",
       "morphology": [
         {
           "surface_form": "και",
@@ -2575,14 +2635,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:12",
       "greek_reference": "Ἰωήλ 2:12",
       "verse_anchor": "Joel.2.12",
-      "greek_text": "και νυν λἔγει κὔριος επιστρἄφητε προς με εχ ὅλης της καρδ ιας υμ ων εν νηστε ια και",
-      "english_translation": "And now, says the, Return to me from out of [2entire 3heart 1your] in fasting, and",
+      "greek_text": "και νυν λἔγει κὔριος επιστρἄφητε προς με εχ ὅλης της καρδ ιας υμ ων εν νηστε ια και κλαυθμ ω και κοπετ ω",
+      "english_translation": "And now, says the, Return to me from out of entire heart your in fasting, and",
       "morphology": [
         {
           "surface_form": "και",
@@ -2658,24 +2720,18 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:13",
       "greek_reference": "Ἰωήλ 2:13",
       "verse_anchor": "Joel.2.13",
-      "greek_text": "κλαυθμ ω και κοπετ ω και διαρρηχατε τας καρδἴας υμὤν και μη τα ιμἄτια υμὤν και επιστρἔψατε προς κυριον τον θεον υμ ων ὅτι ελεημων και οικτιρμων εστι μακρ οθυμος και πολυ ελεος και μετανο ων",
-      "english_translation": "weeping, and beating of the breast! And tear your hearts, and not your garments! And return to the your God! for [2merciful 3and 4pitying 1he is], lenient and full of mercy, and changing his mind",
+      "greek_text": "και διαρρηχατε τας καρδἴας υμὤν και μη τα ιμἄτια υμὤν και επιστρἔψατε προς κυριον τον θεον υμ ων ὅτι ελεημων και οικτιρμων εστι μακρ οθυμος και πολυ ελεος και μετανο ων επἴ ταις κακἴας",
+      "english_translation": "weeping, and beating of the breast! And tear your hearts, and not your garments! And return to the your God! for merciful and pitying he is, lenient and full of mercy, and changing his mind",
       "morphology": [
         {
-          "surface_form": "κλαυθμ",
-          "lemma": "κλαυθμ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.13"
-        },
-        {
           "surface_form": "και",
           "lemma": "και",
           "strongs": "G0",
@@ -2684,16 +2740,24 @@
           "verse_anchor": "Joel.2.13"
         },
         {
-          "surface_form": "κοπετ",
-          "lemma": "κοπετ",
+          "surface_form": "διαρρηχατε",
+          "lemma": "διαρρηχατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.13"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "τας",
+          "lemma": "τας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.13"
+        },
+        {
+          "surface_form": "καρδἴας",
+          "lemma": "καρδἴας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2741,42 +2805,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:14",
       "greek_reference": "Ἰωήλ 2:14",
       "verse_anchor": "Joel.2.14",
-      "greek_text": "επἴ ταις κακἴας τις ὅιδεν ει επιστρἔψει και μετανο ησει και υπολε ιψεται οπισω αυτο υ ευλογ ιαν και θυσἴαν και σπονδἤν κυρἴω τω",
+      "greek_text": "τις ὅιδεν ει επιστρἔψει και μετανο ησει και υπολε ιψεται οπισω αυτου ευλογ ιαν και θυσἴαν και σπονδἤν κυρἴω τω θἔω ημὤν",
       "english_translation": "concerning the evils. Who has known if he shall turn and change his mind, and leave behind him a blessing; even a sacrifice offering and a libation offering to the",
       "morphology": [
         {
-          "surface_form": "επἴ",
-          "lemma": "επἴ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.14"
-        },
-        {
-          "surface_form": "ταις",
-          "lemma": "ταις",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.14"
-        },
-        {
-          "surface_form": "κακἴας",
-          "lemma": "κακἴας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.14"
-        },
-        {
           "surface_form": "τις",
           "lemma": "τις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.14"
+        },
+        {
+          "surface_form": "ὅιδεν",
+          "lemma": "ὅιδεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.14"
+        },
+        {
+          "surface_form": "ει",
+          "lemma": "ει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.14"
+        },
+        {
+          "surface_form": "επιστρἔψει",
+          "lemma": "επιστρἔψει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2824,31 +2890,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:15",
       "greek_reference": "Ἰωήλ 2:15",
       "verse_anchor": "Joel.2.15",
-      "greek_text": "θἔω ημὤν σαλπἴσατε σἄλπιγγι εν Σἴων αγἴασατε",
+      "greek_text": "σαλπἴσατε σἄλπιγγι εν Σἴων αγἴασατε νηστε ιαν κηρ υχατε θεραπε ιαν",
       "english_translation": "our God? Trump a trumpet in Zion! Sanctify",
       "morphology": [
-        {
-          "surface_form": "θἔω",
-          "lemma": "θἔω",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.15"
-        },
-        {
-          "surface_form": "ημὤν",
-          "lemma": "ημὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.15"
-        },
         {
           "surface_form": "σαλπἴσατε",
           "lemma": "σαλπἴσατε",
@@ -2860,6 +2912,22 @@
         {
           "surface_form": "σἄλπιγγι",
           "lemma": "σἄλπιγγι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.15"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.15"
+        },
+        {
+          "surface_form": "Σἴων",
+          "lemma": "Σἴων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2907,42 +2975,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:16",
       "greek_reference": "Ἰωήλ 2:16",
       "verse_anchor": "Joel.2.16",
-      "greek_text": "νηστε ιαν κηρ υχατε θεραπε ιαν συναγ αγετε λἄον αγἴασατε εκκλησἴαν εκλἔχασθε πρεσβυτἔρους συναγ αγετε νηπια θηλ αζοντα μαστο υς εχελθετω νυμφ ιος εκ του κοιτωνος αυτο υ και νυμφη",
-      "english_translation": "a fast! Proclaim a sacred service! Gather together people! Sanctify an assembly! Choose elders! Gather together infants nursing breasts! Let [2go forth the groom] from out of his bedroom, and the bride",
+      "greek_text": "συναγ αγετε λἄον αγἴασατε εκκλησἴαν εκλἔχασθε πρεσβυτἔρους συναγ αγετε νηπια θηλ αζοντα μαστο υς εχελθετω νυμφ ιος εκ του κοιτωνος αυτου και νυμφη εκ του παστου αυτης",
+      "english_translation": "a fast! Proclaim a sacred service! Gather together people! Sanctify an assembly! Choose elders! Gather together infants nursing breasts! Let go forth the groom from out of his bedroom, and the bride",
       "morphology": [
         {
-          "surface_form": "νηστε",
-          "lemma": "νηστε",
+          "surface_form": "συναγ",
+          "lemma": "συναγ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.16"
         },
         {
-          "surface_form": "ιαν",
-          "lemma": "ιαν",
+          "surface_form": "αγετε",
+          "lemma": "αγετε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.16"
         },
         {
-          "surface_form": "κηρ",
-          "lemma": "κηρ",
+          "surface_form": "λἄον",
+          "lemma": "λἄον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.16"
         },
         {
-          "surface_form": "υχατε",
-          "lemma": "υχατε",
+          "surface_form": "αγἴασατε",
+          "lemma": "αγἴασατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -2990,42 +3060,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:17",
       "greek_reference": "Ἰωήλ 2:17",
       "verse_anchor": "Joel.2.17",
-      "greek_text": "εκ του παστο υ αυτης αναμ εσον της κρηπ ιδοςκαι του θυσιαστηρ ιουκλα υσονται οι ιερε ις οι λειτουργὅυντες τω κυρἴω και ερὅυσι φἔισαι κὔριε του λαο υ σου και μη δως την κληρονομ ιαν σου εις ὅνειδος του κατἄρχαι αυτὤν ἔθνη ὅπως μη ε ιπωσιν εν τοιςἔθνεσι που εστιν",
-      "english_translation": "from out of her nuptial chamber! [4between 5the 6footing 7and 8the 9altar 10shall weep 1The 2priests 3ministering] to the, and shall say, Spare, O, your people! and, You should not give your inheritance unto scorn for the [2to rule 3them 1nations]; so that [4they should not 5say 1among 2the 3nations], Where is",
+      "greek_text": "αναμ εσον της κρηπ ιδοςκαι του θυσιαστηρ ιουκλα υσονται οι ιερε ις οι λειτουργὅυντες τω κυρἴω και ερὅυσι φἔισαι κὔριε του λαου σου και μη δως την κληρονομ ιαν σου εις ὅνειδος του κατἄρχαι αυτὤν ἔθνη ὅπως μη ειπωσιν εν τοιςἔθνεσι που εστιν ο θἔος αυτὤν",
+      "english_translation": "from out of her nuptial chamber! between the footing and the altar shall weep The priests ministering to the, and shall say, Spare, O, your people! and, You should not give your inheritance unto scorn for the to rule them nations; so that they should not say among the nations, Where is",
       "morphology": [
         {
-          "surface_form": "εκ",
-          "lemma": "εκ",
+          "surface_form": "αναμ",
+          "lemma": "αναμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.17"
         },
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "εσον",
+          "lemma": "εσον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.17"
         },
         {
-          "surface_form": "παστο",
-          "lemma": "παστο",
+          "surface_form": "της",
+          "lemma": "της",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.17"
         },
         {
-          "surface_form": "αυτης",
-          "lemma": "αυτης",
+          "surface_form": "κρηπ",
+          "lemma": "κρηπ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3073,31 +3145,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:18",
       "greek_reference": "Ἰωήλ 2:18",
       "verse_anchor": "Joel.2.18",
-      "greek_text": "ο θἔος αυτὤν και εζἤλωσε κὔριος την γην αυτὅυ",
+      "greek_text": "και εζἤλωσε κὔριος την γην αυτὅυ και εφεισατο του λαου αυτου",
       "english_translation": "their God? But the was jealous of his land,",
       "morphology": [
-        {
-          "surface_form": "θἔος",
-          "lemma": "θἔος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.18"
-        },
-        {
-          "surface_form": "αυτὤν",
-          "lemma": "αυτὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.18"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3109,6 +3167,22 @@
         {
           "surface_form": "εζἤλωσε",
           "lemma": "εζἤλωσε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.18"
+        },
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.18"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3156,13 +3230,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:19",
       "greek_reference": "Ἰωήλ 2:19",
       "verse_anchor": "Joel.2.19",
-      "greek_text": "και εφεισατο του λαο υ αυτο υ και απεκρ ιθη κυριος και ἔιπε τω λἄω αυτὅυ ιδὅυ εγὤ εχαποστἔλω υμἴν τον",
+      "greek_text": "και απεκρ ιθη κυριος και ἔιπε τω λἄω αυτὅυ ιδὅυ εγὤ εχαποστἔλω υμἴν τον",
       "english_translation": "and spared his people. And the answered, and said to his people, Behold, I shall send out to you the",
       "morphology": [
         {
@@ -3174,24 +3250,24 @@
           "verse_anchor": "Joel.2.19"
         },
         {
-          "surface_form": "εφεισατο",
-          "lemma": "εφεισατο",
+          "surface_form": "απεκρ",
+          "lemma": "απεκρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.19"
         },
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "ιθη",
+          "lemma": "ιθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.19"
         },
         {
-          "surface_form": "λαο",
-          "lemma": "λαο",
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3239,26 +3315,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:20",
       "greek_reference": "Ἰωήλ 2:20",
       "verse_anchor": "Joel.2.20",
-      "greek_text": "ςιτον και τον οινον και το ἔλαιον και εμπλησθ ησεσθε αυτων και ου δωσω υμ ας ουκετι εις ονειδισμ ον εν τοις ἔθνεσι και τον απὅ βορρἄ εκδιωχω αφ' υμ ων και εχ ωσω αυτον εις γην ἄνυδρον και αφανι ω το προσωπον αυτο υ εις την θἄλασσαν την πρὤτην και τα οπἴσω αυτὅυ εις την θαλασσαν την εσξ ατην και αναβ ησεται η σαπρ ια αυτο υ και αναβ ησεται ο βρομος αυτο υ ὅτι",
-      "english_translation": "grain, and the wine, and the olive oil, and you shall be filled up of them. And I will not give you up any longer for scorning among the nations. And the one from the north I will drive out from you, and I will push him into [2land 1a waterless]. And I will obliterate his face into the [2sea 1foremost], and the ones of his rear unto the [2sea 1latter]. And [2shall ascend 1his rottenness], and [2shall ascend 1his groaning], for",
+      "greek_text": "ςιτονκαι τον οινονκαι το ἔλαιον και εμπλησθ ησεσθε αυτων και ου δωσω υμ ας ουκετι εις ονειδισμον εν τοις ἔθνεσι και τον απὅ βορρἄ εκδιωχω αφ' υμ ων και εχωσω αυτον εις γην ἄνυδρον και αφανι ω το προσωπον αυτου εις την θἄλασσαν την πρὤτην και τα οπἴσω αυτὅυ εις την θαλασσαν την εσξ ατην και αναβ ησεταιη σαπρ ια αυτου και αναβ ησεται ο βρομος αυτου ὅτι εμεγἄλυνε τα ἔργα αυτὅυ",
+      "english_translation": "grain, and the wine, and the olive oil, and you shall be filled up of them. And I will not give you up any longer for scorning among the nations. And the one from the north I will drive out from you, and I will push him into land a waterless. And I will obliterate his face into the sea foremost, and the ones of his rear unto the sea latter. And shall ascend his rottenness, and shall ascend his groaning, for",
       "morphology": [
         {
-          "surface_form": "ςιτον",
-          "lemma": "ςιτον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.20"
-        },
-        {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "ςιτονκαι",
+          "lemma": "ςιτονκαι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3273,8 +3343,16 @@
           "verse_anchor": "Joel.2.20"
         },
         {
-          "surface_form": "οινον",
-          "lemma": "οινον",
+          "surface_form": "οινονκαι",
+          "lemma": "οινονκαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.20"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3322,42 +3400,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:21",
       "greek_reference": "Ἰωήλ 2:21",
       "verse_anchor": "Joel.2.21",
-      "greek_text": "εμεγἄλυνε τα ἔργα αυτὅυ θἄρσει γη ξαιρε και ευφρα ινου ὅτι εμεγ αλυνε κυριος του ποιησαι",
+      "greek_text": "θἄρσει γη ξαιρε και ευφρα ινου ὅτι εμεγαλυνε κυριος του ποιησαι",
       "english_translation": "he magnified his works. Be of courage, O land! Rejoice and be glad! for the magnified to act.",
       "morphology": [
         {
-          "surface_form": "εμεγἄλυνε",
-          "lemma": "εμεγἄλυνε",
+          "surface_form": "θἄρσει",
+          "lemma": "θἄρσει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.21"
         },
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "γη",
+          "lemma": "γη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.21"
         },
         {
-          "surface_form": "ἔργα",
-          "lemma": "ἔργα",
+          "surface_form": "ξαιρε",
+          "lemma": "ξαιρε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.21"
         },
         {
-          "surface_form": "αυτὅυ",
-          "lemma": "αυτὅυ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3405,14 +3485,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:21) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:22",
       "greek_reference": "Ἰωήλ 2:22",
       "verse_anchor": "Joel.2.22",
-      "greek_text": "θαρσε ιτε κτηνη του πεδιουὅτι βεβλ αστηκε τα πεδἴα της ερἤμου ὅτι χὔλον ἤνεγκε καρπ ον αυτο υσυκ η και ἄμπελος ἔδωκαν ισξυν αυτων",
-      "english_translation": "Be of courage, O cattle of the plain! for [5have burst forth 1the 2plains 3of the 4wilderness], for the tree bore its fruit, and fig-tree and grapevine yielded their strength.",
+      "greek_text": "θαρσε ιτε κτηνη του πεδιουὅτι βεβλ αστηκε τα πεδἴα της ερἤμου ὅτι χὔλον ἤνεγκε καρπ ον αυτου συκη και ἄμπελος ἔδωκαν ισξυν αυτων",
+      "english_translation": "Be of courage, O cattle of the plain! for have burst forth the plains of the wilderness, for the tree bore its fruit, and fig-tree and grapevine yielded their strength.",
       "morphology": [
         {
           "surface_form": "θαρσε",
@@ -3488,14 +3570,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:22) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:23",
       "greek_reference": "Ἰωήλ 2:23",
       "verse_anchor": "Joel.2.23",
-      "greek_text": "και τα τ εκνα Σιων ξαιρετε και ευφρα ινεσθε επι κυριω θεω υμ ων δι οτι ἔδωκεν υμ ιν τα βρωματα εις δικαιος υνην και βρεχει υμ ιν υετον πρω+μον",
-      "english_translation": "And, O children of Zion, rejoice and be glad in the your God! for he gave to you the foods for righteousness, and he shall rain to you [2rain 1early]",
+      "greek_text": "και τα τεκνα Σιων ξαιρετε και ευφρα ινεσθε επι κυριω θεω υμ ων δι οτι ἔδωκεν υμ ιν τα βρωματα εις δικαιοςυνην και βρεχει υμ ιν υετον πρω+μον και ὅψιμον καθὤς ἔμπροσθεν",
+      "english_translation": "And, O children of Zion, rejoice and be glad in the your God! for he gave to you the foods for righteousness, and he shall rain to you rain early",
       "morphology": [
         {
           "surface_form": "και",
@@ -3514,8 +3598,8 @@
           "verse_anchor": "Joel.2.23"
         },
         {
-          "surface_form": "εκνα",
-          "lemma": "εκνα",
+          "surface_form": "τεκνα",
+          "lemma": "τεκνα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3571,14 +3655,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:23) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:24",
       "greek_reference": "Ἰωήλ 2:24",
       "verse_anchor": "Joel.2.24",
-      "greek_text": "και ὅψιμον καθὤς ἔμπροσθεν και πλησθἤσονται αι ἄλωνες ςιτου και υπερεκξυθ ησονται αι",
-      "english_translation": "and late, as before. And [3shall be filled 1the 2threshing-floors] of grain, and [3shall be overflowing 1the",
+      "greek_text": "και πλησθἤσονται αι ἄλωνες ςιτου και υπερεκξυθ ησονται αι ληνὅι ὅινου και ελἄιου",
+      "english_translation": "and late, as before. And shall be filled the threshing-floors of grain, and [3shall be overflowing 1the",
       "morphology": [
         {
           "surface_form": "και",
@@ -3589,24 +3675,24 @@
           "verse_anchor": "Joel.2.24"
         },
         {
-          "surface_form": "ὅψιμον",
-          "lemma": "ὅψιμον",
+          "surface_form": "πλησθἤσονται",
+          "lemma": "πλησθἤσονται",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.24"
         },
         {
-          "surface_form": "καθὤς",
-          "lemma": "καθὤς",
+          "surface_form": "αι",
+          "lemma": "αι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.24"
         },
         {
-          "surface_form": "ἔμπροσθεν",
-          "lemma": "ἔμπροσθεν",
+          "surface_form": "ἄλωνες",
+          "lemma": "ἄλωνες",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3654,31 +3740,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:24) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:25",
       "greek_reference": "Ἰωήλ 2:25",
       "verse_anchor": "Joel.2.25",
-      "greek_text": "ληνὅι ὅινου και ελἄιου και ανταποδὤσω υμἴν αντι των ετ ων ων κατεφαγεν η ερυς ιβη και ο βρουξος και ακρ ις και η καμπη η δυναμ ις",
-      "english_translation": "2vats] of wine and oil. And I will recompense to you for the years of which [3devoured 1the 2blight], and the grasshopper, and locust, and the caterpillar, by [3force",
+      "greek_text": "και ανταποδὤσω υμἴν αντι των ετων ων κατεφαγενη ερυς ιβη και ο βρουξος και ακρ ις καιη καμπηη δυναμ ις μουη μεγἄλη ην εχαπἔστειλα εις υμἄς",
+      "english_translation": "2vats] of wine and oil. And I will recompense to you for the years of which devoured the blight, and the grasshopper, and locust, and the caterpillar, by [3force",
       "morphology": [
-        {
-          "surface_form": "ληνὅι",
-          "lemma": "ληνὅι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.25"
-        },
-        {
-          "surface_form": "ὅινου",
-          "lemma": "ὅινου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.25"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3688,8 +3760,24 @@
           "verse_anchor": "Joel.2.25"
         },
         {
-          "surface_form": "ελἄιου",
-          "lemma": "ελἄιου",
+          "surface_form": "ανταποδὤσω",
+          "lemma": "ανταποδὤσω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.25"
+        },
+        {
+          "surface_form": "υμἴν",
+          "lemma": "υμἴν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.25"
+        },
+        {
+          "surface_form": "αντι",
+          "lemma": "αντι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3737,42 +3825,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:25) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:26",
       "greek_reference": "Ἰωήλ 2:26",
       "verse_anchor": "Joel.2.26",
-      "greek_text": "μου η μεγἄλη ην εχαπἔστειλα εις υμἄς και φ αγεσθε βρωσει και εμπλησθ ησεσθε και αινεσετε το ὅνομα κυρἴου του θεὅυ υμὤν ος επὅιησε μεθ' υμ ων εις θαυμ ασια και ου μη καταισξυνθ η",
-      "english_translation": "1my 2great] which I sent out unto you. And you shall eat solid food, and shall be filled up, and shall praise the name of the your God, who did [2among 3you 1wonders]. And in no way should [2be disgraced",
+      "greek_text": "και φ αγεσθε βρωσει και εμπλησθ ησεσθε και αινεσετε το ὅνομα κυρἴου του θεὅυ υμὤν ος επὅιησε μεθ' υμ ων εις θαυμ ασια και ου μη καταισξυνθη ο λαος μου εις τον αιωνα",
+      "english_translation": "1my 2great] which I sent out unto you. And you shall eat solid food, and shall be filled up, and shall praise the name of the your God, who did among you wonders. And in no way should [2be disgraced",
       "morphology": [
         {
-          "surface_form": "μου",
-          "lemma": "μου",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.26"
         },
         {
-          "surface_form": "μεγἄλη",
-          "lemma": "μεγἄλη",
+          "surface_form": "αγεσθε",
+          "lemma": "αγεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.26"
         },
         {
-          "surface_form": "ην",
-          "lemma": "ην",
+          "surface_form": "βρωσει",
+          "lemma": "βρωσει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.26"
         },
         {
-          "surface_form": "εχαπἔστειλα",
-          "lemma": "εχαπἔστειλα",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3820,42 +3910,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:26) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:27",
       "greek_reference": "Ἰωήλ 2:27",
       "verse_anchor": "Joel.2.27",
-      "greek_text": "ο λαος μου εις τον αιωνα και επιγνωσεσθε ὅτι εν μεσω του Ισρα ηλ εγω ειμι και εγω κὔριος ο θἔος υμὤν και ουκ ἔστιν ἔτι πλην εμὅυ και ου μη καταισξυνθ ωσιν ἔτι ο λαος μου γνωσεσθε",
-      "english_translation": "1my people] into the eon. And you shall realize that [3in the midst 5of Israel 1I 2am], even I the your God, and there is not any besides me. And in no way should [2be disgraced 3any longer 1my people] omits verse 27. - you shall know.",
+      "greek_text": "και επιγνωσεσθε ὅτι εν μεσω του Ισρα ηλ εγω ειμι και εγω κὔριος ο θἔος υμὤν και ουκ ἔστιν ἔτι πλην εμὅυ και ου μη καταισξυνθ ωσιν ἔτι ο λαος μου εις τον αιωνα γνωσεσθε",
+      "english_translation": "1my people] into the eon. And you shall realize that in the midst of Israel I am, even I the your God, and there is not any besides me. And in no way should be disgraced any longer my people omits verse 27. - you shall know.",
       "morphology": [
         {
-          "surface_form": "λαος",
-          "lemma": "λαος",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.27"
         },
         {
-          "surface_form": "μου",
-          "lemma": "μου",
+          "surface_form": "επιγνωσεσθε",
+          "lemma": "επιγνωσεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.27"
         },
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.27"
         },
         {
-          "surface_form": "τον",
-          "lemma": "τον",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3903,42 +3995,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:27) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:28",
       "greek_reference": "Ἰωήλ 2:28",
       "verse_anchor": "Joel.2.28",
-      "greek_text": "εις τον αιωνα και ἔσται μετα ταυτα εκξἔω απὅ του πνἔυματὅς μου επἴ πἄσαν σἄρκα και προφητε υσουσιν υιοι υμ ων και αι θυγατ ερες υμ ων και οι πρεσβ υτεροι υμ ων ενυπνια ενυπνιασθ ησονται και",
-      "english_translation": "into the eon. And it will be after these things, I will pour out from my spirit upon all flesh; and [4shall prophesy 1your sons 2and 3your daughters], and your older men [2dreams 1shall dream], and",
+      "greek_text": "και ἔσται μετα ταυτα εκξἔω απὅ του πνἔυματὅς μου επἴ πἄσαν σἄρκα και προφητε υσουσιν υιοι υμ ων και αι θυγατ ερες υμ ων και οι πρεσβ υτεροι υμ ων ενυπνια ενυπνιασθ ησονται και οι νεανισκοι υμ ων ορασεις ὅψονται",
+      "english_translation": "into the eon. And it will be after these things, I will pour out from my spirit upon all flesh; and shall prophesy your sons and your daughters, and your older men dreams shall dream, and",
       "morphology": [
-        {
-          "surface_form": "εις",
-          "lemma": "εις",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.28"
-        },
-        {
-          "surface_form": "τον",
-          "lemma": "τον",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.28"
-        },
-        {
-          "surface_form": "αιωνα",
-          "lemma": "αιωνα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.28"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.28"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.28"
+        },
+        {
+          "surface_form": "μετα",
+          "lemma": "μετα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.28"
+        },
+        {
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -3986,42 +4080,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:28) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:29",
       "greek_reference": "Ἰωήλ 2:29",
       "verse_anchor": "Joel.2.29",
-      "greek_text": "οι νεανισκοι υμ ων ορασεις ὅψονται και γε επι τους δουλους και επι τας δουλας εν ταις ημἔραις εκἔιναις εκξἔω απὅ του πνἔυματὅς μου",
-      "english_translation": "your young men [2visions 1shall see]. And indeed upon the bondmen and upon the bondwomen in those days I will pour out from my spirit.",
+      "greek_text": "και γε επι τους δουλους και επι τας δουλας εν ταις ημἔραις εκἔιναις εκξἔω απὅ του πνἔυματὅς μου",
+      "english_translation": "your young men visions shall see. And indeed upon the bondmen and upon the bondwomen in those days I will pour out from my spirit.",
       "morphology": [
         {
-          "surface_form": "οι",
-          "lemma": "οι",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.29"
         },
         {
-          "surface_form": "νεανισκοι",
-          "lemma": "νεανισκοι",
+          "surface_form": "γε",
+          "lemma": "γε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.29"
         },
         {
-          "surface_form": "υμ",
-          "lemma": "υμ",
+          "surface_form": "επι",
+          "lemma": "επι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.29"
         },
         {
-          "surface_form": "ων",
-          "lemma": "ων",
+          "surface_form": "τους",
+          "lemma": "τους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4069,13 +4165,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:29) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:30",
       "greek_reference": "Ἰωήλ 2:30",
       "verse_anchor": "Joel.2.30",
-      "greek_text": "και δὤσω τἔρατα εν τω ουρανὤ και επἴ της Μ",
+      "greek_text": "και δὤσω τἔρατα εν τω ουρανὤ και επἴ της γης αιμα και πυρ και ατμ ιδα καπνου Μ Ιουδα και Ιερουσαλ ημ",
       "english_translation": "And I will execute miracles in the heaven and upon the or portents. 2:28-32 See Acts. 2:17-21, Rm. 10:13.",
       "morphology": [
         {
@@ -4152,42 +4250,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:30) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:31",
       "greek_reference": "Ἰωήλ 2:31",
       "verse_anchor": "Joel.2.31",
-      "greek_text": "γης αιμα και πυρ και ατμ ιδα καπνο υ ο ἤλιος μεταστραφἤσεται εις σκὅτος και η σελἤνη εις ἄιμα πριν ελθειν την ημ εραν κυριου την μεγ αλην και",
+      "greek_text": "ο ἤλιος μεταστραφἤσεται εις σκὅτος καιη σελἤνη εις ἄιμα πριν ελθειν την ημ εραν κυριου την μεγ αλην και επιφανἤ",
       "english_translation": "earth – blood, and fire, and vapor of smoke. The sun shall convert into darkness, and the moon into blood, before the coming – the [4day 5of the 1great 2and",
       "morphology": [
         {
-          "surface_form": "γης",
-          "lemma": "γης",
+          "surface_form": "ἤλιος",
+          "lemma": "ἤλιος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.31"
         },
         {
-          "surface_form": "αιμα",
-          "lemma": "αιμα",
+          "surface_form": "μεταστραφἤσεται",
+          "lemma": "μεταστραφἤσεται",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.31"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "εις",
+          "lemma": "εις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.2.31"
         },
         {
-          "surface_form": "πυρ",
-          "lemma": "πυρ",
+          "surface_form": "σκὅτος",
+          "lemma": "σκὅτος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4235,23 +4335,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:31) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 2:32",
       "greek_reference": "Ἰωήλ 2:32",
       "verse_anchor": "Joel.2.32",
-      "greek_text": "επιφανἤ και ἔσται πας ος αν επικαλἔσηται το ὅνομα κυριου σωθ ησεται ὅτι εν τω ὅρει Σιων και εν Ιερουσαλ ημ ἔσται ανασωζ ομενος καθ οτι ἔιπε ο κὔριος και ευαγγελιζὅμενος ους ο κυριος προσκ εκληται",
-      "english_translation": "3apparent]. And it will be all who ever should call upon the name of the shall be delivered. For in Mount Zion and in Jerusalem shall be one rescuing, as [3said 1the], and one announcing good news of which the has been called upon.",
+      "greek_text": "και ἔσται πας ος αν επικαλἔσηται το ὅνομα κυριου σωθ ησεται ὅτι εν τω ὅρει Σιων και εν Ιερουσαλ ημ ἔσται ανασωζ ομενος καθ οτι ἔιπε ο κὔριος και ευαγγελιζὅμενος ους ο κυριος προσκ εκληται",
+      "english_translation": "3apparent]. And it will be all who ever should call upon the name of the shall be delivered. For in Mount Zion and in Jerusalem shall be one rescuing, as said the, and one announcing good news of which the has been called upon.",
       "morphology": [
-        {
-          "surface_form": "επιφανἤ",
-          "lemma": "επιφανἤ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.2.32"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -4271,6 +4365,14 @@
         {
           "surface_form": "πας",
           "lemma": "πας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.2.32"
+        },
+        {
+          "surface_form": "ος",
+          "lemma": "ος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4318,7 +4420,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 2:32) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:1",
@@ -4401,42 +4505,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:2",
       "greek_reference": "Ἰωήλ 3:2",
       "verse_anchor": "Joel.3.2",
-      "greek_text": "Ιο υδα και Ιερουσαλ ημ συν αχω παντα τα ἔθνη και καταχω αυτα εις την κοιλαδα Ιωσαφ ατ και διακριθἤσομαι προς αυτὅυς εκἔι υπἔρ του λαὅυ μου και της κληρονομ ιας μου Ισρα ηλ ους δι εσπειρα εν τοις ἔθνεσι και την γην μου κατεδε ιλαντο Ω Σ τους μαξητ ας προσαγ αγετε και αναβα ινετε παντες",
-      "english_translation": "3of Judah 4and 5Jerusalem], will gather all the nations, and will lead them into the valley of Jehoshaphat, and will litigate with them there for my people, and my inheritance Israel, whom I dispersed among the nations, even the one [2my land who divided]. the warriors! Lead forward, and ascend all",
+      "greek_text": "συν αχω παντα τα ἔθνη και καταχω αυτα εις την κοιλαδα Ιωσαφ ατ και διακριθἤσομαι προς αυτὅυς εκἔι υπἔρ του λαὅυ μου και της κληρονομ ιας μου Ισρα ηλ ους δι εσπειρα εν τοις ἔθνεσι και την γην μου κατεδειλαντο τους μαξητ ας προσαγ αγετε και αναβα ινετε παντες ἄνδρες πολεμιστα ι",
+      "english_translation": "3of Judah 4and 5Jerusalem], will gather all the nations, and will lead them into the valley of Jehoshaphat, and will litigate with them there for my people, and my inheritance Israel, whom I dispersed among the nations, even the one my land who divided. the warriors! Lead forward, and ascend all",
       "morphology": [
         {
-          "surface_form": "Ιο",
-          "lemma": "Ιο",
+          "surface_form": "συν",
+          "lemma": "συν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.2"
         },
         {
-          "surface_form": "υδα",
-          "lemma": "υδα",
+          "surface_form": "αχω",
+          "lemma": "αχω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.2"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "παντα",
+          "lemma": "παντα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.2"
         },
         {
-          "surface_form": "Ιερουσαλ",
-          "lemma": "Ιερουσαλ",
+          "surface_form": "τα",
+          "lemma": "τα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4484,14 +4590,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:3",
       "greek_reference": "Ἰωήλ 3:3",
       "verse_anchor": "Joel.3.3",
-      "greek_text": "και επι τον λαον μου ἔβαλον κληρους και ἔδωκαν τα παιδ αρια πορναις και τα κορασια",
-      "english_translation": "And [3over 4my people 1they cast 2lots], and gave the boys to harlots, and [2the 3young women",
+      "greek_text": "και επι τον λαον μου ἔβαλον κληρους και ἔδωκαν τα παιδαρια πορναις και τα κορασια επὤλουν αντἴ του ὅινου και ἔπινον",
+      "english_translation": "And over my people they cast lots, and gave the boys to harlots, and [2the 3young women",
       "morphology": [
         {
           "surface_form": "και",
@@ -4567,42 +4675,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:4",
       "greek_reference": "Ἰωήλ 3:4",
       "verse_anchor": "Joel.3.4",
-      "greek_text": "επὤλουν αντἴ του ὅινου και ἔπινον και τι υμε ις εμοι Τυρος και Σιδων και πασα Γαλιλα ια αλλοφὔλων μη ανταπὅδομα υμἔις ανταποδἴδοτἔ μοι η μνησικακε ιτε υμε ις εμοι οχεως και ταξἔως ανταποδὤσω το ανταπὅδομα υμὤν εις",
-      "english_translation": "1sold] for wine, and they drank. And what are you to me, O Tyre and Sidon, and all Galilee of the Philistines? Do [4a recompense 1you 2recompense 3to me], or [2have resentment 1do you] to me? Swiftly and quickly I will recompense your recompense upon See Bos for variants.",
+      "greek_text": "και τι υμε ις εμοι Τυρος και Σιδων και πασα Γαλιλα ια αλλοφὔλων μη ανταπὅδομα υμἔις ανταποδἴδοτἔ μοιη μνησικακε ιτε υμε ις εμοι οχεως και ταξἔως ανταποδὤσω το ανταπὅδομα υμὤν εις κεφαλ ας υμ ων Ω Σ",
+      "english_translation": "1sold] for wine, and they drank. And what are you to me, O Tyre and Sidon, and all Galilee of the Philistines? Do a recompense you recompense to me, or have resentment do you to me? Swiftly and quickly I will recompense your recompense upon See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "επὤλουν",
-          "lemma": "επὤλουν",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.4"
         },
         {
-          "surface_form": "αντἴ",
-          "lemma": "αντἴ",
+          "surface_form": "τι",
+          "lemma": "τι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.4"
         },
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "υμε",
+          "lemma": "υμε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.4"
         },
         {
-          "surface_form": "ὅινου",
-          "lemma": "ὅινου",
+          "surface_form": "ις",
+          "lemma": "ις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4650,34 +4760,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:5",
       "greek_reference": "Ἰωήλ 3:5",
       "verse_anchor": "Joel.3.5",
-      "greek_text": "κεφαλ ας υμ ων ανθ' ων το αργ υριον μου και το ξρυς ιον μου ελαβετε και τα επιλεκτα μου",
-      "english_translation": "your heads; because of which [2my silver 3and 4my gold 1you took], and the chosen things of mine –",
+      "greek_text": "ανθ' ων το αργ υριον μου και το ξρυς ιον μου ελαβετε και τα επιλεκτα μου τα καλ α εισηνεγκατε εις τους ναους υμ ων",
+      "english_translation": "your heads; because of which my silver and my gold you took, and the chosen things of mine –",
       "morphology": [
         {
-          "surface_form": "κεφαλ",
-          "lemma": "κεφαλ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.5"
-        },
-        {
-          "surface_form": "ας",
-          "lemma": "ας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.5"
-        },
-        {
-          "surface_form": "υμ",
-          "lemma": "υμ",
+          "surface_form": "ανθ",
+          "lemma": "ανθ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4686,6 +4782,22 @@
         {
           "surface_form": "ων",
           "lemma": "ων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.5"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.5"
+        },
+        {
+          "surface_form": "αργ",
+          "lemma": "αργ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4733,42 +4845,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:6",
       "greek_reference": "Ἰωήλ 3:6",
       "verse_anchor": "Joel.3.6",
-      "greek_text": "τα καλ α εισην εγκατε εις τους ναους υμ ων και τους υιὅυς Ιὅυδα και τους υιὅυς Ιερουσαλἤμ απἔδοσθε τοις υιοις των Ελλ ηνων ὅπως εχ ωσητε αυτο υς",
+      "greek_text": "και τους υιὅυς Ιὅυδα και τους υιὅυς Ιερουσαλἤμ απἔδοσθε τοις υιοις των Ελλ ηνων ὅπως εχωσητε αυτο υς εκ των οριων αυτων",
       "english_translation": "the good things you carried into your temples. And the sons of Judah, and the sons of Jerusalem you rendered to the sons of the Greeks, so that you should push them",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.6"
         },
         {
-          "surface_form": "καλ",
-          "lemma": "καλ",
+          "surface_form": "τους",
+          "lemma": "τους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.6"
         },
         {
-          "surface_form": "εισην",
-          "lemma": "εισην",
+          "surface_form": "υιὅυς",
+          "lemma": "υιὅυς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.6"
         },
         {
-          "surface_form": "εγκατε",
-          "lemma": "εγκατε",
+          "surface_form": "Ιὅυδα",
+          "lemma": "Ιὅυδα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4816,42 +4930,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:7",
       "greek_reference": "Ἰωήλ 3:7",
       "verse_anchor": "Joel.3.7",
-      "greek_text": "εκ των οριων αυτων και ιδο υ εγω εχεγειρω αυτὅυς εκ του τὅπου ου απἔδοσθε αυτὅυς εκει και ανταποδ ωσω ανταπ οδομα υμ ων εις",
+      "greek_text": "και ιδου εγω εχεγειρω αυτὅυς εκ του τὅπου ου απἔδοσθε αυτὅυς εκει και ανταποδ ωσω ανταπ οδομα υμ ων εις κεφαλἄς υμὤν",
       "english_translation": "from out of their borders. And behold, I will awaken them from out of the place of which you rendered them there. And I will recompense your recompense onto",
       "morphology": [
         {
-          "surface_form": "εκ",
-          "lemma": "εκ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.7"
         },
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.7"
         },
         {
-          "surface_form": "οριων",
-          "lemma": "οριων",
+          "surface_form": "εγω",
+          "lemma": "εγω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.7"
         },
         {
-          "surface_form": "αυτων",
-          "lemma": "αυτων",
+          "surface_form": "εχεγειρω",
+          "lemma": "εχεγειρω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4899,31 +5015,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:8",
       "greek_reference": "Ἰωήλ 3:8",
       "verse_anchor": "Joel.3.8",
-      "greek_text": "κεφαλἄς υμὤν και αποδὤσομαι τους υιὅυς υμὤν και τας θυγατ ερας υμ ων εις ξειρας υι ων Ιο υδα και αποδὤσονται αυτὅυς εις αιξμαλωσἴαν εις ἔθνος",
+      "greek_text": "και αποδὤσομαι τους υιὅυς υμὤν και τας θυγατ ερας υμ ων εις ξειρας υιων Ιουδα και αποδὤσονται αυτὅυς εις αιξμαλωσἴαν εις ἔθνος μακρ αν απ εξον ὅτι ο κυριος ελαλησε",
       "english_translation": "your heads. And I will render your sons and your daughters into the hands of sons of Judah, and they shall render them into captivity, into a nation",
       "morphology": [
-        {
-          "surface_form": "κεφαλἄς",
-          "lemma": "κεφαλἄς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.8"
-        },
-        {
-          "surface_form": "υμὤν",
-          "lemma": "υμὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.8"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -4935,6 +5037,22 @@
         {
           "surface_form": "αποδὤσομαι",
           "lemma": "αποδὤσομαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.8"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.8"
+        },
+        {
+          "surface_form": "υιὅυς",
+          "lemma": "υιὅυς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -4982,42 +5100,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:9",
       "greek_reference": "Ἰωήλ 3:9",
       "verse_anchor": "Joel.3.9",
-      "greek_text": "μακρ αν απ εξον ὅτι ο κυριος ελαλησε κηρ υχατε ταυτα εν τοιςἔθνεσιν αγιασατε πολεμον εχεγειρατε",
+      "greek_text": "κηρ υχατε ταυτα εν τοιςἔθνεσιν αγιασατε πολεμον εχεγειρατε",
       "english_translation": "far at a distance; for the spoke. Proclaim these things among the nations! Sanctify a war! Awaken",
       "morphology": [
         {
-          "surface_form": "μακρ",
-          "lemma": "μακρ",
+          "surface_form": "κηρ",
+          "lemma": "κηρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.9"
         },
         {
-          "surface_form": "αν",
-          "lemma": "αν",
+          "surface_form": "υχατε",
+          "lemma": "υχατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.9"
         },
         {
-          "surface_form": "απ",
-          "lemma": "απ",
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.9"
         },
         {
-          "surface_form": "εξον",
-          "lemma": "εξον",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5065,31 +5185,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:10",
       "greek_reference": "Ἰωήλ 3:10",
       "verse_anchor": "Joel.3.10",
-      "greek_text": "ἄνδρες πολεμιστα ι συγκ οψατε τα ἄροτρα υμὤν εις ρομφα ιας και τα δρεπανα υμ ων εις σειρομ αστας ο",
+      "greek_text": "συγκ οψατε τα ἄροτρα υμὤν εις ρομφα ιας και τα δρεπανα υμ ων εις σειρομ αστας ο αδὔνατος λεγἔτω ὅτι ισξὔω εγω",
       "english_translation": "men of war! Cut up your plows into broadswords, and your sickles into spears! Let the",
       "morphology": [
-        {
-          "surface_form": "ἄνδρες",
-          "lemma": "ἄνδρες",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.10"
-        },
-        {
-          "surface_form": "πολεμιστα",
-          "lemma": "πολεμιστα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.10"
-        },
         {
           "surface_form": "συγκ",
           "lemma": "συγκ",
@@ -5101,6 +5207,22 @@
         {
           "surface_form": "οψατε",
           "lemma": "οψατε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.10"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.10"
+        },
+        {
+          "surface_form": "ἄροτρα",
+          "lemma": "ἄροτρα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5148,42 +5270,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:11",
       "greek_reference": "Ἰωήλ 3:11",
       "verse_anchor": "Joel.3.11",
-      "greek_text": "αδὔνατος λεγἔτω ὅτι ισξὔω εγω συναθρὅιζεσθε και εισπορε υεσθε παντα τα ἔθνη κυκλ οθεν και συν αξθητε εκει ο πρα=ς ἔστω μαξητ ης πολεμιστης",
+      "greek_text": "συναθρὅιζεσθε και εισπορε υεσθε παντα τα ἔθνη κυκλ οθεν και συν αξθητε εκει ο πρα=ς ἔστω μαξητ ης πολεμιστης",
       "english_translation": "powerless say that, I am strong! Gather together, and enter all nations round about, and gather together there! Let the gentle one be a warrior! - warrior.",
       "morphology": [
         {
-          "surface_form": "αδὔνατος",
-          "lemma": "αδὔνατος",
+          "surface_form": "συναθρὅιζεσθε",
+          "lemma": "συναθρὅιζεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.11"
         },
         {
-          "surface_form": "λεγἔτω",
-          "lemma": "λεγἔτω",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.11"
         },
         {
-          "surface_form": "ὅτι",
-          "lemma": "ὅτι",
+          "surface_form": "εισπορε",
+          "lemma": "εισπορε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.11"
         },
         {
-          "surface_form": "ισξὔω",
-          "lemma": "ισξὔω",
+          "surface_form": "υεσθε",
+          "lemma": "υεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5231,18 +5355,28 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:12",
       "greek_reference": "Ἰωήλ 3:12",
       "verse_anchor": "Joel.3.12",
-      "greek_text": "εχεγειρεσθωσαν και αναβαιν ετωσαν παντα τα ἔθνη εις την κοιλαδα Ιωσαφ ατ δι οτι εκει καθιω του",
+      "greek_text": "εχεγειρ εσθωσαν και αναβαιν ετωσαν παντα τα ἔθνη εις την κοιλαδα Ιωσαφ ατ δι οτι εκει καθιω του διακριναι παντα τα ἔθνη κυκλ οθεν",
       "english_translation": "Awaken, and ascend all nations into the valley of Jehoshaphat! for there I will sit",
       "morphology": [
         {
-          "surface_form": "εχεγειρεσθωσαν",
-          "lemma": "εχεγειρεσθωσαν",
+          "surface_form": "εχεγειρ",
+          "lemma": "εχεγειρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.12"
+        },
+        {
+          "surface_form": "εσθωσαν",
+          "lemma": "εσθωσαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5259,14 +5393,6 @@
         {
           "surface_form": "αναβαιν",
           "lemma": "αναβαιν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.12"
-        },
-        {
-          "surface_form": "ετωσαν",
-          "lemma": "ετωσαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5314,42 +5440,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:13",
       "greek_reference": "Ἰωήλ 3:13",
       "verse_anchor": "Joel.3.13",
-      "greek_text": "διακριναι παντα τα ἔθνη κυκλ οθεν εχαποστε ιλατε δρἔπανα ὅτι παρἔστηκεν ο τρυγητὅς εισπορε υεσθε πατε ιτε δι οτι πλ ηρης η λην ος υπερεκξἔιται τα υπολἤνια ὅτι επληθὔνθη",
-      "english_translation": "to separate all the nations round about. Send out sickles! for [3has stood by 1the 2gathering of the crops]. Enter in! Tread! for [3 is full 1the 2wine vat]. [3overflow 1The 2wine-vats], for [2have been multiplied",
+      "greek_text": "εχαποστε ιλατε δρἔπανα ὅτι παρἔστηκεν ο τρυγητὅς εισπορε υεσθε πατε ιτε δι οτι πλ ηρηςη λην ος υπερεκξἔιται τα υπολἤνια ὅτι επληθὔνθη τα κακ α αυτων",
+      "english_translation": "to separate all the nations round about. Send out sickles! for has stood by the gathering of the crops. Enter in! Tread! for is full the wine vat. overflow The wine-vats, for [2have been multiplied",
       "morphology": [
         {
-          "surface_form": "διακριναι",
-          "lemma": "διακριναι",
+          "surface_form": "εχαποστε",
+          "lemma": "εχαποστε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.13"
         },
         {
-          "surface_form": "παντα",
-          "lemma": "παντα",
+          "surface_form": "ιλατε",
+          "lemma": "ιλατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.13"
         },
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "δρἔπανα",
+          "lemma": "δρἔπανα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.13"
         },
         {
-          "surface_form": "ἔθνη",
-          "lemma": "ἔθνη",
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5397,42 +5525,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:14",
       "greek_reference": "Ἰωήλ 3:14",
       "verse_anchor": "Joel.3.14",
-      "greek_text": "τα κακ α αυτων ἤξοι εχ ηξησαν εν τη κοιλαδι της δἴκης ὅτι εγγὔς ημἔρα κυρἴου εν ηκουσθησαν",
-      "english_translation": "1their evils]. Sounds resounded in the valley of punishment, for [3 is near the day of the] in - were heard.",
+      "greek_text": "ἤξοι εχηξησαν εν τη κοιλαδι της δἴκης ὅτι εγγὔς ημἔρα κυρἴου εν τη κοιλαδι της δικης ηκουσθησαν",
+      "english_translation": "1their evils]. Sounds resounded in the valley of punishment, for is near the day of the in - were heard.",
       "morphology": [
-        {
-          "surface_form": "τα",
-          "lemma": "τα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.14"
-        },
-        {
-          "surface_form": "κακ",
-          "lemma": "κακ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.14"
-        },
-        {
-          "surface_form": "αυτων",
-          "lemma": "αυτων",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.3.14"
-        },
         {
           "surface_form": "ἤξοι",
           "lemma": "ἤξοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.14"
+        },
+        {
+          "surface_form": "εχηξησαν",
+          "lemma": "εχηξησαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.14"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.14"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5480,42 +5610,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:15",
       "greek_reference": "Ἰωήλ 3:15",
       "verse_anchor": "Joel.3.15",
-      "greek_text": "τη κοιλαδι της δικης ο ἤλιος και η σελἤνη συσκοτἄσουσι και οι αστἔρες δὔσουσι το φ εγγος αυτων τα αστρα",
+      "greek_text": "ο ἤλιος καιη σελἤνη συσκοτἄσουσι και οι αστἔρες δὔσουσι το φ εγγος αυτων τα αστρα",
       "english_translation": "the valley of punishment. The sun and the moon shall darken, and the stars shall let down their brightness. - the stars.",
       "morphology": [
         {
-          "surface_form": "τη",
-          "lemma": "τη",
+          "surface_form": "ἤλιος",
+          "lemma": "ἤλιος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.15"
         },
         {
-          "surface_form": "κοιλαδι",
-          "lemma": "κοιλαδι",
+          "surface_form": "καιη",
+          "lemma": "καιη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.15"
         },
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "σελἤνη",
+          "lemma": "σελἤνη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.15"
         },
         {
-          "surface_form": "δικης",
-          "lemma": "δικης",
+          "surface_form": "συσκοτἄσουσι",
+          "lemma": "συσκοτἄσουσι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5563,14 +5695,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:16",
       "greek_reference": "Ἰωήλ 3:16",
       "verse_anchor": "Joel.3.16",
-      "greek_text": "ο δε κὔριος εκ Σἴων ανακρἄχεται και εχ Ιερουσαλ ημ δωσει φων ην αυτο υ και σεισθ ησεται ο ουραν ος και η γη ο δε κυριος φεισεται του λαο υ αυτο υ και ενισξυσει",
-      "english_translation": "But the [2from 3Zion 1shall shout aloud], and [3from out of 4Jerusalem 1shall utter 2his voice]; and [6shall be shaken 1the 2heaven 3and 4the 5earth]. But the shall spare his people, and shall strengthen",
+      "greek_text": "ο δε κὔριος εκ Σἴων ανακρἄχεται και εχ Ιερουσαλ ημ δωσει φων ην αυτου και σεισθ ησεται ο ουραν ος καιη γη ο δε κυριος φεισεται του λαου αυτου και ενισξυσει τους υιους Ισρα ηλ",
+      "english_translation": "But the from Zion shall shout aloud, and from out of Jerusalem shall utter his voice; and shall be shaken the heaven and the earth. But the shall spare his people, and shall strengthen",
       "morphology": [
         {
           "surface_form": "δε",
@@ -5646,42 +5780,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 3:17",
       "greek_reference": "Ἰωήλ 3:17",
       "verse_anchor": "Joel.3.17",
-      "greek_text": "τους υιους Ισρα ηλ και γνωσεσθε ὅτι εγω κὔριος ο θἔος υμὤν κατασκηνὤν εν Σἴων ὅρει",
+      "greek_text": "και γνωσεσθε ὅτι εγω κὔριος ο θἔος υμὤν κατασκηνὤν εν Σἴων ὅρει",
       "english_translation": "the sons of Israel. And you shall know that I am the your God encamping in Zion, [3mountain",
       "morphology": [
         {
-          "surface_form": "τους",
-          "lemma": "τους",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.17"
         },
         {
-          "surface_form": "υιους",
-          "lemma": "υιους",
+          "surface_form": "γνωσεσθε",
+          "lemma": "γνωσεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.17"
         },
         {
-          "surface_form": "Ισρα",
-          "lemma": "Ισρα",
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.3.17"
         },
         {
-          "surface_form": "ηλ",
-          "lemma": "ηλ",
+          "surface_form": "εγω",
+          "lemma": "εγω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5729,7 +5865,349 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Joel 3:18",
+      "greek_reference": "Ἰωήλ 3:18",
+      "verse_anchor": "Joel.3.18",
+      "greek_text": "αγἴω μου και ἔσται Ιερουσαλἤμ αγἴα και αλλογενἔις ου διελε υσονται δι' αυτης ουκετι και ἔσται εν τη ημἔρα εκἔινη αποσταλἄχει τα ὅρη γλυκασμ ον και οι βουνο ι ρυησονται γαλα και πασαι αι αφ εσεις Ιουδα ρυησονται ὔδατα και πηγη εχ ὅικου κυρἴου εχελἔυσεται και ποτιει τον ξειμαρρουν των σξο ινων",
+      "english_translation": "1510.8.3-* 2holy 1my]. And Jerusalem will be holy, and foreigners shall not go through her any longer. And it will be in that day, will trickle down the mountains sweetness, and the hills shall flow milk, and all the releases of Judah shall flow waters, and a spring from out of the house of the shall come forth, and",
+      "morphology": [
+        {
+          "surface_form": "αγἴω",
+          "lemma": "αγἴω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.18"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.18"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.18"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Joel 3:19",
+      "greek_reference": "Ἰωήλ 3:19",
+      "verse_anchor": "Joel.3.19",
+      "greek_text": "ιγυπτος εις αφανισμ ον ἔσται καιη Ιδουμα ια εις πεδιον αφανισμου εχ αδικιων υιων Ιουδα ανθ' ων εχεξεαν αιμα δικαιον εν τη γη αυτων",
+      "english_translation": "shall water the rushing stream of the rushes. Egypt for extinction will be, and Edom for a plain of extinction, from out of the iniquities of the sons of Judah, because of which they poured out blood of the righteous one",
+      "morphology": [
+        {
+          "surface_form": "ιγυπτος",
+          "lemma": "ιγυπτος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.19"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.19"
+        },
+        {
+          "surface_form": "αφανισμ",
+          "lemma": "αφανισμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.19"
+        },
+        {
+          "surface_form": "ον",
+          "lemma": "ον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Joel 3:20",
+      "greek_reference": "Ἰωήλ 3:20",
+      "verse_anchor": "Joel.3.20",
+      "greek_text": "η δε Ιουδαια εις τον αιωνα κατοικηθ ησεται και Ιερουσαλ ημ εις γενεας γενεων",
+      "english_translation": "in their land. But Judea into the eon shall dwell, and Jerusalem for generations",
+      "morphology": [
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.20"
+        },
+        {
+          "surface_form": "Ιουδαια",
+          "lemma": "Ιουδαια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.20"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.20"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Joel 3:21",
+      "greek_reference": "Ἰωήλ 3:21",
+      "verse_anchor": "Joel.3.21",
+      "greek_text": "και εκζητησω το αιμα αυτων και ου μη αθω ωσω και κυριος κατασκην ωσει εν Σιων εκδικησω",
+      "english_translation": "of generations. And I will require their blood, and in no way will I acquit; and the shall encamp in Zion. - I will avenge.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.21"
+        },
+        {
+          "surface_form": "εκζητησω",
+          "lemma": "εκζητησω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.21"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.21"
+        },
+        {
+          "surface_form": "αιμα",
+          "lemma": "αιμα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.3.21"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Joel 3:21) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 14:7",
@@ -5788,42 +6266,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 14:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 14:8",
       "greek_reference": "Ἰωήλ 14:8",
       "verse_anchor": "Joel.14.8",
-      "greek_text": "ως ὅινος Λιβἄνου τω Εφρα+μ τι αυτω ἔτι και ειδ ωλοις εγω εταπε ινωσα αυτον και κατισξ υσω αυτον εγω ως ἄρκευθος πυκ αζουσα εχ ταπεινωσω ευρεθη Λ",
+      "greek_text": "τω Εφρα+μ τι αυτω ἔτι και ειδ ωλοις εγω εταπε ινωσα αυτον και κατισξ υσω αυτον εγω ως ἄρκευθος πυκ αζουσα εχ εμου ο καρπ ος σου ευρηται ταπεινωσω ευρεθη Λ",
       "english_translation": "is as the wine of Lebanon. To Ephraim, what is there to him yet, and to idols? I humbled him, and I shall strengthen him. I am as a juniper – dense. From - I shall humble. - was found.",
       "morphology": [
         {
-          "surface_form": "ως",
-          "lemma": "ως",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.14.8"
-        },
-        {
-          "surface_form": "ὅινος",
-          "lemma": "ὅινος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.14.8"
-        },
-        {
-          "surface_form": "Λιβἄνου",
-          "lemma": "Λιβἄνου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/joel.json",
-          "verse_anchor": "Joel.14.8"
-        },
-        {
           "surface_form": "τω",
           "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.14.8"
+        },
+        {
+          "surface_form": "τι",
+          "lemma": "τι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.14.8"
+        },
+        {
+          "surface_form": "αυτω",
+          "lemma": "αυτω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/joel.json",
+          "verse_anchor": "Joel.14.8"
+        },
+        {
+          "surface_form": "ἔτι",
+          "lemma": "ἔτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5871,26 +6351,28 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 14:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Joel 14:9",
       "greek_reference": "Ἰωήλ 14:9",
       "verse_anchor": "Joel.14.9",
-      "greek_text": "εμου ο καρπ ος σου ε υρηται τις σοφ ος και συν ησει ταυτα συνετ ος και επιγνωσεται αυτα ὅτι ευθἔιαι αι οδὅι του κυρἴου και δἴκαιοι πορε υσονται εν αυτα ιςοι δε ασεβε ις ασθεν ησουσιν εν αυτα ις",
+      "greek_text": "τις σοφ ος και συν ησει ταυτα συνετ ος και επιγνωσεται αυτα ὅτι ευθἔιαι αι οδὅι του κυρἴου και δἴκαιοι πορευσονται εν αυτα ιςοι δε ασεβε ις ασθεν ησουσιν εν αυτα ις",
       "english_translation": "me your fruit has been found. Who is a wise one, and perceives these things; discerning, and recognizes them? For straight are the ways of the, and the righteous ones shall go by them. But the impious ones shall weaken in them.",
       "morphology": [
         {
-          "surface_form": "εμου",
-          "lemma": "εμου",
+          "surface_form": "τις",
+          "lemma": "τις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
           "verse_anchor": "Joel.14.9"
         },
         {
-          "surface_form": "καρπ",
-          "lemma": "καρπ",
+          "surface_form": "σοφ",
+          "lemma": "σοφ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5905,8 +6387,8 @@
           "verse_anchor": "Joel.14.9"
         },
         {
-          "surface_form": "σου",
-          "lemma": "σου",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/joel.json",
@@ -5954,7 +6436,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Joel 14:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     }
   ]
 }

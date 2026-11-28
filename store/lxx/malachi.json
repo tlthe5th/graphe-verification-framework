@@ -8,8 +8,8 @@
       "reference": "Malachi 1:1",
       "greek_reference": "Μαλαχίας 1:1",
       "verse_anchor": "Mal.1.1",
-      "greek_text": "λημμα λογου κυριου επι τον",
-      "english_translation": "The concern of the word of the over",
+      "greek_text": "λημμα λογου κυριου επι τον Ισρα ηλ εν ξειρι αγγ ελου αυτου",
+      "english_translation": "The concern of λόγος (logic/reason) of the over",
       "morphology": [
         {
           "surface_form": "λημμα",
@@ -85,42 +85,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:2",
       "greek_reference": "Μαλαχίας 1:2",
       "verse_anchor": "Mal.1.2",
-      "greek_text": "Ισρα ηλ εν ξειρι αγγ ελου αυτο υ ηγαπησα υμ ας λἔγει κὔριος και ἔιπατε εν τἴνι ηγἄπησας ημ ας ουκ αδελφ ος ην Ησα υ του Ιακωβ",
-      "english_translation": "Israel by the hand of his messenger. I loved you, says the. And you said, [3in 4what 1You loved 2us]? [2not 5brother 1Was 3Esau 4Jacob's]?",
+      "greek_text": "ηγαπησα υμ ας λἔγει κὔριος και ἔιπατε εν τἴνι ηγἄπησας ημ ας ουκ αδελφ ος ην Ησαυ του Ιακωβ λἔγει κὔριος και ηγἄπησα τον Ιακὤβ",
+      "english_translation": "Israel by the hand of his messenger. I loved you, says the. And you said, in what You loved us? not brother Was Esau Jacob's?",
       "morphology": [
         {
-          "surface_form": "Ισρα",
-          "lemma": "Ισρα",
+          "surface_form": "ηγαπησα",
+          "lemma": "ηγαπησα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.2"
         },
         {
-          "surface_form": "ηλ",
-          "lemma": "ηλ",
+          "surface_form": "υμ",
+          "lemma": "υμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.2"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "ας",
+          "lemma": "ας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.2"
         },
         {
-          "surface_form": "ξειρι",
-          "lemma": "ξειρι",
+          "surface_form": "λἔγει",
+          "lemma": "λἔγει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -168,42 +170,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:3",
       "greek_reference": "Μαλαχίας 1:3",
       "verse_anchor": "Mal.1.3",
-      "greek_text": "λἔγει κὔριος και ηγἄπησα τον Ιακὤβ τον δε Ησἄυ εμἴσησα και ἔταχα τα ὅρια αυτὅυ εις αφανισμ ον και την κληρονομ ιαν αυτο υ εις",
+      "greek_text": "τον δε Ησἄυ εμἴσησα και ἔταχα τα ὅρια αυτὅυ εις αφανισμ ον και την κληρονομ ιαν αυτου εις δωματα ερημου",
       "english_translation": "says the; and I loved Jacob. And Esau I detested, and I ordered up his borders for extinction, and his inheritance for",
       "morphology": [
         {
-          "surface_form": "λἔγει",
-          "lemma": "λἔγει",
+          "surface_form": "τον",
+          "lemma": "τον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.3"
         },
         {
-          "surface_form": "κὔριος",
-          "lemma": "κὔριος",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.3"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "Ησἄυ",
+          "lemma": "Ησἄυ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.3"
         },
         {
-          "surface_form": "ηγἄπησα",
-          "lemma": "ηγἄπησα",
+          "surface_form": "εμἴσησα",
+          "lemma": "εμἴσησα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -251,31 +255,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:4",
       "greek_reference": "Μαλαχίας 1:4",
       "verse_anchor": "Mal.1.4",
-      "greek_text": "δωματα ερημου δι οτι ερει η Ιδουμα ια κατεστραπται και επιστρ εψωμεν και ανοικοδομ ησωμεν ηρημωμ ενας τ αδε λεγει κυριος παντοκρ ατωρ αυτο ι οικοδομ ησουσι και εγω καταστρ εψω και επικληθ ησεται αυτο ις ὅρια ανομ ιας και λαος εφ' ον",
-      "english_translation": "domiciles of the wilderness. For [2will say 1Edom], He had been eradicated, and we should return and should rebuild places having been made desolate. Thus says the almighty, They shall build, and I shall eradicate; and it shall be called by them, Borders of Lawlessness, and, a people against whom",
+      "greek_text": "δι οτι ερειη Ιδουμα ια κατεστραπται και επιστρ εψωμεν και ανοικοδομ ησωμεν ηρημωμ ενας ταδε λεγει κυριος παντοκρ ατωρ αυτο ι οικοδομ ησουσι και εγω καταστρ εψω και επικληθ ησεται αυτο ις ὅρια ανομ ιας και λαος εφ' ον παρατἔτακται κὔριος ἔως αἴωνος",
+      "english_translation": "domiciles of the wilderness. For will say Edom, He had been eradicated, and we should return and should rebuild places having been made desolate. Thus says the almighty, They shall build, and I shall eradicate; and it shall be called by them, Borders of Lawlessness, and, a people against whom",
       "morphology": [
-        {
-          "surface_form": "δωματα",
-          "lemma": "δωματα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.4"
-        },
-        {
-          "surface_form": "ερημου",
-          "lemma": "ερημου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.4"
-        },
         {
           "surface_form": "δι",
           "lemma": "δι",
@@ -287,6 +277,22 @@
         {
           "surface_form": "οτι",
           "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.4"
+        },
+        {
+          "surface_form": "ερειη",
+          "lemma": "ερειη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.4"
+        },
+        {
+          "surface_form": "Ιδουμα",
+          "lemma": "Ιδουμα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -334,42 +340,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:5",
       "greek_reference": "Μαλαχίας 1:5",
       "verse_anchor": "Mal.1.5",
-      "greek_text": "παρατἔτακται κὔριος ἔως αἴωνος και οι οφθαλμο ι υμ ων ὅψονται και υμε ιςερειτε εμεγαλ υνθη κὔριος υπερἄνω των ορἴων του Ισρἄηλ",
-      "english_translation": "the has deployed unto the eon. And your eyes shall see, and you shall say, [2 was magnified The] above the borders of Israel.",
+      "greek_text": "και οι οφθαλμο ι υμ ων ὅψονται και υμε ιςερειτε εμεγαλ υνθη κὔριος υπερἄνω των ορἴων του Ισρἄηλ",
+      "english_translation": "the has deployed unto the eon. And your eyes shall see, and you shall say, was magnified The above the borders of Israel.",
       "morphology": [
         {
-          "surface_form": "παρατἔτακται",
-          "lemma": "παρατἔτακται",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.5"
         },
         {
-          "surface_form": "κὔριος",
-          "lemma": "κὔριος",
+          "surface_form": "οι",
+          "lemma": "οι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.5"
         },
         {
-          "surface_form": "ἔως",
-          "lemma": "ἔως",
+          "surface_form": "οφθαλμο",
+          "lemma": "οφθαλμο",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.5"
         },
         {
-          "surface_form": "αἴωνος",
-          "lemma": "αἴωνος",
+          "surface_form": "υμ",
+          "lemma": "υμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -417,26 +425,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:6",
       "greek_reference": "Μαλαχίας 1:6",
       "verse_anchor": "Mal.1.6",
-      "greek_text": "υι ος δοχαζει πατ ερα και δουλος τον κὔριον αυτὅυ και ει πατἤρ ειμι εγὤ που εστιν η δοχα μου και ει κυριος ειμι εγὤ που εστιν ο φὅβος μου λἔγει κυριος παντοκρ ατωρ υμε ις οι ιερε ις οι φαυλἴζοντες το ὅνομἄ μου και ἔιπατε",
-      "english_translation": "A son glorifies a father, and a bondman his master. And if [3father 2am 1I], where is my glory? And if [3 the 2am 1I], where is the fear of me? says the almighty. You, the priests, are the ones treating [2as worthless 1my name]. And you said, 1:2,3 See Rm. 9:13.",
+      "greek_text": "υιος δοχαζει πατ ερα και δουλος τον κὔριον αυτὅυ και ει πατἤρ ειμι εγὤ που εστινη δοχα μου και ει κυριος ειμι εγὤ που εστιν ο φὅβος μου λἔγει κυριος παντοκρ ατωρ υμε ις οι ιερε ις οι φαυλἴζοντες το ὅνομἄ μου και ἔιπατε",
+      "english_translation": "A son glorifies a father, and a bondman his master. And if father am I, where is my glory? And if the am I, where is the fear of me? says the almighty. You, the priests, are the ones treating as worthless my name. And you said, 1:2,3 See Rm. 9:13.",
       "morphology": [
         {
-          "surface_form": "υι",
-          "lemma": "υι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.6"
-        },
-        {
-          "surface_form": "ος",
-          "lemma": "ος",
+          "surface_form": "υιος",
+          "lemma": "υιος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -453,6 +455,14 @@
         {
           "surface_form": "πατ",
           "lemma": "πατ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.6"
+        },
+        {
+          "surface_form": "ερα",
+          "lemma": "ερα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -500,14 +510,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:7",
       "greek_reference": "Μαλαχίας 1:7",
       "verse_anchor": "Mal.1.7",
-      "greek_text": "εν τ ινι εφαυλ ισαμεν το ὅνομἄ σου προς αγοντες προς το θυσιαστ ηριον μου ἄρτους ηλισγημἔνους και ἔιπατε εν τἴνι ηλισγἤσαμεν εν τω λεγειν υμ ας τραπεζα κυριου ηλισγημ ενη εστικαι",
-      "english_translation": "In what way we treated [2as worthless 1your name]? In bringing to my altar [2breads 1polluted]. And you say, In what way we polluted]? In your saying, The table of the is polluted, and",
+      "greek_text": "εν τινι εφαυλ ισαμεν το ὅνομἄ σου προς αγοντες προς το θυσιαστ ηριον μου ἄρτους ηλισγημἔνους και ἔιπατε εν τἴνι ηλισγἤσαμεν εν τω λεγειν υμ ας τραπεζα κυριου ηλισγημ ενη εστι και τα επιτιθ εμενα εχουδενωσατε",
+      "english_translation": "In what way we treated as worthless your name? In bringing to my altar breads polluted. And you say, In what way we polluted]? In your saying, The table of the is polluted, and",
       "morphology": [
         {
           "surface_form": "εν",
@@ -518,8 +530,8 @@
           "verse_anchor": "Mal.1.7"
         },
         {
-          "surface_form": "ινι",
-          "lemma": "ινι",
+          "surface_form": "τινι",
+          "lemma": "τινι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -583,42 +595,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:8",
       "greek_reference": "Μαλαχίας 1:8",
       "verse_anchor": "Mal.1.8",
-      "greek_text": "τα επιτιθεμενα εχουδενωσατε δι οτι ε αν προσαγ αγητε τυφλ ον εις θυς ιαν ου κακ ον και ε αν προσαγ αγητε ξωλ ον η ἄρρωστον ου κακ ον προς αγαγε δη αυτω τω ηγουμ ενω σου ει προσδ εχεται σε ει ληψεται",
+      "greek_text": "δι οτι εαν προσαγ αγητε τυφλ ον εις θυς ιαν ου κακ ον και εαν προσαγ αγητε ξωλ ονη ἄρρωστον ου κακ ον προς αγαγε δη αυτω τω ηγουμ ενω σου ει προσδ εχεται σε ει ληψεται πρὅσωπὅν σου λἔγει κὔριος παντοκρἄτωρ",
       "english_translation": "the things being placed upon it are with contempt. For if you should bring a blind animal for sacrifice, is it not evil? And if you should bring the lame or ill, is it not evil? Bring it indeed to him, to the one leading you! shall he favorably receive you, shall he receive",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.8"
-        },
-        {
-          "surface_form": "επιτιθεμενα",
-          "lemma": "επιτιθεμενα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.8"
-        },
-        {
-          "surface_form": "εχουδενωσατε",
-          "lemma": "εχουδενωσατε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.8"
-        },
-        {
           "surface_form": "δι",
           "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.8"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.8"
+        },
+        {
+          "surface_form": "εαν",
+          "lemma": "εαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.8"
+        },
+        {
+          "surface_form": "προσαγ",
+          "lemma": "προσαγ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -666,42 +680,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:9",
       "greek_reference": "Μαλαχίας 1:9",
       "verse_anchor": "Mal.1.9",
-      "greek_text": "πρὅσωπὅν σου λἔγει κὔριος παντοκρἄτωρ και νυν εχιλ ασκεσθε το προσωπον του θεου υμ ων και δἔηθητε αυτὅυ εν ξερσἴν υμὤν γἔγονε τἄυτα ει λἤψομαι εχ υμὤν πρὅσωπον υμὤν λἔγει",
+      "greek_text": "και νυν εχιλ ασκεσθε το προσωπον του θεου υμ ων και δἔηθητε αυτὅυ εν ξερσἴν υμὤν γἔγονε τἄυτα ει λἤψομαι εχ υμὤν πρὅσωπον υμὤν λἔγει κυριος παντοκρ ατωρ",
       "english_translation": "your person? says the almighty. And now, atone the face of your God, and beseech him! By your hands these have taken place. Shall I receive from your person your things? says",
       "morphology": [
         {
-          "surface_form": "πρὅσωπὅν",
-          "lemma": "πρὅσωπὅν",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.9"
         },
         {
-          "surface_form": "σου",
-          "lemma": "σου",
+          "surface_form": "νυν",
+          "lemma": "νυν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.9"
         },
         {
-          "surface_form": "λἔγει",
-          "lemma": "λἔγει",
+          "surface_form": "εχιλ",
+          "lemma": "εχιλ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.9"
         },
         {
-          "surface_form": "κὔριος",
-          "lemma": "κὔριος",
+          "surface_form": "ασκεσθε",
+          "lemma": "ασκεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -749,42 +765,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:10",
       "greek_reference": "Μαλαχίας 1:10",
       "verse_anchor": "Mal.1.10",
-      "greek_text": "κυριος παντοκρ ατωρ δι οτι και εν υμ ιν συγκλεισθἤσονται θὔραι και ουκ ανἄψεται το θυσιαστ ηριον μου δωρε αν ουκ εστι μου θἔλημα εν υμἴν λἔγει κὔριος παντοκρἄτωρ θυς ιαν ου προσδ εχομαι εκ των",
-      "english_translation": "the almighty. For even among you [2shall be closed the doors], and you shall not light my altar gratuitously. There is not of me anything wanting among you, says the almighty. A sacrifice I shall not favorably receive from out of",
+      "greek_text": "δι οτι και εν υμ ιν συγκλεισθἤσονται θὔραι και ουκ ανἄψεται το θυσιαστ ηριον μου δωρε αν ουκ εστι μου θἔλημα εν υμἴν λἔγει κὔριος παντοκρἄτωρ θυς ιαν ου προσδ εχομαι εκ των ξειρὤν υμὤν",
+      "english_translation": "the almighty. For even among you shall be closed the doors, and you shall not light my altar gratuitously. There is not of me anything wanting among you, says the almighty. A sacrifice I shall not favorably receive from out of",
       "morphology": [
-        {
-          "surface_form": "κυριος",
-          "lemma": "κυριος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.10"
-        },
-        {
-          "surface_form": "παντοκρ",
-          "lemma": "παντοκρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.10"
-        },
-        {
-          "surface_form": "ατωρ",
-          "lemma": "ατωρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.10"
-        },
         {
           "surface_form": "δι",
           "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.10"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.10"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.10"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -832,31 +850,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:11",
       "greek_reference": "Μαλαχίας 1:11",
       "verse_anchor": "Mal.1.11",
-      "greek_text": "ξειρὤν υμὤν δἴοτι απὅ ανατολὤν ηλἴου και ἔως δυσμ ων το ὅνομἄ μου δεδοχασται εν τοις ἔθνεσι και εν παντἴ τὅπω θυμἴαμα προσἄγεται τω ονοματ ι μου και θυς ια καθαρ α δι οτιμεγα το ὅνομἄ μου",
-      "english_translation": "your hands. For from the rising of the sun, and unto the descent, my name has been glorified among the nations; and in every place incense is brought in my name, and [2sacrifice 1a pure]; for great is my name",
+      "greek_text": "δἴοτι απὅ ανατολὤν ηλἴου και ἔως δυσμ ων το ὅνομἄ μου δεδοχασται εν τοις ἔθνεσι και εν παντἴ τὅπω θυμἴαμα προσἄγεται τω ονοματ ι μου και θυς ια καθαρ α δι οτιμεγα το ὅνομἄ μου εν τοιςἔθνεσι λἔγεικὔριος παντοκρἄτωρ",
+      "english_translation": "your hands. For from the rising of the sun, and unto the descent, my name has been glorified among the nations; and in every place incense is brought in my name, and sacrifice a pure; for great is my name",
       "morphology": [
-        {
-          "surface_form": "ξειρὤν",
-          "lemma": "ξειρὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.11"
-        },
-        {
-          "surface_form": "υμὤν",
-          "lemma": "υμὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.11"
-        },
         {
           "surface_form": "δἴοτι",
           "lemma": "δἴοτι",
@@ -868,6 +872,22 @@
         {
           "surface_form": "απὅ",
           "lemma": "απὅ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.11"
+        },
+        {
+          "surface_form": "ανατολὤν",
+          "lemma": "ανατολὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.11"
+        },
+        {
+          "surface_form": "ηλἴου",
+          "lemma": "ηλἴου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -915,42 +935,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:12",
       "greek_reference": "Μαλαχίας 1:12",
       "verse_anchor": "Mal.1.12",
-      "greek_text": "εν τοιςἔθνεσι λἔγεικὔριος παντοκρἄτωρ υμἔις δε βεβηλο υτε αυτο εν τω λεγειν υμ ας τραπεζα κυριου ηλισγημ ενη εστικαι τα επιτιθεμενα εχουδενωται",
+      "greek_text": "υμἔις δε βεβηλο υτε αυτο εν τω λεγειν υμ ας τραπεζα κυριου ηλισγημ ενη εστικαι τα επιτιθ εμενα εχουδενωται βρὤματα αυτὅυ",
       "english_translation": "among the nations, says the almighty. But you profane it in your saying, The table of the is polluted, and [3placed upon it are with contempt",
       "morphology": [
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "υμἔις",
+          "lemma": "υμἔις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.12"
         },
         {
-          "surface_form": "τοιςἔθνεσι",
-          "lemma": "τοιςἔθνεσι",
+          "surface_form": "δε",
+          "lemma": "δε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.12"
         },
         {
-          "surface_form": "λἔγεικὔριος",
-          "lemma": "λἔγεικὔριος",
+          "surface_form": "βεβηλο",
+          "lemma": "βεβηλο",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.1.12"
         },
         {
-          "surface_form": "παντοκρἄτωρ",
-          "lemma": "παντοκρἄτωρ",
+          "surface_form": "υτε",
+          "lemma": "υτε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -998,31 +1020,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:13",
       "greek_reference": "Μαλαχίας 1:13",
       "verse_anchor": "Mal.1.13",
-      "greek_text": "βρὤματα αυτὅυ και ἔιπατε ιδὅυ κακοπαθἔιας εστἴ και εχεφυς ησατε αυτα λεγει κυριος παντοκρ ατωρ και εισεφ ερετε τα αρπ αγματα και τα ξωλ α και τα ενοξλὅυμενα και εισεφἔρετε εις την θυσἴαν ει προσδ εχομαι αυτα εκ των ξειρων υμ ων λεγει",
+      "greek_text": "και ἔιπατε ιδὅυ κακοπαθἔιας εστἴ και εχεφυς ησατε αυτα λεγει κυριος παντοκρ ατωρ και εισεφ ερετε τα αρπ αγματα και τα ξωλ α και τα ενοξλὅυμενα και εισεφἔρετε εις την θυσἴαν ει προσδ εχομαι αυτα εκ των ξειρων υμ ων λεγει κυριος παντοκρ ατωρ",
       "english_translation": "2foods 1his]. And you said, Behold, it is troublesome; and you blew them away, says the almighty. And you carried in the prey, and the lame, and the troubled – and thus you carried in the sacrifice. Shall I favorably receive them from out of your hands? says i.e. things ravaged.",
       "morphology": [
-        {
-          "surface_form": "βρὤματα",
-          "lemma": "βρὤματα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.13"
-        },
-        {
-          "surface_form": "αυτὅυ",
-          "lemma": "αυτὅυ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.13"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -1034,6 +1042,22 @@
         {
           "surface_form": "ἔιπατε",
           "lemma": "ἔιπατε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.13"
+        },
+        {
+          "surface_form": "ιδὅυ",
+          "lemma": "ιδὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.13"
+        },
+        {
+          "surface_form": "κακοπαθἔιας",
+          "lemma": "κακοπαθἔιας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1081,42 +1105,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 1:14",
       "greek_reference": "Μαλαχίας 1:14",
       "verse_anchor": "Mal.1.14",
-      "greek_text": "κυριος παντοκρ ατωρ και επικατ αρατος ο ἄνθρωπος ος ην δυνατ ος και υπ ηρξεν εν τω ποιμν ιω αυτο υ ἄρσεν και η ευξη αυτο υ επ' αυτω και θυει διεφθαρμἔνον τω κυρἴω δἴοτι βασιλἔυς μεγας εγω ειμι λεγει κυριος παντοκρ ατωρ και το ὅνομἄ μου επιφανἔς εν τοιςἔθνεσι",
-      "english_translation": "the almighty. And accursed be the man who was mighty, and [2existed 3among 4his flock 1a male], and his vow was upon him, and he sacrifices a thing having been corrupted to the. For [4king 3a great 1I 2am], says the almighty, and my name is prominent among the nations.",
+      "greek_text": "και επικατ αρατος ο ἄνθρωπος ος ην δυνατ ος και υπ ηρξεν εν τω ποιμν ιω αυτου ἄρσεν καιη ευξη αυτου επ' αυτω και θυει διεφθαρμἔνον τω κυρἴω δἴοτι βασιλἔυς μεγας εγω ειμι λεγει κυριος παντοκρ ατωρ και το ὅνομἄ μου επιφανἔς εν τοιςἔθνεσι",
+      "english_translation": "the almighty. And accursed be the man who was mighty, and existed among his flock a male, and his vow was upon him, and he sacrifices a thing having been corrupted to the. For king a great I am, says the almighty, and my name is prominent among the nations.",
       "morphology": [
-        {
-          "surface_form": "κυριος",
-          "lemma": "κυριος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.14"
-        },
-        {
-          "surface_form": "παντοκρ",
-          "lemma": "παντοκρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.14"
-        },
-        {
-          "surface_form": "ατωρ",
-          "lemma": "ατωρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.1.14"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.14"
+        },
+        {
+          "surface_form": "επικατ",
+          "lemma": "επικατ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.14"
+        },
+        {
+          "surface_form": "αρατος",
+          "lemma": "αρατος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.1.14"
+        },
+        {
+          "surface_form": "ἄνθρωπος",
+          "lemma": "ἄνθρωπος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1164,13 +1190,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:1",
       "greek_reference": "Μαλαχίας 2:1",
       "verse_anchor": "Mal.2.1",
-      "greek_text": "και νυν η εντολη αυτη προς υμ ας ω ιερε ις",
+      "greek_text": "και νυνη εντολη αυτη προς υμ ας ω ιερε ις",
       "english_translation": "And now, this commandment is to you, O priests.",
       "morphology": [
         {
@@ -1182,8 +1210,8 @@
           "verse_anchor": "Mal.2.1"
         },
         {
-          "surface_form": "νυν",
-          "lemma": "νυν",
+          "surface_form": "νυνη",
+          "lemma": "νυνη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1247,13 +1275,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:2",
       "greek_reference": "Μαλαχίας 2:2",
       "verse_anchor": "Mal.2.2",
-      "greek_text": "ἔαν μη ακὅυσητε και ἔαν μη θἤσθε εις την καρδ ιαν υμ ων του δουναι δοχαν τω ονοματ ι μου λἔγει κὔριος παντοκρἄτωρ και εχαποστελὤ εφ' υμἄς την καταραν και επικαταρ ασομαι την ευλογ ιαν υμ ων και καταρἄσομαι αυτἤν και ουκ ἔσται εν υμἴν ὅτι υμἔις",
+      "greek_text": "ἔαν μη ακὅυσητε και ἔαν μη θἤσθε εις την καρδ ιαν υμ ων του δουναι δοχαν τω ονοματ ι μου λἔγει κὔριος παντοκρἄτωρ και εχαποστελὤ εφ' υμἄς την καταραν και επικαταρ ασομαι την ευλογ ιαν υμ ων και καταρἄσομαι αυτἤν και ουκ ἔσται εν υμἴν ὅτι υμἔις ου τιθεσθε εις την καρδ ιαν",
       "english_translation": "If you should not hearken, and if you should not put it into your heart, to give glory to my name, says the almighty, then I will send upon you the curse, and I will accurse your blessing – even I will curse it; and it will not be among you that you",
       "morphology": [
         {
@@ -1330,42 +1360,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:3",
       "greek_reference": "Μαλαχίας 2:3",
       "verse_anchor": "Mal.2.3",
-      "greek_text": "ου τ ιθεσθε εις την καρδ ιαν ιδο υ εγω αφορ ιζω υμ ιν τον ὤμον και σκορπι ω ἔνυστρον επἴ τα πρὅσωπα υμὤν ἔνυστρον εορτων υμ ων και ληψομαι υμ ας εις το Μ Λ διαθηκη μου ην μετ' αυτο υ της ζωης και της ειρ ηνης και ἔδωκα αυτω φ οβω φοβε ισθαι με και απ ο προς ωπου",
+      "greek_text": "ιδου εγω αφορ ιζω υμ ιν τον ὤμον και σκορπι ω ἔνυστρον επἴ τα πρὅσωπα υμὤν ἔνυστρον εορτων υμ ων και ληψομαι υμ ας εις το αυτο Μ Λ διαθηκη μου ην μετ' αυτου της ζωης και της ειρ ηνης και ἔδωκα αυτω φ οβω φοβε ισθαι με και απ ο προς ωπου ονοματὅς μου στἔλλεσθαι αυτὅν",
       "english_translation": "put it not to the heart. Behold, I separate to you the shoulder, and I will disperse dung of the large intestine upon your faces, dung of the large intestine of your holiday feasts; and I will take you away at the i.e. turn my back. My covenant was with him – the one of life and of peace; and I gave to him fear, to fear me; and from the presence",
       "morphology": [
         {
-          "surface_form": "ου",
-          "lemma": "ου",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.3"
         },
         {
-          "surface_form": "ιθεσθε",
-          "lemma": "ιθεσθε",
+          "surface_form": "εγω",
+          "lemma": "εγω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.3"
         },
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "αφορ",
+          "lemma": "αφορ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.3"
         },
         {
-          "surface_form": "την",
-          "lemma": "την",
+          "surface_form": "ιζω",
+          "lemma": "ιζω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1413,23 +1445,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:4",
       "greek_reference": "Μαλαχίας 2:4",
       "verse_anchor": "Mal.2.4",
-      "greek_text": "αυτο και επιγνωσεσθε δι οτι εγω εχαπ εσταλκα προς υμἄς την εντολἤν τἄυτην του ἔιναιτην διαθἤκην μου",
+      "greek_text": "και επιγνωσεσθε δι οτι εγω εχαπ εσταλκα προς υμἄς την εντολἤν τἄυτην του ἔιναιτην διαθἤκην μου προς τους Λευ ιτας λεγει κυριος παντοκρ ατωρ",
       "english_translation": "same time. And you shall realize that I sent out to you this commandment, to be my covenant",
       "morphology": [
-        {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.4"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -1449,6 +1475,14 @@
         {
           "surface_form": "δι",
           "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.4"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1496,48 +1530,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:5",
       "greek_reference": "Μαλαχίας 2:5",
       "verse_anchor": "Mal.2.5",
-      "greek_text": "προς τους Λευ ιτας λεγει κυριος παντοκρ ατωρ η",
+      "greek_text": "η",
       "english_translation": "with the Levites, says the almighty.",
-      "morphology": [
-        {
-          "surface_form": "προς",
-          "lemma": "προς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.5"
-        },
-        {
-          "surface_form": "τους",
-          "lemma": "τους",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.5"
-        },
-        {
-          "surface_form": "Λευ",
-          "lemma": "Λευ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.5"
-        },
-        {
-          "surface_form": "ιτας",
-          "lemma": "ιτας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.5"
-        }
-      ],
+      "morphology": [],
       "criteria_evaluations": {
         "1": {
           "status": "PASS",
@@ -1579,42 +1582,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:6",
       "greek_reference": "Μαλαχίας 2:6",
       "verse_anchor": "Mal.2.6",
-      "greek_text": "ονοματὅς μου στἔλλεσθαι αυτὅν νὅμος αληθἔιας ην εν τω στοματι αυτο υ και αδικια ουξ ευρεθη εν ξειλεσιν αυτο υ εν ειρ ηνη κατευθ υνων επορἔυθη μετ' εμὅυ και πολλὅυς επἔστρεψεν απὅ Ξ Ι Σ σκηνωμ ατων Ιακωβ και εκ προσαγ οντων",
+      "greek_text": "νὅμος αληθἔιας ην εν τω στοματι αυτου και αδικια ουξ ευρεθη εν ξειλεσιν αυτου εν ειρ ηνη κατευθ υνων επορἔυθη μετ' εμὅυ και πολλὅυς επἔστρεψεν απὅ αδικιας σκηνωμ ατων Ιακωβ και εκ προσαγ οντων θυς ιαν τω κυριω παντοκρ ατορι",
       "english_translation": "of my name, to put him in readiness. The law of truth was in his mouth, and injustice was not found in his lips. In peace he straightened out to go with me, and many he turned from the tents of Jacob, and from out of the ones bringing",
       "morphology": [
         {
-          "surface_form": "ονοματὅς",
-          "lemma": "ονοματὅς",
+          "surface_form": "νὅμος",
+          "lemma": "νὅμος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.6"
         },
         {
-          "surface_form": "μου",
-          "lemma": "μου",
+          "surface_form": "αληθἔιας",
+          "lemma": "αληθἔιας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.6"
         },
         {
-          "surface_form": "στἔλλεσθαι",
-          "lemma": "στἔλλεσθαι",
+          "surface_form": "ην",
+          "lemma": "ην",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.6"
         },
         {
-          "surface_form": "αυτὅν",
-          "lemma": "αυτὅν",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1662,23 +1667,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:7",
       "greek_reference": "Μαλαχίας 2:7",
       "verse_anchor": "Mal.2.7",
-      "greek_text": "αδικιας ὅτι ξειλη ιερ εως φυλ αχεται γνωσιν και νομον εκζητησουσιν εκ στοματος αυτο υ δι οτι ἄγγελος κυριου παντοκρ ατορος εστιν",
-      "english_translation": "iniquity. For lips of priests shall guard knowledge, and [2 the law 1they shall seek] from out of his mouth; for [2a messenger of the 4almighty 1he is].",
+      "greek_text": "ὅτι ξειλη ιερ εως φυλ αχεται γνωσιν και νομον εκζητησουσιν εκ στοματος αυτου δι οτι ἄγγελος κυριου παντοκρ ατορος εστιν",
+      "english_translation": "iniquity. For lips of priests shall guard knowledge, and the law they shall seek from out of his mouth; for a messenger of the almighty he is.",
       "morphology": [
-        {
-          "surface_form": "αδικιας",
-          "lemma": "αδικιας",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.7"
-        },
         {
           "surface_form": "ὅτι",
           "lemma": "ὅτι",
@@ -1698,6 +1697,14 @@
         {
           "surface_form": "ιερ",
           "lemma": "ιερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.7"
+        },
+        {
+          "surface_form": "εως",
+          "lemma": "εως",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1745,13 +1752,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:8",
       "greek_reference": "Μαλαχίας 2:8",
       "verse_anchor": "Mal.2.8",
-      "greek_text": "υμε ις δε εχεκλινατε εκ της οδου και ησθεν ησατε πολλὅυς εν νὅμω διεφθἔιρατε την διαθἤκην",
+      "greek_text": "υμε ις δε εχεκλινατε εκ της οδου και ησθεν ησατε πολλὅυς εν νὅμω διεφθἔιρατε την διαθἤκην του Λευ ι λεγει κυριος παντοκρ ατωρ",
       "english_translation": "But you turned aside from out of the way, and weakened many in following the law. You corrupted the covenant",
       "morphology": [
         {
@@ -1828,42 +1837,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:9",
       "greek_reference": "Μαλαχίας 2:9",
       "verse_anchor": "Mal.2.9",
-      "greek_text": "του Λευ ι λεγει κυριος παντοκρ ατωρ και εγω δεδωκα υμ ας εχουδενωμ ενους και παρειμἔνους εις πἄντα τα ἔθνη ανθ' ων υμε ις ουκ εφυλ αχασθε τας οδους μου",
+      "greek_text": "και εγω δεδωκα υμ ας εχουδενωμ ενους και παρειμἔνους εις πἄντα τα ἔθνη ανθ' ων υμε ις ουκ εφυλ αχασθε τας οδους μου αλλ α ελαμβ ανετε προσωπα εν νομω Ξ Ι Σ",
       "english_translation": "of Levi, says the almighty. And I have given you over as ones being with contempt, and ones having been disregarded among all the nations, because of which you guarded not my ways, i.e. shown partiality.",
       "morphology": [
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.9"
         },
         {
-          "surface_form": "Λευ",
-          "lemma": "Λευ",
+          "surface_form": "εγω",
+          "lemma": "εγω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.9"
         },
         {
-          "surface_form": "λεγει",
-          "lemma": "λεγει",
+          "surface_form": "δεδωκα",
+          "lemma": "δεδωκα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.9"
         },
         {
-          "surface_form": "κυριος",
-          "lemma": "κυριος",
+          "surface_form": "υμ",
+          "lemma": "υμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1911,42 +1922,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:10",
       "greek_reference": "Μαλαχίας 2:10",
       "verse_anchor": "Mal.2.10",
-      "greek_text": "αλλ α ελαμβ ανετε προσωπα εν νομω ουξι πατ ηρ εις παντων υμ ων ουξι θεος εις ἔκτισεν υμ ας τι οτι εγκατελ ιπατε ἔκαστος τον αδελφὅν αυτὅυ του βεβηλὤσαι την διαθἤκην",
-      "english_translation": "but you took persons in the law. Is there not [2father 1one] of all of you? Did not [2God 1one] create you? For what reason did [2of you abandon 1each] his brother, to profane the covenant 1459-*",
+      "greek_text": "ουξι πατ ηρ εις παντων υμ ων ουξι θεος εις ἔκτισεν υμ ας τι οτι εγκατελ ιπατε ἔκαστος τον αδελφὅν αυτὅυ του βεβηλὤσαι την διαθἤκην των πατ ερων υμ ων",
+      "english_translation": "but you took persons in the law. Is there not father one of all of you? Did not God one create you? For what reason did of you abandon each his brother, to profane the covenant 1459-*",
       "morphology": [
         {
-          "surface_form": "αλλ",
-          "lemma": "αλλ",
+          "surface_form": "ουξι",
+          "lemma": "ουξι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.10"
         },
         {
-          "surface_form": "ελαμβ",
-          "lemma": "ελαμβ",
+          "surface_form": "πατ",
+          "lemma": "πατ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.10"
         },
         {
-          "surface_form": "ανετε",
-          "lemma": "ανετε",
+          "surface_form": "ηρ",
+          "lemma": "ηρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.10"
         },
         {
-          "surface_form": "προσωπα",
-          "lemma": "προσωπα",
+          "surface_form": "εις",
+          "lemma": "εις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -1994,42 +2007,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:11",
       "greek_reference": "Μαλαχίας 2:11",
       "verse_anchor": "Mal.2.11",
-      "greek_text": "των πατ ερων υμ ων εγκατελε ιφθη Ιο υδας και βδἔλυγμα εγἔνετο εν τω Ισρἄηλ και εν Ιερουσαλἤμ δι οτι εβεβ ηλωσεν Ιο υδας τα ἄγια κυριου εν οις ηγἄπησε και επετἤδευσεν εις θεὅυς αλλοτρἴους",
+      "greek_text": "εγκατελε ιφθη Ιουδας και βδἔλυγμα εγἔνετο εν τω Ισρἄηλ και εν Ιερουσαλἤμ δι οτι εβεβηλωσεν Ιουδας τα ἄγια κυριου εν οις ηγἄπησε και επετἤδευσεν εις θεὅυς αλλοτρἴους",
       "english_translation": "of your fathers? Judah abandoned, and an abomination took place in Israel and in Jerusalem, 953-* for Judah profaned the holy things of the in which he loved, and applied unto alien gods.",
       "morphology": [
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "εγκατελε",
+          "lemma": "εγκατελε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.11"
         },
         {
-          "surface_form": "πατ",
-          "lemma": "πατ",
+          "surface_form": "ιφθη",
+          "lemma": "ιφθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.11"
         },
         {
-          "surface_form": "ερων",
-          "lemma": "ερων",
+          "surface_form": "Ιουδας",
+          "lemma": "Ιουδας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.11"
         },
         {
-          "surface_form": "υμ",
-          "lemma": "υμ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2077,26 +2092,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:12",
       "greek_reference": "Μαλαχίας 2:12",
       "verse_anchor": "Mal.2.12",
-      "greek_text": "εχολοθρε υσει κυριος τον ἄνθρωπον τον ποιουντα ταυτα ἔως αν ταπεινωθ η εκ",
+      "greek_text": "εχολοθρευσει κυριος τον ἄνθρωπον τον ποιουντα ταυτα ἔως αν ταπεινωθη εκ",
       "english_translation": "The will utterly destroy the man doing these things, until whenever he should be humbled from out of",
       "morphology": [
         {
-          "surface_form": "εχολοθρε",
-          "lemma": "εχολοθρε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.12"
-        },
-        {
-          "surface_form": "υσει",
-          "lemma": "υσει",
+          "surface_form": "εχολοθρευσει",
+          "lemma": "εχολοθρευσει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2113,6 +2122,14 @@
         {
           "surface_form": "τον",
           "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.12"
+        },
+        {
+          "surface_form": "ἄνθρωπον",
+          "lemma": "ἄνθρωπον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2160,42 +2177,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:13",
       "greek_reference": "Μαλαχίας 2:13",
       "verse_anchor": "Mal.2.13",
-      "greek_text": "θυς ιαν τω κυριω παντοκρ ατορι και ταυτα α εμἴσουν εποιἔιτε εκαλὔπτετε δἄκρυσι το θυσιαστ ηριον κυριου εν κλαυθμ ω και στεναγμ ω εκ κοπων ἔτι ἄχιον επιβλ επειν εις θυσἴαν η λαβἔιν δεκτὅν εκ των ξειρων υμ ων",
-      "english_translation": "a sacrifice to the almighty. And these things which I detested you did. You covered [4in tears 1the 2altar of the], in weeping, and moaning, from out of troubles, yet thinking it worthy to look upon your sacrifice, or to take it as acceptable from out of your hands.",
+      "greek_text": "και ταυτα α εμἴσουν εποιἔιτε εκαλὔπτετε δἄκρυσι το θυσιαστ ηριον κυριου εν κλαυθμ ω και στεναγμ ω εκ κοπων ἔτι ἄχιον επιβλ επειν εις θυσἴανη λαβἔιν δεκτὅν εκ των ξειρων υμ ων",
+      "english_translation": "a sacrifice to the almighty. And these things which I detested you did. You covered in tears the altar of the, in weeping, and moaning, from out of troubles, yet thinking it worthy to look upon your sacrifice, or to take it as acceptable from out of your hands.",
       "morphology": [
         {
-          "surface_form": "θυς",
-          "lemma": "θυς",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.13"
         },
         {
-          "surface_form": "ιαν",
-          "lemma": "ιαν",
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.13"
         },
         {
-          "surface_form": "τω",
-          "lemma": "τω",
+          "surface_form": "εμἴσουν",
+          "lemma": "εμἴσουν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.13"
         },
         {
-          "surface_form": "κυριω",
-          "lemma": "κυριω",
+          "surface_form": "εποιἔιτε",
+          "lemma": "εποιἔιτε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2243,13 +2262,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:14",
       "greek_reference": "Μαλαχίας 2:14",
       "verse_anchor": "Mal.2.14",
-      "greek_text": "και ε ιπατε ἔνεκεν τ ινος ὅτι κὔριος διεμαρτὔρατο αναμἔσον σου και αναμἔσον γυναικ ος νεοτητος σου ην εγκατ ελιπες και αυτη",
+      "greek_text": "και ειπατε ἔνεκεν τινος ὅτι κὔριος διεμαρτὔρατο αναμἔσον σου και αναμἔσον γυναικ ος νεοτητος σου ην εγκατ ελιπες και αυτη κοινων ος σου και γυνη διαθηκης σου",
       "english_translation": "And you said, For what reason? In that the testified between you and between the wife of your youth, whom you abandoned. And she",
       "morphology": [
         {
@@ -2261,8 +2282,8 @@
           "verse_anchor": "Mal.2.14"
         },
         {
-          "surface_form": "ιπατε",
-          "lemma": "ιπατε",
+          "surface_form": "ειπατε",
+          "lemma": "ειπατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2277,8 +2298,8 @@
           "verse_anchor": "Mal.2.14"
         },
         {
-          "surface_form": "ινος",
-          "lemma": "ινος",
+          "surface_form": "τινος",
+          "lemma": "τινος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2326,42 +2347,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:15",
       "greek_reference": "Μαλαχίας 2:15",
       "verse_anchor": "Mal.2.15",
-      "greek_text": "κοινων ος σου και γυνη διαθηκης σου και ου καλὅν επὅιησε και υπὅλειμμα πνἔυματος αυτὅυ και ε ιπατε τι ἄλλο η σπ ερμα ζητει ο θεος και φυλ αχασθε εν τω πνευματι υμ ων και γυνα ικα",
-      "english_translation": "is your partner, and the wife of your covenant. And [5not do good 4did 1even 2a vestige 3of his spirit]. And you said, What other than a seed does God seek? But guard in your spirit, and the wife",
+      "greek_text": "και ου καλὅν επὅιησε και υπὅλειμμα πνἔυματος αυτὅυ και ειπατε τι ἄλλοη σπ ερμα ζητει ο θεος και φυλ αχασθε εν τω πνευματι υμ ων και γυνα ικα νἔοτητὅς σου μη εγκαταλἴπης",
+      "english_translation": "is your partner, and the wife of your covenant. And not do good did even a vestige of his spirit. And you said, What other than a seed does God seek? But guard in your spirit, and the wife",
       "morphology": [
-        {
-          "surface_form": "κοινων",
-          "lemma": "κοινων",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.15"
-        },
-        {
-          "surface_form": "ος",
-          "lemma": "ος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.15"
-        },
-        {
-          "surface_form": "σου",
-          "lemma": "σου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.2.15"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.15"
+        },
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.15"
+        },
+        {
+          "surface_form": "καλὅν",
+          "lemma": "καλὅν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.2.15"
+        },
+        {
+          "surface_form": "επὅιησε",
+          "lemma": "επὅιησε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2409,42 +2432,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:16",
       "greek_reference": "Μαλαχίας 2:16",
       "verse_anchor": "Mal.2.16",
-      "greek_text": "νἔοτητὅς σου μη εγκαταλἴπης αλλἄ ἔαν μισἤσας εχαπ οστειλης λεγει κυριος ο θεος του Ισρἄηλ και καλὔψει ασεβἔια επἴ τα ενθυμἤματἄ σου λεγει κυριος ο θεος παντοκρ ατωρ και φυλ αχασθε εν τω πνἔυματι υμὤν και ου μη εγκαταλἴπητε",
-      "english_translation": "of your youth do not abandon! But if by detesting, you should send her forth, says the God of Israel, then [2shall cover 1impiety] over your thoughts, says the God almighty. And keep guard in your spirit! and in no way should you abandon them,",
+      "greek_text": "αλλἄ ἔαν μισἤσας εχαπ οστειλης λεγει κυριος ο θεος του Ισρἄηλ και καλὔψει ασεβἔια επἴ τα ενθυμἤματἄ σου λεγει κυριος ο θεος παντοκρ ατωρ και φυλ αχασθε εν τω πνἔυματι υμὤν και ου μη εγκαταλἴπητε",
+      "english_translation": "of your youth do not abandon! But if by detesting, you should send her forth, says the God of Israel, then shall cover impiety over your thoughts, says the God almighty. And keep guard in your spirit! and in no way should you abandon them,",
       "morphology": [
         {
-          "surface_form": "νἔοτητὅς",
-          "lemma": "νἔοτητὅς",
+          "surface_form": "αλλἄ",
+          "lemma": "αλλἄ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.16"
         },
         {
-          "surface_form": "σου",
-          "lemma": "σου",
+          "surface_form": "ἔαν",
+          "lemma": "ἔαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.16"
         },
         {
-          "surface_form": "μη",
-          "lemma": "μη",
+          "surface_form": "μισἤσας",
+          "lemma": "μισἤσας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.2.16"
         },
         {
-          "surface_form": "εγκαταλἴπης",
-          "lemma": "εγκαταλἴπης",
+          "surface_form": "εχαπ",
+          "lemma": "εχαπ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2492,14 +2517,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 2:17",
       "greek_reference": "Μαλαχίας 2:17",
       "verse_anchor": "Mal.2.17",
-      "greek_text": "οι παροχ υναντες τον κυριον εν τοιςλογοις υμ ων και ἔιπατε εν τἴνι παρωχὔναμεν αυτὅν εν τω λεγειν υμ ας πας ποιων πονηρ ον καλ ον ενωπιον κυρἴου και εν αυτὅις αυτὅς ευδὅκησε και που εστιν ο θεος της δικαιος υνης",
-      "english_translation": "O ones provoking the with your words. And you said, [3in 4what 1We provoked 2him]? In your saying, Every one doing wicked is good before the, and in them he thinks well of; and, Where is the God of righteousness?",
+      "greek_text": "οι παροχ υναντες τον κυριον εν τοιςλογοις υμ ων και ἔιπατε εν τἴνι παρωχὔναμεν αυτὅν εν τω λεγειν υμ ας πας ποιων πονηρ ον καλ ον ενωπιον κυρἴου και εν αυτὅις αυτὅς ευδὅκησε και που εστιν ο θεος της δικαιοςυνης",
+      "english_translation": "O ones provoking the with your words. And you said, in what We provoked him? In your saying, Every one doing wicked is good before the, and in them he thinks well of; and, Where is the God of righteousness?",
       "morphology": [
         {
           "surface_form": "οι",
@@ -2575,18 +2602,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:1",
       "greek_reference": "Μαλαχίας 3:1",
       "verse_anchor": "Mal.3.1",
-      "greek_text": "ιδο υ εχαποστ ελλω τον ἄγγελὅν μου ὅστις ετοιμασει οδον προ προς ωπου μου και εχἄιφνης ἤχει εις τον νἄον αυτὅυ κὔριος ον υμἔις ζητἔιτεκαι ο ἄγγελος της διαθἤκης ον υμἔις",
-      "english_translation": "Behold, I send out my messenger who shall prepare the way before my face. And [5shall suddenly 6come 7into 8his temple the 2whom 3you 4seek], even the messenger of the covenant, whom you See Mt. 11:10, Mk. 1:2, Lk. 7:27.",
+      "greek_text": "ιδου εχαποστ ελλω τον ἄγγελὅν μου ὅστις ετοιμασει οδον προ προς ωπου μου και εχἄιφνης ἤχει εις τον νἄον αυτὅυ κὔριος ον υμἔις ζητἔιτεκαι ο ἄγγελος της διαθἤκης ον υμἔις θελετειδου ἔρξεται λεγεικυριος παντοκρ ατωρ φοβουμ ενους με λεγεικυριος παντοκρ ατωρ",
+      "english_translation": "Behold, I send out my messenger who shall prepare the way before my face. And shall suddenly come into his temple the whom you seek, even the messenger of the covenant, whom you See Mt. 11:10, Mk. 1:2, Lk. 7:27.",
       "morphology": [
         {
-          "surface_form": "ιδο",
-          "lemma": "ιδο",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2658,42 +2687,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:2",
       "greek_reference": "Μαλαχίας 3:2",
       "verse_anchor": "Mal.3.2",
-      "greek_text": "θελετειδο υ ἔρξεται λεγεικυριος παντοκρ ατωρ και τις υπομενε ι ημ εραν ειςοδου αυτο υ η τις υποστ ησεται εν τη οπτας ια αυτο υ δι οτι αυτος εισπορε υεται ως πυρ",
+      "greek_text": "και τις υπομενε ι ημ εραν ειςοδου αυτου η τις υποστ ησεται εν τη οπτας ια αυτου δι οτι αυτος εισπορε υεται ως πυρ ξωνευτηρ ιου και ως ποα πλυν οντων",
       "english_translation": "want. Behold, he comes, says the almighty. And who will endure the day of his entrance? Or who shall stand at his apparition? For he enters as fire",
       "morphology": [
         {
-          "surface_form": "θελετειδο",
-          "lemma": "θελετειδο",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.2"
         },
         {
-          "surface_form": "ἔρξεται",
-          "lemma": "ἔρξεται",
+          "surface_form": "τις",
+          "lemma": "τις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.2"
         },
         {
-          "surface_form": "λεγεικυριος",
-          "lemma": "λεγεικυριος",
+          "surface_form": "υπομενε",
+          "lemma": "υπομενε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.2"
         },
         {
-          "surface_form": "παντοκρ",
-          "lemma": "παντοκρ",
+          "surface_form": "ημ",
+          "lemma": "ημ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2741,31 +2772,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:3",
       "greek_reference": "Μαλαχίας 3:3",
       "verse_anchor": "Mal.3.3",
-      "greek_text": "ξωνευτηρ ιου και ως ποα πλυν οντων και καθε ιται ξωνε υων και καθαρ ιζων ως το αργ υριον και καθαρισε ι τους υιους Λευ ι και ξεει αυτο υς ὤσπερ το ξρυς ιον και ως το αργ υριον και ἔσονται τω κυριω προς αγοντες",
+      "greek_text": "και καθειται ξωνε υων και καθαρ ιζων ως το αργ υριον και καθαρισε ι τους υιους Λευ ι και ξεει αυτους ὤσπερ το ξρυς ιον και ως το αργ υριον και ἔσονται τω κυριω προς αγοντες θυσἴας εν τη δικαιοσὔνη",
       "english_translation": "of a foundry furnace, and as lye of ones washing. And he shall sit as one casting in a furnace, and one cleansing as it were the silver. And he shall cleanse the sons of Levi, and shall pour them as the gold and as the silver, that they will be to the ones bringing",
       "morphology": [
-        {
-          "surface_form": "ξωνευτηρ",
-          "lemma": "ξωνευτηρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.3"
-        },
-        {
-          "surface_form": "ιου",
-          "lemma": "ιου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.3"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -2775,8 +2792,24 @@
           "verse_anchor": "Mal.3.3"
         },
         {
-          "surface_form": "ως",
-          "lemma": "ως",
+          "surface_form": "καθειται",
+          "lemma": "καθειται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.3"
+        },
+        {
+          "surface_form": "ξωνε",
+          "lemma": "ξωνε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.3"
+        },
+        {
+          "surface_form": "υων",
+          "lemma": "υων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2824,42 +2857,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:4",
       "greek_reference": "Μαλαχίας 3:4",
       "verse_anchor": "Mal.3.4",
-      "greek_text": "θυσἴας εν τη δικαιοσὔνη και αρἔσει τω κυριω θυς ια Ιο υδα και Ιερουσαλ ημ καθὤς αι ημἔραι του αἴωνος και καθὤς τα ἔτη",
-      "english_translation": "sacrifices in righteousness. And [5shall please 6the the sacrifice 2of Judah 3and 4Jerusalem], as in the days of the eon, and as the years",
+      "greek_text": "και αρἔσει τω κυριω θυς ια Ιουδα και Ιερουσαλ ημ καθὤς αι ημἔραι του αἴωνος και καθὤς τα ἔτη τα ἔμπροσθεν",
+      "english_translation": "sacrifices in righteousness. And shall please the the sacrifice of Judah and Jerusalem, as in the days of the eon, and as the years",
       "morphology": [
         {
-          "surface_form": "θυσἴας",
-          "lemma": "θυσἴας",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.4"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "αρἔσει",
+          "lemma": "αρἔσει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.4"
         },
         {
-          "surface_form": "τη",
-          "lemma": "τη",
+          "surface_form": "τω",
+          "lemma": "τω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.4"
         },
         {
-          "surface_form": "δικαιοσὔνη",
-          "lemma": "δικαιοσὔνη",
+          "surface_form": "κυριω",
+          "lemma": "κυριω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2907,34 +2942,36 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:5",
       "greek_reference": "Μαλαχίας 3:5",
       "verse_anchor": "Mal.3.5",
-      "greek_text": "τα ἔμπροσθεν και προς αχω προς υμ ας εν κρισει και ἔσομαι μαρτυς ταξυς επι τας φαρμακὅυς και επἴ τους μοιξὅυς και επι τους ομν υοντας τω ονοματ ι μου επἴ ψἔυδει και επἴ τους αποστερὅυντας μισθὅν μισθωτο υ και καταδυναστε υοντας ξηρας και τους κονδυλ ιζοντας ορφανο υς και τους εκκλ ινοντας κρισιν προσηλ υτου και τους μη",
-      "english_translation": "before. And I will come forward to you in judgment; and I will be [2witness 1a quick] against the administers of potions, and against the adulterers, and against the ones swearing by an oath in my name for a lie, and against the ones depriving a wage of a hireling, and tyrannizing over the widow, and smiting orphans, and turning aside a right judgment of a foreigner – and they are the ones not",
+      "greek_text": "και προς αχω προς υμ ας εν κρισει και ἔσομαι μαρτυς ταξυς επι τας φαρμακὅυς και επἴ τους μοιξὅυς και επι τους ομν υοντας τω ονοματ ι μου επἴ ψἔυδει και επἴ τους αποστερὅυντας μισθὅν μισθωτου και καταδυναστε υοντας ξηρας και τους κονδυλ ιζοντας ορφανο υς και τους εκκλινοντας κρισιν προσηλ υτου και τους μη",
+      "english_translation": "before. And I will come forward to you in judgment; and I will be witness a quick against the administers of potions, and against the adulterers, and against the ones swearing by an oath in my name for a lie, and against the ones depriving a wage of a hireling, and tyrannizing over the widow, and smiting orphans, and turning aside a right judgment of a foreigner – and they are the ones not",
       "morphology": [
-        {
-          "surface_form": "τα",
-          "lemma": "τα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.5"
-        },
-        {
-          "surface_form": "ἔμπροσθεν",
-          "lemma": "ἔμπροσθεν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.5"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.5"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.5"
+        },
+        {
+          "surface_form": "αχω",
+          "lemma": "αχω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -2990,42 +3027,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:6",
       "greek_reference": "Μαλαχίας 3:6",
       "verse_anchor": "Mal.3.6",
-      "greek_text": "φοβουμ ενους με λεγει κυριος παντοκρ ατωρ δι οτιεγω κυριος ο θεος υμ ων ουκ ηλλο ιωμαι",
+      "greek_text": "δι οτιεγω κυριος ο θεος υμ ων ουκ ηλλο ιωμαι",
       "english_translation": "fearing me, says the almighty. For I am the your God – I have not been changed.",
       "morphology": [
         {
-          "surface_form": "φοβουμ",
-          "lemma": "φοβουμ",
+          "surface_form": "δι",
+          "lemma": "δι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.6"
         },
         {
-          "surface_form": "ενους",
-          "lemma": "ενους",
+          "surface_form": "οτιεγω",
+          "lemma": "οτιεγω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.6"
         },
         {
-          "surface_form": "με",
-          "lemma": "με",
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.6"
         },
         {
-          "surface_form": "λεγει",
-          "lemma": "λεγει",
+          "surface_form": "θεος",
+          "lemma": "θεος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3073,7 +3112,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:7",
@@ -3156,14 +3197,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:8",
       "greek_reference": "Μαλαχίας 3:8",
       "verse_anchor": "Mal.3.8",
-      "greek_text": "ει πτερνιει ἄνθρωπος θεον δι οτι υμε ις πτερνιζετε με και ἔιπατε εν τινι επτερνἴσαμἔν σε ὅτι τα επιδεκατα και αι απαρξα ι μεθ' υμ ων εισιν",
-      "english_translation": "Shall [2stomp on 1a man] God? For you stomp on me. And you said, [3in 4what 1We stomped on 2you]? In that the tenth parts, and the first-fruits [2with 3you 1are];",
+      "greek_text": "ει πτερνιει ἄνθρωπος θεον δι οτι υμε ις πτερνιζετ ε με και ἔιπατε εν τινι επτερνἴσαμἔν σε ὅτι τα επιδεκατα και αι απαρξα ι μεθ' υμ ων εισιν",
+      "english_translation": "Shall stomp on a man God? For you stomp on me. And you said, in what We stomped on you? In that the tenth parts, and the first-fruits with you are;",
       "morphology": [
         {
           "surface_form": "ει",
@@ -3239,13 +3282,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:9",
       "greek_reference": "Μαλαχίας 3:9",
       "verse_anchor": "Mal.3.9",
-      "greek_text": "και αποβλ εποντες υμε ις αποβλ επετε και εμε υμε ις",
+      "greek_text": "και αποβλ εποντες υμε ις αποβλ επετε και εμε υμε ις πτερνἴζετε",
       "english_translation": "and looking away, you look away, and me you",
       "morphology": [
         {
@@ -3322,23 +3367,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:10",
       "greek_reference": "Μαλαχίας 3:10",
       "verse_anchor": "Mal.3.10",
-      "greek_text": "πτερνἴζετε το ἔτος συνετελἔσθη και εισηνἔγκατε παντα τα εκφ ορια εις τους θησαυρο υς και ἔσται η διαρπαγἤ εν τοις ὅικοις υμὤν επιστρἔψατε δη εν τουτω λεγει κυριος παντοκρ ατωρ ε αν μη ανοιχω υμἴν τους καταρρἄκτας του ουρανὅυ και εκξἔω υμἴν την",
+      "greek_text": "το ἔτος συνετελἔσθη και εισηνἔγκατε παντα τα εκφ ορια εις τους θησαυρο υς και ἔσταιη διαρπαγἤ εν τοις ὅικοις υμὤν επιστρἔψατε δη εν τουτω λεγει κυριος παντοκρ ατωρ εαν μη ανοιχω υμἴν τουςκαταρρἄκτας του ουρανὅυ και εκξἔω υμἴν την ευλογ ιαν μου ἔως του ικανωθ ηναι",
       "english_translation": "stomp on. The year is completed, and you carried in all the resources into the storehouses, and there will be the ravaging in your houses. Restore indeed in this, says the almighty, if I should not open to you the torrents of the heaven, and pour out to you",
       "morphology": [
-        {
-          "surface_form": "πτερνἴζετε",
-          "lemma": "πτερνἴζετε",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.10"
-        },
         {
           "surface_form": "το",
           "lemma": "το",
@@ -3358,6 +3397,14 @@
         {
           "surface_form": "συνετελἔσθη",
           "lemma": "συνετελἔσθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.10"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3405,42 +3452,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:11",
       "greek_reference": "Μαλαχίας 3:11",
       "verse_anchor": "Mal.3.11",
-      "greek_text": "ευλογ ιαν μου ἔως του ικανωθ ηναι και διαστελ ω υμ ιν εις βρωσιν και ου μη διαφθε ιρω τον καρπὅν της γης και ου μη ασθενἤση υμ ων η ἄμπελος η εν τω αγρ ω λεγει κυριος",
+      "greek_text": "και διαστελ ω υμ ιν εις βρωσιν και ου μη διαφθε ιρω τον καρπὅν της γης και ου μη ασθενἤση υμ ωνη ἄμπελοςη εν τω αγρ ω λεγει κυριος παντοκρἄτωρ",
       "english_translation": "my blessing until it is enough! And I will draw apart to you for food, and in no way will I utterly destroy the fruit of the land; and in no way should it be weakened upon your grapevine, the one in the field, says the",
       "morphology": [
         {
-          "surface_form": "ευλογ",
-          "lemma": "ευλογ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.11"
         },
         {
-          "surface_form": "ιαν",
-          "lemma": "ιαν",
+          "surface_form": "διαστελ",
+          "lemma": "διαστελ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.11"
         },
         {
-          "surface_form": "μου",
-          "lemma": "μου",
+          "surface_form": "υμ",
+          "lemma": "υμ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.11"
         },
         {
-          "surface_form": "ἔως",
-          "lemma": "ἔως",
+          "surface_form": "ιν",
+          "lemma": "ιν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3488,23 +3537,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:12",
       "greek_reference": "Μαλαχίας 3:12",
       "verse_anchor": "Mal.3.12",
-      "greek_text": "παντοκρἄτωρ και μακαριὅυσιν υμἄς πἄντα τα ἔθνη δι οτι ἔσεσθἔ υμἔις γη θελητ η λεγει",
-      "english_translation": "almighty. And [4shall declare you happy 1all 2the 3nations]. For you will be [2land 1a wanted], says",
+      "greek_text": "και μακαριὅυσιν υμἄς πἄντα τα ἔθνη δι οτι ἔσεσθἔ υμἔις γη θελητη λεγει κὔριος παντοκρἄτωρ",
+      "english_translation": "almighty. And shall declare you happy all the nations. For you will be land a wanted, says",
       "morphology": [
-        {
-          "surface_form": "παντοκρἄτωρ",
-          "lemma": "παντοκρἄτωρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.12"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3524,6 +3567,14 @@
         {
           "surface_form": "υμἄς",
           "lemma": "υμἄς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.12"
+        },
+        {
+          "surface_form": "πἄντα",
+          "lemma": "πἄντα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3571,31 +3622,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:13",
       "greek_reference": "Μαλαχίας 3:13",
       "verse_anchor": "Mal.3.13",
-      "greek_text": "κὔριος παντοκρἄτωρ εβαρὔνατε επ' εμε τους λογους υμ ων λεγει κυριος και ε ιπατε",
+      "greek_text": "εβαρὔνατε επ' εμε τους λογους υμ ων λεγει κυριος και ειπατε εν τἴνι κατελαλἤσαμεν κατἄ σου",
       "english_translation": "the almighty. You weighed down against me by your words, says the. And you said,",
       "morphology": [
-        {
-          "surface_form": "κὔριος",
-          "lemma": "κὔριος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.13"
-        },
-        {
-          "surface_form": "παντοκρἄτωρ",
-          "lemma": "παντοκρἄτωρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.3.13"
-        },
         {
           "surface_form": "εβαρὔνατε",
           "lemma": "εβαρὔνατε",
@@ -3607,6 +3644,22 @@
         {
           "surface_form": "επ",
           "lemma": "επ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.13"
+        },
+        {
+          "surface_form": "εμε",
+          "lemma": "εμε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.3.13"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3654,42 +3707,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:14",
       "greek_reference": "Μαλαχίας 3:14",
       "verse_anchor": "Mal.3.14",
-      "greek_text": "εν τἴνι κατελαλἤσαμεν κατἄ σου ἔιπατε Μ Λ ματαιος ο δουλε υων θεω και τι πλε ιον ὅτι εφυλ αχαμεν τα φυλ αγματα αυτο υ και δι οτι επορε υθημεν ικἔται προ προσὤπου κυρἴου παντοκρἄτορος",
-      "english_translation": "[4in 5what 1We spoke ill 2against 3you]? You said, [4 is vain 1The one 2serving 3God], and, What more is it that we kept his injunctions, and that we go as supplicants before the face of the almighty?",
+      "greek_text": "ἔιπατε Μ Λ ματαιος ο δουλευων θεω και τι πλε ιον ὅτι εφυλ αχαμεν τα φυλ αγματα αυτου και δι οτι επορευθημεν ικἔται προ προσὤπου κυρἴου παντοκρἄτορος",
+      "english_translation": "in what We spoke ill against you? You said, is vain The one serving God, and, What more is it that we kept his injunctions, and that we go as supplicants before the face of the almighty?",
       "morphology": [
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "ἔιπατε",
+          "lemma": "ἔιπατε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.14"
         },
         {
-          "surface_form": "τἴνι",
-          "lemma": "τἴνι",
+          "surface_form": "ματαιος",
+          "lemma": "ματαιος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.14"
         },
         {
-          "surface_form": "κατελαλἤσαμεν",
-          "lemma": "κατελαλἤσαμεν",
+          "surface_form": "δουλευων",
+          "lemma": "δουλευων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.14"
         },
         {
-          "surface_form": "κατἄ",
-          "lemma": "κατἄ",
+          "surface_form": "θεω",
+          "lemma": "θεω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3737,14 +3792,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:15",
       "greek_reference": "Μαλαχίας 3:15",
       "verse_anchor": "Mal.3.15",
-      "greek_text": "και νυν ημε ις μακαρ ιζομεν αλλοτρ ιους και ανοικοδομὅυνται πἄντες οι ποιὅυντες ἄνομα Ξ Ι Σ υμ ιν τοις φοβουμ ενοις το ὅνομα μου ανατελε ι ἤλιος δικαιος υνης και ἴασις εν ταις πτερυχιν αυτο υ και εχελἔυσεσθε και σκιρτἤσετε ως μοσξἄρια",
-      "english_translation": "And now we declare [2blessed 1aliens]; and [5are built up 1all 2the ones 3doing 4lawless deeds]; to you, O ones fearing my name, shall arise sun of righteousness, and healing is in his wings; and you shall come forth, and shall leap as young calves",
+      "greek_text": "και νυν ημε ις μακαρ ιζομεν αλλοτρ ιους και ανοικοδομὅυνται πἄντες οι ποιὅυντες ἄνομα και αντεστησαν θεω και εςωθησαν υμ ιν τοις φοβουμ ενοις το ὅνομα μου ανατελε ι ἤλιος δικαιοςυνης και ἴασις εν ταις πτερυχιν αυτου και εχελἔυσεσθε και σκιρτἤσετε ως μοσξἄρια εκ δεσμὤν ανειμἔνα",
+      "english_translation": "And now we declare blessed aliens; and are built up all the ones doing lawless deeds; to you, O ones fearing my name, shall arise sun of righteousness, and healing is in his wings; and you shall come forth, and shall leap as young calves",
       "morphology": [
         {
           "surface_form": "και",
@@ -3820,42 +3877,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:16",
       "greek_reference": "Μαλαχίας 3:16",
       "verse_anchor": "Mal.3.16",
-      "greek_text": "και αντεστησαν θεω και εςωθησαν ταυτα κατελἄλησαν οι φοβὅυμενοι τον κὔριον ἔκαστος προς τον πλης ιον αυτο υ και προς εσξε κυριος και ειςηκουσε και ἔγραψε βιβλ ιον μνημος υνου ενωπιον αυτο υ τοις φοβουμ ενοις τον κυριον και ευλαβουμ ενοις το ονομα αυτο υ",
-      "english_translation": "and they opposed God, and were preserved. [6these things 5spoke 1The ones 2fearing 3the] each to his neighbor. And the heeded, and hearkened, and wrote a scroll of memorial before him to the ones fearing the, and venerating his name.",
+      "greek_text": "ταυτα κατελἄλησαν οι φοβὅυμενοι τον κὔριον ἔκαστος προς τον πλης ιον αυτου και προς εσξε κυριος και ειςηκουσε και ἔγραψε βιβλιον μνημος υνου ενωπιον αυτου τοις φοβουμ ενοις τον κυριον και ευλαβουμ ενοις το ονομα αυτου",
+      "english_translation": "and they opposed God, and were preserved. these things spoke The ones fearing the each to his neighbor. And the heeded, and hearkened, and wrote a scroll of memorial before him to the ones fearing the, and venerating his name.",
       "morphology": [
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.16"
         },
         {
-          "surface_form": "αντεστησαν",
-          "lemma": "αντεστησαν",
+          "surface_form": "κατελἄλησαν",
+          "lemma": "κατελἄλησαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.16"
         },
         {
-          "surface_form": "θεω",
-          "lemma": "θεω",
+          "surface_form": "οι",
+          "lemma": "οι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.16"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "φοβὅυμενοι",
+          "lemma": "φοβὅυμενοι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -3903,14 +3962,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:17",
       "greek_reference": "Μαλαχίας 3:17",
       "verse_anchor": "Mal.3.17",
-      "greek_text": "και ἔσονται μοι λεγει κυριος παντοκρ ατωρ εις ημἔραν ην εγὤ ποἴω εις περιπὅιησιν και αιρετἴω αυτο υς ον τροπον αιρετιζειἄνθρωπος τον υι ον αυτο υ",
-      "english_translation": "And they will be to me, says the almighty, in the day which I prepare for a procurement. And I will select them in which manner [2selects 1a man] his son",
+      "greek_text": "και ἔσονται μοι λεγει κυριος παντοκρ ατωρ εις ημἔραν ην εγὤ ποἴω εις περιπὅιησιν και αιρετἴω αυτους ον τροπον αιρετιζειἄνθρωπος τον υιον αυτου τον δουλευοντα αυτω",
+      "english_translation": "And they will be to me, says the almighty, in the day which I prepare for a procurement. And I will select them in which manner selects a man his son",
       "morphology": [
         {
           "surface_form": "και",
@@ -3986,42 +4047,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 3:18",
       "greek_reference": "Μαλαχίας 3:18",
       "verse_anchor": "Mal.3.18",
-      "greek_text": "τον δουλε υοντα αυτω και επιστραφ ησεσθε και ὅψεσθε αναμ εσον δικαιου και αδικου και αναμ εσον δουλε υοντος θεω και του μη δουλε υοντος αυτω",
+      "greek_text": "και επιστραφ ησεσθε και ὅψεσθε αναμ εσον δικαιου και αδικου και αναμ εσον δουλευοντος θεω και του μη δουλευοντος αυτω",
       "english_translation": "serving to him. Then shall you be turned, and you shall see between the righteous one and the wrongdoer; and between the one serving God and the one not serving to him. See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "τον",
-          "lemma": "τον",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.18"
         },
         {
-          "surface_form": "δουλε",
-          "lemma": "δουλε",
+          "surface_form": "επιστραφ",
+          "lemma": "επιστραφ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.18"
         },
         {
-          "surface_form": "υοντα",
-          "lemma": "υοντα",
+          "surface_form": "ησεσθε",
+          "lemma": "ησεσθε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.3.18"
         },
         {
-          "surface_form": "αυτω",
-          "lemma": "αυτω",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4069,26 +4132,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:1",
       "greek_reference": "Μαλαχίας 4:1",
       "verse_anchor": "Mal.4.1",
-      "greek_text": "δἴοτι ιδὅυ ημἔρα ἔρξεται καιομἔνη ως κλἴβανος και φλ εχει αυτο υς και ἔσονται παντες οι αλλογενἔις και πἄντες οι ποιὅυντες ἄνομα καλ αμη και αναψει αυτο υς η ημ ερα η ερξομἔνη λἔγει κὔριος δυνἄμεων και ου μη αλλοφυλοι",
-      "english_translation": "For behold, a day comes, burning as an oven; and it shall blaze against them. And [4will be 1all 2the 3foreigners], and all the ones doing lawless deeds, as stubble. And [4shall light 5them 1the 2day 3coming], says the of the forces. And in no way - Philistines.",
+      "greek_text": "δἴοτιιδὅυ ημἔρα ἔρξεται καιομἔνη ως κλἴβανος και φλ εχει αυτο υς και ἔσονται παντες οι αλλογενἔις και πἄντες οι ποιὅυντες ἄνομα καλ αμη και αναψει αυτουςη ημ εραη ερξομἔνη λἔγει κὔριος δυνἄμεων και ου μη υπολειφθη αυτων ριζα ουδε κλημα αλλοφυλοι Ξ Ι Σ",
+      "english_translation": "For behold, a day comes, burning as an oven; and it shall blaze against them. And will be all the foreigners, and all the ones doing lawless deeds, as stubble. And shall light them the day coming, says the of the forces. And in no way - Philistines.",
       "morphology": [
         {
-          "surface_form": "δἴοτι",
-          "lemma": "δἴοτι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.1"
-        },
-        {
-          "surface_form": "ιδὅυ",
-          "lemma": "ιδὅυ",
+          "surface_form": "δἴοτιιδὅυ",
+          "lemma": "δἴοτιιδὅυ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4105,6 +4162,14 @@
         {
           "surface_form": "ἔρξεται",
           "lemma": "ἔρξεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.4.1"
+        },
+        {
+          "surface_form": "καιομἔνη",
+          "lemma": "καιομἔνη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4152,42 +4217,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:2",
       "greek_reference": "Μαλαχίας 4:2",
       "verse_anchor": "Mal.4.2",
-      "greek_text": "υπολειφθ η αυτων ριζα ουδε κλημα και",
+      "greek_text": "και",
       "english_translation": "shall there be left of them root nor vine branch. And",
       "morphology": [
         {
-          "surface_form": "υπολειφθ",
-          "lemma": "υπολειφθ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.2"
-        },
-        {
-          "surface_form": "αυτων",
-          "lemma": "αυτων",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.2"
-        },
-        {
-          "surface_form": "ριζα",
-          "lemma": "ριζα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.2"
-        },
-        {
-          "surface_form": "ουδε",
-          "lemma": "ουδε",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4235,42 +4278,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:3",
       "greek_reference": "Μαλαχίας 4:3",
       "verse_anchor": "Mal.4.3",
-      "greek_text": "εκ δεσμὤν ανειμἔνα και καταπατ ησετε ανομους και ἔσονται σποδ ος υποκ ατω των ποδ ων υμ ων εν τη ημ ερα η εγω",
-      "english_translation": "[2from out of 3bonds 1having been spared]. And you shall trample the lawless ones, and they will be ashes underneath your feet in the day which I",
+      "greek_text": "και καταπατ ησετε ανομους και ἔσονται σποδ ος υποκ ατω των ποδ ων υμ ων εν τη ημ εραη εγω ποιω λεγει κυριος παντοκρ ατωρ",
+      "english_translation": "from out of bonds having been spared. And you shall trample the lawless ones, and they will be ashes underneath your feet in the day which I",
       "morphology": [
-        {
-          "surface_form": "εκ",
-          "lemma": "εκ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.3"
-        },
-        {
-          "surface_form": "δεσμὤν",
-          "lemma": "δεσμὤν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.3"
-        },
-        {
-          "surface_form": "ανειμἔνα",
-          "lemma": "ανειμἔνα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.4.3"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.4.3"
+        },
+        {
+          "surface_form": "καταπατ",
+          "lemma": "καταπατ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.4.3"
+        },
+        {
+          "surface_form": "ησετε",
+          "lemma": "ησετε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.4.3"
+        },
+        {
+          "surface_form": "ανομους",
+          "lemma": "ανομους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4318,42 +4363,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:4",
       "greek_reference": "Μαλαχίας 4:4",
       "verse_anchor": "Mal.4.4",
-      "greek_text": "ποιω λεγει κυριος παντοκρ ατωρ μνησθητε του νομου Μωυς η του δουλου μου καθ οτι ενετειλαμην αυτὤ εν Ξωρἤβ προς πἄντα τον Ισρἄηλ προστἄγματα και κριματα",
+      "greek_text": "μνησθητε του νομου Μωυςη του δουλου μου καθ οτι ενετειλ αμην αυτὤ εν Ξωρἤβ προς πἄντα τον Ισρἄηλ προστἄγματα και κριματα",
       "english_translation": "prepare, says the almighty. Remember the law of Moses my bondman! in so far as I gave charge to him in Horeb for all Israel – orders and judgments.",
       "morphology": [
         {
-          "surface_form": "ποιω",
-          "lemma": "ποιω",
+          "surface_form": "μνησθητε",
+          "lemma": "μνησθητε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.4"
         },
         {
-          "surface_form": "λεγει",
-          "lemma": "λεγει",
+          "surface_form": "του",
+          "lemma": "του",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.4"
         },
         {
-          "surface_form": "κυριος",
-          "lemma": "κυριος",
+          "surface_form": "νομου",
+          "lemma": "νομου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.4"
         },
         {
-          "surface_form": "παντοκρ",
-          "lemma": "παντοκρ",
+          "surface_form": "Μωυςη",
+          "lemma": "Μωυςη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4401,13 +4448,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:5",
       "greek_reference": "Μαλαχίας 4:5",
       "verse_anchor": "Mal.4.5",
-      "greek_text": "και ιδο υ εγω αποστελ ω υμ ιν Ηλ ιαν τον προφ ητην πριν ελθειν ημ εραν κυριου την Θεσβιτην",
+      "greek_text": "και ιδου εγω αποστελ ω υμ ιν Ηλ ιαν τον προφ ητην πριν ελθειν ημ εραν κυριου την μεγ αλην και επιφανη Θεσβιτην",
       "english_translation": "And behold, I will send to you Elijah the prophet before the coming day of the – the & Six. - Tishbite.",
       "morphology": [
         {
@@ -4419,8 +4468,8 @@
           "verse_anchor": "Mal.4.5"
         },
         {
-          "surface_form": "ιδο",
-          "lemma": "ιδο",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4484,42 +4533,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 4:6",
       "greek_reference": "Μαλαχίας 4:6",
       "verse_anchor": "Mal.4.6",
-      "greek_text": "μεγ αλην και επιφαν η ος αποκαταστ ησει καρδἴαν πατρὅς προς υἴον και καρδἴαν ανθρὤπου προς τον πλησἴον αυτὅυ μη ελθὤν πατἄχω την γην ἄρδην",
+      "greek_text": "ος αποκαταστ ησει καρδἴαν πατρὅς προς υἴον και καρδἴαν ανθρὤπου προς τον πλησἴον αυτὅυ μη ελθὤν πατἄχω την γην ἄρδην",
       "english_translation": "great and apparent; the one who shall restore the heart of the father to the son, and the heart of a man to his neighbor, lest coming I strike the earth entirely. See Lk. 1:17.",
       "morphology": [
         {
-          "surface_form": "μεγ",
-          "lemma": "μεγ",
+          "surface_form": "ος",
+          "lemma": "ος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.6"
         },
         {
-          "surface_form": "αλην",
-          "lemma": "αλην",
+          "surface_form": "αποκαταστ",
+          "lemma": "αποκαταστ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.6"
         },
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "ησει",
+          "lemma": "ησει",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.4.6"
         },
         {
-          "surface_form": "επιφαν",
-          "lemma": "επιφαν",
+          "surface_form": "καρδἴαν",
+          "lemma": "καρδἴαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4567,30 +4618,465 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 4:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
-      "reference": "Malachi 14:17",
-      "greek_reference": "Μαλαχίας 14:17",
-      "verse_anchor": "Mal.14.17",
-      "greek_text": "του εορτασαι την εορτην της σκηνοπηγ ιας και ἔσται ὅσοι ε αν μη αναβ ωσιν εκ πας ων των φυλὤν της γης εις Ιερουσαλἤμ του προσκυνἤσαι τω βασιλἔι κυρἴω παντοκρἄτορι και ὅυτοι εκεινοις προστεθ ησονται ουκ εσται επ' αυτο ις Ξ Ι Σ",
-      "english_translation": "to solemnize the holiday of the pitching of tents. And it will be as many as should not ascend from out of all the tribes of the earth unto Jerusalem to do obeisance to the king, to the almighty, and these things shall be added to those – there shall not be [2upon 3them — CP & Six. omit.",
+      "reference": "Malachi 14:5",
+      "greek_reference": "Μαλαχίας 14:5",
+      "verse_anchor": "Mal.14.5",
+      "greek_text": "ὅρους προς τον βορρἄν και το ἤμισυ αυτὅυ προς νὅτον και εμφραξθἤσεταιη κοιλἄς των ορεων μου και εγκολληθ ησεται φ αραγχ ορεων ἔως Ασα ηλ και εμφραξθ ησεται ον τρὅπον ενεφρἄγη απὅ προσὤπου του σεισμὅυ εν ταις ημ εραις Oζιου βασιλ εως Ιουδα και ἤχει κυριος ο θεος μου και παντες οι ἄγιοι μετ' αυτου",
+      "english_translation": "4mountain] towards the north, and the half of it towards the south. And shall be obstructed the valley of my mountains, and shall be joined together the ravine by mountains unto Azal. And it shall be obstructed in which manner it was obstructed from in front of the earthquake in the days of Uzziah king of Judah. And shall come the my God, and all the holy ones with him. See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "του",
-          "lemma": "του",
+          "surface_form": "ὅρους",
+          "lemma": "ὅρους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.17"
+          "verse_anchor": "Mal.14.5"
         },
         {
-          "surface_form": "εορτασαι",
-          "lemma": "εορτασαι",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.17"
+          "verse_anchor": "Mal.14.5"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.5"
+        },
+        {
+          "surface_form": "βορρἄν",
+          "lemma": "βορρἄν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:6",
+      "greek_reference": "Μαλαχίας 14:6",
+      "verse_anchor": "Mal.14.6",
+      "greek_text": "και ἔσται εν εκεινη τη ημ ερα ουκ εσται φως και ψυξος και παγος",
+      "english_translation": "And it will be in that day there shall not be See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.6"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.6"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.6"
+        },
+        {
+          "surface_form": "εκεινη",
+          "lemma": "εκεινη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:7",
+      "greek_reference": "Μαλαχίας 14:7",
+      "verse_anchor": "Mal.14.7",
+      "greek_text": "ἔσται μιαν ημ εραν καιη ημἔρα εκἔινη γνωσθἤσεται τω κυρἴω και ουτε ημ ερα ουτε νυχ και προς εσπ εραν ἔσται φως γνωστη εν αυτη και αναθεμα ουκ εσται ἔτι και κατοικησει Ιερουσαλ ημ πεποιθ οτως",
+      "english_translation": "light; but chilliness and ice. It shall be one day, and that day shall be known to the – and neither day nor night, and towards evening it shall be light. CP & Six. - is known. in it, and anathema it will not be any longer; and 2730-* Jerusalem shall dwell securely.",
+      "morphology": [
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.7"
+        },
+        {
+          "surface_form": "μιαν",
+          "lemma": "μιαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.7"
+        },
+        {
+          "surface_form": "ημ",
+          "lemma": "ημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.7"
+        },
+        {
+          "surface_form": "εραν",
+          "lemma": "εραν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:8",
+      "greek_reference": "Μαλαχίας 14:8",
+      "verse_anchor": "Mal.14.8",
+      "greek_text": "και ἔσται εν τη ημ ερα εκεινη εχελευσεται ὔδωρ ζων εχ Ιερουσαλἤμ το ἤμισυ αυτὅυ εις την θἄλασσαν την πρὤτην και το ἤμισυ αυτὅυ εις την θαλασσαν την εσξ ατην εν θερει και εν ἔαρι ουτως ἔσται",
+      "english_translation": "And it shall be in that day shall come forth water living from out of Jerusalem; the half of it into the sea foremost, and the half of it into the sea latter (in summer and in spring",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.8"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.8"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.8"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:9",
+      "greek_reference": "Μαλαχίας 14:9",
+      "verse_anchor": "Mal.14.9",
+      "greek_text": "και ἔσται κὔριος εις βασιλ εα επἴ πἄσαν την γην εν τη ημἔρα εκἔινη ἔσται κυριος εις και το ὅνομα αυτὅυ εν",
+      "english_translation": "thus it will be, and the will be for king over all the earth. In that day there shall be",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.9"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.9"
+        },
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.9"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:10",
+      "greek_reference": "Μαλαχίας 14:10",
+      "verse_anchor": "Mal.14.10",
+      "greek_text": "κυκλ ων πἄσαν την γην και την ἔρημον απὅ Γαβἄων ἔως Ρεμμὤν κατἄ νὅτον Ιερουσαλἤμ Ραμἄ δε επι τοπου μενει απ ο της πυλης Βενιαμ ιν ἔως του τοπου της πυλης της πρωτης και ἔως της πὔλης των γωνἴων και ἔως του πὔργου Αναμἔηλ ἔως των υπολην ιων του βασιλ εως",
+      "english_translation": "one, and his name one, encircling all the earth), and unto the wilderness from Geba *-1161 unto Rimmon according to the south of Jerusalem. And Rama in its place shall remain; from the gate of Benjamin unto the place of the gate first, and unto the gate of the corners, and unto the tower of Hananeel, unto",
+      "morphology": [
+        {
+          "surface_form": "κυκλ",
+          "lemma": "κυκλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.10"
+        },
+        {
+          "surface_form": "ων",
+          "lemma": "ων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.10"
+        },
+        {
+          "surface_form": "πἄσαν",
+          "lemma": "πἄσαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.10"
         },
         {
           "surface_form": "την",
@@ -4598,11 +5084,582 @@
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:11",
+      "greek_reference": "Μαλαχίας 14:11",
+      "verse_anchor": "Mal.14.11",
+      "greek_text": "και κατοικησουσιν",
+      "english_translation": "the wine-vats of the king. And they shall dwell",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.11"
+        },
+        {
+          "surface_form": "κατοικησουσιν",
+          "lemma": "κατοικησουσιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:12",
+      "greek_reference": "Μαλαχίας 14:12",
+      "verse_anchor": "Mal.14.12",
+      "greek_text": "και αυτη ἔσταιη πτωσιςη κοψει κυριος παντας τους λαο υς ὅσοι επεστρἄτευσαν επἴ Ιερουσαλἤμ τακἤσονται αι ςαρκες αυτων εστηκ οτων επι των ποδ ων αυτων και οι οφθαλμο ι αυτων ρυησονται εκ των οπὤν αυτὤν καιη γλὤσσα αυτὤν τακἤσεται εν τω στοματι αυτων εκρυησονται",
+      "english_translation": "And this will be the downfall in which the shall smite all the peoples, as many as marched against Jerusalem – shall melt away Their flesh while having stood upon their feet, and their eyes shall flow from out of their openings, and their tongue shall melt away - ﬂowing away.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.12"
+        },
+        {
+          "surface_form": "αυτη",
+          "lemma": "αυτη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.12"
+        },
+        {
+          "surface_form": "ἔσταιη",
+          "lemma": "ἔσταιη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.12"
+        },
+        {
+          "surface_form": "πτωσιςη",
+          "lemma": "πτωσιςη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:13",
+      "greek_reference": "Μαλαχίας 14:13",
+      "verse_anchor": "Mal.14.13",
+      "greek_text": "και ἔσται εν τη ημἔρα εκἔινη ἔκστασις κυρἴου μεγἄλη επ' αυτο υς και επιληψονται ἔκαστος της ξειρος του πλης ιον αυτου και συμπλακ ησεταιη ξειρ αυτου προς την ξειρα του πλης ιον αυτου",
+      "english_translation": "in their mouth. And there will be in that day astonishment from the a great upon them; and they shall take hold each the hand of his neighbor, and shall closely join his hand to the",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.13"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.13"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.13"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:14",
+      "greek_reference": "Μαλαχίας 14:14",
+      "verse_anchor": "Mal.14.14",
+      "greek_text": "και Ιουδας παρατ αχεται εν Ιερουσαλἤμ και συνἄχει την ισξὔν πἄντων των λαων κυκλ οθεν ξρυς ιον και αργ υριον και ιματισμ ον εις πλ ηθος σφ οδρα",
+      "english_translation": "hand of his neighbor. And Judah shall deploy in Jerusalem; and shall bring together the strength of all the peoples round about – gold, and silver, and clothes",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.14"
+        },
+        {
+          "surface_form": "Ιουδας",
+          "lemma": "Ιουδας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.14"
+        },
+        {
+          "surface_form": "παρατ",
+          "lemma": "παρατ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.14"
+        },
+        {
+          "surface_form": "αχεται",
+          "lemma": "αχεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:15",
+      "greek_reference": "Μαλαχίας 14:15",
+      "verse_anchor": "Mal.14.15",
+      "greek_text": "και αυτη ἔσταιη πτωσις των ἴππων και των ημιονων και των καμ ηλων και των ὅνων και παντων των κτην ων των ὅντων εν ταις παρεμβολα ις εκειναιςκατα την πτωσιν ταυτην",
+      "english_translation": "into abundance exceedingly. And this will be the downfall of the horses, and the mules, and the camels, and the donkeys, and of all the cattle being in those camps, according to this downfall.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.15"
+        },
+        {
+          "surface_form": "αυτη",
+          "lemma": "αυτη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.15"
+        },
+        {
+          "surface_form": "ἔσταιη",
+          "lemma": "ἔσταιη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.15"
+        },
+        {
+          "surface_form": "πτωσις",
+          "lemma": "πτωσις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:16",
+      "greek_reference": "Μαλαχίας 14:16",
+      "verse_anchor": "Mal.14.16",
+      "greek_text": "και ἔσται ὅσοι αν καταλειφθὤσιν εκ παντων των εθνων των ελθοντων επι Ιερουσαλ ημ και αναβ ησονται κατ' ενιαυτον του προσκυν ησαι τω βασιλε ικυριω παντοκρ ατορι και απελθοντων Μ Λ του εορτασαι την εορτην της σκηνοπηγ ιας",
+      "english_translation": "And it will be as many as should be left from out of all of the nations coming against Jerusalem, that they shall ascend by year to do obeisance to the king, to the almighty, and - going forth.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.16"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.16"
+        },
+        {
+          "surface_form": "ὅσοι",
+          "lemma": "ὅσοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.16"
+        },
+        {
+          "surface_form": "αν",
+          "lemma": "αν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Malachi 14:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
+    },
+    {
+      "reference": "Malachi 14:17",
+      "greek_reference": "Μαλαχίας 14:17",
+      "verse_anchor": "Mal.14.17",
+      "greek_text": "και ἔσται ὅσοι εαν μη αναβ ωσιν εκ πας ων των φυλὤν της γης εις Ιερουσαλἤμ του προσκυνἤσαι τω βασιλἔι κυρἴω παντοκρἄτορι και ὅυτοι εκεινοις προστεθ ησονται ουκ εσται επ' αυτο ις υετος",
+      "english_translation": "to solemnize the holiday of the pitching of tents. And it will be as many as should not ascend from out of all the tribes of the earth unto Jerusalem to do obeisance to the king, to the almighty, and these things shall be added to those – there shall not be [2upon 3them — CP & Six. omit.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.14.17"
         },
         {
-          "surface_form": "εορτην",
-          "lemma": "εορτην",
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.17"
+        },
+        {
+          "surface_form": "ὅσοι",
+          "lemma": "ὅσοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.17"
+        },
+        {
+          "surface_form": "εαν",
+          "lemma": "εαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4650,23 +5707,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 14:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 14:18",
       "greek_reference": "Μαλαχίας 14:18",
       "verse_anchor": "Mal.14.18",
-      "greek_text": "υετος ἔαν δε φυλἤ Αιγὔπτου μη αναβἤ μηδ ε ἔλθη και επι τουτους ἔσται η πτωσις η πατἄχει κὔριος πἄντα τα ἔθνη ὅσα αν μη αναβ η του εορτασαι την εορτην της σκηνοπηγ ιας",
+      "greek_text": "ἔαν δε φυλἤ Αιγὔπτου μη αναβἤ μηδ ε ἔλθη και επι τουτους ἔσταιη πτωσιςη πατἄχει κὔριος πἄντα τα ἔθνη ὅσα αν μη αναβη του εορτασαι την εορτην της σκηνοπηγ ιας",
       "english_translation": "1rain]. And if the tribe of Egypt should not ascend, nor come, then upon these will be the downfall which the struck all the nations, as many as should not ascend to solemnize the holiday of the pitching of tents.",
       "morphology": [
-        {
-          "surface_form": "υετος",
-          "lemma": "υετος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.18"
-        },
         {
           "surface_form": "ἔαν",
           "lemma": "ἔαν",
@@ -4686,6 +5737,14 @@
         {
           "surface_form": "φυλἤ",
           "lemma": "φυλἤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.18"
+        },
+        {
+          "surface_form": "Αιγὔπτου",
+          "lemma": "Αιγὔπτου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4733,13 +5792,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 14:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 14:19",
       "greek_reference": "Μαλαχίας 14:19",
       "verse_anchor": "Mal.14.19",
-      "greek_text": "ἄυτη ἔσται η αμαρτἴα Αιγὔπτου και η αμαρτἴα παντων των εθνων ος αν μη αναβ η εορτασαι",
+      "greek_text": "ἄυτη ἔσταιη αμαρτἴα Αιγὔπτου καιη αμαρτἴα παντων των εθνων ος αν μη αναβη εορτασαι την εορτἤν της σκηνοπηγἴας",
       "english_translation": "This will be the sin of Egypt, and the sin of all the nations, which ever should not ascend to solemnize See Bos for variants.",
       "morphology": [
         {
@@ -4751,8 +5812,8 @@
           "verse_anchor": "Mal.14.19"
         },
         {
-          "surface_form": "ἔσται",
-          "lemma": "ἔσται",
+          "surface_form": "ἔσταιη",
+          "lemma": "ἔσταιη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4816,42 +5877,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 14:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 14:20",
       "greek_reference": "Μαλαχίας 14:20",
       "verse_anchor": "Mal.14.20",
-      "greek_text": "την εορτἤν της σκηνοπηγἴας εν τη ημἔρα εκἔινη ἔσται το επι τον ξαλιν ον του ἴππου ἄγιον τω κυριω παντοκρ ατορι και ἔσονται οι λεβητες εν τω οικω κυριου ως φιαλαι προ προς ωπου",
-      "english_translation": "the holiday of the pitching of tents. In that day there will be upon the bridle of the horse, Holy to the Almighty. And [7will be 1the 2kettles 3in 4the 5house of the] as bowls before the face",
+      "greek_text": "εν τη ημἔρα εκἔινη ἔσται το επι τον ξαλινον του ἴππου ἄγιον τω κυριω παντοκρ ατορι και ἔσονται οι λεβητες εν τω οικω κυριου ως φιαλαι προ προς ωπου του θυσιαστηρ ιου",
+      "english_translation": "the holiday of the pitching of tents. In that day there will be upon the bridle of the horse, Holy to the Almighty. And will be the kettles in the house of the as bowls before the face",
       "morphology": [
         {
-          "surface_form": "την",
-          "lemma": "την",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.14.20"
         },
         {
-          "surface_form": "εορτἤν",
-          "lemma": "εορτἤν",
+          "surface_form": "τη",
+          "lemma": "τη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.14.20"
         },
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "ημἔρα",
+          "lemma": "ημἔρα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
           "verse_anchor": "Mal.14.20"
         },
         {
-          "surface_form": "σκηνοπηγἴας",
-          "lemma": "σκηνοπηγἴας",
+          "surface_form": "εκἔινη",
+          "lemma": "εκἔινη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4899,42 +5962,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 14:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Malachi 14:21",
       "greek_reference": "Μαλαχίας 14:21",
       "verse_anchor": "Mal.14.21",
-      "greek_text": "του θυσιαστηρ ιου και ἔσται πας λεβης εν Ιερουσαλ ημ και εν τω Ιο υδα ἄγιος τω κυριω παντοκρ ατορι και ἤχουσιν παντες οι θυσιαζοντες και λἤψονται εχ αυτὤν και εψἤσουσιν εν αυτὅις και ουκ εσται ἔτι Ξανανα ιος εν τω οικω κυρἴου των δυνἄμεων εν τη ημἔρα εκἔινη παντοκρατορος",
-      "english_translation": "of the altar. And it will be every kettle in Jerusalem, and in Judah, holy to the almighty. And [4shall come 1all 2the ones 3sacrificing] and shall take from out of them, and shall cook with them. And there will not be any longer the Canaanite in the house of the of the forces in that day. CP & Six. - almighty.",
+      "greek_text": "και ἔσται πας λεβης εν Ιερουσαλ ημ και εν τω Ιουδα ἄγιος τω κυριω παντοκρ ατορι και ἤχουσιν παντες οι θυσιαζοντες και λἤψονται εχ αυτὤν και εψἤσουσιν εν αυτὅις και ουκ εσται ἔτι Ξανανα ιος εν τω οικω κυρἴου των δυνἄμεων εν τη ημἔρα εκἔινη παντοκρατορος Ξ Ι Σ",
+      "english_translation": "of the altar. And it will be every kettle in Jerusalem, and in Judah, holy to the almighty. And shall come all the ones sacrificing and shall take from out of them, and shall cook with them. And there will not be any longer the Canaanite in the house of the of the forces in that day. CP & Six. - almighty.",
       "morphology": [
-        {
-          "surface_form": "του",
-          "lemma": "του",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.21"
-        },
-        {
-          "surface_form": "θυσιαστηρ",
-          "lemma": "θυσιαστηρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.21"
-        },
-        {
-          "surface_form": "ιου",
-          "lemma": "ιου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/malachi.json",
-          "verse_anchor": "Mal.14.21"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.21"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.21"
+        },
+        {
+          "surface_form": "πας",
+          "lemma": "πας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/malachi.json",
+          "verse_anchor": "Mal.14.21"
+        },
+        {
+          "surface_form": "λεβης",
+          "lemma": "λεβης",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/malachi.json",
@@ -4982,7 +6047,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Malachi 14:21) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     }
   ]
 }

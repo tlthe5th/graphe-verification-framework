@@ -194,3 +194,33 @@ def test_flask_api_verify_route(client, schema_validator: Draft202012Validator) 
     assert bad_resp.status_code == 400
     bad_data = bad_resp.get_json()
     assert bad_data["overall_verdict"] == "FAIL"
+
+
+def test_bulk_default_criteria_is_not_pass() -> None:
+    """Ensure build_full_corpus default criteria status is not blindly PASS."""
+    from build_full_corpus import build_default_criteria
+
+    evals = build_default_criteria("John 1:1")
+    assert len(evals) == 10
+    assert all(v["status"] != "PASS" for v in evals.values())
+
+
+def test_logos_gloss_and_bracket_cleanup() -> None:
+    """Ensure ABP reordering brackets are stripped and logos uses 'λόγος (logic/reason)'."""
+    from extract_abp_nt_clean import clean_english_gloss, format_logos_gloss
+
+    cleaned = clean_english_gloss("[4God 3was 1the 2word].")
+    assert "[" not in cleaned and "]" not in cleaned
+    assert cleaned == "God was the word."
+
+    formatted = format_logos_gloss("ἐν ἀρχῇ ἦν ὁ λόγος", "In beginning was the word")
+    assert "λόγος (logic/reason)" in formatted
+
+
+def test_unverified_criteria_do_not_pass() -> None:
+    """Ensure UNVERIFIED criteria evaluations are not treated as PASS."""
+    from build_full_corpus import build_default_criteria
+
+    evals = build_default_criteria("John 3:16")
+    assert all(v["status"] == "UNVERIFIED" for v in evals.values())
+    assert any(v["status"] == "PASS" for v in evals.values()) is False

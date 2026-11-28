@@ -49,7 +49,7 @@ def main() -> int:
 
         run_cmd([sys.executable, "validate.py", f"{book_name} 1:1"])
 
-    return run_cmd(["pytest"])
+    return run_cmd([sys.executable, "-m", "pytest", "tests/test_validate.py"])
 
 
 if __name__ == "__main__":

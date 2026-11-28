@@ -8,7 +8,7 @@
       "reference": "Habakkuk 1:1",
       "greek_reference": "Ἀμβακούμ 1:1",
       "verse_anchor": "Hab.1.1",
-      "greek_text": "το λημμα ο ε ιδεν Αμβακο υκ ο",
+      "greek_text": "το λημμα ο ειδεν Αμβακο υκ ο προφἤτης",
       "english_translation": "The concern which [4saw 1Habakkuk 2the",
       "morphology": [
         {
@@ -28,8 +28,8 @@
           "verse_anchor": "Hab.1.1"
         },
         {
-          "surface_form": "ιδεν",
-          "lemma": "ιδεν",
+          "surface_form": "ειδεν",
+          "lemma": "ειδεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -85,23 +85,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:2",
       "greek_reference": "Ἀμβακούμ 1:2",
       "verse_anchor": "Hab.1.2",
-      "greek_text": "προφἤτης ἔως πὅτε κὔριε κεκρἄχομαι και ου μη εισακο υσης βοησομαι προς σε αδικὅυμενος και ου σὤσης",
+      "greek_text": "ἔως πὅτε κὔριε κεκρἄχομαι και ου μη εισακο υσης βοησομαι προς σε αδικὅυμενος και ου σὤσης",
       "english_translation": "3prophet]. For how long, O, I shall have cried out, and in no way should you listen? For how long shall I yell to you being wronged, and you should not deliver?",
       "morphology": [
-        {
-          "surface_form": "προφἤτης",
-          "lemma": "προφἤτης",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.2"
-        },
         {
           "surface_form": "ἔως",
           "lemma": "ἔως",
@@ -121,6 +115,14 @@
         {
           "surface_form": "κὔριε",
           "lemma": "κὔριε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.2"
+        },
+        {
+          "surface_form": "κεκρἄχομαι",
+          "lemma": "κεκρἄχομαι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -168,14 +170,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:3",
       "greek_reference": "Ἀμβακούμ 1:3",
       "verse_anchor": "Hab.1.3",
       "greek_text": "ινατι ἔδειχἄς μοι πονους και κοπους επιβλἔπειν ταλαιπωρἴαν και ασἔβειαν εχεναντἴας μου γεγονε κρισις και ο κριτης λαμβ ανει",
-      "english_translation": "Why did you show to me toils and troubles, to look upon misery and impiety? Right opposite me [2has taken place 1judgment], and the judge receives bribes.",
+      "english_translation": "Why did you show to me toils and troubles, to look upon misery and impiety? Right opposite me has taken place judgment, and the judge receives bribes.",
       "morphology": [
         {
           "surface_form": "ινατι",
@@ -251,14 +255,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:4",
       "greek_reference": "Ἀμβακούμ 1:4",
       "verse_anchor": "Hab.1.4",
-      "greek_text": "δἴα τὅυτο διεσκἔδασται νὅμος και ου διεχ αγεται εις τ ελος κριμα ὅτι ασεβἤς καταδυναστἔυει τον δἴκαιον ἔνεκεν τὅυτου εχελἔυσεται το κρἴμα διεστραμμἔνον",
-      "english_translation": "On account of this [2has been effaced the law], and [2 is not 3administered 4unto the end 1judgment]. For the impious one tyrannizes over the righteous one; because of this [2shall go forth 1judgment] having been perverted.",
+      "greek_text": "δἴα τὅυτο διεσκἔδασται νὅμος και ου διεχ αγεται εις τελος κριμα ὅτι ασεβἤς καταδυναστἔυει τον δἴκαιον ἔνεκεν τὅυτου εχελἔυσεται το κρἴμα διεστραμμἔνον",
+      "english_translation": "On account of this has been effaced the law, and is not administered unto the end judgment. For the impious one tyrannizes over the righteous one; because of this shall go forth judgment having been perverted.",
       "morphology": [
         {
           "surface_form": "δἴα",
@@ -334,14 +340,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:5",
       "greek_reference": "Ἀμβακούμ 1:5",
       "verse_anchor": "Hab.1.5",
-      "greek_text": "ἴδετε οι καταφρονητα ι και επιβλ εψατε και θαυμἄσατε θαυμἄσια και αφανἴσθητε δἴοτι ἔργον εγω εργαζομαι εν ταις ημ εραις υμ ων ο ου μη πιστε υσητε ε αν τις εκδιηγ ηται",
-      "english_translation": "Behold, O despisers, and look, and wonder wonders, and vanish! for [3a work 1I 2work] in your days, which in no way should you believe if any should tell to you in detail. See Acts 13:41.",
+      "greek_text": "ἴδετε οι καταφρονητα ι και επιβλ εψατε και θαυμἄσατε θαυμἄσια και αφανἴσθητε δἴοτι ἔργον εγω εργαζομαι εν ταις ημ εραις υμ ων ο ου μη πιστευσητε εαν τις εκδιηγηται",
+      "english_translation": "Behold, O despisers, and look, and wonder wonders, and vanish! for a work I work in your days, which in no way should you believe if any should tell to you in detail. See Acts 13:41.",
       "morphology": [
         {
           "surface_form": "ἴδετε",
@@ -417,14 +425,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:6",
       "greek_reference": "Ἀμβακούμ 1:6",
       "verse_anchor": "Hab.1.6",
-      "greek_text": "δι οτι ιδο υ εγω εχεγειρω τους Ξαλδα ιους το ἔθνος το πικρὅν και το ταξινὅν το πορεὔομενον επἴ τα πλ ατη της γης του κατακληρονομ ησαι σκην ωματα",
-      "english_translation": "For behold, I awaken the Chaldeans, the [4nation 1bitter 2and 3quick]; the one going upon the widths of the earth, to inherit tents",
+      "greek_text": "δι οτι ιδου εγω εχεγειρω τους Ξαλδα ιους το ἔθνος το πικρὅν και το ταξινὅν το πορεὔομενον επἴ τα πλ ατη της γης του κατακληρονομ ησαι σκην ωματα ουκ αυτὅυ",
+      "english_translation": "For behold, I awaken the Chaldeans, the nation bitter and quick; the one going upon the widths of the earth, to inherit tents",
       "morphology": [
         {
           "surface_form": "δι",
@@ -443,8 +453,8 @@
           "verse_anchor": "Hab.1.6"
         },
         {
-          "surface_form": "ιδο",
-          "lemma": "ιδο",
+          "surface_form": "ιδου",
+          "lemma": "ιδου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -500,31 +510,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:7",
       "greek_reference": "Ἀμβακούμ 1:7",
       "verse_anchor": "Hab.1.7",
-      "greek_text": "ουκ αυτὅυ φοβερὅς και επιφανἤς εστιν εχ αυτο υ το κριμα αυτο υ ἔσται και το λημμα αυτο υ",
-      "english_translation": "not his. [2fearful 3and 4apparent 1He is]; [3from 4himself 1his judgment 2will be], and his concern",
+      "greek_text": "φοβερὅς και επιφανἤς εστιν εχ αυτου το κριμα αυτου ἔσται και το λημμα αυτου εχ αυτου εχελευσεται",
+      "english_translation": "not his. fearful and apparent He is; from himself his judgment will be, and his concern",
       "morphology": [
-        {
-          "surface_form": "ουκ",
-          "lemma": "ουκ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.7"
-        },
-        {
-          "surface_form": "αυτὅυ",
-          "lemma": "αυτὅυ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.7"
-        },
         {
           "surface_form": "φοβερὅς",
           "lemma": "φοβερὅς",
@@ -536,6 +532,22 @@
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        },
+        {
+          "surface_form": "επιφανἤς",
+          "lemma": "επιφανἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        },
+        {
+          "surface_form": "εστιν",
+          "lemma": "εστιν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -583,42 +595,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:8",
       "greek_reference": "Ἀμβακούμ 1:8",
       "verse_anchor": "Hab.1.8",
-      "greek_text": "εχ αυτο υ εχελευσεται και εχαλο υνται υπἔρ παρδἄλεις οι ἴπποι αυτὅυ και οχὔτεροι",
-      "english_translation": "from himself shall come forth. And [2shall leap 3more than 4leopards 1his horses], and are sharper",
+      "greek_text": "και εχαλουνται υπἔρ παρδἄλεις οι ἴπποι αυτὅυ και οχὔτεροι",
+      "english_translation": "from himself shall come forth. And shall leap more than leopards his horses, and are sharper",
       "morphology": [
-        {
-          "surface_form": "εχ",
-          "lemma": "εχ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.8"
-        },
-        {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.8"
-        },
-        {
-          "surface_form": "εχελευσεται",
-          "lemma": "εχελευσεται",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.8"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "εχαλουνται",
+          "lemma": "εχαλουνται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "υπἔρ",
+          "lemma": "υπἔρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "παρδἄλεις",
+          "lemma": "παρδἄλεις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -666,14 +680,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:9",
       "greek_reference": "Ἀμβακούμ 1:9",
       "verse_anchor": "Hab.1.9",
-      "greek_text": "υπἔρ τους λὔκους της Αραβἴας και εχιππἄσονται οι ιππε ις αυτο υ και ορμ ησουσι μακρ οθεν και πετασθ ησονται ως αετος προθυμος εις το φαγε ιν συντ ελεια εις ασεβε ις ἤχει ανθεστηκ οτας προς ωποις αυτων εχεναντιας",
-      "english_translation": "than the wolves of Arabia. And [2shall ride forth 1his horsemen], and shall advance far off, and shall spread out as an eagle eager for something to eat. Consumption [2unto the impious ones 1shall come] having opposed their fronts right opposite,",
+      "greek_text": "υπἔρ τους λὔκους της Αραβἴας και εχιππἄσονται οι ιππεις αυτου και ορμ ησουσι μακρ οθεν και πετασθ ησονται ως αετος προθυμος εις το φαγε ιν συντ ελεια εις ασεβε ις ἤχει ανθεστηκ οτας προς ωποις αυτων εχεναντιας και συν αχει ως ἄμμον αιξμαλως ιαν",
+      "english_translation": "than the wolves of Arabia. And shall ride forth his horsemen, and shall advance far off, and shall spread out as an eagle eager for something to eat. Consumption unto the impious ones shall come having opposed their fronts right opposite,",
       "morphology": [
         {
           "surface_form": "υπἔρ",
@@ -749,14 +765,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:10",
       "greek_reference": "Ἀμβακούμ 1:10",
       "verse_anchor": "Hab.1.10",
-      "greek_text": "και συν αχει ως ἄμμον αιξμαλως ιαν και αυτος εν βασιλε υσιν εντρυφ ησει και τ υραννοι πἄιγνια αυτὅυ και αυτὅς εις παν οξὔρωμα εμπἄιχεται και βαλε ι ξωμα και κρατ ησει",
-      "english_translation": "and he shall gather [2as the sand the captivity]. And he [2among 3kings 1shall revel], and sovereigns are his playthings. And he [2at 3every 4fortress 1shall mock], and shall throw up an embankment, and shall prevail over",
+      "greek_text": "και αυτος εν βασιλε υσιν εντρυφ ησει και τυραννοι πἄιγνια αυτὅυ και αυτὅς εις παν οξὔρωμα εμπἄιχεται και βαλε ι ξωμα και κρατ ησει αυτου",
+      "english_translation": "and he shall gather as the sand the captivity. And he among kings shall revel, and sovereigns are his playthings. And he at every fortress shall mock, and shall throw up an embankment, and shall prevail over",
       "morphology": [
         {
           "surface_form": "και",
@@ -767,24 +785,24 @@
           "verse_anchor": "Hab.1.10"
         },
         {
-          "surface_form": "συν",
-          "lemma": "συν",
+          "surface_form": "αυτος",
+          "lemma": "αυτος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.10"
         },
         {
-          "surface_form": "αχει",
-          "lemma": "αχει",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.10"
         },
         {
-          "surface_form": "ως",
-          "lemma": "ως",
+          "surface_form": "βασιλε",
+          "lemma": "βασιλε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -832,26 +850,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:11",
       "greek_reference": "Ἀμβακούμ 1:11",
       "verse_anchor": "Hab.1.11",
-      "greek_text": "αυτο υ τ οτε μεταβαλε ι το πνευμα και διελευσεται και εχιλἄσεται ἄυτη η ισξὔς τω",
+      "greek_text": "τοτε μεταβαλε ι το πνευμα και διελε υσεται και εχιλἄσεται ἄυτηη ισξὔς τω θεω μου",
       "english_translation": "it. Then he shall turn the spirit, and shall go through, and shall make atonement, saying, This strength is to See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.11"
-        },
-        {
-          "surface_form": "οτε",
-          "lemma": "οτε",
+          "surface_form": "τοτε",
+          "lemma": "τοτε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -868,6 +880,14 @@
         {
           "surface_form": "το",
           "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.11"
+        },
+        {
+          "surface_form": "πνευμα",
+          "lemma": "πνευμα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -915,31 +935,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:12",
       "greek_reference": "Ἀμβακούμ 1:12",
       "verse_anchor": "Hab.1.12",
-      "greek_text": "θεω μου ουξι συ απ' αρξ ης κυριε ο θἔος μου ο αγἴος μου ου μη αποθἄνωμεν κὔριε εις κρἴμα τἔταξας αυτὅν και ἔπλασἔ",
+      "greek_text": "ουξι συ απ' αρξ ης κυριε ο θἔος μου ο αγἴος μου ου μη αποθἄνωμεν κὔριε εις κρἴμα τἔταξας αυτὅν και ἔπλασἔ με του ελεγξειν παιδειαν αυτου",
       "english_translation": "my god. Are you not from the beginning, O my God, my holy one? In no way should we die. O, for judgment – you have ordered it. And he shaped",
       "morphology": [
-        {
-          "surface_form": "θεω",
-          "lemma": "θεω",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.12"
-        },
-        {
-          "surface_form": "μου",
-          "lemma": "μου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.12"
-        },
         {
           "surface_form": "ουξι",
           "lemma": "ουξι",
@@ -951,6 +957,22 @@
         {
           "surface_form": "συ",
           "lemma": "συ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        },
+        {
+          "surface_form": "απ",
+          "lemma": "απ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        },
+        {
+          "surface_form": "αρξ",
+          "lemma": "αρξ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -998,18 +1020,36 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:13",
       "greek_reference": "Ἀμβακούμ 1:13",
       "verse_anchor": "Hab.1.13",
-      "greek_text": "με του ελεγξειν παιδε ιαν αυτο υ καθαρ ος ο οφθαλμὅς του μη ορἄν πονηρἄ και επιβλἔπειν επι πονηρο υς ου δυνηση ινατι επιβλ επεις επἴ καταφρονὅυντας παρασιωπἤση εν τω θὔσει τη σαγἤνη αυτὅυ και θυμἴασει τω αμφιβλἤστρω αυτὅυ ὅτι εν αυτὅις ελἴπανε μερἴδα αυτὅυ",
-      "english_translation": "me to reprove for his discipline. Pure is the eye to not see evil things, and [2to look 3upon 4evils 1you are not able]. Why should you look upon ones disdaining? Shall you remain silent in the See Bos for variants. he will sacrifice to his dragnet, and burn incense to his casting-net; for by them he fattened his portion,",
+      "greek_text": "καθαρ ος ο οφθαλμὅς του μη ορἄν πονηρἄ και επιβλἔπειν επι πονηρο υς ου δυνηση ινατι επιβλ επεις επἴ καταφρονὅυντας παρασιωπἤση εν τω καταπ ινειν ασεβη τον δικαιον θὔσει τη σαγἤνη αυτὅυ και θυμἴασει τω αμφιβλἤστρω αυτὅυ ὅτι εν αυτὅις ελἴπανε μερἴδα αυτὅυ και τα βρωματα αυτου εκλεκτα",
+      "english_translation": "me to reprove for his discipline. Pure is the eye to not see evil things, and to look upon evils you are not able. Why should you look upon ones disdaining? Shall you remain silent in the See Bos for variants. he will sacrifice to his dragnet, and burn incense to his casting-net; for by them he fattened his portion,",
       "morphology": [
         {
-          "surface_form": "με",
-          "lemma": "με",
+          "surface_form": "καθαρ",
+          "lemma": "καθαρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        },
+        {
+          "surface_form": "ος",
+          "lemma": "ος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        },
+        {
+          "surface_form": "οφθαλμὅς",
+          "lemma": "οφθαλμὅς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1018,22 +1058,6 @@
         {
           "surface_form": "του",
           "lemma": "του",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.13"
-        },
-        {
-          "surface_form": "ελεγξειν",
-          "lemma": "ελεγξειν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.13"
-        },
-        {
-          "surface_form": "παιδε",
-          "lemma": "παιδε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1081,42 +1105,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:14",
       "greek_reference": "Ἀμβακούμ 1:14",
       "verse_anchor": "Hab.1.14",
-      "greek_text": "καταπ ινειν ασεβ η τον δικαιον και ποἴησεις τους ανθρὤπους ως τους ιξθὔας της θαλ ασσης και ως τα ερπετα ουκ ἔξοντα ηγο υμενον",
-      "english_translation": "[2swallowing down 1impious one] the righteous one? And will you make the men as the fishes of the sea, and as the reptiles not having one taking the lead?",
+      "greek_text": "και ποἴησεις τους ανθρὤπους ως τους ιξθὔας της θαλ ασσης και ως τα ερπετα ουκ ἔξοντα ηγο υμενον",
+      "english_translation": "swallowing down impious one the righteous one? And will you make the men as the fishes of the sea, and as the reptiles not having one taking the lead?",
       "morphology": [
         {
-          "surface_form": "καταπ",
-          "lemma": "καταπ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.14"
         },
         {
-          "surface_form": "ινειν",
-          "lemma": "ινειν",
+          "surface_form": "ποἴησεις",
+          "lemma": "ποἴησεις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.14"
         },
         {
-          "surface_form": "ασεβ",
-          "lemma": "ασεβ",
+          "surface_form": "τους",
+          "lemma": "τους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.14"
         },
         {
-          "surface_form": "τον",
-          "lemma": "τον",
+          "surface_form": "ανθρὤπους",
+          "lemma": "ανθρὤπους",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1164,14 +1190,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:15",
       "greek_reference": "Ἀμβακούμ 1:15",
       "verse_anchor": "Hab.1.15",
-      "greek_text": "συντ ελειαν εν αγκ ιστρω ανεσπασε και ἔιλκυσεν αυτὅν εν αμφιβλἤστρω αυτὅυ και συνἤγαγεν αυτον εν ταις σαγ ηναις αυτο υ ἔνεκεν τουτου",
-      "english_translation": "[2consumption 3with 4a hook 1He pulled up], and drew it with his casting-net, and gathered it in his dragnets. Because of this",
+      "greek_text": "συντ ελειαν εν αγκ ιστρω ανεσπασε και ἔιλκυσεν αυτὅν εν αμφιβλἤστρω αυτὅυ και συνἤγαγεν αυτον εν ταις σαγ ηναις αυτου ἔνεκεν τουτου ευφρανθ ησεται και ξαρ ησεται",
+      "english_translation": "consumption with a hook He pulled up, and drew it with his casting-net, and gathered it in his dragnets. Because of this",
       "morphology": [
         {
           "surface_form": "συντ",
@@ -1247,42 +1275,28 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:16",
       "greek_reference": "Ἀμβακούμ 1:16",
       "verse_anchor": "Hab.1.16",
-      "greek_text": "ευφρανθ ησεται και ξαρ ησεται ἔνεκεν τουτου",
+      "greek_text": "ἔνεκεν τουτου",
       "english_translation": "he shall be glad and shall rejoice. Because of this",
       "morphology": [
         {
-          "surface_form": "ευφρανθ",
-          "lemma": "ευφρανθ",
+          "surface_form": "ἔνεκεν",
+          "lemma": "ἔνεκεν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.16"
         },
         {
-          "surface_form": "ησεται",
-          "lemma": "ησεται",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.16"
-        },
-        {
-          "surface_form": "και",
-          "lemma": "και",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.1.16"
-        },
-        {
-          "surface_form": "ξαρ",
-          "lemma": "ξαρ",
+          "surface_form": "τουτου",
+          "lemma": "τουτου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1330,42 +1344,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 1:17",
       "greek_reference": "Ἀμβακούμ 1:17",
       "verse_anchor": "Hab.1.17",
-      "greek_text": "και τα βρωματα αυτο υ εκλεκτ α δι α τουτο αμφιβαλε ι αμφ ιβληστρον αυτο υ και διαπαντ ος αποκτε ινειν ἔθνη ου φεισεται",
-      "english_translation": "even [3foods 1his 2choice]. On account of this he will cast his casting-net, and always to kill nations – not sparing? See Bos for variants.",
+      "greek_text": "δι α τουτο αμφιβαλε ι αμφ ιβληστρον αυτου και διαπαντ ος αποκτε ινειν ἔθνη ου φεισεται",
+      "english_translation": "even foods his choice. On account of this he will cast his casting-net, and always to kill nations – not sparing? See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "δι",
+          "lemma": "δι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.17"
         },
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "τουτο",
+          "lemma": "τουτο",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.17"
         },
         {
-          "surface_form": "βρωματα",
-          "lemma": "βρωματα",
+          "surface_form": "αμφιβαλε",
+          "lemma": "αμφιβαλε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.1.17"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "αμφ",
+          "lemma": "αμφ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1413,13 +1429,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:1",
       "greek_reference": "Ἀμβακούμ 2:1",
       "verse_anchor": "Hab.2.1",
-      "greek_text": "επἴ της φυλακἤς μου στἤσομαι και επιβἤσομαι επι πετραν και αποσκοπε υσω του ιδε ιν τι λαλ ηση εν εμοι και τι αποκριθ ω επι τον",
+      "greek_text": "επἴ της φυλακἤς μου στἤσομαι και επιβἤσομαι επι πετραν και αποσκοπε υσω του ιδε ιν τι λαλ ηση εν εμοι και τι αποκριθ ω επι τον ἔλεγξὅν μου",
       "english_translation": "Upon my watch I will stand, and I will mount upon a rock. And I will watch over to behold what he should speak by me, and what I will answer upon",
       "morphology": [
         {
@@ -1496,31 +1514,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:2",
       "greek_reference": "Ἀμβακούμ 2:2",
       "verse_anchor": "Hab.2.2",
-      "greek_text": "ἔλεγξὅν μου και απεκρ ιθη προς με κυριος και ε ιπε γραψον ὅρασιν σαφ ως εις πυχ ιον ὅπως δἴωκη ο αναγινὤσκων αυτἄ",
-      "english_translation": "my reproof. And [2answered 3to 4me the], and said, Write the vision clearly onto a writing-tablet, so that [4should take flight 1the one 2reading 3these things].",
+      "greek_text": "και απεκρ ιθη προς με κυριος και ειπε γραψον ὅρασιν σαφ ως εις πυχ ιον ὅπως δἴωκη ο αναγινὤσκων αυτἄ",
+      "english_translation": "my reproof. And answered to me the, and said, Write the vision clearly onto a writing-tablet, so that should take flight the one reading these things.",
       "morphology": [
-        {
-          "surface_form": "ἔλεγξὅν",
-          "lemma": "ἔλεγξὅν",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.2"
-        },
-        {
-          "surface_form": "μου",
-          "lemma": "μου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.2"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -1532,6 +1536,22 @@
         {
           "surface_form": "απεκρ",
           "lemma": "απεκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        },
+        {
+          "surface_form": "ιθη",
+          "lemma": "ιθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1579,7 +1599,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:3",
@@ -1662,18 +1684,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:4",
       "greek_reference": "Ἀμβακούμ 2:4",
       "verse_anchor": "Hab.2.4",
-      "greek_text": "ε αν υποστε ιληται ουκ ευδοκε ι η ψυξἤ μου εν αυτὤ ο δε δἴκαιος εκ πιστεως μου ζ ησεται Μ Β",
-      "english_translation": "If he should keep back, [2does not think well 1my soul] in him; but the righteous one [2from out of 3my belief 1shall live]. See Rm. 1:17, Gal. 3:11, Heb. 10:37,38.",
+      "greek_text": "εαν υποστε ιληται ουκ ευδοκειη ψυξἤ μου εν αυτὤ ο δε δἴκαιος εκ πιστεως μου ζ ησεται Μ Β εισδεχεται προς αυτον παντας τους λαο υς",
+      "english_translation": "If he should keep back, does not think well my soul in him; but the righteous one from out of my belief shall live. See Rm. 1:17, Gal. 3:11, Heb. 10:37,38.",
       "morphology": [
         {
-          "surface_form": "αν",
-          "lemma": "αν",
+          "surface_form": "εαν",
+          "lemma": "εαν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1745,14 +1769,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:5",
       "greek_reference": "Ἀμβακούμ 2:5",
       "verse_anchor": "Hab.2.5",
       "greek_text": "ο δε κατοιομενος και καταφρονητ ης ανἤρ αλαζὤν ουθἔν ου μη περανη ος επλ ατυνε καθ ως ο ἄδης την ψυξἤν αυτὅυ και ὅυτος ως θἄνατος ουκ εμπιπλἄμενος και επισυν αχει προς αυτον παντα τα ἔθνη και",
-      "english_translation": "But the one being arrogant and despising, [2man is an ostentatious]; not one thing in any way should he have achieved; who widened [2as 3Hades 1his soul], and this one is as death not being filled up; and he shall assemble unto himself all the nations, and",
+      "english_translation": "But the one being arrogant and despising, man is an ostentatious; not one thing in any way should he have achieved; who widened as Hades his soul, and this one is as death not being filled up; and he shall assemble unto himself all the nations, and",
       "morphology": [
         {
           "surface_form": "δε",
@@ -1828,42 +1854,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:6",
       "greek_reference": "Ἀμβακούμ 2:6",
       "verse_anchor": "Hab.2.6",
-      "greek_text": "εισδεχεται προς αυτον παντας τους λαο υς ουξι ταυτα παντα παραβολ ην κατ' αυτο υ ληψονται και πρὅβλημα εις δἴηγησιν αυτὅυ και ερὅυσιν ουα ι ο πληθ υνων εαυτω τα ουκ ὅντα αυτο υ ἔως τἴνος και βαρ υνων τον κλοιον αυτο υ Κ Μ ο ποτἴζων τον πλησἴον αυτὅυ ανατροπἤν θολερἄν και μεθὔσκων ὅπως επιβλἔπη επἴ",
-      "english_translation": "will take in to himself all the peoples. [2not 4these 3all 6a parable 7against 8him 1Shall 5take up], and a riddle for his narrative? And they shall say, Woe, the one multiplying to himself the things not being his; how long even the one oppressing his collar See CP for variant. the one giving a drink to his neighbor [4diet of lees 1a clouded 2and 3intoxicating], so that he should look upon",
+      "greek_text": "ουξι ταυτα παντα παραβολ ην κατ' αυτου ληψονται και πρὅβλημα εις δἴηγησιν αυτὅυ και ερὅυσιν ουα ι ο πληθ υνων εαυτω τα ουκ ὅντα αυτου ἔως τἴνος και βαρ υνων τον κλοιον αυτου στιβαρὤς ο ποτἴζων τον πλησἴον αυτὅυ ανατροπἤν θολερἄν και μεθὔσκων ὅπως επιβλἔπη επἴ τα σπ ηλαια αυτων",
+      "english_translation": "will take in to himself all the peoples. not these all a parable against him Shall take up, and a riddle for his narrative? And they shall say, Woe, the one multiplying to himself the things not being his; how long even the one oppressing his collar See CP for variant. the one giving a drink to his neighbor diet of lees a clouded and intoxicating, so that he should look upon",
       "morphology": [
         {
-          "surface_form": "εισδεχεται",
-          "lemma": "εισδεχεται",
+          "surface_form": "ουξι",
+          "lemma": "ουξι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.6"
         },
         {
-          "surface_form": "προς",
-          "lemma": "προς",
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.6"
         },
         {
-          "surface_form": "αυτον",
-          "lemma": "αυτον",
+          "surface_form": "παντα",
+          "lemma": "παντα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.6"
         },
         {
-          "surface_form": "παντας",
-          "lemma": "παντας",
+          "surface_form": "παραβολ",
+          "lemma": "παραβολ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1911,23 +1939,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:7",
       "greek_reference": "Ἀμβακούμ 2:7",
       "verse_anchor": "Hab.2.7",
-      "greek_text": "στιβαρὤς ὅτι εχἄιφνης αναστἤσονται δἄκνοντες αυτον και εκνηψουσιν οι επιβουλο ι σου",
-      "english_translation": "densely? For suddenly [3shall raise up 1ones biting 2him], and [3shall sober up 1the 2plotters against you],",
+      "greek_text": "ὅτι εχἄιφνης αναστἤσονται δἄκνοντες αυτον και εκνηψουσιν οι επιβουλο ι σου και ἔση εις διαρπαγ ην αυτο ις",
+      "english_translation": "densely? For suddenly shall raise up ones biting him, and shall sober up the plotters against you,",
       "morphology": [
-        {
-          "surface_form": "στιβαρὤς",
-          "lemma": "στιβαρὤς",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.7"
-        },
         {
           "surface_form": "ὅτι",
           "lemma": "ὅτι",
@@ -1947,6 +1969,14 @@
         {
           "surface_form": "αναστἤσονται",
           "lemma": "αναστἤσονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.7"
+        },
+        {
+          "surface_form": "δἄκνοντες",
+          "lemma": "δἄκνοντες",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -1994,42 +2024,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:8",
       "greek_reference": "Ἀμβακούμ 2:8",
       "verse_anchor": "Hab.2.8",
-      "greek_text": "και ἔση εις διαρπαγ ην αυτο ις δι οτι συ εσκ υλευσας ἔθνη πολλ α σκυλε υσους ι σε παντες οι υπολελειμμ ενοι λαο ι δι' αιματα ανθρ ωπων και ασεβε ιας γης και πολεως και παντων των κατοικο υντων αυτην",
-      "english_translation": "and you will be for ravaging to them. In that you despoiled [2nations 1many], [5shall despoil 6you 1all 2the 4having been left 3peoples], because of the blood of men, and the impious deeds of the land and city, and all of the ones dwelling it.",
+      "greek_text": "δι οτι συ εσκ υλευσας ἔθνη πολλ α σκυλε υσους ι σε παντες οι υπολελειμμ ενοι λαο ι δι' αιματα ανθρ ωπων και ασεβε ιας γης και πολεως και παντων των κατοικουντων αυτην",
+      "english_translation": "and you will be for ravaging to them. In that you despoiled nations many, shall despoil you all the having been left peoples, because of the blood of men, and the impious deeds of the land and city, and all of the ones dwelling it.",
       "morphology": [
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "δι",
+          "lemma": "δι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.8"
         },
         {
-          "surface_form": "ἔση",
-          "lemma": "ἔση",
+          "surface_form": "οτι",
+          "lemma": "οτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.8"
         },
         {
-          "surface_form": "εις",
-          "lemma": "εις",
+          "surface_form": "συ",
+          "lemma": "συ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.8"
         },
         {
-          "surface_form": "διαρπαγ",
-          "lemma": "διαρπαγ",
+          "surface_form": "εσκ",
+          "lemma": "εσκ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2077,14 +2109,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:9",
       "greek_reference": "Ἀμβακούμ 2:9",
       "verse_anchor": "Hab.2.9",
-      "greek_text": "ω ο πλεονεκτὤν πλεονεχἴαν κακ ην τω οικω αυτο υ του τ αχαι εις ὔψος νοσσι αν αυτο υ του εκσπασθ ηναι εκ ξειρος κακ ων",
-      "english_translation": "O, the one overabounding in a desire for [2wealth 1evil] to his house; to arrange [2in the height 1his nest]; to pull out [2from out of 3a hand 1evils].",
+      "greek_text": "ω ο πλεονεκτὤν πλεονεχἴαν κακ ην τω οικω αυτου του ταχαι εις ὔψος νοσσι αν αυτου του εκσπασθ ηναι εκ ξειρος κακ ων",
+      "english_translation": "O, the one overabounding in a desire for wealth evil to his house; to arrange in the height his nest; to pull out from out of a hand evils.",
       "morphology": [
         {
           "surface_form": "πλεονεκτὤν",
@@ -2160,14 +2194,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:10",
       "greek_reference": "Ἀμβακούμ 2:10",
       "verse_anchor": "Hab.2.10",
-      "greek_text": "εβουλε υσω αισξ υνην τω οικω σου συνεπ ερανας πολλο υς λαο υς και εχ ημαρτεν η ψυξ η σου",
-      "english_translation": "You deliberated shame to your house; you finished off many peoples, and [2 was led into sin 1your soul].",
+      "greek_text": "εβουλε υσω αισξ υνην τω οικω σου συνεπ ερανας πολλο υς λαο υς και εχημαρτενη ψυξη σου",
+      "english_translation": "You deliberated shame to your house; you finished off many peoples, and was led into sin your soul.",
       "morphology": [
         {
           "surface_form": "εβουλε",
@@ -2243,14 +2279,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:11",
       "greek_reference": "Ἀμβακούμ 2:11",
       "verse_anchor": "Hab.2.11",
-      "greek_text": "δἴοτι λἴθος εκ τὅιξου βὅησεται και κανθαρος εκ χ υλου φθ εγχεται αυτα",
-      "english_translation": "For the stone [2from out of the wall 1shall yell]; and the beetle from out of the wood shall utter its sounds.",
+      "greek_text": "δἴοτι λἴθος εκ τὅιξου βὅησεται και κανθαρος εκ χυλου φθ εγχεται αυτα",
+      "english_translation": "For the stone from out of the wall shall yell; and the beetle from out of the wood shall utter its sounds.",
       "morphology": [
         {
           "surface_form": "δἴοτι",
@@ -2326,13 +2364,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:12",
       "greek_reference": "Ἀμβακούμ 2:12",
       "verse_anchor": "Hab.2.12",
-      "greek_text": "ουἄι ο οικοδομὤν πὅλιν εν ἄιμασι και",
+      "greek_text": "ουἄι ο οικοδομὤν πὅλιν εν ἄιμασι και ετοιμαζων πολιν εν αδικιαις",
       "english_translation": "Woe, the one building a city in blood, and",
       "morphology": [
         {
@@ -2409,42 +2449,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:13",
       "greek_reference": "Ἀμβακούμ 2:13",
       "verse_anchor": "Hab.2.13",
-      "greek_text": "ετοιμαζων πολιν εν αδικιαις ου ταυτα εστι παρ α κυρἴου παντοκρἄτορος και εχἔλιπον λαὅι ικανὅι εν πυρ ι και ἔθνη πολλ α και ωλιγοψ υξησαν πολλὅι",
-      "english_translation": "prepares a city by iniquities. [2these not 1Are] from the almighty? Even [3failed 2peoples 1fit] by fire, and [2nations 1many] even became faint-hearted. many.",
+      "greek_text": "ου ταυτα εστι παρ α κυρἴου παντοκρἄτορος και εχἔλιπον λαὅι ικανὅι εν πυρ ι και ἔθνη πολλ α και ωλιγοψ υξησαν πολλὅι Κ Μ",
+      "english_translation": "prepares a city by iniquities. these not Are from the almighty? Even failed peoples fit by fire, and nations many even became faint-hearted. many.",
       "morphology": [
         {
-          "surface_form": "ετοιμαζων",
-          "lemma": "ετοιμαζων",
+          "surface_form": "ου",
+          "lemma": "ου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.13"
         },
         {
-          "surface_form": "πολιν",
-          "lemma": "πολιν",
+          "surface_form": "ταυτα",
+          "lemma": "ταυτα",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.13"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "εστι",
+          "lemma": "εστι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.13"
         },
         {
-          "surface_form": "αδικιαις",
-          "lemma": "αδικιαις",
+          "surface_form": "παρ",
+          "lemma": "παρ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2492,14 +2534,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:14",
       "greek_reference": "Ἀμβακούμ 2:14",
       "verse_anchor": "Hab.2.14",
-      "greek_text": "ὅτι πλησθ ησεται η γη του γνωναι την δοχαν",
-      "english_translation": "For [3shall be filled 1the 2earth] to know the glory",
+      "greek_text": "ὅτι πλησθ ησεταιη γη του γνωναι την δοχαν κυριου ως ὔδωρ κατακαλ υψαι θαλ ασσας",
+      "english_translation": "For shall be filled the earth to know the glory",
       "morphology": [
         {
           "surface_form": "ὅτι",
@@ -2518,8 +2562,8 @@
           "verse_anchor": "Hab.2.14"
         },
         {
-          "surface_form": "ησεται",
-          "lemma": "ησεται",
+          "surface_form": "ησεταιη",
+          "lemma": "ησεταιη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2575,48 +2619,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:15",
       "greek_reference": "Ἀμβακούμ 2:15",
       "verse_anchor": "Hab.2.15",
-      "greek_text": "κυριου ως ὔδωρ κατακαλ υψαι θαλ ασσας ω",
+      "greek_text": "ω",
       "english_translation": "of the, as water covers up seas. O,",
-      "morphology": [
-        {
-          "surface_form": "κυριου",
-          "lemma": "κυριου",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.15"
-        },
-        {
-          "surface_form": "ως",
-          "lemma": "ως",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.15"
-        },
-        {
-          "surface_form": "ὔδωρ",
-          "lemma": "ὔδωρ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.15"
-        },
-        {
-          "surface_form": "κατακαλ",
-          "lemma": "κατακαλ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.15"
-        }
-      ],
+      "morphology": [],
       "criteria_evaluations": {
         "1": {
           "status": "PASS",
@@ -2658,42 +2671,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:16",
       "greek_reference": "Ἀμβακούμ 2:16",
       "verse_anchor": "Hab.2.16",
-      "greek_text": "τα σπ ηλαια αυτων πλησμον ην ατιμιας εκ δοχης πιε και διασαλε υθητι εκυκλως εν σε ποτηριον δεχι ας κυριου",
-      "english_translation": "their private parts. [2 to the fullness 3of the dishonor 4from out of your glory 1Drink], and be excited! [4encircled 5you The cup 2of the right hand of the], See Bos for variants.",
+      "greek_text": "πλησμον ην ατιμιας εκ δοχης πιε και διασαλε υθητι εκυκλως εν σε ποτηριον δεχι ας κυριου και συν ηξθη ατιμια επι την δοχαν σου",
+      "english_translation": "their private parts. to the fullness of the dishonor from out of your glory Drink, and be excited! encircled you The cup of the right hand of the, See Bos for variants.",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "πλησμον",
+          "lemma": "πλησμον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.16"
         },
         {
-          "surface_form": "σπ",
-          "lemma": "σπ",
+          "surface_form": "ην",
+          "lemma": "ην",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.16"
         },
         {
-          "surface_form": "ηλαια",
-          "lemma": "ηλαια",
+          "surface_form": "ατιμιας",
+          "lemma": "ατιμιας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.16"
         },
         {
-          "surface_form": "αυτων",
-          "lemma": "αυτων",
+          "surface_form": "εκ",
+          "lemma": "εκ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2741,42 +2756,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:17",
       "greek_reference": "Ἀμβακούμ 2:17",
       "verse_anchor": "Hab.2.17",
-      "greek_text": "και συν ηξθη ατιμια επι την δοχαν σου δι οτι ας εβεια του Λιβ ανου καλ υψει σε και ταλαιπωρ ια θηριων πτοησει σε δι' αιματα ανθρὤπων και ασεβἔιας γης και πὅλεως",
-      "english_translation": "and [2was brought 1dishonor] upon your glory. For the impiety of Lebanon shall cover you, and the misery from wild beasts shall terrify you, because of the blood of men, and the impious deeds of the land, and of the city,",
+      "greek_text": "δι οτι ας εβεια του Λιβ ανου καλ υψει σε και ταλαιπωρ ια θηριων πτοησει σε δι' αιματα ανθρὤπων και ασεβἔιας γης και πὅλεως και παντων των κατοικουντων αυτην",
+      "english_translation": "and was brought dishonor upon your glory. For the impiety of Lebanon shall cover you, and the misery from wild beasts shall terrify you, because of the blood of men, and the impious deeds of the land, and of the city,",
       "morphology": [
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "δι",
+          "lemma": "δι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.17"
         },
         {
-          "surface_form": "συν",
-          "lemma": "συν",
+          "surface_form": "οτι",
+          "lemma": "οτι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.17"
         },
         {
-          "surface_form": "ηξθη",
-          "lemma": "ηξθη",
+          "surface_form": "ας",
+          "lemma": "ας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.17"
         },
         {
-          "surface_form": "ατιμια",
-          "lemma": "ατιμια",
+          "surface_form": "εβεια",
+          "lemma": "εβεια",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2824,42 +2841,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:18",
       "greek_reference": "Ἀμβακούμ 2:18",
       "verse_anchor": "Hab.2.18",
-      "greek_text": "και παντων των κατοικο υντων αυτην τι ωφελε ι γλυπτ ον ὅτι ἔγλυψαν αυτο ἔπλασεν αυτο ξὤνευμα φαντασἴαν ψευδἤ ὅτι πἔποιθεν ο πλ ασας επι το πλ ασμα αυτο υ του",
-      "english_translation": "and of all the ones dwelling it. What benefit is the carved image that they carved it? He shaped it a molten casting – [2visible display 1a false]. For [3has relied 1the one 2shaping] upon the thing shaped by him in the",
+      "greek_text": "τι ωφελε ι γλυπτ ον ὅτι ἔγλυψαν αυτο ἔπλασεν αυτο ξὤνευμα φαντασἴαν ψευδἤ ὅτι πἔποιθεν ο πλ ασας επι το πλ ασμα αυτου του ποιησαι ειδωλα κωφ α",
+      "english_translation": "and of all the ones dwelling it. What benefit is the carved image that they carved it? He shaped it a molten casting – visible display a false. For has relied the one shaping upon the thing shaped by him in the",
       "morphology": [
         {
-          "surface_form": "και",
-          "lemma": "και",
+          "surface_form": "τι",
+          "lemma": "τι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.18"
         },
         {
-          "surface_form": "παντων",
-          "lemma": "παντων",
+          "surface_form": "ωφελε",
+          "lemma": "ωφελε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.18"
         },
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "γλυπτ",
+          "lemma": "γλυπτ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.2.18"
         },
         {
-          "surface_form": "κατοικο",
-          "lemma": "κατοικο",
+          "surface_form": "ον",
+          "lemma": "ον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2907,42 +2926,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:18) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:19",
       "greek_reference": "Ἀμβακούμ 2:19",
       "verse_anchor": "Hab.2.19",
-      "greek_text": "ποιησαι ε ιδωλα κωφ α ουα ι ο λεγων τω χ υλω ἔκνηψον εγερθητι και τω λιθω υψ ωθητι και αυτοεστι φαντας ια και ἔστιν ἔλασμα ξρυς ιου και αργυρ ιου και παν πνευμα ουκ εστιν εν αυτω",
-      "english_translation": "making of [2idols 1mute]. Woe, the one saying to the wood, Sober up, arise! And to the stone – Be exalted! But it is only a visible display, and it is a hammered piece of gold and silver, and any breath is not in it.",
+      "greek_text": "ουα ι ο λεγων τω χυλω ἔκνηψον εγερθητι και τω λιθω υψ ωθητι και αυτο εστι φαντας ια και ἔστιν ἔλασμα ξρυς ιου και αργυρ ιου και παν πνευμα ουκ εστιν εν αυτω",
+      "english_translation": "making of idols mute. Woe, the one saying to the wood, Sober up, arise! And to the stone – Be exalted! But it is only a visible display, and it is a hammered piece of gold and silver, and any breath is not in it.",
       "morphology": [
-        {
-          "surface_form": "ποιησαι",
-          "lemma": "ποιησαι",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.19"
-        },
-        {
-          "surface_form": "ιδωλα",
-          "lemma": "ιδωλα",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.19"
-        },
-        {
-          "surface_form": "κωφ",
-          "lemma": "κωφ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.2.19"
-        },
         {
           "surface_form": "ουα",
           "lemma": "ουα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "λεγων",
+          "lemma": "λεγων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "χυλω",
+          "lemma": "χυλω",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -2990,14 +3011,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 2:20",
       "greek_reference": "Ἀμβακούμ 2:20",
       "verse_anchor": "Hab.2.20",
-      "greek_text": "ο δε κυριος εν ναω αγιω αυτο υ ευλαβε ισθω απ ο προς ωπου αυτο υ πασα η γη",
-      "english_translation": "But the is in [2temple 1his holy]. Let [4venerate 5from 6before 7him 1all 2the 3earth]!",
+      "greek_text": "ο δε κυριος εν ναω αγιω αυτου ευλαβε ισθω απ ο προς ωπου αυτου πασαη γη",
+      "english_translation": "But the is in temple his holy. Let venerate from before him all the earth!",
       "morphology": [
         {
           "surface_form": "δε",
@@ -3073,18 +3096,20 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 2:20) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:1",
       "greek_reference": "Ἀμβακούμ 3:1",
       "verse_anchor": "Hab.3.1",
-      "greek_text": "προσευξ η Αμβακο υκ του προφ ητου μετ'",
+      "greek_text": "προσευξη Αμβακο υκ του προφ ητου μετ' ωδ ης",
       "english_translation": "The prayer of Habakkuk the prophet with",
       "morphology": [
         {
-          "surface_form": "προσευξ",
-          "lemma": "προσευξ",
+          "surface_form": "προσευξη",
+          "lemma": "προσευξη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3156,31 +3181,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:2",
       "greek_reference": "Ἀμβακούμ 3:2",
       "verse_anchor": "Hab.3.2",
-      "greek_text": "ωδ ης κυριε εισακ ηκοα την ακο ην σου και εφοβ ηθην κυριε κατεν οησα τα ἔργα σου και εχ εστην εν μεσω δυο ζ ωων",
+      "greek_text": "κυριε εισακ ηκοα την ακο ην σου και εφοβ ηθην κυριε κατενοησα τα ἔργα σου και εχεστην εν μεσω δυο ζ ωων",
       "english_translation": "an ode. O, I have listened to your report, and I feared. O, I contemplated your works, and was startled. In the midst of the two living creatures",
       "morphology": [
-        {
-          "surface_form": "ωδ",
-          "lemma": "ωδ",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.2"
-        },
-        {
-          "surface_form": "ης",
-          "lemma": "ης",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.2"
-        },
         {
           "surface_form": "κυριε",
           "lemma": "κυριε",
@@ -3192,6 +3203,22 @@
         {
           "surface_form": "εισακ",
           "lemma": "εισακ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        },
+        {
+          "surface_form": "ηκοα",
+          "lemma": "ηκοα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3239,14 +3266,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:3",
       "greek_reference": "Ἀμβακούμ 3:3",
       "verse_anchor": "Hab.3.3",
-      "greek_text": "γνωσθἤση εν τω εγγἴζειν τα ἔτη επιγνωσθἤση εν τω παρἔιναι τον καιρὅν αναδειξθ ηση εν τω ταραξθ ηναι την ψυξ ην μου εν οργη ελεους μνησθ ηση ο θεος απ ο Θεμ αν ἤχει και ο ἄγιος εχ ὅρους κατασκ ιου Φαρ αν δι αψαλμα εκαλυψεν τους ουρανὅυς η αρετἤ αυτὅυ και της αινἔσεως αυτὅυ επλἤσθη δυναμις",
-      "english_translation": "you shall be known. In the approaching of the years you shall be recognized. In the [2at hand 1time] you shall be made manifest when [2is disturbed 1my soul]. In wrath [2mercy 1you shall remember]. God [2from 3Teman 1shall come], and the holy one from out of the mount of shady Paran. PAUSE. [2covered 3the 4heavens 1His virtue], and his praise filled - power.",
+      "greek_text": "γνωσθἤση εν τω εγγἴζειν τα ἔτη επιγνωσθἤση εν τω παρἔιναι τον καιρὅν αναδειξθ ηση εν τω ταραξθ ηναι την ψυξ ην μου εν οργη ελεους μνησθ ηση ο θεος απ ο Θεμ αν ἤχει και ο ἄγιος εχ ὅρους κατασκ ιου Φαρ αν δι αψαλμα εκαλυψεν τους ουρανὅυςη αρετἤ αυτὅυ και της αινἔσεως αυτὅυ επλἤσθηη γη δυναμις",
+      "english_translation": "you shall be known. In the approaching of the years you shall be recognized. In the at hand time you shall be made manifest when is disturbed my soul. In wrath mercy you shall remember. God from Teman shall come, and the holy one from out of the mount of shady Paran. PAUSE. covered the heavens His virtue, and his praise filled - power.",
       "morphology": [
         {
           "surface_form": "γνωσθἤση",
@@ -3322,23 +3351,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:4",
       "greek_reference": "Ἀμβακούμ 3:4",
       "verse_anchor": "Hab.3.4",
-      "greek_text": "η γη και φ εγγος αυτο υ ως φως ἔσται και κἔρατα εν ξερσἴν αυτὅυ και ἔθετο αγἄπησιν διἄυγασμα",
-      "english_translation": "the earth. And his brightness [2as 3light 1will be], and horns in his hands. And he established [2affection - light shining through. See Bos for variant.",
+      "greek_text": "και φ εγγος αυτου ως φως ἔσται και κἔρατα εν ξερσἴν αυτὅυ και ἔθετο αγἄπησιν κραται αν ισξυος αυτου διἄυγασμα",
+      "english_translation": "the earth. And his brightness as light will be, and horns in his hands. And he established [2affection - light shining through. See Bos for variant.",
       "morphology": [
-        {
-          "surface_form": "γη",
-          "lemma": "γη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.4"
-        },
         {
           "surface_form": "και",
           "lemma": "και",
@@ -3356,8 +3379,16 @@
           "verse_anchor": "Hab.3.4"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "αυτου",
+          "lemma": "αυτου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.4"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3405,42 +3436,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:5",
       "greek_reference": "Ἀμβακούμ 3:5",
       "verse_anchor": "Hab.3.5",
-      "greek_text": "κραται αν ισξυος αυτο υ προ προς ωπου αυτο υ πορε υσεται λογος και εχελευσεται εις πεδια",
-      "english_translation": "1a strong] by his strength. Before his face shall go a word, and it shall go forth for a flat ground.",
+      "greek_text": "προ προς ωπου αυτου πορευσεται λογος και εχελευσεται εις πεδια",
+      "english_translation": "1a strong] by his strength. Before his face shall go a λόγος (logic/reason), and it shall go forth for a flat ground.",
       "morphology": [
         {
-          "surface_form": "κραται",
-          "lemma": "κραται",
+          "surface_form": "προ",
+          "lemma": "προ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.5"
         },
         {
-          "surface_form": "αν",
-          "lemma": "αν",
+          "surface_form": "προς",
+          "lemma": "προς",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.5"
         },
         {
-          "surface_form": "ισξυος",
-          "lemma": "ισξυος",
+          "surface_form": "ωπου",
+          "lemma": "ωπου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.5"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "αυτου",
+          "lemma": "αυτου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3488,14 +3521,16 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:6",
       "greek_reference": "Ἀμβακούμ 3:6",
       "verse_anchor": "Hab.3.6",
-      "greek_text": "κατἄ πὅδας αυτὅυ ἔστη και εσαλἔυθη η γη επεβλεψε και διετ ακη ἔθνη διεθρυβη τα ὅρη βια ετ ακησαν βουνο ι αιωνιοι",
-      "english_translation": "At his feet [3stood 4and 5shook 1the 2earth]. He looked and [2melted 1nations]. [3 were broke through 1The 2mountains] by force. [3melted away 2hills 1Eternal] - See Bos for variant.",
+      "greek_text": "κατἄ πὅδας αυτὅυ ἔστη και εσαλἔυθηη γη επεβλεψε και διετ ακη ἔθνη διεθρ υβη τα ὅρη βια ετακησαν βουνο ι αιωνιοι αι οδοι αιωνιαι αυτου",
+      "english_translation": "At his feet stood and shook the earth. He looked and melted nations. were broke through The mountains by force. melted away hills Eternal - See Bos for variant.",
       "morphology": [
         {
           "surface_form": "κατἄ",
@@ -3571,42 +3606,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:7",
       "greek_reference": "Ἀμβακούμ 3:7",
       "verse_anchor": "Hab.3.7",
-      "greek_text": "αι οδοι αιωνιαι αυτο υ αντι κοπων ε ιδον τας σκην ας Αιθιοπων ταραξθ ησονται και πονων πτοηθἤσονται",
-      "english_translation": "[2ways 1his eternal]. [5in 6troubles 1I beheld 2the 3tents 4of Ethiopians]; [7shall be disturbed 1and - misery. & Six. - were terriﬁed.",
+      "greek_text": "αντι κοπων ειδον τας σκην ας Αιθιοπων ταραξθ ησονται και τα σκην ωματα της γης Μαδι αν πονων πτοηθἤσονται",
+      "english_translation": "ways his eternal. in troubles I beheld the tents of Ethiopians; [7shall be disturbed 1and - misery. & Six. - were terriﬁed.",
       "morphology": [
         {
-          "surface_form": "αι",
-          "lemma": "αι",
+          "surface_form": "αντι",
+          "lemma": "αντι",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.7"
         },
         {
-          "surface_form": "οδοι",
-          "lemma": "οδοι",
+          "surface_form": "κοπων",
+          "lemma": "κοπων",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.7"
         },
         {
-          "surface_form": "αιωνιαι",
-          "lemma": "αιωνιαι",
+          "surface_form": "ειδον",
+          "lemma": "ειδον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.7"
         },
         {
-          "surface_form": "αυτο",
-          "lemma": "αυτο",
+          "surface_form": "τας",
+          "lemma": "τας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3654,42 +3691,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:8",
       "greek_reference": "Ἀμβακούμ 3:8",
       "verse_anchor": "Hab.3.8",
-      "greek_text": "τα σκην ωματα της γης Μαδι αν μη εν ποταμο ις ωργ ισθης κυριε η εν ποταμὅις ο θυμὅς σου η εν θαλἄσση η ορμ η σου ο αναβης ομενος επι τους ἴππους σου και η ιππας ια σου σωτηρ ια το ορμημ α οτι επιβηση επι τα σκ ηπτρα λεγει κυριος δι αψαλμα",
-      "english_translation": "2the 3tents 4of the 5land 6of Midian]. Were [2at the rivers 1you provoked to anger], O, or [2at the rivers was your rage], or [2at the sea was your impulse]? the one riding upon your horses, and your riding is deliverance. & Six. - object of desire. & Six. - for you shall mount. against the chiefdoms, says the. PAUSE.",
+      "greek_text": "μη εν ποταμο ις ωργ ισθης κυριεη εν ποταμὅις ο θυμὅς σουη εν θαλἄσσηη ορμη σου ο αναβης ομενος επι τους ἴππους σου καιη ιππας ια σου σωτηρ ια το ορμημ α οτι επιβηση επι τα σκ ηπτρα λεγει κυριος δι αψαλμα ποταμ ων ραγ ησεται γη",
+      "english_translation": "2the 3tents 4of the 5land 6of Midian]. Were at the rivers you provoked to anger, O, or at the rivers was your rage, or at the sea was your impulse? the one riding upon your horses, and your riding is deliverance. & Six. - object of desire. & Six. - for you shall mount. against the chiefdoms, says the. PAUSE.",
       "morphology": [
         {
-          "surface_form": "τα",
-          "lemma": "τα",
+          "surface_form": "μη",
+          "lemma": "μη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.8"
         },
         {
-          "surface_form": "σκην",
-          "lemma": "σκην",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.8"
         },
         {
-          "surface_form": "ωματα",
-          "lemma": "ωματα",
+          "surface_form": "ποταμο",
+          "lemma": "ποταμο",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.8"
         },
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "ις",
+          "lemma": "ις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3737,13 +3776,15 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:9",
       "greek_reference": "Ἀμβακούμ 3:9",
       "verse_anchor": "Hab.3.9",
-      "greek_text": "εντεινας εκτενεις το τ οχον σου ο ποτομ ος σξ ιζεται τη γη",
+      "greek_text": "εντεινας εκτενεις το τοχον σου ο ποτομ ος σξ ιζεται τη γη",
       "english_translation": "Stretching out, you shall stretch out your bow - the river shall split the land.",
       "morphology": [
         {
@@ -3771,8 +3812,8 @@
           "verse_anchor": "Hab.3.9"
         },
         {
-          "surface_form": "οχον",
-          "lemma": "οχον",
+          "surface_form": "τοχον",
+          "lemma": "τοχον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3820,42 +3861,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:10",
       "greek_reference": "Ἀμβακούμ 3:10",
       "verse_anchor": "Hab.3.10",
-      "greek_text": "ποταμ ων ραγ ησεται γη ειδ ον σε και ωδινἤσουσι λαὅι διασπερἔις ὔδατα της πορε ιας ἔδωκεν η ἄβυσσος την φων ην αυτης συναλγο υσιν λαο ι αυτὅυ",
-      "english_translation": "[2of rivers 3shall be torn The land]. They saw you, and [2shall travail 1peoples]. You shall disperse waters of the coursing. [3gave out 1The 2abyss] her voice – - peoples shall gather. - of him.",
+      "greek_text": "ειδ ον σε και ωδινἤσουσι λαὅι διασπερἔις ὔδατα της πορε ιας ἔδωκενη ἄβυσσος την φων ην αυτης το ὔψος της φαντας ιας αυτου συναλγο υσιν λαο ι αυτὅυ",
+      "english_translation": "of rivers shall be torn The land. They saw you, and shall travail peoples. You shall disperse waters of the coursing. gave out The abyss her voice – - peoples shall gather. - of him.",
       "morphology": [
         {
-          "surface_form": "ποταμ",
-          "lemma": "ποταμ",
+          "surface_form": "ειδ",
+          "lemma": "ειδ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.10"
         },
         {
-          "surface_form": "ων",
-          "lemma": "ων",
+          "surface_form": "ον",
+          "lemma": "ον",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.10"
         },
         {
-          "surface_form": "ραγ",
-          "lemma": "ραγ",
+          "surface_form": "σε",
+          "lemma": "σε",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.10"
         },
         {
-          "surface_form": "ησεται",
-          "lemma": "ησεται",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3903,42 +3946,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:11",
       "greek_reference": "Ἀμβακούμ 3:11",
       "verse_anchor": "Hab.3.11",
-      "greek_text": "το ὔψος της φαντας ιας αυτο υ υψ ωθη ο ἤλιος και η σελ ηνη ἔστη εν τη τ αχει αυτης εις φως βολ ιδες σου πορε υσονται και εν εν φωτ ι αι",
-      "english_translation": "the height of his visible display. [3 was exalted 1The 2sun], and the moon stood in her order. At the light of your arrows they shall go forth, and [2in - in light.",
+      "greek_text": "υψ ωθη ο ἤλιος καιη σελ ηνη ἔστη εν τη ταχει αυτης εις φως βολ ιδες σου πορε υσονται και εν φἔγγι αστραπἤς των ὅπλων σου εν φωτ ι αι",
+      "english_translation": "the height of his visible display. was exalted The sun, and the moon stood in her order. At the light of your arrows they shall go forth, and [2in - in light.",
       "morphology": [
         {
-          "surface_form": "το",
-          "lemma": "το",
+          "surface_form": "υψ",
+          "lemma": "υψ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.11"
         },
         {
-          "surface_form": "ὔψος",
-          "lemma": "ὔψος",
+          "surface_form": "ωθη",
+          "lemma": "ωθη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.11"
         },
         {
-          "surface_form": "της",
-          "lemma": "της",
+          "surface_form": "ἤλιος",
+          "lemma": "ἤλιος",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.11"
         },
         {
-          "surface_form": "φαντας",
-          "lemma": "φαντας",
+          "surface_form": "καιη",
+          "lemma": "καιη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -3986,42 +4031,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:12",
       "greek_reference": "Ἀμβακούμ 3:12",
       "verse_anchor": "Hab.3.12",
-      "greek_text": "φἔγγι αστραπἤς των ὅπλων σου εν απειλ η ολιγωσεις την γην και εν θυμ ω ελαττωσεις την γην οργη",
-      "english_translation": "3brightness 4of lightning 1your weapons]. By intimidation you shall make [3few 1the 2land], and in rage - you shall make the land lack. - wrath.",
+      "greek_text": "εν απειλη ολιγωσεις την γην και εν θυμ ω κατἄχεις ἔθνη ελαττωσεις την γην οργη",
+      "english_translation": "3brightness 4of lightning 1your weapons]. By intimidation you shall make few the land, and in rage - you shall make the land lack. - wrath.",
       "morphology": [
         {
-          "surface_form": "φἔγγι",
-          "lemma": "φἔγγι",
+          "surface_form": "εν",
+          "lemma": "εν",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.12"
         },
         {
-          "surface_form": "αστραπἤς",
-          "lemma": "αστραπἤς",
+          "surface_form": "απειλη",
+          "lemma": "απειλη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.12"
         },
         {
-          "surface_form": "των",
-          "lemma": "των",
+          "surface_form": "ολιγωσεις",
+          "lemma": "ολιγωσεις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.12"
         },
         {
-          "surface_form": "ὅπλων",
-          "lemma": "ὅπλων",
+          "surface_form": "την",
+          "lemma": "την",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -4069,31 +4116,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:13",
       "greek_reference": "Ἀμβακούμ 3:13",
       "verse_anchor": "Hab.3.13",
-      "greek_text": "κατἄχεις ἔθνη εχἤλθες εις σωτηρἴαν λαο υ σου του ςωσαι τον ξριστον σου ἔβαλες εις κεφαλ ας ανομων θανατον εχἤγειρας δεσμὅυς ἔως του τραξἤλου εις το τ ελος δι εκοψας εν εκστ ασει κεφαλ ας δυναστ ων σεισθ ησονται εν αυτη διανοιχουσι ξαλινο υς αυτων ως ο ἔσθων πτωξ ος λαθρα διεμερισας εν θαμβει τας κεφαλ ας των δυνατ ων σαλευθ ησονται εν αυτη ανοιχουσι τας ηνιας αυτων ως τρωγων τους ξριστο υς",
-      "english_translation": "you shall break nations. You came forth for deliverance of your people – to deliver your anointed one. You threw [2onto the heads 4of lawless ones 1death]. [4you raised 5bonds 6unto 7the 8neck 1For 2the 3completion]. You cut through [3for 4astonishment 1heads 2of mighty ones]; they shall shake in it; they shall open wide their bridles as the [2eating 1poor] in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open their reins as [2chewing & CP - the anointed ones. See Bos for variant.",
+      "greek_text": "εχἤλθες εις σωτηρἴαν λαου σου του ςωσαι τον ξριστον σου ἔβαλες εις κεφαλ ας ανομων θανατον εχἤγειρας δεσμὅυς ἔως του τραξἤλου εις το τελος δι εκοψας εν εκστασει κεφαλ ας δυναστ ων σεισθ ησονται εν αυτη διανοιχουσι ξαλινο υς αυτων ως ο ἔσθων πτωξ ος λαθρα διεμερισας εν θαμβει τας κεφαλ ας των δυνατ ων σαλευθ ησονται εν αυτη ανοιχουσι τας ηνιας αυτων ως τρωγων πτωξ ον εν αποκρ υφω τους ξριστους",
+      "english_translation": "you shall break nations. You came forth for deliverance of your people – to deliver your anointed one. You threw onto the heads of lawless ones death. you raised bonds unto the neck For the completion. You cut through for astonishment heads of mighty ones; they shall shake in it; they shall open wide their bridles as the eating poor in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open their reins as [2chewing & CP - the anointed ones. See Bos for variant.",
       "morphology": [
-        {
-          "surface_form": "κατἄχεις",
-          "lemma": "κατἄχεις",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.13"
-        },
-        {
-          "surface_form": "ἔθνη",
-          "lemma": "ἔθνη",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.13"
-        },
         {
           "surface_form": "εχἤλθες",
           "lemma": "εχἤλθες",
@@ -4105,6 +4138,22 @@
         {
           "surface_form": "εις",
           "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        },
+        {
+          "surface_form": "σωτηρἴαν",
+          "lemma": "σωτηρἴαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        },
+        {
+          "surface_form": "λαου",
+          "lemma": "λαου",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -4152,7 +4201,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:14",
@@ -4202,42 +4253,44 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:15",
       "greek_reference": "Ἀμβακούμ 3:15",
       "verse_anchor": "Hab.3.15",
-      "greek_text": "πτωξ ον εν αποκρ υφω και επεβ ιβασας εις υπεργ ηαγες επι",
+      "greek_text": "και επεβ ιβασας εις υπεργ ηαγες επι",
       "english_translation": "the poor] in concealment. And you conducted [2into - you surpassed over.",
       "morphology": [
         {
-          "surface_form": "πτωξ",
-          "lemma": "πτωξ",
+          "surface_form": "και",
+          "lemma": "και",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.15"
         },
         {
-          "surface_form": "ον",
-          "lemma": "ον",
+          "surface_form": "επεβ",
+          "lemma": "επεβ",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.15"
         },
         {
-          "surface_form": "εν",
-          "lemma": "εν",
+          "surface_form": "ιβασας",
+          "lemma": "ιβασας",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
           "verse_anchor": "Hab.3.15"
         },
         {
-          "surface_form": "αποκρ",
-          "lemma": "αποκρ",
+          "surface_form": "εις",
+          "lemma": "εις",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -4285,23 +4338,17 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     },
     {
       "reference": "Habakkuk 3:19",
       "greek_reference": "Ἀμβακούμ 3:19",
       "verse_anchor": "Hab.3.19",
-      "greek_text": "ο εκδεξὅμενος ουκ ἔστιν ἴασις τη συντριβ η σου εφλ εγμανεν η πληγ η σου παντες οι ακο υοντες την αγγελ ιαν σου κροτησουσι ξειρας επἴ σε δἴοτιεπἴ τἴνα ουκ επἤλθεν η κακἴα σου διαπαντ ος Κ Μ",
-      "english_translation": "the one looking out for them. There is not a healing to your destruction; [2is inflamed 1your wound]. All the ones hearing the message of you clap hands over you. For upon whom [2not 3come upon 1did your evil] continually?",
+      "greek_text": "ουκ ἔστιν ἴασις τη συντριβη σου εφλ εγμανενη πληγη σου παντες οι ακο υοντες την αγγελ ιαν σου κροτησουσι ξειρας επἴ σε δἴοτιεπἴ τἴνα ουκ επἤλθενη κακἴα σου διαπαντ ος Κ Μ",
+      "english_translation": "the one looking out for them. There is not a healing to your destruction; is inflamed your wound. All the ones hearing the message of you clap hands over you. For upon whom not come upon did your evil continually?",
       "morphology": [
-        {
-          "surface_form": "εκδεξὅμενος",
-          "lemma": "εκδεξὅμενος",
-          "strongs": "G0",
-          "english_gloss": "Greek term",
-          "source_file": "store/lxx/habakkuk.json",
-          "verse_anchor": "Hab.3.19"
-        },
         {
           "surface_form": "ουκ",
           "lemma": "ουκ",
@@ -4321,6 +4368,14 @@
         {
           "surface_form": "ἴασις",
           "lemma": "ἴασις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.19"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
           "strongs": "G0",
           "english_gloss": "Greek term",
           "source_file": "store/lxx/habakkuk.json",
@@ -4368,7 +4423,9 @@
           "status": "PASS",
           "rationale": "Loaded canonical passage (Habakkuk 3:19) for evaluation against fruit of the Spirit vs. works of the flesh."
         }
-      }
+      },
+      "audit_status": "UNVERIFIED",
+      "import_source": "abp_clean_extract"
     }
   ]
 }
