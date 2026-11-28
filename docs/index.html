@@ -98,6 +98,11 @@
       font-size: 1.25rem;
       margin: 12px 0 16px;
     }
+    .eng-box {
+      color: var(--muted);
+      font-size: 0.96rem;
+      margin: -6px 0 16px;
+    }
     .grid-3 {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -136,7 +141,7 @@
     <hr />
 
     <form class="search-row" id="verifyForm">
-      <input id="queryInput" type="text" placeholder="Enter English or Greek reference (e.g., John 6:63 or Ἰωάννης 6:63)" required />
+      <input id="queryInput" type="text" placeholder="Enter English or Greek reference (e.g., John 6:63 or 2 Timothy 3:16)" required />
       <button type="submit">Verify Passage</button>
     </form>
 
@@ -144,7 +149,7 @@
       <span>Samples:</span>
       <button type="button" class="chip" data-q="John 6:63">John 6:63</button>
       <button type="button" class="chip" data-q="2 Timothy 3:16-17">2 Timothy 3:16-17</button>
-      <button type="button" class="chip" data-q="Hebrews 4:12">Hebrews 4:12 (Excluded)</button>
+      <button type="button" class="chip" data-q="Romans 13:1-7">Romans 13:1-7</button>
       <button type="button" class="chip" data-q="John 7:53-8:11">John 7:53-8:11 (Excluded)</button>
       <button type="button" class="chip" data-q="Deut 20:16-18">Deut 20:16-18 (Fail)</button>
       <button type="button" class="chip" data-q="Luke 60:43">Luke 60:43 (Invalid Ref)</button>
@@ -226,10 +231,27 @@
     ];
 
     const passageIndex = new Map();
+    const rangeEntries = [];
     let loadedStoreCount = 0;
 
     function normalizeRef(s) {
-      return String(s || "").trim().normalize("NFC").toLowerCase().replace(/\s+/g, " ");
+      return String(s || "")
+        .trim()
+        .normalize("NFC")
+        .toLowerCase()
+        .replace(/[–—−]/g, "-")
+        .replace(/\s+/g, " ");
+    }
+
+    function parseBookChVerse(str) {
+      const m = normalizeRef(str).match(/^([1-3]?\s*[a-zà-öø-ÿ\s]+?)\s+(\d+):(\d+)(?:-(\d+))?$/);
+      if (!m) return null;
+      return {
+        book: m[1].trim(),
+        chapter: parseInt(m[2], 10),
+        vStart: parseInt(m[3], 10),
+        vEnd: m[4] ? parseInt(m[4], 10) : parseInt(m[3], 10)
+      };
     }
 
     function escapeHtml(str) {
@@ -237,15 +259,27 @@
     }
 
     function checkChapterBounds(rawQuery) {
-      const m = rawQuery.trim().match(/^([1-3]?\s*[A-Za-zÀ-ÖØ-öø-ÿ\s]+?)\s+(\d+)(?::(\d+)(?:-\d+)?)?$/);
+      const m = normalizeRef(rawQuery).match(/^([1-3]?\s*[a-zà-öø-ÿ\s]+?)\s+(\d+)(?::(\d+)(?:-\d+)?)?$/);
       if (!m) return null;
-      const book = normalizeRef(m[1]);
+      const book = m[1].trim();
       const chapter = parseInt(m[2], 10);
       const maxCh = CHAPTER_COUNTS[book];
       if (maxCh && chapter > maxCh) {
         return `${m[1].trim()} only has ${maxCh} chapters; chapter ${chapter} does not exist in canon.`;
       }
       return null;
+    }
+
+    function indexRecord(item, sourceFile, corpus) {
+      const keys = [item.reference, item.greek_reference, item.verse_anchor, item.anchor, item.id].filter(Boolean);
+      const entry = { item, sourceFile, corpus: corpus || "STORE" };
+      for (const k of keys) {
+        passageIndex.set(normalizeRef(k), entry);
+      }
+      const parsed = parseBookChVerse(item.reference || item.verse_anchor || "");
+      if (parsed && parsed.vEnd > parsed.vStart) {
+        rangeEntries.push({ parsed, entry });
+      }
     }
 
     async function loadRepoData() {
@@ -268,16 +302,48 @@
           if (!list.length) continue;
           loadedStoreCount += 1;
           for (const item of list) {
-            const keys = [item.reference, item.ref, item.passage, item.citation, item.anchor, item.id].filter(Boolean);
-            for (const k of keys) {
-              passageIndex.set(normalizeRef(k), { item, sourceFile: path.replace(/^\.\.\//, ""), corpus: data.corpus || "STORE" });
-            }
+            indexRecord(item, path.replace(/^\.\.\//, ""), data.corpus);
           }
         } catch (_) {}
       }
 
       const statusEl = document.getElementById("storeStatus");
       statusEl.textContent = `Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) · Strict NFC · Exclusions Checked First · Loaded ${loadedStoreCount} store files (${passageIndex.size} indexed keys)`;
+    }
+
+    function buildFromStoreEntry(entry, queryTitle) {
+      const it = entry.item;
+      const greekText = it.greek_text || it.greek || it.text_greek || it.greek_nfc || it.text || "—";
+      const engText = it.english_translation || it.english || "";
+      const evalMap = it.criteria_evaluations || {};
+      const failedNums = [];
+      const perCriterion = CRITERIA.map((name, idx) => {
+        const key = String(idx + 1);
+        const ev = evalMap[key];
+        const status = ev && String(ev.status || "").toUpperCase() === "FAIL" ? "FAIL" : "PASS";
+        if (status === "FAIL") failedNums.push(idx + 1);
+        const rationale = (ev && ev.rationale) || (status === "FAIL" ? "Failed criterion in store evaluation." : "Satisfies criterion in verified store record.");
+        return { num: idx + 1, name, status, rationale };
+      });
+
+      const verdict = failedNums.length > 0 ? "FAIL" : "PASS";
+      const reasons = failedNums.length > 0
+        ? failedNums.map(n => `Criterion ${n} (${CRITERIA[n - 1]}): ${perCriterion[n - 1].rationale}`)
+        : ["All 10 framework criteria passed in verified store record."];
+
+      return {
+        title: it.reference || queryTitle,
+        anchor: it.verse_anchor || it.anchor || normalizeRef(queryTitle),
+        verdict,
+        excluded: false,
+        corpus: String(entry.corpus).toUpperCase(),
+        greek: greekText,
+        english: engText,
+        sourceFile: entry.sourceFile,
+        failedCriteria: failedNums.length ? failedNums.join(", ") : "None",
+        perCriterion,
+        reasons
+      };
     }
 
     function evaluateQuery(raw) {
@@ -288,8 +354,8 @@
         if (low.includes(p.match)) {
           return {
             title: q, anchor: p.anchor, verdict: "FAIL", excluded: true,
-            corpus: "EXCLUDED_PERICOPE", greek: p.greek, sourceFile: "gate/exclusions.json",
-            failedCriteria: p.failed.join(", "), failedSet: new Set(p.failed), reason: p.reason
+            corpus: "EXCLUDED_PERICOPE", greek: p.greek, english: "", sourceFile: "gate/exclusions.json",
+            failedCriteria: p.failed.join(", "), failedSet: new Set(p.failed), reasons: [p.reason], defaultReason: p.reason
           };
         }
       }
@@ -298,8 +364,8 @@
         if (low.startsWith(bookKey + " ") || low === bookKey) {
           return {
             title: q, anchor: info.anchor, verdict: "FAIL", excluded: true,
-            corpus: "EXCLUDED_UNKNOWN", greek: info.greek, sourceFile: "gate/exclusions.json",
-            failedCriteria: info.failed.join(", "), failedSet: new Set(info.failed), reason: info.reason
+            corpus: "EXCLUDED_UNKNOWN", greek: info.greek, english: "", sourceFile: "gate/exclusions.json",
+            failedCriteria: info.failed.join(", "), failedSet: new Set(info.failed), reasons: [info.reason], defaultReason: info.reason
           };
         }
       }
@@ -308,49 +374,56 @@
       if (boundsErr) {
         return {
           title: q, anchor: "InvalidReference.BoundsGate", verdict: "FAIL", excluded: false,
-          corpus: "EXISTENCE_GATE_FAIL", greek: "—", sourceFile: "canon bounds gate",
-          failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]), reason: boundsErr
+          corpus: "EXISTENCE_GATE_FAIL", greek: "—", english: "", sourceFile: "canon bounds gate",
+          failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]), reasons: [boundsErr], defaultReason: boundsErr
         };
       }
 
-      const hit = passageIndex.get(low);
+      let hit = passageIndex.get(low);
+      if (!hit) {
+        const qParsed = parseBookChVerse(q);
+        if (qParsed) {
+          const found = rangeEntries.find(r =>
+            r.parsed.book === qParsed.book &&
+            r.parsed.chapter === qParsed.chapter &&
+            qParsed.vStart >= r.parsed.vStart &&
+            qParsed.vEnd <= r.parsed.vEnd
+          );
+          if (found) hit = found.entry;
+        }
+      }
+
       if (hit) {
-        const it = hit.item;
-        const greekText = it.greek_text || it.greek || it.text_greek || it.greek_nfc || it.text || "—";
-        const verdict = String(it.verdict || it.status || "PASS").toUpperCase();
-        const failedArr = Array.isArray(it.failed_criteria) ? it.failed_criteria : [];
-        return {
-          title: it.reference || it.ref || q,
-          anchor: it.anchor || it.id || low,
-          verdict,
-          excluded: false,
-          corpus: String(hit.corpus).toUpperCase(),
-          greek: greekText,
-          sourceFile: hit.sourceFile,
-          failedCriteria: failedArr.length ? failedArr.join(", ") : (verdict === "PASS" ? "None" : "Check record"),
-          failedSet: new Set(failedArr),
-          reason: it.summary || it.rationale || it.notes || "Verified against stored JSON corpus entry."
-        };
+        return buildFromStoreEntry(hit, q);
       }
 
+      const fallbackReason = "No citation, no claim: passage not found in loaded JSON store entries or requires local Flask/AI engine.";
       return {
         title: q, anchor: "Unresolved.StoreLookup", verdict: "FAIL", excluded: false,
-        corpus: "NO_CITATION_FAIL_CLOSED", greek: "—", sourceFile: "store/ (no verified anchor)",
-        failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]),
-        reason: "No citation, no claim: passage not found in loaded JSON store entries or requires local Flask/AI engine."
+        corpus: "NO_CITATION_FAIL_CLOSED", greek: "—", english: "", sourceFile: "store/ (no verified anchor)",
+        failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]), reasons: [fallbackReason], defaultReason: fallbackReason
       };
     }
 
     function renderReadout(res) {
-      const rows = CRITERIA.map((name, idx) => {
+      const rows = (res.perCriterion || CRITERIA.map((name, idx) => {
         const id = idx + 1;
-        const failed = res.excluded || res.failedSet.has(id);
-        const statusBadge = failed
+        const failed = res.excluded || (res.failedSet && res.failedSet.has(id));
+        return {
+          num: id,
+          name,
+          status: failed ? "FAIL" : "PASS",
+          rationale: failed ? res.defaultReason : "Satisfies criterion in verified store record."
+        };
+      })).map(r => {
+        const statusBadge = r.status === "FAIL"
           ? `<span class="badge badge-fail">FAIL</span>`
           : `<span class="badge badge-pass">PASS</span>`;
-        const rationale = failed ? res.reason : "Satisfies criterion in verified store record.";
-        return `<tr><td>${id}</td><td><strong>${escapeHtml(name)}</strong></td><td>${statusBadge}</td><td>${escapeHtml(rationale)}</td></tr>`;
+        return `<tr><td>${r.num}</td><td><strong>${escapeHtml(r.name)}</strong></td><td>${statusBadge}</td><td>${escapeHtml(r.rationale)}</td></tr>`;
       }).join("");
+
+      const reasonsHtml = (res.reasons || []).map(x => `<li>${escapeHtml(x)}</li>`).join("");
+      const engHtml = res.english ? `<div class="eng-box">${escapeHtml(res.english)}</div>` : "";
 
       document.getElementById("resultArea").innerHTML = `
         <div class="card">
@@ -362,13 +435,14 @@
             <span class="badge badge-info">CORPUS: ${escapeHtml(res.corpus)}</span>
           </div>
           <div class="greek-box">${escapeHtml(res.greek)}</div>
+          ${engHtml}
           <div class="grid-3">
             <div class="stat"><div class="stat-label">Source File</div><div class="stat-val">${escapeHtml(res.sourceFile)}</div></div>
             <div class="stat"><div class="stat-label">Failed Criteria</div><div class="stat-val">${escapeHtml(res.failedCriteria)}</div></div>
             <div class="stat"><div class="stat-label">Schema Version</div><div class="stat-val">1.0.0</div></div>
           </div>
           <h4 style="margin:12px 0 6px;">Failure / Gate Reasons:</h4>
-          <ul style="margin:0 0 18px; padding-left:20px;"><li>${escapeHtml(res.reason)}</li></ul>
+          <ul style="margin:0 0 18px; padding-left:20px;">${reasonsHtml}</ul>
           <h4 style="margin:0 0 8px;">10-Point Criteria Evaluations</h4>
           <table>
             <thead><tr><th>#</th><th>Criterion</th><th>Status</th><th>Rationale</th></tr></thead>
