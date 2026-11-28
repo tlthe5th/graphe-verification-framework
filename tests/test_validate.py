@@ -211,7 +211,7 @@ def test_logos_gloss_and_bracket_cleanup() -> None:
 
     cleaned = clean_english_gloss("[4God 3was 1the 2word].")
     assert "[" not in cleaned and "]" not in cleaned
-    assert cleaned == "God was the word."
+    assert cleaned == "the word was God."
 
     formatted = format_logos_gloss("ἐν ἀρχῇ ἦν ὁ λόγος", "In beginning was the word")
     assert "λόγος (logic/reason)" in formatted
@@ -224,3 +224,28 @@ def test_unverified_criteria_do_not_pass() -> None:
     evals = build_default_criteria("John 3:16")
     assert all(v["status"] == "UNVERIFIED" for v in evals.values())
     assert any(v["status"] == "PASS" for v in evals.values()) is False
+
+
+def test_rejects_kjv_phrasing() -> None:
+    """Ensure KJV-style phrasing is flagged while ABP wording passes."""
+    from validate import find_forbidden_kjv_phrases
+
+    kjv_sample = "For God so loved the world, that He gave His only begotten Son, that whosoever believes in Him..."
+    hits = find_forbidden_kjv_phrases(kjv_sample)
+    assert "only begotten" in hits
+    assert "whosoever" in hits
+
+    abp_sample = "For thus God loved the world, so that he gave his only born son, that all believing in him..."
+    assert find_forbidden_kjv_phrases(abp_sample) == []
+
+
+def test_greek_prefix_join_and_english_bracket_order() -> None:
+    """Ensure split Greek prefixes like 'απ οληται' rejoin and numbered brackets reorder cleanly."""
+    from extract_abp_nt_clean import _polish_greek_output, clean_english_gloss
+
+    polished = _polish_greek_output("μη απ οληται αλλ' ἔξη")
+    assert "αποληται" in polished
+    assert "απ οληται" not in polished
+
+    reordered = clean_english_gloss("so that [4son 2his 3only born 1he gave].")
+    assert reordered == "so that he gave his only born son."

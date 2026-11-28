@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 from judge_10pt import CACHE_PATH, FRAMEWORK_VERSION, load_cache, save_cache
-from validate import normalize_nfc, verify_passage
+from validate import find_forbidden_kjv_phrases, normalize_nfc, verify_passage
 
 STORE_DIRS = [Path("store/lxx"), Path("store/nt")]
 
@@ -127,13 +127,22 @@ def judge_via_framework(rec: Dict[str, Any], force_rejudge: bool = False) -> Dic
 def format_for_ai(results: List[Dict[str, Any]]) -> str:
     blocks = []
     for r in results:
+        eng_text = str(r.get("english_translation") or "")
+        kjv_hits = find_forbidden_kjv_phrases(eng_text)
+        unverified_ids = [
+            c.get("criterion_id")
+            for c in (r.get("criteria_evaluations") or [])
+            if str(c.get("status", "")).upper() == "UNVERIFIED"
+        ]
         lines = [
             f"REFERENCE: {r.get('reference')} ({r.get('verse_anchor')})",
             f"SOURCE: {r.get('source_file')}",
             f"OVERALL_VERDICT: {r.get('overall_verdict')}",
             f"FAILED_CRITERIA: {r.get('failed_criteria')}",
+            f"UNVERIFIED_CRITERIA: {unverified_ids}",
+            f"KJV_PHRASE_FLAGS: {kjv_hits}",
             f"FAILURE_REASONS: {r.get('failure_reasons')}",
-            f"ENGLISH: {r.get('english_translation')}",
+            f"ENGLISH: {eng_text}",
         ]
         cites = r.get("citations") or []
         if cites:

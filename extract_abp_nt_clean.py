@@ -119,9 +119,26 @@ def merge_greek_chunks(chunks: list[tuple[float, float, str]]) -> str:
     return unicodedata.normalize("NFC", joined).strip()
 
 def clean_english_gloss(text: str) -> str:
-    """Strip ABP word-order numbers inside brackets while preserving English words."""
+    """Strip or apply ABP word-order numbers inside brackets while preserving English words."""
     def _strip_order_nums(match: re.Match[str]) -> str:
-        inner = match.group(1)
+        inner = match.group(1).strip()
+        if not inner:
+            return ""
+        # Split on leading rank numbers like '1word 2other' or '1 word 2 other'
+        rank_matches = list(re.finditer(r"(?:^|\s+)(\d+)\s*", inner))
+        if len(rank_matches) >= 2:
+            segments: list[tuple[int, int, str]] = []
+            for idx, m in enumerate(rank_matches):
+                rank_val = int(m.group(1))
+                seg_start = m.end()
+                seg_end = rank_matches[idx + 1].start() if idx + 1 < len(rank_matches) else len(inner)
+                seg_txt = re.sub(r"\b\d+\b", "", inner[seg_start:seg_end]).strip()
+                if seg_txt:
+                    segments.append((rank_val, idx, seg_txt))
+            if segments:
+                ordered = [seg_txt for _, _, seg_txt in sorted(segments, key=lambda item: (item[0], item[1]))]
+                return " ".join(ordered)
+
         inner_clean = re.sub(r"(?:^|\s+)\d+(?=\s+)", " ", inner)
         inner_clean = re.sub(r"(?:^|\s+)\d+(?=[A-Za-z])", " ", inner_clean)
         inner_clean = re.sub(r"\b\d+\b", "", inner_clean)
@@ -191,9 +208,46 @@ def group_into_rows(spans: list[SpanItem], y_tol: float = 3.5) -> list[list[Span
 
 
 
+_GREEK_SPLIT_PREFIXES = (
+    "απ",
+    "ἀπ",
+    "ἁπ",
+    "εξ",
+    "ἐξ",
+    "εκ",
+    "ἐκ",
+    "συν",
+    "σὺν",
+    "κατα",
+    "κατ",
+    "παρα",
+    "παρ",
+    "δια",
+    "δι",
+    "μετα",
+    "μετ",
+    "προ",
+    "υπερ",
+    "ὑπὲρ",
+    "υπο",
+    "ὑπ",
+    "ανα",
+    "ἀν",
+    "επι",
+    "ἐπ",
+)
+
+
 def _polish_greek_output(text: str) -> str:
     cleaned = re.sub(r"\bΞριστ", "Χριστ", text)
     cleaned = re.sub(r"(\b[\u0370-\u03FF\u1F00-\u1FFF]{2,})\s+([υη])\b", r"\1\2", cleaned)
+    prefix_alt = "|".join(sorted((re.escape(p) for p in _GREEK_SPLIT_PREFIXES), key=len, reverse=True))
+    cleaned = re.sub(
+        rf"(?<![\u0370-\u03FF\u1F00-\u1FFF])({prefix_alt})\s+([\u0370-\u03FF\u1F00-\u1FFF]{{3,}})",
+        r"\1\2",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
     return re.sub(r"\s{2,}", " ", cleaned).strip()
 
 

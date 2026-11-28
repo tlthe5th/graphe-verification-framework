@@ -749,6 +749,33 @@ def verify_passage(query: str) -> dict[str, Any]:
     return payload
 
 
+
+FORBIDDEN_KJV_PHRASES: tuple[str, ...] = (
+    "only begotten",
+    "whosoever",
+    "whoever believes",
+)
+
+_KJV_PHRASE_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = tuple(
+    (
+        phrase,
+        re.compile(
+            r"\b" + r"\s+".join(re.escape(part) for part in phrase.split()) + r"\b",
+            re.IGNORECASE,
+        ),
+    )
+    for phrase in FORBIDDEN_KJV_PHRASES
+)
+
+
+def find_forbidden_kjv_phrases(text: str) -> list[str]:
+    """Return any forbidden KJV-style phrases matched in text (case-insensitive)."""
+    if not text:
+        return []
+    normalized = " ".join(unicodedata.normalize("NFC", text).split())
+    return [phrase for phrase, pat in _KJV_PHRASE_PATTERNS if pat.search(normalized)]
+
+
 def _enforce_schema_or_raise(validator: Draft202012Validator, payload: dict[str, Any]) -> None:
     """Validate payload against schema/analysis.json or raise a clear VerificationEngineError."""
     errors = sorted(validator.iter_errors(payload), key=lambda err: list(err.path))

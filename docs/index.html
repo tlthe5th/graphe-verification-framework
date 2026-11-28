@@ -159,10 +159,10 @@
     <div id="resultArea"></div>
 
     <div class="card">
-      <h3 style="margin:0 0 6px;">Optional Live AI Engine (/ask)</h3>
-      <div class="meta" style="margin-bottom:8px;">Connects to a running OvertPsyops AI Engine endpoint if available (CORS required).</div>
+      <h3 style="margin:0 0 6px;">Optional Live AI Engine (/ask) · <span class="meta" style="font-weight:normal;">Local Developer Mode (Local Only)</span></h3>
+      <div class="meta" style="margin-bottom:8px;">Local developer mode: defaults to 127.0.0.1:8000 on your own machine only (not hosted publicly yet). Public visitors require a hosted HTTPS endpoint with CORS allowing tlthe5th.github.io.</div>
       <div class="ai-box">
-        <input id="apiUrl" type="text" value="http://127.0.0.1:8000/ask" />
+        <input id="apiUrl" type="text" value="http://127.0.0.1:8000/ask" aria-label="Local AI Engine /ask endpoint URL" />
         <button type="button" id="askAiBtn">Ask Live AI</button>
       </div>
       <div id="aiResult"></div>
