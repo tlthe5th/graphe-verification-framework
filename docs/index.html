@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Γραφή (Graphē) Verification Framework</title>
+  <style>
+    :root {
+      --bg: #0b0f17;
+      --panel: #121826;
+      --panel-2: #182032;
+      --border: #263248;
+      --text: #e6edf7;
+      --muted: #9aa7bd;
+      --accent: #4da3ff;
+      --fail: #7f1d1d;
+      --fail-border: #dc2626;
+      --fail-text: #fecaca;
+      --pass: #14532d;
+      --pass-border: #22c55e;
+      --pass-text: #bbf7d0;
+      --warn: #422006;
+      --warn-border: #f59e0b;
+      --warn-text: #fde68a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 28px 18px 60px;
+    }
+    .container { max-width: 980px; margin: 0 auto; }
+    h1 { margin: 0 0 6px; font-size: 1.85rem; }
+    .subtitle { color: var(--muted); margin: 0 0 6px; }
+    .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+    hr { border: 0; border-top: 1px solid var(--border); margin: 18px 0 24px; }
+    .search-row { display: flex; gap: 10px; flex-wrap: wrap; }
+    input[type="text"] {
+      flex: 1;
+      min-width: 240px;
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+      font-size: 1rem;
+    }
+    button {
+      background: var(--accent);
+      color: #071321;
+      border: 0;
+      border-radius: 8px;
+      padding: 12px 18px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+    }
+    button:hover { filter: brightness(1.08); }
+    .samples { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+    .samples span { color: var(--muted); font-size: 0.88rem; margin-right: 4px; }
+    .chip {
+      background: var(--panel-2);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 0.84rem;
+      font-weight: 500;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-top: 22px;
+    }
+    .badges { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px; }
+    .badge {
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      border: 1px solid transparent;
+    }
+    .badge-fail { background: var(--fail); border-color: var(--fail-border); color: var(--fail-text); }
+    .badge-pass { background: var(--pass); border-color: var(--pass-border); color: var(--pass-text); }
+    .badge-warn { background: var(--warn); border-color: var(--warn-border); color: var(--warn-text); }
+    .badge-info { background: var(--panel-2); border-color: var(--border); color: var(--text); }
+    .greek-box {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      font-size: 1.25rem;
+      margin: 12px 0 16px;
+    }
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .stat {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px;
+    }
+    .stat-label { font-size: 0.74rem; color: var(--muted); text-transform: uppercase; }
+    .stat-val { font-size: 1rem; font-weight: 700; margin-top: 4px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { text-align: left; padding: 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; }
+    .ai-box { margin-top: 14px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    .ai-box input { flex: 1; min-width: 220px; padding: 8px 12px; font-size: 0.88rem; }
+    .ai-out {
+      white-space: pre-wrap;
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px;
+      margin-top: 12px;
+      font-size: 0.92rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Γραφή (Graphē) Verification Framework</h1>
+    <p class="subtitle">Fail-closed, citation-enforced scripture verification readout across LXX and NT stores using a 10-point audit.</p>
+    <div class="meta">Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) · Strict NFC · Exclusions Checked First</div>
+    <hr />
+
+    <form class="search-row" id="verifyForm">
+      <input id="queryInput" type="text" placeholder="Enter English or Greek reference (e.g., John 6:63 or Ἰωάννης 6:63)" required />
+      <button type="submit">Verify Passage</button>
+    </form>
+
+    <div class="samples">
+      <span>Samples:</span>
+      <button type="button" class="chip" data-q="John 6:63">John 6:63</button>
+      <button type="button" class="chip" data-q="2 Timothy 3:16-17">2 Timothy 3:16-17</button>
+      <button type="button" class="chip" data-q="Hebrews 4:12">Hebrews 4:12 (Excluded)</button>
+      <button type="button" class="chip" data-q="John 7:53-8:11">John 7:53-8:11 (Excluded)</button>
+      <button type="button" class="chip" data-q="Deut 20:16-18">Deut 20:16-18 (Fail)</button>
+      <button type="button" class="chip" data-q="Song of Solomon 10:10">Song of Solomon 10:10</button>
+    </div>
+
+    <div id="resultArea"></div>
+
+    <div class="card">
+      <h3 style="margin:0 0 6px;">Optional Live AI Engine (/ask)</h3>
+      <div class="meta" style="margin-bottom:8px;">Connects to a running OvertPsyops AI Engine endpoint if available (CORS required).</div>
+      <div class="ai-box">
+        <input id="apiUrl" type="text" value="http://127.0.0.1:8000/ask" />
+        <button type="button" id="askAiBtn">Ask Live AI</button>
+      </div>
+      <div id="aiResult"></div>
+    </div>
+  </div>
+
+  <script>
+    const EXCLUDED_BOOKS = {
+      "song of solomon": { anchor: "ExcludedBook.SongofSolomon", greek: "Ἆσμα Ἀσμάτων", failed: [5,6,7,8], reason: "Excluded from scripture verification basis: composition dated centuries after Solomon with historical debates over canonicity, fails the 2 Timothy 3:16–17 and multi-witness living-word tests, and is never cited by Ἰησοῦς Χριστός or the apostles." },
+      "song of songs": { anchor: "ExcludedBook.SongofSolomon", greek: "Ἆσμα Ἀσμάτων", failed: [5,6,7,8], reason: "Excluded from scripture verification basis: composition dated centuries after Solomon with historical debates over canonicity, fails the 2 Timothy 3:16–17 and multi-witness living-word tests, and is never cited by Ἰησοῦς Χριστός or the apostles." },
+      "hebrews": { anchor: "ExcludedBook.Hebrews", greek: "Πρὸς Ἑβραίους", failed: [5,8,9], reason: "Excluded book gate triggered: disputed authorship/canonical basis and fails strict multi-witness verification." },
+      "jude": { anchor: "ExcludedBook.Jude", greek: "Ἰούδα", failed: [5,8], reason: "Excluded book gate triggered: cites non-canonical/pseudepigraphal tradition and excluded from verification basis." },
+      "james": { anchor: "ExcludedBook.James", greek: "Ἰακώβου", failed: [5,8], reason: "Excluded book gate triggered: excluded from primary verification basis per framework rules." },
+      "revelation": { anchor: "ExcludedBook.Revelation", greek: "Ἀποκάλυψις Ἰωάννου", failed: [5,8], reason: "Excluded book gate triggered: excluded from primary verification basis per framework rules." }
+    };
+
+    const EXCLUDED_PASSAGES = [
+      { match: "john 7:53", anchor: "ExcludedPassage.John.7.53-8.11", greek: "Καὶ ἐπορεύθησαν ἕκαστος εἰς τὸν οἶκον αὐτοῦ", failed: [4,5], reason: "Pericope adulterae (John 7:53–8:11) absent from earliest Greek witnesses and flagged by exclusion gate." },
+      { match: "deut 20:16", anchor: "ExcludedPassage.Deut.20.16-18", greek: "Δευτερονόμιον 20:16–18", failed: [7,9,10], reason: "Fails Χριστός character match (John 14:9; Luke 9:55–56) and Πνεῦμα fruit test (Galatians 5:22–23)." },
+      { match: "deuteronomy 20:16", anchor: "ExcludedPassage.Deut.20.16-18", greek: "Δευτερονόμιον 20:16–18", failed: [7,9,10], reason: "Fails Χριστός character match (John 14:9; Luke 9:55–56) and Πνεῦμα fruit test (Galatians 5:22–23)." }
+    ];
+
+    const KNOWN_PASSAGES = {
+      "john 6:63": {
+        title: "John 6:63",
+        anchor: "NT.John.6.63",
+        verdict: "PASS",
+        corpus: "NT_GOSPELS",
+        greek: "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.",
+        sourceFile: "store/nt/gospels.json",
+        failedCriteria: "None",
+        reason: "Verified against critical Greek text and multi-witness living λόγος criteria."
+      },
+      "2 timothy 3:16-17": {
+        title: "2 Timothy 3:16–17",
+        anchor: "NT.2Tim.3.16-17",
+        verdict: "PASS",
+        corpus: "NT_PAUL",
+        greek: "Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ",
+        sourceFile: "store/nt/paul.json",
+        failedCriteria: "None",
+        reason: "Verified against critical Greek text and framework criteria."
+      }
+    };
+
+    const CRITERIA = [
+      "Pattern Consistency",
+      "Narrative Coherence",
+      "Who Benefits?",
+      "Structural Integrity",
+      "Manuscript and Historical Evidence",
+      "The 2 Timothy 3:16–17 Test",
+      "Living Word Multi-Witness Test",
+      "Ἰησοῦς Χριστός / Apostolic Citation Test",
+      "Χριστός Character Match",
+      "Πνεῦμα Fruit Test"
+    ];
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, s => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[s]));
+    }
+
+    function evaluateQuery(raw) {
+      const q = raw.trim().normalize("NFC");
+      const low = q.toLowerCase();
+
+      for (const p of EXCLUDED_PASSAGES) {
+        if (low.includes(p.match)) {
+          return {
+            title: q,
+            anchor: p.anchor,
+            verdict: "FAIL",
+            excluded: true,
+            corpus: "EXCLUDED_PERICOPE",
+            greek: p.greek,
+            sourceFile: "gate/exclusions.json",
+            failedCriteria: p.failed.join(", "),
+            failedSet: new Set(p.failed),
+            reason: p.reason
+          };
+        }
+      }
+
+      for (const [bookKey, info] of Object.entries(EXCLUDED_BOOKS)) {
+        if (low.startsWith(bookKey + " ") || low === bookKey) {
+          return {
+            title: q,
+            anchor: info.anchor,
+            verdict: "FAIL",
+            excluded: true,
+            corpus: "EXCLUDED_UNKNOWN",
+            greek: info.greek,
+            sourceFile: "gate/exclusions.json",
+            failedCriteria: info.failed.join(", "),
+            failedSet: new Set(info.failed),
+            reason: info.reason
+          };
+        }
+      }
+
+      if (KNOWN_PASSAGES[low]) {
+        const k = KNOWN_PASSAGES[low];
+        return { ...k, excluded: false, failedSet: new Set() };
+      }
+
+      return {
+        title: q,
+        anchor: "Unresolved.StoreLookup",
+        verdict: "FAIL",
+        excluded: false,
+        corpus: "NO_CITATION_FAIL_CLOSED",
+        greek: "—",
+        sourceFile: "store/ (no verified anchor)",
+        failedCriteria: "All (Fail-Closed)",
+        failedSet: new Set([1,2,3,4,5,6,7,8,9,10]),
+        reason: "No citation, no claim: passage not found in verified browser store or requires full local/API verification engine."
+      };
+    }
+
+    function renderReadout(res) {
+      const rows = CRITERIA.map((name, idx) => {
+        const id = idx + 1;
+        const failed = res.excluded || res.failedSet.has(id);
+        const statusBadge = failed
+          ? `<span class="badge badge-fail">FAIL</span>`
+          : `<span class="badge badge-pass">PASS</span>`;
+        const rationale = failed ? res.reason : "Satisfies criterion in verified store record.";
+        return `<tr><td>${id}</td><td><strong>${escapeHtml(name)}</strong></td><td>${statusBadge}</td><td>${escapeHtml(rationale)}</td></tr>`;
+      }).join("");
+
+      document.getElementById("resultArea").innerHTML = `
+        <div class="card">
+          <h2 style="margin:0 0 4px;">${escapeHtml(res.title)}</h2>
+          <div class="meta" style="margin:0;">Query: ${escapeHtml(res.title)} · Anchor: ${escapeHtml(res.anchor)}</div>
+          <div class="badges">
+            <span class="badge ${res.verdict === "PASS" ? "badge-pass" : "badge-fail"}">VERDICT: ${escapeHtml(res.verdict)}</span>
+            ${res.excluded ? `<span class="badge badge-warn">EXCLUDED</span>` : ""}
+            <span class="badge badge-info">CORPUS: ${escapeHtml(res.corpus)}</span>
+          </div>
+          <div class="greek-box">${escapeHtml(res.greek)}</div>
+          <div class="grid-3">
+            <div class="stat"><div class="stat-label">Source File</div><div class="stat-val">${escapeHtml(res.sourceFile)}</div></div>
+            <div class="stat"><div class="stat-label">Failed Criteria</div><div class="stat-val">${escapeHtml(res.failedCriteria)}</div></div>
+            <div class="stat"><div class="stat-label">Schema Version</div><div class="stat-val">1.0.0</div></div>
+          </div>
+          <h4 style="margin:12px 0 6px;">Failure / Gate Reasons:</h4>
+          <ul style="margin:0 0 18px; padding-left:20px;"><li>${escapeHtml(res.reason)}</li></ul>
+          <h4 style="margin:0 0 8px;">10-Point Criteria Evaluations</h4>
+          <table>
+            <thead><tr><th>#</th><th>Criterion</th><th>Status</th><th>Rationale</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+      `;
+    }
+
+    document.getElementById("verifyForm").addEventListener("submit", e => {
+      e.preventDefault();
+      renderReadout(evaluateQuery(document.getElementById("queryInput").value));
+    });
+
+    document.querySelectorAll(".chip").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const q = btn.getAttribute("data-q");
+        document.getElementById("queryInput").value = q;
+        renderReadout(evaluateQuery(q));
+      });
+    });
+
+    document.getElementById("askAiBtn").addEventListener("click", async () => {
+      const q = document.getElementById("queryInput").value.trim() || "John 6:63";
+      const url = document.getElementById("apiUrl").value.trim();
+      const out = document.getElementById("aiResult");
+      out.innerHTML = `<div class="ai-out">Querying ${escapeHtml(url)}...</div>`;
+      try {
+        const r = await fetch(url, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question: q })
+        });
+        const data = await r.json();
+        out.innerHTML = `<div class="ai-out">${escapeHtml(data.answer || JSON.stringify(data, null, 2))}</div>`;
+      } catch (err) {
+        out.innerHTML = `<div class="ai-out">Could not reach live AI endpoint (${escapeHtml(err.message)}). Deterministic browser readout remains active above.</div>`;
+      }
+    });
+
+    renderReadout(evaluateQuery("Song of Solomon 10:10"));
+  </script>
+</body>
+</html>
