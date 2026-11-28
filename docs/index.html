@@ -132,7 +132,7 @@
   <div class="container">
     <h1>Γραφή (Graphē) Verification Framework</h1>
     <p class="subtitle">Fail-closed, citation-enforced scripture verification readout across LXX and NT stores using a 10-point audit.</p>
-    <div class="meta">Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) · Strict NFC · Exclusions Checked First</div>
+    <div class="meta" id="storeStatus">Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) · Strict NFC · Exclusions Checked First · Loading repo stores...</div>
     <hr />
 
     <form class="search-row" id="verifyForm">
@@ -147,7 +147,7 @@
       <button type="button" class="chip" data-q="Hebrews 4:12">Hebrews 4:12 (Excluded)</button>
       <button type="button" class="chip" data-q="John 7:53-8:11">John 7:53-8:11 (Excluded)</button>
       <button type="button" class="chip" data-q="Deut 20:16-18">Deut 20:16-18 (Fail)</button>
-      <button type="button" class="chip" data-q="Song of Solomon 10:10">Song of Solomon 10:10</button>
+      <button type="button" class="chip" data-q="Luke 60:43">Luke 60:43 (Invalid Ref)</button>
     </div>
 
     <div id="resultArea"></div>
@@ -164,6 +164,52 @@
   </div>
 
   <script>
+    const CHAPTER_COUNTS = {
+      "genesis": 50, "exodus": 40, "leviticus": 27, "numbers": 36, "deuteronomy": 34, "deut": 34,
+      "joshua": 24, "judges": 21, "ruth": 4, "1 samuel": 31, "2 samuel": 24,
+      "1 kings": 22, "2 kings": 25, "1 chronicles": 29, "2 chronicles": 36,
+      "ezra": 10, "nehemiah": 13, "esther": 10, "job": 42, "psalms": 150, "psalm": 150,
+      "proverbs": 31, "ecclesiastes": 12, "song of solomon": 8, "isaiah": 66, "jeremiah": 52,
+      "lamentations": 5, "ezekiel": 48, "daniel": 12, "hosea": 14, "joel": 3, "amos": 9,
+      "obadiah": 1, "jonah": 4, "micah": 7, "nahum": 3, "habakkuk": 3, "zephaniah": 3,
+      "haggai": 2, "zechariah": 14, "malachi": 4,
+      "matthew": 28, "mark": 16, "luke": 24, "john": 21, "acts": 28, "romans": 16,
+      "1 corinthians": 16, "2 corinthians": 13, "galatians": 6, "ephesians": 6,
+      "philippians": 4, "colossians": 4, "1 thessalonians": 5, "2 thessalonians": 3,
+      "1 timothy": 6, "2 timothy": 4, "titus": 3, "philemon": 1, "hebrews": 13,
+      "james": 5, "1 peter": 5, "2 peter": 3, "1 john": 5, "2 john": 1, "3 john": 1,
+      "jude": 1, "revelation": 22
+    };
+
+    const STORE_FILES = [
+      "../store/nt/gospels.json",
+      "../store/nt/paul.json",
+      "../store/nt/acts.json",
+      "../store/nt/john_letters.json",
+      "../store/nt/peter.json",
+      "../store/lxx/genesis.json",
+      "../store/lxx/exodus.json",
+      "../store/lxx/leviticus.json",
+      "../store/lxx/numbers.json",
+      "../store/lxx/deuteronomy.json",
+      "../store/lxx/psalms.json",
+      "../store/lxx/proverbs.json",
+      "../store/lxx/isaiah.json"
+    ];
+
+    let CRITERIA = [
+      "Pattern Consistency",
+      "Narrative Coherence",
+      "Who Benefits?",
+      "Structural Integrity",
+      "Manuscript and Historical Evidence",
+      "The 2 Timothy 3:16–17 Test",
+      "Living Word Multi-Witness Test",
+      "Ἰησοῦς Χριστός / Apostolic Citation Test",
+      "Χριστός Character Match",
+      "Πνεῦμα Fruit Test"
+    ];
+
     const EXCLUDED_BOOKS = {
       "song of solomon": { anchor: "ExcludedBook.SongofSolomon", greek: "Ἆσμα Ἀσμάτων", failed: [5,6,7,8], reason: "Excluded from scripture verification basis: composition dated centuries after Solomon with historical debates over canonicity, fails the 2 Timothy 3:16–17 and multi-witness living-word tests, and is never cited by Ἰησοῦς Χριστός or the apostles." },
       "song of songs": { anchor: "ExcludedBook.SongofSolomon", greek: "Ἆσμα Ἀσμάτων", failed: [5,6,7,8], reason: "Excluded from scripture verification basis: composition dated centuries after Solomon with historical debates over canonicity, fails the 2 Timothy 3:16–17 and multi-witness living-word tests, and is never cited by Ἰησοῦς Χριστός or the apostles." },
@@ -179,63 +225,71 @@
       { match: "deuteronomy 20:16", anchor: "ExcludedPassage.Deut.20.16-18", greek: "Δευτερονόμιον 20:16–18", failed: [7,9,10], reason: "Fails Χριστός character match (John 14:9; Luke 9:55–56) and Πνεῦμα fruit test (Galatians 5:22–23)." }
     ];
 
-    const KNOWN_PASSAGES = {
-      "john 6:63": {
-        title: "John 6:63",
-        anchor: "NT.John.6.63",
-        verdict: "PASS",
-        corpus: "NT_GOSPELS",
-        greek: "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.",
-        sourceFile: "store/nt/gospels.json",
-        failedCriteria: "None",
-        reason: "Verified against critical Greek text and multi-witness living λόγος criteria."
-      },
-      "2 timothy 3:16-17": {
-        title: "2 Timothy 3:16–17",
-        anchor: "NT.2Tim.3.16-17",
-        verdict: "PASS",
-        corpus: "NT_PAUL",
-        greek: "Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ",
-        sourceFile: "store/nt/paul.json",
-        failedCriteria: "None",
-        reason: "Verified against critical Greek text and framework criteria."
-      }
-    };
+    const passageIndex = new Map();
+    let loadedStoreCount = 0;
 
-    const CRITERIA = [
-      "Pattern Consistency",
-      "Narrative Coherence",
-      "Who Benefits?",
-      "Structural Integrity",
-      "Manuscript and Historical Evidence",
-      "The 2 Timothy 3:16–17 Test",
-      "Living Word Multi-Witness Test",
-      "Ἰησοῦς Χριστός / Apostolic Citation Test",
-      "Χριστός Character Match",
-      "Πνεῦμα Fruit Test"
-    ];
+    function normalizeRef(s) {
+      return String(s || "").trim().normalize("NFC").toLowerCase().replace(/\s+/g, " ");
+    }
 
     function escapeHtml(str) {
       return String(str).replace(/[&<>"']/g, s => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[s]));
     }
 
+    function checkChapterBounds(rawQuery) {
+      const m = rawQuery.trim().match(/^([1-3]?\s*[A-Za-zÀ-ÖØ-öø-ÿ\s]+?)\s+(\d+)(?::(\d+)(?:-\d+)?)?$/);
+      if (!m) return null;
+      const book = normalizeRef(m[1]);
+      const chapter = parseInt(m[2], 10);
+      const maxCh = CHAPTER_COUNTS[book];
+      if (maxCh && chapter > maxCh) {
+        return `${m[1].trim()} only has ${maxCh} chapters; chapter ${chapter} does not exist in canon.`;
+      }
+      return null;
+    }
+
+    async function loadRepoData() {
+      try {
+        const rulesResp = await fetch("../gate/rules.json");
+        if (rulesResp.ok) {
+          const rulesData = await rulesResp.json();
+          if (Array.isArray(rulesData.criteria) && rulesData.criteria.length) {
+            CRITERIA = rulesData.criteria.map(c => c.title || c.name || String(c));
+          }
+        }
+      } catch (_) {}
+
+      for (const path of STORE_FILES) {
+        try {
+          const resp = await fetch(path);
+          if (!resp.ok) continue;
+          const data = await resp.json();
+          const list = Array.isArray(data) ? data : (Array.isArray(data.passages) ? data.passages : []);
+          if (!list.length) continue;
+          loadedStoreCount += 1;
+          for (const item of list) {
+            const keys = [item.reference, item.ref, item.passage, item.citation, item.anchor, item.id].filter(Boolean);
+            for (const k of keys) {
+              passageIndex.set(normalizeRef(k), { item, sourceFile: path.replace(/^\.\.\//, ""), corpus: data.corpus || "STORE" });
+            }
+          }
+        } catch (_) {}
+      }
+
+      const statusEl = document.getElementById("storeStatus");
+      statusEl.textContent = `Methodology: Tommy Richards (SpirituallySmart.com / OvertPsyops.ai) · Strict NFC · Exclusions Checked First · Loaded ${loadedStoreCount} store files (${passageIndex.size} indexed keys)`;
+    }
+
     function evaluateQuery(raw) {
       const q = raw.trim().normalize("NFC");
-      const low = q.toLowerCase();
+      const low = normalizeRef(q);
 
       for (const p of EXCLUDED_PASSAGES) {
         if (low.includes(p.match)) {
           return {
-            title: q,
-            anchor: p.anchor,
-            verdict: "FAIL",
-            excluded: true,
-            corpus: "EXCLUDED_PERICOPE",
-            greek: p.greek,
-            sourceFile: "gate/exclusions.json",
-            failedCriteria: p.failed.join(", "),
-            failedSet: new Set(p.failed),
-            reason: p.reason
+            title: q, anchor: p.anchor, verdict: "FAIL", excluded: true,
+            corpus: "EXCLUDED_PERICOPE", greek: p.greek, sourceFile: "gate/exclusions.json",
+            failedCriteria: p.failed.join(", "), failedSet: new Set(p.failed), reason: p.reason
           };
         }
       }
@@ -243,36 +297,47 @@
       for (const [bookKey, info] of Object.entries(EXCLUDED_BOOKS)) {
         if (low.startsWith(bookKey + " ") || low === bookKey) {
           return {
-            title: q,
-            anchor: info.anchor,
-            verdict: "FAIL",
-            excluded: true,
-            corpus: "EXCLUDED_UNKNOWN",
-            greek: info.greek,
-            sourceFile: "gate/exclusions.json",
-            failedCriteria: info.failed.join(", "),
-            failedSet: new Set(info.failed),
-            reason: info.reason
+            title: q, anchor: info.anchor, verdict: "FAIL", excluded: true,
+            corpus: "EXCLUDED_UNKNOWN", greek: info.greek, sourceFile: "gate/exclusions.json",
+            failedCriteria: info.failed.join(", "), failedSet: new Set(info.failed), reason: info.reason
           };
         }
       }
 
-      if (KNOWN_PASSAGES[low]) {
-        const k = KNOWN_PASSAGES[low];
-        return { ...k, excluded: false, failedSet: new Set() };
+      const boundsErr = checkChapterBounds(q);
+      if (boundsErr) {
+        return {
+          title: q, anchor: "InvalidReference.BoundsGate", verdict: "FAIL", excluded: false,
+          corpus: "EXISTENCE_GATE_FAIL", greek: "—", sourceFile: "canon bounds gate",
+          failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]), reason: boundsErr
+        };
+      }
+
+      const hit = passageIndex.get(low);
+      if (hit) {
+        const it = hit.item;
+        const greekText = it.greek_text || it.greek || it.text_greek || it.greek_nfc || it.text || "—";
+        const verdict = String(it.verdict || it.status || "PASS").toUpperCase();
+        const failedArr = Array.isArray(it.failed_criteria) ? it.failed_criteria : [];
+        return {
+          title: it.reference || it.ref || q,
+          anchor: it.anchor || it.id || low,
+          verdict,
+          excluded: false,
+          corpus: String(hit.corpus).toUpperCase(),
+          greek: greekText,
+          sourceFile: hit.sourceFile,
+          failedCriteria: failedArr.length ? failedArr.join(", ") : (verdict === "PASS" ? "None" : "Check record"),
+          failedSet: new Set(failedArr),
+          reason: it.summary || it.rationale || it.notes || "Verified against stored JSON corpus entry."
+        };
       }
 
       return {
-        title: q,
-        anchor: "Unresolved.StoreLookup",
-        verdict: "FAIL",
-        excluded: false,
-        corpus: "NO_CITATION_FAIL_CLOSED",
-        greek: "—",
-        sourceFile: "store/ (no verified anchor)",
-        failedCriteria: "All (Fail-Closed)",
-        failedSet: new Set([1,2,3,4,5,6,7,8,9,10]),
-        reason: "No citation, no claim: passage not found in verified browser store or requires full local/API verification engine."
+        title: q, anchor: "Unresolved.StoreLookup", verdict: "FAIL", excluded: false,
+        corpus: "NO_CITATION_FAIL_CLOSED", greek: "—", sourceFile: "store/ (no verified anchor)",
+        failedCriteria: "All (Fail-Closed)", failedSet: new Set([1,2,3,4,5,6,7,8,9,10]),
+        reason: "No citation, no claim: passage not found in loaded JSON store entries or requires local Flask/AI engine."
       };
     }
 
@@ -344,7 +409,9 @@
       }
     });
 
-    renderReadout(evaluateQuery("Song of Solomon 10:10"));
+    loadRepoData().then(() => {
+      renderReadout(evaluateQuery("John 6:63"));
+    });
   </script>
 </body>
 </html>
