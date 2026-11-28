@@ -1,0 +1,3826 @@
+{
+  "corpus": "lxx",
+  "book_english": "Nahum",
+  "book_greek": "Ναούμ",
+  "source_file": "store/lxx/nahum.json",
+  "passages": [
+    {
+      "reference": "Nahum 1:1",
+      "greek_reference": "Ναούμ 1:1",
+      "verse_anchor": "Nah.1.1",
+      "greek_text": "λημμα Νινευ+ βιβλ ιον ὅρασεως",
+      "english_translation": "The concern for Nineveh. The scroll of the vision",
+      "morphology": [
+        {
+          "surface_form": "λημμα",
+          "lemma": "λημμα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.1"
+        },
+        {
+          "surface_form": "βιβλ",
+          "lemma": "βιβλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.1"
+        },
+        {
+          "surface_form": "ιον",
+          "lemma": "ιον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.1"
+        },
+        {
+          "surface_form": "ὅρασεως",
+          "lemma": "ὅρασεως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:2",
+      "greek_reference": "Ναούμ 1:2",
+      "verse_anchor": "Nah.1.2",
+      "greek_text": "Ναο υμ του Ελκεσα ιου θεος ζηλωτ ης και εκδικων κυριος εκδικων κυριος μετα θυμο υ εκδικων κυριος τους υπεναντ ιους αυτο υ και",
+      "english_translation": "of Nahum the Elkoshite. God is jealous, and the is punishing; the is punishing with rage. The is punishing his adversaries, and",
+      "morphology": [
+        {
+          "surface_form": "Ναο",
+          "lemma": "Ναο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.2"
+        },
+        {
+          "surface_form": "υμ",
+          "lemma": "υμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.2"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.2"
+        },
+        {
+          "surface_form": "Ελκεσα",
+          "lemma": "Ελκεσα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:3",
+      "greek_reference": "Ναούμ 1:3",
+      "verse_anchor": "Nah.1.3",
+      "greek_text": "εχαιρων αυτος τους εξθρους αυτο υ κυριος μακρὅθυμος και μεγἄλη η ισξὔς αυτὅυ και αθωον ουκ αθω ωσει κυριος εν συντελε ια και εν συσσεισμ ω η οδος αυτο υ και",
+      "english_translation": "lifting away himself of his enemies. The is lenient, and great is his strength, and [3 one as innocent 2will not acquit the]. [2 is by 3consummation 4and 5by 6a rumbling 1His way], and",
+      "morphology": [
+        {
+          "surface_form": "εχαιρων",
+          "lemma": "εχαιρων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.3"
+        },
+        {
+          "surface_form": "αυτος",
+          "lemma": "αυτος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.3"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.3"
+        },
+        {
+          "surface_form": "εξθρους",
+          "lemma": "εξθρους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:4",
+      "greek_reference": "Ναούμ 1:4",
+      "verse_anchor": "Nah.1.4",
+      "greek_text": "νεφἔλαι κονιορτὅς ποδὤν αυτὅυ απειλὤν θαλ ασση και χηρα ινων αυτην και παντας τους ποταμο υς εχερημὤν ωλιγὤθη η Βασανἴτις και ο Καρμηλος και τα εχανθο υντα του Λιβ ανου",
+      "english_translation": "the clouds are the dust of his feet; pressing together the sea, and drying it, and [2all 3the 4rivers 1making quite desolate]. [4are lessened 1Bashan 2and 3Carmel], and the blossoming of Lebanon",
+      "morphology": [
+        {
+          "surface_form": "νεφἔλαι",
+          "lemma": "νεφἔλαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.4"
+        },
+        {
+          "surface_form": "κονιορτὅς",
+          "lemma": "κονιορτὅς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.4"
+        },
+        {
+          "surface_form": "ποδὤν",
+          "lemma": "ποδὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.4"
+        },
+        {
+          "surface_form": "αυτὅυ",
+          "lemma": "αυτὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:5",
+      "greek_reference": "Ναούμ 1:5",
+      "verse_anchor": "Nah.1.5",
+      "greek_text": "εχ ελιπε τα ὅρη εσεισθησαν απ' αυτο υ και οι βουνὅι εσαλἔυθησαν και ανεστἄλη η γη απ ο προς ωπου αυτο υ η ςυμπασα και παντες",
+      "english_translation": "failed. The mountains shake from him, and the hills are shaken. And [3rises upwards 1the 2earth] from his presence – the whole, and all",
+      "morphology": [
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.5"
+        },
+        {
+          "surface_form": "ελιπε",
+          "lemma": "ελιπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.5"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.5"
+        },
+        {
+          "surface_form": "ὅρη",
+          "lemma": "ὅρη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:6",
+      "greek_reference": "Ναούμ 1:6",
+      "verse_anchor": "Nah.1.6",
+      "greek_text": "οι κατοικο υντες εν αυτη απ ο προς ωπου οργης αυτο υ τις υποστ ησεται και τις αντιστ ησεται εν οργη θυμο υ αυτο υ ο θυμ ος αυτο υ τ ηκει αρξἄς και αι πἔτραι διεθρὔβησαν απ' αυτὅυ",
+      "english_translation": "the ones dwelling in it. From in front of his anger who shall stand? And who shall withstand in the anger of his rage? His rage melts away sovereignties, and the rocks are broken because of him.",
+      "morphology": [
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.6"
+        },
+        {
+          "surface_form": "κατοικο",
+          "lemma": "κατοικο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.6"
+        },
+        {
+          "surface_form": "υντες",
+          "lemma": "υντες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.6"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:7",
+      "greek_reference": "Ναούμ 1:7",
+      "verse_anchor": "Nah.1.7",
+      "greek_text": "ξρηστ ος κυριος τοις υπομ ενουσιν αυτον εν ημ ερα θλιψεως και γινωσκων τους ευλαβουμ ενους",
+      "english_translation": "Gracious is the to the ones waiting on him in a day of affliction; and he is knowing the ones venerating",
+      "morphology": [
+        {
+          "surface_form": "ξρηστ",
+          "lemma": "ξρηστ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.7"
+        },
+        {
+          "surface_form": "ος",
+          "lemma": "ος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.7"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.7"
+        },
+        {
+          "surface_form": "τοις",
+          "lemma": "τοις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:8",
+      "greek_reference": "Ναούμ 1:8",
+      "verse_anchor": "Nah.1.8",
+      "greek_text": "αυτὅν και εν κατακλυσμὤ πορἔιας συντἔλειαν ποιησεται τους επεγειρομ ενους και τους",
+      "english_translation": "him. And by a flood coursing [2a consummation 1he shall execute] of the ones rousing up; and",
+      "morphology": [
+        {
+          "surface_form": "αυτὅν",
+          "lemma": "αυτὅν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.8"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.8"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.8"
+        },
+        {
+          "surface_form": "κατακλυσμὤ",
+          "lemma": "κατακλυσμὤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:9",
+      "greek_reference": "Ναούμ 1:9",
+      "verse_anchor": "Nah.1.9",
+      "greek_text": "εξθρους αυτο υ δι ωχεται σκ οτος τι λογιζεσθε επι τον κυριον συντ ελειαν αυτος ποἴησεται ουκ εκδικἤσει δις επἴ το αυτὅ",
+      "english_translation": "[3his enemies 2shall pursue 1darkness]. What do you devise against the? [3a consummation 1He himself 2will make]. He will not punish twice for the same thing",
+      "morphology": [
+        {
+          "surface_form": "εξθρους",
+          "lemma": "εξθρους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.9"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.9"
+        },
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.9"
+        },
+        {
+          "surface_form": "ωχεται",
+          "lemma": "ωχεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:10",
+      "greek_reference": "Ναούμ 1:10",
+      "verse_anchor": "Nah.1.10",
+      "greek_text": "εν θλιψει οτι ἔως θεμελ ιου αυτο υ ξερσωθ ησεται και ως σμ ιλαχ περιπλεκ ομενη βρωθ ησεται και ως καλ αμη χηρανθ ησεται",
+      "english_translation": "with affliction. For the enemy [2unto 3his foundation 1will be made barren], and as a yew tree being twisted he shall be devoured, and as stubble he shall be dried up",
+      "morphology": [
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.10"
+        },
+        {
+          "surface_form": "θλιψει",
+          "lemma": "θλιψει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.10"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.10"
+        },
+        {
+          "surface_form": "ἔως",
+          "lemma": "ἔως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:11",
+      "greek_reference": "Ναούμ 1:11",
+      "verse_anchor": "Nah.1.11",
+      "greek_text": "μεστ η εκ σου εχελευσεται λογισμ ος κατα του κυριου πονηρ α βουλευ ομενος εναντια",
+      "english_translation": "full. From out of you shall come forth a device against the, [2wicked things 1planning] adverse to him.",
+      "morphology": [
+        {
+          "surface_form": "μεστ",
+          "lemma": "μεστ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.11"
+        },
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.11"
+        },
+        {
+          "surface_form": "σου",
+          "lemma": "σου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.11"
+        },
+        {
+          "surface_form": "εχελευσεται",
+          "lemma": "εχελευσεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:12",
+      "greek_reference": "Ναούμ 1:12",
+      "verse_anchor": "Nah.1.12",
+      "greek_text": "τ αδε λεγει κυριος καταρξ ων υδατων πολλ ων και ὅυτως διασταλἤσονται και η ακὅη σου",
+      "english_translation": "Thus says the who rules many waters; And so they shall be drawn apart, and the report of you",
+      "morphology": [
+        {
+          "surface_form": "αδε",
+          "lemma": "αδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.12"
+        },
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.12"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.12"
+        },
+        {
+          "surface_form": "καταρξ",
+          "lemma": "καταρξ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:13",
+      "greek_reference": "Ναούμ 1:13",
+      "verse_anchor": "Nah.1.13",
+      "greek_text": "ουκ ενακουσθ ησεται ἔτι και νυν συντρἴψω την ρἄβδον αυτὅυ απὅ σου και τους δεσμὅυς",
+      "english_translation": "shall not be listened to attentively any longer. And now I will break his rod from you, and the bonds",
+      "morphology": [
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.13"
+        },
+        {
+          "surface_form": "ενακουσθ",
+          "lemma": "ενακουσθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.13"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.13"
+        },
+        {
+          "surface_form": "ἔτι",
+          "lemma": "ἔτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:14",
+      "greek_reference": "Ναούμ 1:14",
+      "verse_anchor": "Nah.1.14",
+      "greek_text": "διαρρἤχω και εντελἔιται περἴ σου κυριος ου σπαρ ησεται εκ του ονὅματὅς σου ἔτι εχ οικου θεου σου εχολοθρε υσω τα γλυπτ α και ξωνευτἄ θἤσομαι ταφἤν σου",
+      "english_translation": "I will tear up. And [2shall give charge 3concerning 4you the], saying, There shall not be sown the report of your name any longer from out of the house of your god. I will utterly destroy the carved images, and the molten images. I will establish for your burial, See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "διαρρἤχω",
+          "lemma": "διαρρἤχω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.14"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.14"
+        },
+        {
+          "surface_form": "εντελἔιται",
+          "lemma": "εντελἔιται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.14"
+        },
+        {
+          "surface_form": "περἴ",
+          "lemma": "περἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 1:15",
+      "greek_reference": "Ναούμ 1:15",
+      "verse_anchor": "Nah.1.15",
+      "greek_text": "ὅτι ταξεις ιδο υ επι τα ὅρη οι ποδες ευαγγελιζομ ενου και απαγγ ελλοντος ειρ ηνην ε ορταζε Ιο υδα τας εορτας σου απ οδος τας ευξας σου δι οτι ου μη προσθ ωσιν ἔτι του διελθειν δἴα σου εις παλἄιωσιν",
+      "english_translation": "and that quickly. Behold upon the mountains the feet announcing good news, and reporting peace. Solemnize, O Judah, your holidays! Render your vows! for in no way should they proceed any longer to go through you, for they should have grown old. See Bos for variants. See Rm. 10:15.",
+      "morphology": [
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.15"
+        },
+        {
+          "surface_form": "ταξεις",
+          "lemma": "ταξεις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.15"
+        },
+        {
+          "surface_form": "ιδο",
+          "lemma": "ιδο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.15"
+        },
+        {
+          "surface_form": "επι",
+          "lemma": "επι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:1",
+      "greek_reference": "Ναούμ 2:1",
+      "verse_anchor": "Nah.2.1",
+      "greek_text": "συντετ ελεσται ανηλωται ανἔβη εμφυσὤν εις πρὅσωπὅν σου εχαιρουμενος εκ θλιψεως σκ οπευσον ὅδον κρατησον οσφ υος ἄνδρισαι τη ισξυι σφ οδρα Μ αυτο ι φευγοντες ουκ ἔστησαν και ουκ ην",
+      "english_translation": "He has been finished, he has been consumed, [4ascended 5breathing 6in 7your face the one being lifted away 2from out of 3affliction]. Watch the way! Hold the loin! Be [2manly in 4strength 1very]! See Bos for variants. they fleeing did not stand, and there was not",
+      "morphology": [
+        {
+          "surface_form": "συντετ",
+          "lemma": "συντετ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.1"
+        },
+        {
+          "surface_form": "ελεσται",
+          "lemma": "ελεσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.1"
+        },
+        {
+          "surface_form": "ανηλωται",
+          "lemma": "ανηλωται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.1"
+        },
+        {
+          "surface_form": "ανἔβη",
+          "lemma": "ανἔβη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:2",
+      "greek_reference": "Ναούμ 2:2",
+      "verse_anchor": "Nah.2.2",
+      "greek_text": "δι οτι απ εστρεψε κυριος την ὔβριν Ιακωβ καθ ως ὔβριν του Ισρα ηλ δι οτι εκτινασσοντες εχετ ιναχαν αυτο υς και τα κληματα αυτων δι εφθειραν",
+      "english_translation": "For the perverted the insolence of Jacob, as the insolence of Israel. For the ones shaking off shook them off, and [2their vine branches 1ruined].",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.2"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.2"
+        },
+        {
+          "surface_form": "απ",
+          "lemma": "απ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.2"
+        },
+        {
+          "surface_form": "εστρεψε",
+          "lemma": "εστρεψε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:3",
+      "greek_reference": "Ναούμ 2:3",
+      "verse_anchor": "Nah.2.3",
+      "greek_text": "ὅπλα δυναστε ιας αυτο υ εχ ανθρ ωπων ἄνδρας δυνατὅυς εμπἄιζοντας εν πυρἴ αι ηνἴαι των αρμ ατων αυτων εν ημ ερα ετοιμας ιας αυτο υ και οι",
+      "english_translation": "The weapons of his command from out of men [2men are mighty] mocking with fire. The reins of their chariots in the day of his preparation, and the",
+      "morphology": [
+        {
+          "surface_form": "ὅπλα",
+          "lemma": "ὅπλα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.3"
+        },
+        {
+          "surface_form": "δυναστε",
+          "lemma": "δυναστε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.3"
+        },
+        {
+          "surface_form": "ιας",
+          "lemma": "ιας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.3"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:4",
+      "greek_reference": "Ναούμ 2:4",
+      "verse_anchor": "Nah.2.4",
+      "greek_text": "ιππἔις θορυβηθἤσονται εν ταις οδὅις συγξυθ ησονται τα ἄρματα και συμπλακ ησονται εν ταις πλατε ιαις η ὅρασις αυτων ως λαμπ αδες",
+      "english_translation": "horsemen shall be making a disruption. In the ways [3shall be in tumult 1the 2chariots], and shall be closely joined in the squares; the sight of them is as lamps",
+      "morphology": [
+        {
+          "surface_form": "ιππἔις",
+          "lemma": "ιππἔις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.4"
+        },
+        {
+          "surface_form": "θορυβηθἤσονται",
+          "lemma": "θορυβηθἤσονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.4"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.4"
+        },
+        {
+          "surface_form": "ταις",
+          "lemma": "ταις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:5",
+      "greek_reference": "Ναούμ 2:5",
+      "verse_anchor": "Nah.2.5",
+      "greek_text": "πυρ ος και ως αστραπα ι διατρεξουσαι και μνησθ ησονται οι μεγιστ ανες αυτων και φευχονται ημ ερας και ασθεν ησουσιν εν τη πορε ια αυτων και σπε υσουσιν επι τα τε ιξη και ετοιμασουσι",
+      "english_translation": "of fire, and as lightnings running across. And [2shall be remembering 1their great men], and shall flee by day. And they shall be weak in their goings, and shall hasten unto the walls, and shall prepare",
+      "morphology": [
+        {
+          "surface_form": "πυρ",
+          "lemma": "πυρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.5"
+        },
+        {
+          "surface_form": "ος",
+          "lemma": "ος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.5"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:6",
+      "greek_reference": "Ναούμ 2:6",
+      "verse_anchor": "Nah.2.6",
+      "greek_text": "τας προφυλακ ας αυτων πυλαι των πολεων",
+      "english_translation": "[2advance guards 1their]. Gates of the cities",
+      "morphology": [
+        {
+          "surface_form": "τας",
+          "lemma": "τας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.6"
+        },
+        {
+          "surface_form": "προφυλακ",
+          "lemma": "προφυλακ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.6"
+        },
+        {
+          "surface_form": "ας",
+          "lemma": "ας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.6"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:7",
+      "greek_reference": "Ναούμ 2:7",
+      "verse_anchor": "Nah.2.7",
+      "greek_text": "διηνὅιξθησαν και τα βασἴλεια δἴεπεσε και η υπ οστασις απεκαλ υφθη και ἄυτη ανεβαινε και αι δουλαι αυτης ἤγοντο καθ ως περιστερα ι",
+      "english_translation": "were opened wide, and the palaces fell into ruin. And the support was uncovered, and she ascended. And her bondwomen were led away as doves,",
+      "morphology": [
+        {
+          "surface_form": "διηνὅιξθησαν",
+          "lemma": "διηνὅιξθησαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.7"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.7"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.7"
+        },
+        {
+          "surface_form": "βασἴλεια",
+          "lemma": "βασἴλεια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:8",
+      "greek_reference": "Ναούμ 2:8",
+      "verse_anchor": "Nah.2.8",
+      "greek_text": "φθεγγ ομεναι εν καρδ ιαις αυτων και Νινευ+ ως κολυμβ ηθρα ὔδατος τα ὔδατα αυτἤς και",
+      "english_translation": "uttering sounds in their hearts. And Nineveh – [2 are as 3a pool 4of water 1her waters]. And",
+      "morphology": [
+        {
+          "surface_form": "φθεγγ",
+          "lemma": "φθεγγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.8"
+        },
+        {
+          "surface_form": "ομεναι",
+          "lemma": "ομεναι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.8"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.8"
+        },
+        {
+          "surface_form": "καρδ",
+          "lemma": "καρδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:9",
+      "greek_reference": "Ναούμ 2:9",
+      "verse_anchor": "Nah.2.9",
+      "greek_text": "ο επιβλ επων δι ηρπαζον το αργ υριον δἴηρπαζον το ξρυσἴον και ουκ ην πἔρας του κοσμου αυτης βεβ αρυνται υπ ερ παντα",
+      "english_translation": "the one paying attention. They plundered the silver. They plundered the gold. And there was not a limit to her decoration. They have been weighed down by all",
+      "morphology": [
+        {
+          "surface_form": "επιβλ",
+          "lemma": "επιβλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.9"
+        },
+        {
+          "surface_form": "επων",
+          "lemma": "επων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.9"
+        },
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.9"
+        },
+        {
+          "surface_form": "ηρπαζον",
+          "lemma": "ηρπαζον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:10",
+      "greek_reference": "Ναούμ 2:10",
+      "verse_anchor": "Nah.2.10",
+      "greek_text": "τα σκἔυη τα επιθυμητἄ αυτἤς εκτιναγμὅς και ανατιναγμ ος και εκβρασμ ος και καρδ ιας θραυσμ ος και υπὅλυσις γονἄτων και ωδἴνες επἴ πἄσαν οσφὔν και το προσωπον παντων ως προσκαυμα ξυτρας",
+      "english_translation": "[2items 1her desirable]; thrusting, and violent shaking, and eruption, and heart breaking, and loosening of the knees, and pangs on every loin, and the face of all as a burning earthen pot.",
+      "morphology": [
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.10"
+        },
+        {
+          "surface_form": "σκἔυη",
+          "lemma": "σκἔυη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.10"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.10"
+        },
+        {
+          "surface_form": "επιθυμητἄ",
+          "lemma": "επιθυμητἄ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:11",
+      "greek_reference": "Ναούμ 2:11",
+      "verse_anchor": "Nah.2.11",
+      "greek_text": "που ἔστι το κατοικητἤριον των λἔοντων και η νομ η η ουσα τοις σκ υμνοις που επορἔυθη λἔων του εισελθἔιν εκἔι σκὔμνος",
+      "english_translation": "Where is the home of the lions, and the pasture, the one being to the cubs? Where [2go did the lion], for [3to enter 4there 2cub",
+      "morphology": [
+        {
+          "surface_form": "που",
+          "lemma": "που",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.11"
+        },
+        {
+          "surface_form": "ἔστι",
+          "lemma": "ἔστι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.11"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.11"
+        },
+        {
+          "surface_form": "κατοικητἤριον",
+          "lemma": "κατοικητἤριον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:12",
+      "greek_reference": "Ναούμ 2:12",
+      "verse_anchor": "Nah.2.12",
+      "greek_text": "λεοντος και ουκ ην ο εκφοβ ων λεων ἤρπασε τα ικανἄ τοις σκὔμνοις αυτὅυ και απ επνιχε τοις λεουσιν αυτο υ και ἔπλησε θηρας νοσσι αν αυτο υ και το κατοικητ ηριον αυτο υ",
+      "english_translation": "the lion], and there was not the one frightening? The lion seized by force the things fit for his cubs, and choked prey for his young lions, and filled [2 with game 1his nest], and his home",
+      "morphology": [
+        {
+          "surface_form": "λεοντος",
+          "lemma": "λεοντος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.12"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.12"
+        },
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.12"
+        },
+        {
+          "surface_form": "ην",
+          "lemma": "ην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 2:13",
+      "greek_reference": "Ναούμ 2:13",
+      "verse_anchor": "Nah.2.13",
+      "greek_text": "αρπαγ ης ιδο υ εγω επι σε λεγει κυριος παντοκρ ατωρ και εκκα υσω εν καπν ω πληθ ος σου και τους λεοντας σου καταφ αγεται ρομφα ια και εχολοθρε υσω εκ της γης την θἤραν σου και ου μη ακουσθἤ ἔτι τα ἔργα σου μαξαιρα",
+      "english_translation": "of things of seizure. Behold, I am against you, says the almighty. And I will burn away [3in 4smoke 2multitude 1your], and your lions I will devour by the broadsword. And I will utterly destroy [2from out of 3the 4land 1your game], and in no way should [2be heard of 3yet 1your works]. - sword.",
+      "morphology": [
+        {
+          "surface_form": "αρπαγ",
+          "lemma": "αρπαγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.13"
+        },
+        {
+          "surface_form": "ης",
+          "lemma": "ης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.13"
+        },
+        {
+          "surface_form": "ιδο",
+          "lemma": "ιδο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.13"
+        },
+        {
+          "surface_form": "εγω",
+          "lemma": "εγω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.2.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:1",
+      "greek_reference": "Ναούμ 3:1",
+      "verse_anchor": "Nah.3.1",
+      "greek_text": "ω πὅλις αιμἄτων ὅλη ψευδἤς αδικἴας πλἤρης",
+      "english_translation": "O city of blood, entirely false, [2of iniquity 1full] –",
+      "morphology": [
+        {
+          "surface_form": "πὅλις",
+          "lemma": "πὅλις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.1"
+        },
+        {
+          "surface_form": "αιμἄτων",
+          "lemma": "αιμἄτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.1"
+        },
+        {
+          "surface_form": "ὅλη",
+          "lemma": "ὅλη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.1"
+        },
+        {
+          "surface_form": "ψευδἤς",
+          "lemma": "ψευδἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:2",
+      "greek_reference": "Ναούμ 3:2",
+      "verse_anchor": "Nah.3.2",
+      "greek_text": "ου ψηλαφηθ ησεται θηρα φων η μαστ ιγων",
+      "english_translation": "[2shall not be handled the game]. The sound of whips,",
+      "morphology": [
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.2"
+        },
+        {
+          "surface_form": "ψηλαφηθ",
+          "lemma": "ψηλαφηθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.2"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.2"
+        },
+        {
+          "surface_form": "θηρα",
+          "lemma": "θηρα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:3",
+      "greek_reference": "Ναούμ 3:3",
+      "verse_anchor": "Nah.3.3",
+      "greek_text": "και φων η σεισμο υ τροξων και ἴππου δι ωκοντος και ἄρματος αναβρ ασσοντος ιππ εως αναβα ινοντος και στιλβὅυσης ρομφἄιας και εχαστραπτὅντων ὅπλων και πλ ηθους τραυματι ων και βαρε ιας πτωσεως και ουκ ην πἔρας τοιςἔθνεσιν αυτἤς και ασθενἤσουσιν εν τοις ςωμασιν αυτων απ ο πλ ηθους πορνε ιας",
+      "english_translation": "and the sound of quaking of wheels, and [2horse the pursuing], and the chariot stirring up; horseman ascending, and of the shining broadsword, and flashing shields, and the multitude of slain, and of a heavy downfall. And there was not a limit to her nations. And they shall be weak in their bodies from a multitude of harlotry –",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.3"
+        },
+        {
+          "surface_form": "φων",
+          "lemma": "φων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.3"
+        },
+        {
+          "surface_form": "σεισμο",
+          "lemma": "σεισμο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.3"
+        },
+        {
+          "surface_form": "τροξων",
+          "lemma": "τροξων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:4",
+      "greek_reference": "Ναούμ 3:4",
+      "verse_anchor": "Nah.3.4",
+      "greek_text": "πορνη καλ η και επιξαρ ης ηγουμ ενη φαρμ ακων η πωλο υσα ἔθνη εν τη πορνε ια αυτης και",
+      "english_translation": "[2harlot 1a good], and gratifying, taking the lead in potions; the one selling nations in her harlotry, and",
+      "morphology": [
+        {
+          "surface_form": "πορνη",
+          "lemma": "πορνη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.4"
+        },
+        {
+          "surface_form": "καλ",
+          "lemma": "καλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.4"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.4"
+        },
+        {
+          "surface_form": "επιξαρ",
+          "lemma": "επιξαρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:5",
+      "greek_reference": "Ναούμ 3:5",
+      "verse_anchor": "Nah.3.5",
+      "greek_text": "φυλἄς εν τοις φαρμἄκοις αυτἤς ιδὅυ εγὤ επἴ σε λεγει κυριος παντοκρ ατωρ και αποκαλ υψω τα οπἴσω σου επἴ το πρὅσωπον σου και δἔιχω ἔθνεσι την αισξὔνην σου και βασιλἔιαις την ατιμἴαν σου",
+      "english_translation": "tribes with her potions. Behold, I am against you, says the almighty. And I will uncover your behind in your presence. And I will show the nations your shame, and to kingdoms your dishonor.",
+      "morphology": [
+        {
+          "surface_form": "φυλἄς",
+          "lemma": "φυλἄς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.5"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.5"
+        },
+        {
+          "surface_form": "τοις",
+          "lemma": "τοις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.5"
+        },
+        {
+          "surface_form": "φαρμἄκοις",
+          "lemma": "φαρμἄκοις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:6",
+      "greek_reference": "Ναούμ 3:6",
+      "verse_anchor": "Nah.3.6",
+      "greek_text": "και επιρριψω επι σε βδελυγμ ον κατα τας ακαθαρσἴας σου και θἤσομἄι σε εις παρἄδειγμα",
+      "english_translation": "And I will cast upon you an abomination according to your uncleannesses. And I will make you for an example.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.6"
+        },
+        {
+          "surface_form": "επιρριψω",
+          "lemma": "επιρριψω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.6"
+        },
+        {
+          "surface_form": "επι",
+          "lemma": "επι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.6"
+        },
+        {
+          "surface_form": "σε",
+          "lemma": "σε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:7",
+      "greek_reference": "Ναούμ 3:7",
+      "verse_anchor": "Nah.3.7",
+      "greek_text": "και ἔσται πας ο ορων σε καταβ ησεται απὅ σου και ερἔι δειλἄια Νινευ+ τις στεναχἔι αυτην ποθεν ζητησω παρ ακλησιν αυτη",
+      "english_translation": "And it will be all the ones seeing you shall go from you, and shall say, Wretched Nineveh, who shall moan her? From what place shall I seek comfort to her?",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.7"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.7"
+        },
+        {
+          "surface_form": "πας",
+          "lemma": "πας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.7"
+        },
+        {
+          "surface_form": "ορων",
+          "lemma": "ορων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:8",
+      "greek_reference": "Ναούμ 3:8",
+      "verse_anchor": "Nah.3.8",
+      "greek_text": "αρμ οσαι ξορδην ετοιμασαι μερις Αμμ ων η κατοικο υσα εν ποταμο ις ὔδωρ κυκλω αυτης ης η ἄρξη θαλασσα και ὔδωρ",
+      "english_translation": "Tune the string of the lyre! Prepare a portion for Amon, the one inhabiting in rivers! Water is round about her, of which the rule is the sea, and [2water See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "αρμ",
+          "lemma": "αρμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.8"
+        },
+        {
+          "surface_form": "οσαι",
+          "lemma": "οσαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.8"
+        },
+        {
+          "surface_form": "ξορδην",
+          "lemma": "ξορδην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.8"
+        },
+        {
+          "surface_form": "ετοιμασαι",
+          "lemma": "ετοιμασαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:9",
+      "greek_reference": "Ναούμ 3:9",
+      "verse_anchor": "Nah.3.9",
+      "greek_text": "τα τε ιξη αυτης Αιθιοπ ια ισξυς αυτης και Ἄιγυπτος και ουκ ἔστη πἔρας της φυγἤς σου Φουδ",
+      "english_translation": "1her walls]. Ethiopia is her strength, and Egypt – and there stood not a limit of your flight into exile; CP & Six. omit.",
+      "morphology": [
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.9"
+        },
+        {
+          "surface_form": "τε",
+          "lemma": "τε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.9"
+        },
+        {
+          "surface_form": "ιξη",
+          "lemma": "ιξη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.9"
+        },
+        {
+          "surface_form": "αυτης",
+          "lemma": "αυτης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:10",
+      "greek_reference": "Ναούμ 3:10",
+      "verse_anchor": "Nah.3.10",
+      "greek_text": "Φουδ και Λ ιβυες εγενοντο βοηθο ι αυτης και αυτἤ εις μετοικεσἴαν πορἔυσεται αιξμἄλωτος και αιξμαλως ια τα νηπια αυτης εδαφιο υσιν επ' αρξ ας πας ων των οδων αυτης και επι παντα τα ἔνδοχα αυτἤς βαλὅυσι κλἤρους και πἄντες οι μεγιστἄνες αυτἤς",
+      "english_translation": "Put and Libya became her helpers. And she [3into 4displacement 1shall go 2captive]; and - captivity. her infants they shall dash upon corners of all her ways; and over all her honorable things they shall cast lots, and all the ones of her great men",
+      "morphology": [
+        {
+          "surface_form": "Φουδ",
+          "lemma": "Φουδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.10"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.10"
+        },
+        {
+          "surface_form": "ιβυες",
+          "lemma": "ιβυες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.10"
+        },
+        {
+          "surface_form": "εγενοντο",
+          "lemma": "εγενοντο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:11",
+      "greek_reference": "Ναούμ 3:11",
+      "verse_anchor": "Nah.3.11",
+      "greek_text": "δεθησονται ξειροπ εδαις και συ μεθυσθ ηση και ἔση παρεωραμ ενη και συ ζητησεις",
+      "english_translation": "shall be tied with manacles. And you shall be intoxicated; and you shall be for overlooking; and you shall seek",
+      "morphology": [
+        {
+          "surface_form": "δεθησονται",
+          "lemma": "δεθησονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.11"
+        },
+        {
+          "surface_form": "ξειροπ",
+          "lemma": "ξειροπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.11"
+        },
+        {
+          "surface_form": "εδαις",
+          "lemma": "εδαις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.11"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:12",
+      "greek_reference": "Ναούμ 3:12",
+      "verse_anchor": "Nah.3.12",
+      "greek_text": "σεαυτἤ στἄσιν εχ εξθρὤν πἄντα τα οξυρ ωματ α σου ως σου καρπο υς ἔξουσα ε αν σαλευθ ωσι πεσο υνται εις στομα",
+      "english_translation": "for yourself a position from out of the enemies. All of your fortresses are as you – [2fruits 1having]. If they should be shaken, they shall fall into the mouth See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "σεαυτἤ",
+          "lemma": "σεαυτἤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.12"
+        },
+        {
+          "surface_form": "στἄσιν",
+          "lemma": "στἄσιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.12"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.12"
+        },
+        {
+          "surface_form": "εξθρὤν",
+          "lemma": "εξθρὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:13",
+      "greek_reference": "Ναούμ 3:13",
+      "verse_anchor": "Nah.3.13",
+      "greek_text": "ἔσθοντος ιδο υ ο λαος σου ως γυνα ικες εν σοι τοις εξθροις σου ανοιγομεναι ανοιξθ ησονται πυλαι της γης σου καταφ αγεται πυρ τους μοξλο υς",
+      "english_translation": "of ones eating. Behold, your people are as women among you to your enemies. By opening [3shall be open the gates 2of your land]; [2shall devour 1fire] the bars",
+      "morphology": [
+        {
+          "surface_form": "ἔσθοντος",
+          "lemma": "ἔσθοντος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.13"
+        },
+        {
+          "surface_form": "ιδο",
+          "lemma": "ιδο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.13"
+        },
+        {
+          "surface_form": "λαος",
+          "lemma": "λαος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.13"
+        },
+        {
+          "surface_form": "σου",
+          "lemma": "σου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:14",
+      "greek_reference": "Ναούμ 3:14",
+      "verse_anchor": "Nah.3.14",
+      "greek_text": "σου ὔδωρ περιοξἤς επἴσπασαι σεαυτ η κατακρ ατησον των οξυρωμ ατων σου ἔμβηθι εις πηλὅν και συμπατἤθητι εν αξὔροις κατακρἄτησον",
+      "english_translation": "of your gates. [2water 4encompassing about 1Draw 3to yourself]! Secure your fortresses! Step into the mortar, and trample it together with straw! Secure it",
+      "morphology": [
+        {
+          "surface_form": "σου",
+          "lemma": "σου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.14"
+        },
+        {
+          "surface_form": "ὔδωρ",
+          "lemma": "ὔδωρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.14"
+        },
+        {
+          "surface_form": "περιοξἤς",
+          "lemma": "περιοξἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.14"
+        },
+        {
+          "surface_form": "επἴσπασαι",
+          "lemma": "επἴσπασαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:15",
+      "greek_reference": "Ναούμ 3:15",
+      "verse_anchor": "Nah.3.15",
+      "greek_text": "υπ ερ πλ ινθον εκει καταφ αγετα ι σε πυρ εχολοθρε υσει σε ρομφα ια καταφ αγετα ι σε ως ακρ ις και βαρυνθ ηση ως",
+      "english_translation": "more than with a brick! There [2shall devour 3you the fire]; [2shall utterly destroy 3you the broadsword]; it shall devour you as a locust, and you shall be oppressed as",
+      "morphology": [
+        {
+          "surface_form": "υπ",
+          "lemma": "υπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.15"
+        },
+        {
+          "surface_form": "ερ",
+          "lemma": "ερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.15"
+        },
+        {
+          "surface_form": "πλ",
+          "lemma": "πλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.15"
+        },
+        {
+          "surface_form": "ινθον",
+          "lemma": "ινθον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:16",
+      "greek_reference": "Ναούμ 3:16",
+      "verse_anchor": "Nah.3.16",
+      "greek_text": "βρουξος επλ ηθυνας τας εμπορ ιας σου υπ ερ τα ἄστρα του ουρανο υ βρουξος ὤρμησε",
+      "english_translation": "a grasshopper. You have multiplied your trade above the stars of the heaven. The grasshopper advanced See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "βρουξος",
+          "lemma": "βρουξος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.16"
+        },
+        {
+          "surface_form": "επλ",
+          "lemma": "επλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.16"
+        },
+        {
+          "surface_form": "ηθυνας",
+          "lemma": "ηθυνας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.16"
+        },
+        {
+          "surface_form": "τας",
+          "lemma": "τας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:17",
+      "greek_reference": "Ναούμ 3:17",
+      "verse_anchor": "Nah.3.17",
+      "greek_text": "και εχεπετασθη εχ ηλατο ως αττελεβος ο συμμικτ ος σου ως ακρ ις επιβεβηκυ ια επι φραγμ ον εν ημ ερα παγους ο ἤλιος ανετειλε και αφ ηλατο και ουκ εγνω τον τ οπον αυτης ουα ι",
+      "english_translation": "and spread forth. [2leaped out 3as the small locust 1Your consolidation]. As the locust mounted upon a fence on [2day 1an icy] – the sun rises, and it hops; and it knows not its place – woe or mixed people.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.17"
+        },
+        {
+          "surface_form": "εχεπετασθη",
+          "lemma": "εχεπετασθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.17"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.17"
+        },
+        {
+          "surface_form": "ηλατο",
+          "lemma": "ηλατο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Nahum 3:18",
+      "greek_reference": "Ναούμ 3:18",
+      "verse_anchor": "Nah.3.18",
+      "greek_text": "αυτὅις ενὔσταχαν οι ποιμἔνες σου βασιλἔυς",
+      "english_translation": "to them. [2slumbered 1Your shepherds], O king",
+      "morphology": [
+        {
+          "surface_form": "αυτὅις",
+          "lemma": "αυτὅις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.18"
+        },
+        {
+          "surface_form": "ενὔσταχαν",
+          "lemma": "ενὔσταχαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.18"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.18"
+        },
+        {
+          "surface_form": "ποιμἔνες",
+          "lemma": "ποιμἔνες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/nahum.json",
+          "verse_anchor": "Nah.3.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Nahum 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3328 @@
+{
+  "corpus": "lxx",
+  "book_english": "Haggai",
+  "book_greek": "Ἀγγαῖος",
+  "source_file": "store/lxx/haggai.json",
+  "passages": [
+    {
+      "reference": "Haggai 1:1",
+      "greek_reference": "Ἀγγαῖος 1:1",
+      "verse_anchor": "Hag.1.1",
+      "greek_text": "εν τω δευτερω ἔτει επι Δαρε ιου του βασιλ εως εν τω μηνἴ τω ἔκτω μἴα του μηνὅς εγἔνετο λογος κυριου εν ξειρι Αγγα ιου του προφ ητου λἔγων ἔιπον προς Ζοροβἄβελ τον του Σαλαθἴηλ εκ φυλ ης Ιο υδα και προς Ιησο υν τον του Ιωσεδ εκ",
+      "english_translation": "In the second year of Darius the king, in the [2month 1sixth], day one of the month, came to pass the word of the by the hand of Haggai the prophet, saying, Say to Zerubbabel the son of Shealtiel, from out of the tribe of Judah, and to Joshua the son of Josedech,",
+      "morphology": [
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.1"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.1"
+        },
+        {
+          "surface_form": "δευτερω",
+          "lemma": "δευτερω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.1"
+        },
+        {
+          "surface_form": "ἔτει",
+          "lemma": "ἔτει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:2",
+      "greek_reference": "Ἀγγαῖος 1:2",
+      "verse_anchor": "Hag.1.2",
+      "greek_text": "τον ιερ εα τον μεγαν λεγων τ αδε λεγει κυριος παντοκρ ατωρ λεγων ο λαος ουτος λεγουσιν ουκ ἤκει ο θἔος τον δυνἄμεων",
+      "english_translation": "the [2priest 1great], saying, Thus says the almighty, saying, This people say, [3 is not 4come - the God of forces.",
+      "morphology": [
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.2"
+        },
+        {
+          "surface_form": "ιερ",
+          "lemma": "ιερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.2"
+        },
+        {
+          "surface_form": "εα",
+          "lemma": "εα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.2"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:3",
+      "greek_reference": "Ἀγγαῖος 1:3",
+      "verse_anchor": "Hag.1.3",
+      "greek_text": "ο καιρος του οικοδομ ησαι τον ὅικον κυριου και εγενετο λογος κυριου εν ξειρι Αγγα ιου του",
+      "english_translation": "1The 2time] to build the house of the. And came to pass the word of the by the hand of Haggai the",
+      "morphology": [
+        {
+          "surface_form": "καιρος",
+          "lemma": "καιρος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.3"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.3"
+        },
+        {
+          "surface_form": "οικοδομ",
+          "lemma": "οικοδομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.3"
+        },
+        {
+          "surface_form": "ησαι",
+          "lemma": "ησαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:4",
+      "greek_reference": "Ἀγγαῖος 1:4",
+      "verse_anchor": "Hag.1.4",
+      "greek_text": "προφ ητου λεγων ει μεν καιρος υμ ιν ἔστι του οικεινεν ὅικοις υμ ων κοιλοστ αθμοις ο δε ὅικος ὅυτος",
+      "english_translation": "prophet, saying, Is [2indeed 3time 4for you 1it] to live in [3houses 1your 2vaulted], but this house See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "προφ",
+          "lemma": "προφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.4"
+        },
+        {
+          "surface_form": "ητου",
+          "lemma": "ητου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.4"
+        },
+        {
+          "surface_form": "λεγων",
+          "lemma": "λεγων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.4"
+        },
+        {
+          "surface_form": "ει",
+          "lemma": "ει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:5",
+      "greek_reference": "Ἀγγαῖος 1:5",
+      "verse_anchor": "Hag.1.5",
+      "greek_text": "εχηρημωται και νυν τ αδε λεγει κυριος παντοκρἄτωρ τἄχατε καρδἴας υμὤν εις τας οδὅυς υμὤν των δυνἄμεων",
+      "english_translation": "has been quite desolate? And now, thus says the almighty, Arrange your hearts for your ways! - of forces et. seq.",
+      "morphology": [
+        {
+          "surface_form": "εχηρημωται",
+          "lemma": "εχηρημωται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.5"
+        },
+        {
+          "surface_form": "νυν",
+          "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.5"
+        },
+        {
+          "surface_form": "αδε",
+          "lemma": "αδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:6",
+      "greek_reference": "Ἀγγαῖος 1:6",
+      "verse_anchor": "Hag.1.6",
+      "greek_text": "εσπε ιρατε πολλ α και εισην εγκατε ολιγα εφαγετε και ουκ εις πλησμονἤν επἴετε και ουκ εις μἔθην περιεβ αλεσθε και ουκ εθερμ ανθητε εν αυτο ις και ο τους μισθο υς συν αγων συν ηγαγεν",
+      "english_translation": "You sowed much, and carried in little; you ate, and not unto fullness; you drank, and not unto intoxication; you clothed yourselves, and were not heated by these; and the one of the ones [2wages 1gathering], gathered them",
+      "morphology": [
+        {
+          "surface_form": "εσπε",
+          "lemma": "εσπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.6"
+        },
+        {
+          "surface_form": "ιρατε",
+          "lemma": "ιρατε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.6"
+        },
+        {
+          "surface_form": "πολλ",
+          "lemma": "πολλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.6"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:7",
+      "greek_reference": "Ἀγγαῖος 1:7",
+      "verse_anchor": "Hag.1.7",
+      "greek_text": "εις δεσμ ον τετρυπημ ενον τ αδε λεγει κυριος παντοκρ ατωρ θεσθε τας καρδ ιας υμ ων εις τας",
+      "english_translation": "in a bundle having holes being made in it. Thus says the almighty, Establish your hearts for",
+      "morphology": [
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.7"
+        },
+        {
+          "surface_form": "δεσμ",
+          "lemma": "δεσμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.7"
+        },
+        {
+          "surface_form": "ον",
+          "lemma": "ον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.7"
+        },
+        {
+          "surface_form": "τετρυπημ",
+          "lemma": "τετρυπημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:8",
+      "greek_reference": "Ἀγγαῖος 1:8",
+      "verse_anchor": "Hag.1.8",
+      "greek_text": "οδὅυς υμὤν ανἄβητε εις το ὅρος και κὅψατε χ υλα και οικοδομ ησετε τον ὅικον και ευδοκ ησω εν",
+      "english_translation": "your ways! Ascend into the mountain, and cut wood! And you shall build the house, and I will think well by",
+      "morphology": [
+        {
+          "surface_form": "οδὅυς",
+          "lemma": "οδὅυς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.8"
+        },
+        {
+          "surface_form": "υμὤν",
+          "lemma": "υμὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.8"
+        },
+        {
+          "surface_form": "ανἄβητε",
+          "lemma": "ανἄβητε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.8"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:9",
+      "greek_reference": "Ἀγγαῖος 1:9",
+      "verse_anchor": "Hag.1.9",
+      "greek_text": "αυτω και ενδοχασθ ησομαι ε ιπεν κυριος επεβλ εψατε εις πολλ α και εγενετο ολιγα και εισην εξθη εις τον ὅικον και εχεφυσησα αυτα δι α τουτο τ αδε λεγει κυριος παντοκρ ατωρ ανθ' ων ο οικος μου ἔστιν ερημὅς υμἔις δε δἴωκετε ἔκαστος εις τον ὅικον αυτὅυ",
+      "english_translation": "it, and will be glorified, said the. You looked for much, and there became little; and it was carried into the house, and I blew it away. On account of this, thus says the almighty, Because my house is deserted, and you [2pursue 1each] unto his own house –",
+      "morphology": [
+        {
+          "surface_form": "αυτω",
+          "lemma": "αυτω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.9"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.9"
+        },
+        {
+          "surface_form": "ενδοχασθ",
+          "lemma": "ενδοχασθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.9"
+        },
+        {
+          "surface_form": "ησομαι",
+          "lemma": "ησομαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:10",
+      "greek_reference": "Ἀγγαῖος 1:10",
+      "verse_anchor": "Hag.1.10",
+      "greek_text": "δι α τουτο ανεχει ο ουραν ος απ ο δροσου",
+      "english_translation": "on account of this [3witholds 1the 2heaven] of dew,",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.10"
+        },
+        {
+          "surface_form": "τουτο",
+          "lemma": "τουτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.10"
+        },
+        {
+          "surface_form": "ανεχει",
+          "lemma": "ανεχει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.10"
+        },
+        {
+          "surface_form": "ουραν",
+          "lemma": "ουραν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:11",
+      "greek_reference": "Ἀγγαῖος 1:11",
+      "verse_anchor": "Hag.1.11",
+      "greek_text": "και η γη υποστελε ιται τα εκφ ορια αυτης και επαχω ρομφα ιαν επι την γην και επι τα ὅρη και επι τον ςιτονκαι επι τον οινονκαι επι το ἔλαιον και ὅσα εκφ ερει η γη και επι τους ανθρ ωπους και επι τα κτηνη και επι παντας τους",
+      "english_translation": "and the earth keeps back her resources. And I will bring the broadsword upon the land, and upon the mountains, and upon the grain, and upon the wine, and upon the olive oil, and as much as [3brings forth 1the 2earth], and upon the men, and upon the cattle, and upon all the",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.11"
+        },
+        {
+          "surface_form": "γη",
+          "lemma": "γη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.11"
+        },
+        {
+          "surface_form": "υποστελε",
+          "lemma": "υποστελε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.11"
+        },
+        {
+          "surface_form": "ιται",
+          "lemma": "ιται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:12",
+      "greek_reference": "Ἀγγαῖος 1:12",
+      "verse_anchor": "Hag.1.12",
+      "greek_text": "πὅνους των ξειρὤν αυτὤν και ἤκουσε Ζοροβἄβελ ο του Σαλαθἴηλ εκ φυλἤς Ιὅυδα και Ιησὅυς ο του Ιωσεδ εκ ο ιερε υς ο μεγας και παντες οι καταλοιποι του λαο υ της φων ης κυριου του θεου αυτων και των λογων του Αγγα ιου του προφ ητου καθὅτι εχαπἔστειλεν αυτὅν κὔριος ο θἔος αυτὤν προς αυτὅυς και εφοβἤθη ο λἄος απὅ προσὤπου",
+      "english_translation": "toils of their hands. And they heard (Zerubbabel the son of Shealtiel, from out of the tribe of Judah, and Joshua the son of Josedech, the [2priest 1great], and all the rest of the people), the voice of the their God, and the words of Haggai the prophet, in so far as what [3sent 4him the 2their God] for them. And [3feared 1the 2people] from in front",
+      "morphology": [
+        {
+          "surface_form": "πὅνους",
+          "lemma": "πὅνους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.12"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.12"
+        },
+        {
+          "surface_form": "ξειρὤν",
+          "lemma": "ξειρὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.12"
+        },
+        {
+          "surface_form": "αυτὤν",
+          "lemma": "αυτὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:13",
+      "greek_reference": "Ἀγγαῖος 1:13",
+      "verse_anchor": "Hag.1.13",
+      "greek_text": "κυριου και ε ιπεν Αγγα ιος ο ἄγγελος κυρἴου εν αγγἔλοις κυρἴου ἔιπον τω",
+      "english_translation": "of the. And [5said 1Haggai 2the 3messenger of the] among the messengers of the, Say to the",
+      "morphology": [
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.13"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.13"
+        },
+        {
+          "surface_form": "ιπεν",
+          "lemma": "ιπεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.13"
+        },
+        {
+          "surface_form": "Αγγα",
+          "lemma": "Αγγα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:14",
+      "greek_reference": "Ἀγγαῖος 1:14",
+      "verse_anchor": "Hag.1.14",
+      "greek_text": "λαω εγω ε ιμι μεθ' υμ ων λεγει κυριος και εχἤγειρε κὔριος το πνἔυμα Ζοροβἄβελ του Σαλαθι ηλ εκ φυλ ης Ιο υδα και το πνευμα Ιησο υ του Ιωσεδ εκ του ιερ εως του μεγ αλου και το πνἔυμα των καταλὅιπων του λαὅυ και εισἤλθον και εποιουν τα ἔργα εν τω οικω κυριου παντοκρ ατορος",
+      "english_translation": "people! I am with you, says the. And the awakened the spirit of Zerubbabel, the son of Shealtiel, from out of the tribe of Judah, and the spirit of Joshua the son of Josedech, the [2priest 1great], and the spirit of the rest of the people; and they entered and did the works in the house of the almighty,",
+      "morphology": [
+        {
+          "surface_form": "λαω",
+          "lemma": "λαω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.14"
+        },
+        {
+          "surface_form": "εγω",
+          "lemma": "εγω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.14"
+        },
+        {
+          "surface_form": "ιμι",
+          "lemma": "ιμι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.14"
+        },
+        {
+          "surface_form": "μεθ",
+          "lemma": "μεθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 1:15",
+      "greek_reference": "Ἀγγαῖος 1:15",
+      "verse_anchor": "Hag.1.15",
+      "greek_text": "θεου αυτων τη τετραδι και εικ αδι του μην ος του ἔκτου τω δευτερω ἔτει επι Δαρε ιου του βασιλ εως",
+      "english_translation": "their God, on the fourth and twentieth day of the [2month 1sixth], in the second year of Darius the king.",
+      "morphology": [
+        {
+          "surface_form": "θεου",
+          "lemma": "θεου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.15"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.15"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.15"
+        },
+        {
+          "surface_form": "τετραδι",
+          "lemma": "τετραδι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:1",
+      "greek_reference": "Ἀγγαῖος 2:1",
+      "verse_anchor": "Hag.2.1",
+      "greek_text": "τω εβδομω μην ι μια και εικ αδι του μην ος εγενετο λογος κυριου εν ξειρι",
+      "english_translation": "In the seventh month, one and twentieth day of the month, came to pass the word of the by the hand",
+      "morphology": [
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.1"
+        },
+        {
+          "surface_form": "εβδομω",
+          "lemma": "εβδομω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.1"
+        },
+        {
+          "surface_form": "μην",
+          "lemma": "μην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.1"
+        },
+        {
+          "surface_form": "μια",
+          "lemma": "μια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:2",
+      "greek_reference": "Ἀγγαῖος 2:2",
+      "verse_anchor": "Hag.2.2",
+      "greek_text": "Αγγα ιου του προφ ητου λεγων ε ιπον δη προς Ζοροβἄβελ τον του Σαλαθἴηλ εκ φυλἤς Ιὅυδα και προς Ιησο υν του Ιωσεδ εκ τον ιερ εα τον μεγαν και προς πἄντας τους καταλὅιπους του λαὅυ λἔγων",
+      "english_translation": "of Haggai the prophet, saying, Speak indeed to Zerubbabel the son of Shealtiel, from out of the tribe of Judah, and to Joshua the son of Josedech, the [2priest 1great], and to all the ones left of the people, saying,",
+      "morphology": [
+        {
+          "surface_form": "Αγγα",
+          "lemma": "Αγγα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.2"
+        },
+        {
+          "surface_form": "ιου",
+          "lemma": "ιου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.2"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.2"
+        },
+        {
+          "surface_form": "προφ",
+          "lemma": "προφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:3",
+      "greek_reference": "Ἀγγαῖος 2:3",
+      "verse_anchor": "Hag.2.3",
+      "greek_text": "τις εχ υμ ων ος ε ιδε τον οικον τουτον εν τη δοχη αυτο υ τη ἔμπροσθεν και πως υμε ις βλεπετε αυτον νυν καθ ως ουξ υπ αρξοντα ενωπιον υμ ων",
+      "english_translation": "Who is there from out of you who beheld this house in the [2glory 3of it 1former]? And how do you see it now? Is it as not existing before you?",
+      "morphology": [
+        {
+          "surface_form": "τις",
+          "lemma": "τις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.3"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.3"
+        },
+        {
+          "surface_form": "υμ",
+          "lemma": "υμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.3"
+        },
+        {
+          "surface_form": "ων",
+          "lemma": "ων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:4",
+      "greek_reference": "Ἀγγαῖος 2:4",
+      "verse_anchor": "Hag.2.4",
+      "greek_text": "και νυν κατισξυε Ζοροβ αβελ λεγεικυριος και κατἴσξυε Ιησὅυ ο του Ιωσεδἔκ ο ιερἔυς ο μεγας και κατισξυ ετω πας ο λαος της γης λἔγει κὔριος και ποιειτε δἴοτι εγὤ μεθ' υμὤν ἔιμι",
+      "english_translation": "And now take strength, O Zerubbabel, says the! And take strength, O Joshua, the son of Josedech, the [2priest 1great]! And let [6grow strong 1all 2the 3people 4of the 5land], says the, and act! for I [2with 3you 1am],",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.4"
+        },
+        {
+          "surface_form": "νυν",
+          "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.4"
+        },
+        {
+          "surface_form": "κατισξυε",
+          "lemma": "κατισξυε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.4"
+        },
+        {
+          "surface_form": "Ζοροβ",
+          "lemma": "Ζοροβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:5",
+      "greek_reference": "Ἀγγαῖος 2:5",
+      "verse_anchor": "Hag.2.5",
+      "greek_text": "λεγει κυριος παντοκρ ατωρ τον λογον ον διεθ εμην υμ ιν εν τω εχελθειν υμ ας απ ο Αιγυπτου και το πνἔυμἄ μου εφἔστηκεν εν μἔσω υμὤν θαρσἔιτε",
+      "english_translation": "says the almighty. The word which I ordained with you in your coming forth from Egypt, and my spirit I have set in the midst of you – take courage! See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.5"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.5"
+        },
+        {
+          "surface_form": "παντοκρ",
+          "lemma": "παντοκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.5"
+        },
+        {
+          "surface_form": "ατωρ",
+          "lemma": "ατωρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:6",
+      "greek_reference": "Ἀγγαῖος 2:6",
+      "verse_anchor": "Hag.2.6",
+      "greek_text": "δι οτι τ αδε λεγει κυριος παντοκρ ατωρ ἔτι ἄπαχ εγω σεισω τον ουραν ον και την γην και την θαλασσαν Γ Γ και πλ ησω τον οικον τουτον δοχης λεγει κυριος",
+      "english_translation": "For thus says the almighty, Still once I will shake the heaven, and the earth, and the sea, See Heb. 12:26. and I will fill this house with glory, says the",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.6"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.6"
+        },
+        {
+          "surface_form": "αδε",
+          "lemma": "αδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.6"
+        },
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:7",
+      "greek_reference": "Ἀγγαῖος 2:7",
+      "verse_anchor": "Hag.2.7",
+      "greek_text": "και την χηρἄν και συσσἔισω πἄντα τα ἔθνη και ἤχει τα εκλεκτ α παντων των εθνων",
+      "english_translation": "and the dry land. And I will shake all the nations; and [6shall come 1the 2chosen ones 3of all 4the 5nations];",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.7"
+        },
+        {
+          "surface_form": "την",
+          "lemma": "την",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.7"
+        },
+        {
+          "surface_form": "χηρἄν",
+          "lemma": "χηρἄν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.7"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:8",
+      "greek_reference": "Ἀγγαῖος 2:8",
+      "verse_anchor": "Hag.2.8",
+      "greek_text": "παντοκρ ατωρ εμον το αργ υριον και εμον το Ι Σ μιανθἤσεται ἔνεκεν των λημμἄτων αυτὤν των ορθρινων οδυνηθ ησονται απ ο προς ωπου πονηρι ων αυτων και εμισε ιτε τους εν θυραις",
+      "english_translation": "almighty. Mine is the silver, and mine is the shall be defiled. Because of their concerns of the early morning burdens they shall grieve from in front of their wickednesses, and you detested the ones [2at the doors",
+      "morphology": [
+        {
+          "surface_form": "παντοκρ",
+          "lemma": "παντοκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.8"
+        },
+        {
+          "surface_form": "ατωρ",
+          "lemma": "ατωρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.8"
+        },
+        {
+          "surface_form": "εμον",
+          "lemma": "εμον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.8"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:9",
+      "greek_reference": "Ἀγγαῖος 2:9",
+      "verse_anchor": "Hag.2.9",
+      "greek_text": "ξρυσἴον λἔγει κὔριος παντοκρἄτωρ δἴοτιμεγἄλη ἔσται η δοχα του οικου τουτου η εσξ ατη υπ ερ την πρωτην λεγει κὔριος παντοκρἄτωρ και εν τω τὅπω τὅυτω δὤσω ειρ ηνην λεγεικυριος παντοκρ ατωρ και ειρ ηνην ψυξ ης εις περιπὅιησιν παντἴ τω κτἴζοντιτου αναστἤσαι τον ναον τουτον",
+      "english_translation": "gold, says the almighty. For great will be the glory of this house, the last one above the first, says the almighty. And in this place I will establish peace, says the almighty; even peace of soul for the procurement to every one creating to raise up this temple. — CP omits.",
+      "morphology": [
+        {
+          "surface_form": "ξρυσἴον",
+          "lemma": "ξρυσἴον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.9"
+        },
+        {
+          "surface_form": "λἔγει",
+          "lemma": "λἔγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.9"
+        },
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.9"
+        },
+        {
+          "surface_form": "παντοκρἄτωρ",
+          "lemma": "παντοκρἄτωρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:10",
+      "greek_reference": "Ἀγγαῖος 2:10",
+      "verse_anchor": "Hag.2.10",
+      "greek_text": "τη τετραδι και εικ αδι τω εννατω μηνἴ ἔτει δευτἔρω επἴ Δαρἔιου εγἔνετο λογος κυριου προς Αγγα ιαν τον προφ ητην λεγων",
+      "english_translation": "In the fourth and twentieth day in the ninth month, in the [2year 1second] of Darius, came to pass the word of the to Haggai the prophet, saying,",
+      "morphology": [
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.10"
+        },
+        {
+          "surface_form": "τετραδι",
+          "lemma": "τετραδι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.10"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.10"
+        },
+        {
+          "surface_form": "εικ",
+          "lemma": "εικ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:11",
+      "greek_reference": "Ἀγγαῖος 2:11",
+      "verse_anchor": "Hag.2.11",
+      "greek_text": "τ αδε λεγει κυριος παντοκρ ατωρ επερωτησον δη",
+      "english_translation": "Thus says the almighty, Ask indeed",
+      "morphology": [
+        {
+          "surface_form": "αδε",
+          "lemma": "αδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.11"
+        },
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.11"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.11"
+        },
+        {
+          "surface_form": "παντοκρ",
+          "lemma": "παντοκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:12",
+      "greek_reference": "Ἀγγαῖος 2:12",
+      "verse_anchor": "Hag.2.12",
+      "greek_text": "τους ιερἔις νὅμον λἔγων ἔαν λἄβη ἄνθρωπος κρεας ἄγιον εν τω ἄκρω του ιματιου αυτο υ και ἄψηται το ἄκρον του ιματἴου αυτὅυ ἄρτου η εψηματος η ὅινου η ελαιου η παντ ος βρωματος ει αγιασθἤσεται και απεκρἴθησαν οι ιερἔις και",
+      "english_translation": "the priests concerning the law! saying, If [2took 1a man 4meat 3holy] with the tip of his garment, and there should touch the tip of his garment some bread, or stew, or wine, or olive oil, or any food, shall it be sanctified? And [3answered 1the 2priests] and 2036-*",
+      "morphology": [
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.12"
+        },
+        {
+          "surface_form": "ιερἔις",
+          "lemma": "ιερἔις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.12"
+        },
+        {
+          "surface_form": "νὅμον",
+          "lemma": "νὅμον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.12"
+        },
+        {
+          "surface_form": "λἔγων",
+          "lemma": "λἔγων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:13",
+      "greek_reference": "Ἀγγαῖος 2:13",
+      "verse_anchor": "Hag.2.13",
+      "greek_text": "ε ιπαν ου και ε ιπεν Αγγα ιας ε αν ἄψηται μεμιασμἔνος επἴ ψυξἤ απὅ πἄντων τουτων ει μιανθ ησεται και απεκρ ιθησαν οι ιερε ις",
+      "english_translation": "said, No. And Haggai said, If [2should touch 1one having been defiled] upon a dead soul of any of these, shall he be defiled? And [3answered 1the 2priests] 611-*",
+      "morphology": [
+        {
+          "surface_form": "ιπαν",
+          "lemma": "ιπαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.13"
+        },
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.13"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.13"
+        },
+        {
+          "surface_form": "ιπεν",
+          "lemma": "ιπεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:14",
+      "greek_reference": "Ἀγγαῖος 2:14",
+      "verse_anchor": "Hag.2.14",
+      "greek_text": "και ε ιπαν μιανθ ησεται και απεκρ ιθη Αγγα ιας και ε ιπεν ουτως ο λαος ουτος και ουτως το ἔθνος τὅυτο ενωπιον εμου λεγει κυριος και ουτως παντα τα ἔργα των ξειρων αυτων και ος αν εγγιση εκει",
+      "english_translation": "and said, He shall be defiled. And Haggai answered, and said, So this people, and so this nation is before me, says the; and so all the works of their hands; and whoever should approach there",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.14"
+        },
+        {
+          "surface_form": "ιπαν",
+          "lemma": "ιπαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.14"
+        },
+        {
+          "surface_form": "μιανθ",
+          "lemma": "μιανθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.14"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:15",
+      "greek_reference": "Ἀγγαῖος 2:15",
+      "verse_anchor": "Hag.2.15",
+      "greek_text": "ελἔγξοντα και νυν θἔσθε δη επἴ τας καρδ ιας υμ ων απ ο της ημερ ας ταυτης και υπερ ανω προ του θειναι λιθον επι λιθον εν τω ναω",
+      "english_translation": "1reproving]. And now, set it indeed upon your hearts from this day and above! before putting stone upon stone in the temple",
+      "morphology": [
+        {
+          "surface_form": "ελἔγξοντα",
+          "lemma": "ελἔγξοντα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.15"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.15"
+        },
+        {
+          "surface_form": "νυν",
+          "lemma": "νυν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.15"
+        },
+        {
+          "surface_form": "θἔσθε",
+          "lemma": "θἔσθε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:16",
+      "greek_reference": "Ἀγγαῖος 2:16",
+      "verse_anchor": "Hag.2.16",
+      "greek_text": "κυρἴου τἴνες ἤτε ὅτε ενεβἄλλετε εις κυψ ελην κριθης ε ικοσι ςατα και εγενετο δἔκα σἄτα κριθἤς και εισεπορἔυεσθε εις το υπολ ηνιον εχαντλ ησαι πεντηκοντα μετρητ ας και εγενοντο",
+      "english_translation": "of the, what you were when you put into the granary [3of barley 1twenty 2seahs], and there existed only ten seahs of barley. And you entered into the wine-vat to draw out fifty measures, and there existed",
+      "morphology": [
+        {
+          "surface_form": "κυρἴου",
+          "lemma": "κυρἴου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.16"
+        },
+        {
+          "surface_form": "τἴνες",
+          "lemma": "τἴνες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.16"
+        },
+        {
+          "surface_form": "ἤτε",
+          "lemma": "ἤτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.16"
+        },
+        {
+          "surface_form": "ὅτε",
+          "lemma": "ὅτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:17",
+      "greek_reference": "Ἀγγαῖος 2:17",
+      "verse_anchor": "Hag.2.17",
+      "greek_text": "ἔικοσι επἄταχα υμἄς εν αφορἴα και εν ανεμοφθορ ια και εν ξαλ αζη παντα τα ἔργα των ξειρων υμ ων και ουκ επεστρ εψατε προς με",
+      "english_translation": "only twenty. I struck you with non-productivity, and with being wind-blown, and with hail upon all the works of your hands – and you turned not to me,",
+      "morphology": [
+        {
+          "surface_form": "ἔικοσι",
+          "lemma": "ἔικοσι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.17"
+        },
+        {
+          "surface_form": "επἄταχα",
+          "lemma": "επἄταχα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.17"
+        },
+        {
+          "surface_form": "υμἄς",
+          "lemma": "υμἄς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.17"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:18",
+      "greek_reference": "Ἀγγαῖος 2:18",
+      "verse_anchor": "Hag.2.18",
+      "greek_text": "λεγει κυριος τ αχατε δη τας καρδ ιας υμ ων απ ο της ημ ερας ταυτης και επεκεινα απ ο της τετραδος και εικ αδος του εννατου μην ος και απ ο της ημ ερας ης εθεμελ ιωθη ο ναος",
+      "english_translation": "says the. Arrange indeed your hearts from this day and beyond – from the fourth and twentieth day of the ninth month, and from the day of which [4was laid a foundation 1the 2temple",
+      "morphology": [
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.18"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.18"
+        },
+        {
+          "surface_form": "αχατε",
+          "lemma": "αχατε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.18"
+        },
+        {
+          "surface_form": "δη",
+          "lemma": "δη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:19",
+      "greek_reference": "Ἀγγαῖος 2:19",
+      "verse_anchor": "Hag.2.19",
+      "greek_text": "κυρἴου θἔσθε εν ταις καρδἴαις υμὤν ει ἔτι επιγνωσθἤσεται επἴ της ἄλω και ει ἔτι η ἄμπελος και η συκ η και η ροα και τα χὔλα της ελἄιας τα ου φἔροντα καρπὅν απὅ της ημ ερας ταυτης ευλογ ησω",
+      "english_translation": "of the] – establish it in your hearts! Shall yet it be recognized upon the threshing-floor? And shall yet the grapevine, and the fig-tree, and the pomegranate, and the trees of the olive not bearing fruit be recognized? From this day I shall bless.",
+      "morphology": [
+        {
+          "surface_form": "κυρἴου",
+          "lemma": "κυρἴου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.19"
+        },
+        {
+          "surface_form": "θἔσθε",
+          "lemma": "θἔσθε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.19"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.19"
+        },
+        {
+          "surface_form": "ταις",
+          "lemma": "ταις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:20",
+      "greek_reference": "Ἀγγαῖος 2:20",
+      "verse_anchor": "Hag.2.20",
+      "greek_text": "και εγἔνετο λὅγος κυρἴου εκ δευτερου προς Αγγα ιαν τον προφ ητην τετραδι και",
+      "english_translation": "And came to pass the word of the from a second time to Haggai the prophet, the fourth and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.20"
+        },
+        {
+          "surface_form": "εγἔνετο",
+          "lemma": "εγἔνετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.20"
+        },
+        {
+          "surface_form": "λὅγος",
+          "lemma": "λὅγος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.20"
+        },
+        {
+          "surface_form": "κυρἴου",
+          "lemma": "κυρἴου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 2:21",
+      "greek_reference": "Ἀγγαῖος 2:21",
+      "verse_anchor": "Hag.2.21",
+      "greek_text": "εικ αδι του μην ος λεγων ε ιπον προς",
+      "english_translation": "twentieth day of the month, saying, Speak to",
+      "morphology": [
+        {
+          "surface_form": "εικ",
+          "lemma": "εικ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.21"
+        },
+        {
+          "surface_form": "αδι",
+          "lemma": "αδι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.21"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.21"
+        },
+        {
+          "surface_form": "μην",
+          "lemma": "μην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.2.21"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 2:21) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 3:17",
+      "greek_reference": "Ἀγγαῖος 3:17",
+      "verse_anchor": "Hag.3.17",
+      "greek_text": "αι ξειρ ες σου κυριος ο θεος σου εν σοι ο δυνατ ος ςωσει σε επαχει επἴ σε ευφροσὔνην και καινιἔι σε εν τη αγαπ ησει αυτο υ και ευφρανθ ησεται επι σοι εν Ι Σ",
+      "english_translation": "your hands! The your God among you. The mighty one shall deliver you. He shall bring upon you gladness, and shall revive you in his affection, and shall be glad over you with",
+      "morphology": [
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.17"
+        },
+        {
+          "surface_form": "ξειρ",
+          "lemma": "ξειρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.17"
+        },
+        {
+          "surface_form": "ες",
+          "lemma": "ες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.17"
+        },
+        {
+          "surface_form": "σου",
+          "lemma": "σου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 3:18",
+      "greek_reference": "Ἀγγαῖος 3:18",
+      "verse_anchor": "Hag.3.18",
+      "greek_text": "τἔρψει ως εν ημἔρα εορτἤς και συν αχω τους συντετριμμ ενους σου ουα ι",
+      "english_translation": "delight as in the day of the holiday feast. And I will gather the ones of you having been broken. Woe,",
+      "morphology": [
+        {
+          "surface_form": "τἔρψει",
+          "lemma": "τἔρψει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.18"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.18"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.18"
+        },
+        {
+          "surface_form": "ημἔρα",
+          "lemma": "ημἔρα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 3:19",
+      "greek_reference": "Ἀγγαῖος 3:19",
+      "verse_anchor": "Hag.3.19",
+      "greek_text": "τις ἔλαβεν επ' αυτἤν ονειδισμὅν ιδὅυ εγὤ ποιω εν σοι ἔνεκἔν σου εν τω καιρω εκεινω και σὤσω την εκπεπιεσμἔνην και την απωσμ ενην εισδεχομαι και θησομαι αυτὅυς εις κἄυξημα και ονομαστὅυς εν πἄση τη",
+      "english_translation": "any taken [2upon 3her 1scorning]. Behold, I will act among you, because of you in that time; and I will deliver her having been pressured, and [2her having been thrust away 1will take], and will establish them for boasting and fame in all the",
+      "morphology": [
+        {
+          "surface_form": "τις",
+          "lemma": "τις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.19"
+        },
+        {
+          "surface_form": "ἔλαβεν",
+          "lemma": "ἔλαβεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.19"
+        },
+        {
+          "surface_form": "επ",
+          "lemma": "επ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.19"
+        },
+        {
+          "surface_form": "αυτἤν",
+          "lemma": "αυτἤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Haggai 3:20",
+      "greek_reference": "Ἀγγαῖος 3:20",
+      "verse_anchor": "Hag.3.20",
+      "greek_text": "γη και καταισξυνθ ησονται εν τω καιρὤ εκἔινω ὅταν καλὤς υμἴν ποἴησω και εν τω καιρω ὅταν εισδεχομαι υμ ας δι οτιδωσω υμ ας ονομαστο υς και εις καυξημα εν πασι τοιςλαο ις της γης εν τω επιστρ εφειν με την αιξμαλως ιαν υμ ων ενωπιον υμ ων λεγεικυριος",
+      "english_translation": "earth. And their enemies shall be disgraced in that time, whenever [2well 3with you 1I should do], and in the time whenever I should take you in. For I will make you famous and for boasting among all the peoples of the earth, in my returning your captivity before your eyes, says the.",
+      "morphology": [
+        {
+          "surface_form": "γη",
+          "lemma": "γη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.20"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.20"
+        },
+        {
+          "surface_form": "καταισξυνθ",
+          "lemma": "καταισξυνθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.20"
+        },
+        {
+          "surface_form": "ησονται",
+          "lemma": "ησονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/haggai.json",
+          "verse_anchor": "Hag.3.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Haggai 3:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

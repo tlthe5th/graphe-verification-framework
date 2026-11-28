@@ -1,0 +1,429 @@
+[
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Genesis",
+    "start_page": 17,
+    "end_page": 103,
+    "out_txt": "extracted/genesis.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Exodus",
+    "start_page": 104,
+    "end_page": 177,
+    "out_txt": "extracted/exodus.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Leviticus",
+    "start_page": 178,
+    "end_page": 232,
+    "out_txt": "extracted/leviticus.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Numbers",
+    "start_page": 233,
+    "end_page": 305,
+    "out_txt": "extracted/numbers.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Deuteronomy",
+    "start_page": 306,
+    "end_page": 370,
+    "out_txt": "extracted/deuteronomy.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Joshua",
+    "start_page": 371,
+    "end_page": 414,
+    "out_txt": "extracted/joshua.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Judges",
+    "start_page": 415,
+    "end_page": 458,
+    "out_txt": "extracted/judges.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "Ruth",
+    "start_page": 459,
+    "end_page": 464,
+    "out_txt": "extracted/ruth.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "1 Samuel",
+    "start_page": 465,
+    "end_page": 523,
+    "out_txt": "extracted/1_samuel.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "2 Samuel",
+    "start_page": 524,
+    "end_page": 571,
+    "out_txt": "extracted/2_samuel.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "1 Kings",
+    "start_page": 572,
+    "end_page": 626,
+    "out_txt": "extracted/1_kings.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 1 .pdf",
+    "book_name": "2 Kings",
+    "start_page": 627,
+    "end_page": 680,
+    "out_txt": "extracted/2_kings.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "1 Chronicles",
+    "start_page": 7,
+    "end_page": 53,
+    "out_txt": "extracted/1_chronicles.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "2 Chronicles",
+    "start_page": 54,
+    "end_page": 113,
+    "out_txt": "extracted/2_chronicles.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Ezra",
+    "start_page": 114,
+    "end_page": 129,
+    "out_txt": "extracted/ezra.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Nehemiah",
+    "start_page": 130,
+    "end_page": 153,
+    "out_txt": "extracted/nehemiah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Esther",
+    "start_page": 154,
+    "end_page": 165,
+    "out_txt": "extracted/esther.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Job",
+    "start_page": 166,
+    "end_page": 208,
+    "out_txt": "extracted/job.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Psalms",
+    "start_page": 209,
+    "end_page": 315,
+    "out_txt": "extracted/psalms.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Proverbs",
+    "start_page": 316,
+    "end_page": 354,
+    "out_txt": "extracted/proverbs.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Ecclesiastes",
+    "start_page": 355,
+    "end_page": 367,
+    "out_txt": "extracted/ecclesiastes.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Isaiah",
+    "start_page": 375,
+    "end_page": 459,
+    "out_txt": "extracted/isaiah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Jeremiah",
+    "start_page": 460,
+    "end_page": 552,
+    "out_txt": "extracted/jeremiah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Lamentations",
+    "start_page": 553,
+    "end_page": 560,
+    "out_txt": "extracted/lamentations.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Ezekiel",
+    "start_page": 561,
+    "end_page": 650,
+    "out_txt": "extracted/ezekiel.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Daniel",
+    "start_page": 651,
+    "end_page": 677,
+    "out_txt": "extracted/daniel.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Hosea",
+    "start_page": 678,
+    "end_page": 689,
+    "out_txt": "extracted/hosea.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Joel",
+    "start_page": 690,
+    "end_page": 694,
+    "out_txt": "extracted/joel.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Amos",
+    "start_page": 695,
+    "end_page": 705,
+    "out_txt": "extracted/amos.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Obadiah",
+    "start_page": 706,
+    "end_page": 707,
+    "out_txt": "extracted/obadiah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Jonah",
+    "start_page": 708,
+    "end_page": 710,
+    "out_txt": "extracted/jonah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Micah",
+    "start_page": 711,
+    "end_page": 718,
+    "out_txt": "extracted/micah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Nahum",
+    "start_page": 719,
+    "end_page": 721,
+    "out_txt": "extracted/nahum.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Habakkuk",
+    "start_page": 722,
+    "end_page": 725,
+    "out_txt": "extracted/habakkuk.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Zephaniah",
+    "start_page": 726,
+    "end_page": 729,
+    "out_txt": "extracted/zephaniah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Haggai",
+    "start_page": 730,
+    "end_page": 732,
+    "out_txt": "extracted/haggai.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Zechariah",
+    "start_page": 733,
+    "end_page": 747,
+    "out_txt": "extracted/zechariah.txt"
+  },
+  {
+    "pdf_file": "ABP Old Testament Volume 2.pdf",
+    "book_name": "Malachi",
+    "start_page": 748,
+    "end_page": 752,
+    "out_txt": "extracted/malachi.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Matthew",
+    "start_page": 5,
+    "end_page": 60,
+    "out_txt": "extracted/matthew.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Mark",
+    "start_page": 61,
+    "end_page": 96,
+    "out_txt": "extracted/mark.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Luke",
+    "start_page": 97,
+    "end_page": 155,
+    "out_txt": "extracted/luke.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "John",
+    "start_page": 156,
+    "end_page": 199,
+    "out_txt": "extracted/john.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Acts",
+    "start_page": 200,
+    "end_page": 257,
+    "out_txt": "extracted/acts.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Romans",
+    "start_page": 258,
+    "end_page": 279,
+    "out_txt": "extracted/romans.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "1 Corinthians",
+    "start_page": 280,
+    "end_page": 301,
+    "out_txt": "extracted/1_corinthians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "2 Corinthians",
+    "start_page": 302,
+    "end_page": 315,
+    "out_txt": "extracted/2_corinthians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Galatians",
+    "start_page": 316,
+    "end_page": 322,
+    "out_txt": "extracted/galatians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Ephesians",
+    "start_page": 323,
+    "end_page": 330,
+    "out_txt": "extracted/ephesians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Philippians",
+    "start_page": 331,
+    "end_page": 335,
+    "out_txt": "extracted/philippians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Colossians",
+    "start_page": 336,
+    "end_page": 340,
+    "out_txt": "extracted/colossians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "1 Thessalonians",
+    "start_page": 341,
+    "end_page": 345,
+    "out_txt": "extracted/1_thessalonians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "2 Thessalonians",
+    "start_page": 346,
+    "end_page": 347,
+    "out_txt": "extracted/2_thessalonians.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "1 Timothy",
+    "start_page": 348,
+    "end_page": 353,
+    "out_txt": "extracted/1_timothy.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "2 Timothy",
+    "start_page": 354,
+    "end_page": 358,
+    "out_txt": "extracted/2_timothy.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Titus",
+    "start_page": 359,
+    "end_page": 360,
+    "out_txt": "extracted/titus.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "Philemon",
+    "start_page": 361,
+    "end_page": 362,
+    "out_txt": "extracted/philemon.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "1 Peter",
+    "start_page": 386,
+    "end_page": 391,
+    "out_txt": "extracted/1_peter.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "2 Peter",
+    "start_page": 392,
+    "end_page": 395,
+    "out_txt": "extracted/2_peter.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "1 John",
+    "start_page": 396,
+    "end_page": 401,
+    "out_txt": "extracted/1_john.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "2 John",
+    "start_page": 402,
+    "end_page": 402,
+    "out_txt": "extracted/2_john.txt"
+  },
+  {
+    "pdf_file": "ABP New Testament Volume 3.pdf",
+    "book_name": "3 John",
+    "start_page": 403,
+    "end_page": 403,
+    "out_txt": "extracted/3_john.txt"
+  }
+]

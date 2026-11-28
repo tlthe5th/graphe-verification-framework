@@ -39,12 +39,13 @@
       "enum": [
         "lxx",
         "nt",
-        "excluded_unknown"
+        "excluded_unknown",
+        "not_loaded"
       ]
     },
     "source_file": {
       "type": "string",
-      "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+      "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$|^store/$"
     },
     "verse_anchor": {
       "type": "string",
@@ -95,7 +96,7 @@
         "properties": {
           "file": {
             "type": "string",
-            "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+            "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$|^store/$"
           },
           "anchor": {
             "type": "string",
@@ -201,7 +202,7 @@
               "properties": {
                 "file": {
                   "type": "string",
-                  "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$"
+                  "pattern": "^store/(lxx|nt)/[a-z0-9_]+\\.json$|^gate/exclusions\\.json$|^store/$"
                 },
                 "anchor": {
                   "type": "string",

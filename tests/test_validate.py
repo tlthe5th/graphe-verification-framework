@@ -116,13 +116,13 @@ def test_exclusion_gate_enforced_fail_closed(
 
 def test_fail_closed_on_unstored_known_book(schema_validator: Draft202012Validator) -> None:
     """Verify a known book with an unstored verse fails closed with no invented claim."""
-    result = verify_passage("Genesis 50:26")
+    result = verify_passage("Genesis 99:99")
     _assert_schema_and_greek_nfc(result, schema_validator)
 
     assert result["overall_verdict"] == "FAIL"
     assert result["excluded"] is False
-    assert result["corpus"] == "excluded_unknown"
-    assert result["source_file"] == "gate/exclusions.json"
+    assert result["corpus"] == "not_loaded"
+    assert result["source_file"] == "store/"
     assert len(result["failed_criteria"]) >= 1
     assert len(result["failure_reasons"]) >= 1
     assert result["morphology"] == []

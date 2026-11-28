@@ -1,0 +1,329 @@
+{
+  "MATTHEW 22 37-39": {
+    "reference": "Matthew 22:37–39",
+    "verse_anchor": "Matt.22.37-39",
+    "source_file": "store\\nt\\gospels.json",
+    "framework_version": "1.0",
+    "overall_verdict": "PASS",
+    "failed_criteria": [],
+    "failure_reasons": [],
+    "criteria_evaluations": [
+      {
+        "criterion_id": 1,
+        "criterion_name": "Pattern Consistency",
+        "status": "PASS",
+        "rationale": "Establishes the core covenantal pattern of loving God and loving neighbor across the law and prophets.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 2,
+        "criterion_name": "Narrative Coherence",
+        "status": "PASS",
+        "rationale": "Harmonizes directly with the foundational commands of wholehearted devotion and love for neighbor.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 3,
+        "criterion_name": "Who Benefits?",
+        "status": "PASS",
+        "rationale": "Centers on love for God and neighbor rather than political coercion, institutional dominance, or silencing inquiry.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 4,
+        "criterion_name": "Structural Integrity",
+        "status": "PASS",
+        "rationale": "Forms an integral, cohesive teaching moment in Matthew 22.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 5,
+        "criterion_name": "Manuscript and Historical Evidence",
+        "status": "PASS",
+        "rationale": "Widely and consistently attested across Greek New Testament manuscripts.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 6,
+        "criterion_name": "The 2 Timothy 3:16–17 Test",
+        "status": "PASS",
+        "rationale": "Directly serves teaching, reproof, correction, and training in righteousness under 2 Timothy 3:16-17.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 7,
+        "criterion_name": "Living Word Multi-Witness Test",
+        "status": "PASS",
+        "rationale": "Embodies life-giving truth and love under the multi-witness standard without circular reliance on Hebrews 4:12.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 8,
+        "criterion_name": "Ἰησοῦς Χριστός / Apostolic Citation Test",
+        "status": "PASS",
+        "rationale": "Spoken directly by Jesus Christ and grounded in canonical scripture without citing non-canonical sources.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 9,
+        "criterion_name": "Χριστός Character Match",
+        "status": "PASS",
+        "rationale": "Reveals the character of God the Father and Jesus Christ centered on love rather than attributing devilish traits to God.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      },
+      {
+        "criterion_id": 10,
+        "criterion_name": "Πνεῦμα Fruit Test",
+        "status": "PASS",
+        "rationale": "Directly reflects love, kindness, and goodness aligned with the fruit of the Spirit.",
+        "citations": [
+          {
+            "file": "store/nt/gospels.json",
+            "anchor": "Matt.22.37-39",
+            "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "file": "store/nt/gospels.json",
+        "anchor": "Matt.22.37-39",
+        "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+      }
+    ],
+    "english_translation": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+    "analysis": {
+      "schema_version": "1.0.0",
+      "query": "Matthew 22:37–39",
+      "normalized_reference": "Matthew 22:37-39",
+      "corpus": "nt",
+      "source_file": "store/nt/gospels.json",
+      "verse_anchor": "Matt.22.37-39",
+      "greek_text": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν.",
+      "excluded": false,
+      "overall_verdict": "PASS",
+      "failed_criteria": [],
+      "failure_reasons": [],
+      "citations": [
+        {
+          "file": "store/nt/gospels.json",
+          "anchor": "Matt.22.37-39",
+          "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+        }
+      ],
+      "morphology": [
+        {
+          "surface_form": "Ἀγαπήσεις",
+          "lemma": "ἀγαπάω",
+          "strongs": "G25",
+          "english_gloss": "you shall love",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        },
+        {
+          "surface_form": "πλησίον",
+          "lemma": "πλησίον",
+          "strongs": "G4139",
+          "english_gloss": "neighbor",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        },
+        {
+          "surface_form": "ἐντολή",
+          "lemma": "ἐντολή",
+          "strongs": "G1785",
+          "english_gloss": "commandment",
+          "source_file": "store/nt/gospels.json",
+          "verse_anchor": "Matt.22.37-39"
+        }
+      ],
+      "criteria_evaluations": [
+        {
+          "criterion_id": 1,
+          "criterion_name": "Pattern Consistency",
+          "status": "PASS",
+          "rationale": "Establishes the core covenantal pattern of loving God and loving neighbor across the law and prophets.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 2,
+          "criterion_name": "Narrative Coherence",
+          "status": "PASS",
+          "rationale": "Harmonizes directly with the foundational commands of wholehearted devotion and love for neighbor.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 3,
+          "criterion_name": "Who Benefits?",
+          "status": "PASS",
+          "rationale": "Centers on love for God and neighbor rather than political coercion, institutional dominance, or silencing inquiry.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 4,
+          "criterion_name": "Structural Integrity",
+          "status": "PASS",
+          "rationale": "Forms an integral, cohesive teaching moment in Matthew 22.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 5,
+          "criterion_name": "Manuscript and Historical Evidence",
+          "status": "PASS",
+          "rationale": "Widely and consistently attested across Greek New Testament manuscripts.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 6,
+          "criterion_name": "The 2 Timothy 3:16–17 Test",
+          "status": "PASS",
+          "rationale": "Directly serves teaching, reproof, correction, and training in righteousness under 2 Timothy 3:16-17.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 7,
+          "criterion_name": "Living Word Multi-Witness Test",
+          "status": "PASS",
+          "rationale": "Embodies life-giving truth and love under the multi-witness standard without circular reliance on Hebrews 4:12.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 8,
+          "criterion_name": "Ἰησοῦς Χριστός / Apostolic Citation Test",
+          "status": "PASS",
+          "rationale": "Spoken directly by Jesus Christ and grounded in canonical scripture without citing non-canonical sources.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 9,
+          "criterion_name": "Χριστός Character Match",
+          "status": "PASS",
+          "rationale": "Reveals the character of God the Father and Jesus Christ centered on love rather than attributing devilish traits to God.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        },
+        {
+          "criterion_id": 10,
+          "criterion_name": "Πνεῦμα Fruit Test",
+          "status": "PASS",
+          "rationale": "Directly reflects love, kindness, and goodness aligned with the fruit of the Spirit.",
+          "citations": [
+            {
+              "file": "store/nt/gospels.json",
+              "anchor": "Matt.22.37-39",
+              "greek_excerpt": "Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου. αὕτη ἐστὶν ἡ μεγάλη καὶ πρώτη ἐντολή· δευτέρα δὲ ὁμοία αὐτῇ· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

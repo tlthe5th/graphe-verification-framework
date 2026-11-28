@@ -1,0 +1,3826 @@
+{
+  "corpus": "lxx",
+  "book_english": "Jonah",
+  "book_greek": "Ἰωνᾶς",
+  "source_file": "store/lxx/jonah.json",
+  "passages": [
+    {
+      "reference": "Jonah 1:1",
+      "greek_reference": "Ἰωνᾶς 1:1",
+      "verse_anchor": "Jonah.1.1",
+      "greek_text": "και εγενετο λογος κυριου προς Ιωναν Σ ημ ιν και ἔβαλον κληρους και ἔπεσεν ο κληρος επι",
+      "english_translation": "And [3came to pass the word 2of the] to Jonah to us. And they cast lots, and [3fell 1the 2lot] upon",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.1"
+        },
+        {
+          "surface_form": "εγενετο",
+          "lemma": "εγενετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.1"
+        },
+        {
+          "surface_form": "λογος",
+          "lemma": "λογος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.1"
+        },
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:2",
+      "greek_reference": "Ἰωνᾶς 1:2",
+      "verse_anchor": "Jonah.1.2",
+      "greek_text": "τον του Αμαθἴ λἔγων ανἄστηθι και πορἔυθητι εις Νινευ+ την πὅλιν την μεγἄλην και κἤρυχον εν αυτη ὅτι ανεβη η κραυγ η της κακ ιας αυτης προς",
+      "english_translation": "the son of Amittai, saying, Rise up and go unto Nineveh the [2city 1great], and proclaim in her! for [4ascended 1the 2cry 3of its evils] to 450-*",
+      "morphology": [
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.2"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.2"
+        },
+        {
+          "surface_form": "Αμαθἴ",
+          "lemma": "Αμαθἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.2"
+        },
+        {
+          "surface_form": "λἔγων",
+          "lemma": "λἔγων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:3",
+      "greek_reference": "Ἰωνᾶς 1:3",
+      "verse_anchor": "Jonah.1.3",
+      "greek_text": "με και ανεστη Ιωνας του φυγε ιν εις Θαρσε ις εκ προς ωπου κυριου και κατεβη εις Ι οππην και ἔυρε πλο ιον βαδ ιζον εις Θαρσε ις και ἔδωκε το νἄυλον αυτὅυ και ανἔβη εις αυτὅ του πλἔυσαι μετ' αυτων εις Θαρσε ις εκ προς ωπου κυριου ενεβη",
+      "english_translation": "me. And Jonah rose up to flee into Tarshish from the face of the, and went down into Joppa; and he found a boat proceeding to Tarshish. And he gave his fare, and ascended into it to sail with them unto Tarshish from the face of the. - stepped into.",
+      "morphology": [
+        {
+          "surface_form": "με",
+          "lemma": "με",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.3"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.3"
+        },
+        {
+          "surface_form": "ανεστη",
+          "lemma": "ανεστη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.3"
+        },
+        {
+          "surface_form": "Ιωνας",
+          "lemma": "Ιωνας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:4",
+      "greek_reference": "Ἰωνᾶς 1:4",
+      "verse_anchor": "Jonah.1.4",
+      "greek_text": "και κυριος εχ ηγειρε πνευμα επι την θαλ ασσαν και εγενετο κλυδων μεγας εν τη θαλ ασση και το μεγα",
+      "english_translation": "And the raised a wind upon the sea, and there became [2swell 1a great] in the sea, and the - a great.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.4"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.4"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.4"
+        },
+        {
+          "surface_form": "ηγειρε",
+          "lemma": "ηγειρε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:5",
+      "greek_reference": "Ἰωνᾶς 1:5",
+      "verse_anchor": "Jonah.1.5",
+      "greek_text": "πλο ιον εκινδυνευε του συντριβ ηναι και εφοβ ηθησαν οι ναυτικο ι και ανεβ οων ἔκαστος προς τον θἔον αυτὅυ και εκβολἤν εποἴησαντο των σκεὔων των εν τω πλο ιω εις την θαλασσαν του κουφισθ ηναι απ' αυτων Ιωνας δε κατεβη εις την κοιλην του πλο ιου",
+      "english_translation": "boat was exposed to danger of breaking up. And [3feared 1the 2mariners], and yelled out each to his god, and [2an expulsion 1made] of the items in the boat into the sea, to lighten of *-1161 them. But Jonah went down into the hold of the boat,",
+      "morphology": [
+        {
+          "surface_form": "πλο",
+          "lemma": "πλο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.5"
+        },
+        {
+          "surface_form": "ιον",
+          "lemma": "ιον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.5"
+        },
+        {
+          "surface_form": "εκινδυνευε",
+          "lemma": "εκινδυνευε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.5"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:6",
+      "greek_reference": "Ἰωνᾶς 1:6",
+      "verse_anchor": "Jonah.1.6",
+      "greek_text": "και εκἄθευδε και ἔρεγξε και προσἤλθε προς αυτὅν ο πρωρε υς και ε ιπεν αυτω τι συ ρεγξεις αναστα επικαλὅυ τον θἔον σου ὅπως διασὤση ο θἔος ημἄς και",
+      "english_translation": "and went to sleep and snored. And [3drew near 4to 5him 1the 2captain], and said to him, Why do you snore? Rise up! call upon your God! that God should preserve us, and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.6"
+        },
+        {
+          "surface_form": "εκἄθευδε",
+          "lemma": "εκἄθευδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.6"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.6"
+        },
+        {
+          "surface_form": "ἔρεγξε",
+          "lemma": "ἔρεγξε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:7",
+      "greek_reference": "Ἰωνᾶς 1:7",
+      "verse_anchor": "Jonah.1.7",
+      "greek_text": "ου μη απολ ωμεθα και ε ιπεν ἔκαστος προς τον πλησἴον αυτὅυ δἔυτε βἄλωμεν κλἤρους και επιγνωμεν τ ινος ενεκεν η κακ ια αυτη ἔστιν",
+      "english_translation": "in no way we should be destroyed. And [2said 1each] to his neighbor, Come, we should cast lots, and we should know for what reason this evil is",
+      "morphology": [
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.7"
+        },
+        {
+          "surface_form": "μη",
+          "lemma": "μη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.7"
+        },
+        {
+          "surface_form": "απολ",
+          "lemma": "απολ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.7"
+        },
+        {
+          "surface_form": "ωμεθα",
+          "lemma": "ωμεθα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:8",
+      "greek_reference": "Ἰωνᾶς 1:8",
+      "verse_anchor": "Jonah.1.8",
+      "greek_text": "Ιωναν και ε ιπον προς αυτον απ αγγειλον δη τἴνος ἔνεκα η κακἴα ἄυτη εστἴν εν ημἴν τις σου η εργας ια εστι και ποθεν ἔρξη και εκ ποιας ξωρας και εκ ποιου",
+      "english_translation": "Jonah. And they said to him, Report indeed! What reason [2this evil 1is] to us? What [2your 3work 1is]? And from where have you come? And from out of what kind of place? And from out of what kind See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "Ιωναν",
+          "lemma": "Ιωναν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.8"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.8"
+        },
+        {
+          "surface_form": "ιπον",
+          "lemma": "ιπον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.8"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:9",
+      "greek_reference": "Ἰωνᾶς 1:9",
+      "verse_anchor": "Jonah.1.9",
+      "greek_text": "λαο υ ει συ και ε ιπε προς αυτο υς δουλος κυριου ειμι εγω και τον θεον του ουρανο υ εγω ςεβομαι ος εποιησε την θαλασσαν και την χηραν",
+      "english_translation": "of people are you? And he said to them, [2a bondman of the 1I am], and [3the 4God 5of the 6heaven 1I 2worship] who made the sea and the dry land.",
+      "morphology": [
+        {
+          "surface_form": "λαο",
+          "lemma": "λαο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.9"
+        },
+        {
+          "surface_form": "ει",
+          "lemma": "ει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.9"
+        },
+        {
+          "surface_form": "συ",
+          "lemma": "συ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.9"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:10",
+      "greek_reference": "Ἰωνᾶς 1:10",
+      "verse_anchor": "Jonah.1.10",
+      "greek_text": "και εφοβ ηθησαν οι ἄνδρες φ οβον μεγαν και ε ιπον προς αυτον τι τουτο εποιησας δι οτι ἔγνωσαν οι ἄνδρες ὅτι εκ προς ωπου κυριου ην φευγων ὅτι απἤγγειλεν αυτὅις",
+      "english_translation": "And [3feared 1the 2men 5fear 4a great], and said to him, What is this you did? For [3knew 1the 2men] that [3from the face of the 1he was 2fleeing], for he reported it to them.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.10"
+        },
+        {
+          "surface_form": "εφοβ",
+          "lemma": "εφοβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.10"
+        },
+        {
+          "surface_form": "ηθησαν",
+          "lemma": "ηθησαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.10"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:11",
+      "greek_reference": "Ἰωνᾶς 1:11",
+      "verse_anchor": "Jonah.1.11",
+      "greek_text": "και ειπον προς αυτον τι ποιησομεν σοι και κοπἄσει η θἄλασσα αφ' ἤμων ὅτι η θἄλασσα",
+      "english_translation": "And they said to him, What should we do to you, that [3abates 1the 2sea] from us? For the sea",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.11"
+        },
+        {
+          "surface_form": "ειπον",
+          "lemma": "ειπον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.11"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.11"
+        },
+        {
+          "surface_form": "αυτον",
+          "lemma": "αυτον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:12",
+      "greek_reference": "Ἰωνᾶς 1:12",
+      "verse_anchor": "Jonah.1.12",
+      "greek_text": "επορε υετο και εχ ηγειρε μαλλον κλυδωνα και ε ιπεν Ιωνας προς αυτο υς ἄρατἔ με και εμβ αλετε εις την θἄλασσαν και κοπἄσει η θἄλασσα αφ' υμὤν δἴοτι ἔγνωκα εγὤ ὅτι δι' εμε ο κλυδ ων ο μεγας",
+      "english_translation": "went forth, and raised a rather great swell. And 2036-* Jonah said to them, Lift me, and cast me into the sea, and [3shall abate 1the 2sea] from you! For I have known that on account of me [3swell 2great",
+      "morphology": [
+        {
+          "surface_form": "επορε",
+          "lemma": "επορε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.12"
+        },
+        {
+          "surface_form": "υετο",
+          "lemma": "υετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.12"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.12"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:13",
+      "greek_reference": "Ἰωνᾶς 1:13",
+      "verse_anchor": "Jonah.1.13",
+      "greek_text": "ὅυτος εφ' υμ ας εστι και παρεβι αζοντο οι ἄνδρες του επιστρἔψαι προς την γην και ουκ ηδὔναντο ὅτι η θαλασσα επορε υετο και εχηγειρετο μαλλον επ'",
+      "english_translation": "1this 5upon 6you 4is]. And [3pressed on 1the 2men] to turn towards the land, and they were not able, for the sea went, and it rose up rather upon",
+      "morphology": [
+        {
+          "surface_form": "ὅυτος",
+          "lemma": "ὅυτος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.13"
+        },
+        {
+          "surface_form": "εφ",
+          "lemma": "εφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.13"
+        },
+        {
+          "surface_form": "υμ",
+          "lemma": "υμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.13"
+        },
+        {
+          "surface_form": "ας",
+          "lemma": "ας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:14",
+      "greek_reference": "Ἰωνᾶς 1:14",
+      "verse_anchor": "Jonah.1.14",
+      "greek_text": "αυτο υς και ανεβ οησαν προς κυριον και ἔιπαν μηδαμ ως κυριε μη απολ ωμεθα ἔνεκεν της ψυξ ης του ανθρ ωπου τουτου και μη δως",
+      "english_translation": "them. And they yelled out to the, and said, By no means, O, should you destroy us because of the soul of this man, and [3should not 4be imputed",
+      "morphology": [
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.14"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.14"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.14"
+        },
+        {
+          "surface_form": "ανεβ",
+          "lemma": "ανεβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:15",
+      "greek_reference": "Ἰωνᾶς 1:15",
+      "verse_anchor": "Jonah.1.15",
+      "greek_text": "εφ' ἤμας αιμα δικαιον δι οτι συ κυριε ον τροπον εβουλου πεπο ιηκας και ἔλαβον τον Ιωνἄν και εχἔβαλον αυτὅν εις την θἄλασσαν",
+      "english_translation": "5against 6us the blood 2of the righteous one]. For you, O, in which manner you want, you have done. And they took Jonah, and cast him into the sea.",
+      "morphology": [
+        {
+          "surface_form": "εφ",
+          "lemma": "εφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.15"
+        },
+        {
+          "surface_form": "ἤμας",
+          "lemma": "ἤμας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.15"
+        },
+        {
+          "surface_form": "αιμα",
+          "lemma": "αιμα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.15"
+        },
+        {
+          "surface_form": "δικαιον",
+          "lemma": "δικαιον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:16",
+      "greek_reference": "Ἰωνᾶς 1:16",
+      "verse_anchor": "Jonah.1.16",
+      "greek_text": "και ἔστη η θαλασσα εκ του ςαλου αυτης και εφοβ ηθησαν οι ἄνδρες φοβω μεγ αλω τον κυριον και ἔθυσαν θυς ιαν τω κυριω και ηυχαντο τας ευξας",
+      "english_translation": "And [3stood 1the 2sea] from its tossing about. And [3feared 1the 2men 5fear 4a great] of the, and sacrificed a sacrifice to the, and vowed the vows.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.16"
+        },
+        {
+          "surface_form": "ἔστη",
+          "lemma": "ἔστη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.16"
+        },
+        {
+          "surface_form": "θαλασσα",
+          "lemma": "θαλασσα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.16"
+        },
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 1:17",
+      "greek_reference": "Ἰωνᾶς 1:17",
+      "verse_anchor": "Jonah.1.17",
+      "greek_text": "και προσἔταχε κὔριος κἤτει μεγἄλω καταπιε ιν τον Ιωναν και ην Ιωνας εν τη κοιλια του κητους τρεις ημ ερας και τρεις νυκτας εκ φθορ ας η ζωη μου κυριε ο θεος μου",
+      "english_translation": "And the assigned [2sea monster 1a great] 1510.7.3-* to swallow Jonah. And Jonah was in the belly of the sea monster three days and three nights. 4336-* See Mt. 12:40. 3from out of 4corruption 1my life], O my God!",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.17"
+        },
+        {
+          "surface_form": "προσἔταχε",
+          "lemma": "προσἔταχε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.17"
+        },
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.17"
+        },
+        {
+          "surface_form": "κἤτει",
+          "lemma": "κἤτει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.1.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:1",
+      "greek_reference": "Ἰωνᾶς 2:1",
+      "verse_anchor": "Jonah.2.1",
+      "greek_text": "και προση υχατο Ιωνας προς κυριον τον θεον αυτο υ",
+      "english_translation": "And Jonah prayed to the his God",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.1"
+        },
+        {
+          "surface_form": "προση",
+          "lemma": "προση",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.1"
+        },
+        {
+          "surface_form": "υχατο",
+          "lemma": "υχατο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.1"
+        },
+        {
+          "surface_form": "Ιωνας",
+          "lemma": "Ιωνας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:2",
+      "greek_reference": "Ἰωνᾶς 2:2",
+      "verse_anchor": "Jonah.2.2",
+      "greek_text": "εκ της κοιλἴας του κἤτους και ἔιπεν εβοησα εν θλιψει μου προς κυριον τον θεον μου και εισἤκουσἔ μου εκ κοιλἴας ἄδου",
+      "english_translation": "from out of the belly of the sea monster. And he said, I yelled in my affliction to the my God, and he hearkened to me. From out of the belly of Hades",
+      "morphology": [
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.2"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.2"
+        },
+        {
+          "surface_form": "κοιλἴας",
+          "lemma": "κοιλἴας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.2"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:3",
+      "greek_reference": "Ἰωνᾶς 2:3",
+      "verse_anchor": "Jonah.2.3",
+      "greek_text": "κραυγ ης μου ἤκουσας φων ης μου απ ερριψας με εις βαθη καρδ ιας θαλ ασσης και ποταμο ιεκυκλως αν με παντες οι μετεωρισμο ι σου και τα κυματ α σου επ' εμε",
+      "english_translation": "was my cry – you heard my voice. You threw me into the depths of the heart of the sea, and rivers encircled me. All your crests and your waves [2upon 3me",
+      "morphology": [
+        {
+          "surface_form": "κραυγ",
+          "lemma": "κραυγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.3"
+        },
+        {
+          "surface_form": "ης",
+          "lemma": "ης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.3"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.3"
+        },
+        {
+          "surface_form": "ἤκουσας",
+          "lemma": "ἤκουσας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:4",
+      "greek_reference": "Ἰωνᾶς 2:4",
+      "verse_anchor": "Jonah.2.4",
+      "greek_text": "δι ηλθον και εγω ε ιπα απ ωσμαι εχ οφθαλμὤν σου ἄρα προσθἤσω του επιβλἔψαι προς",
+      "english_translation": "1went]. And I said, Have I been thrust away from out of your eyes? Surely I shall proceed to look towards",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.4"
+        },
+        {
+          "surface_form": "ηλθον",
+          "lemma": "ηλθον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.4"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.4"
+        },
+        {
+          "surface_form": "εγω",
+          "lemma": "εγω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:5",
+      "greek_reference": "Ἰωνᾶς 2:5",
+      "verse_anchor": "Jonah.2.5",
+      "greek_text": "ναον τον αγιον σου περιεξυθη μοι ὔδωρ ἔως ψυξ ης ἄβυσσος εκυκλως ε με εσξ ατη",
+      "english_translation": "[3temple 2holy 1your]. [2 was poured about 3me 1Water] unto the soul. The deep encircled me to the extreme.",
+      "morphology": [
+        {
+          "surface_form": "ναον",
+          "lemma": "ναον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.5"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.5"
+        },
+        {
+          "surface_form": "αγιον",
+          "lemma": "αγιον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.5"
+        },
+        {
+          "surface_form": "σου",
+          "lemma": "σου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:6",
+      "greek_reference": "Ἰωνᾶς 2:6",
+      "verse_anchor": "Jonah.2.6",
+      "greek_text": "ἔδυ η κεφαλ η μου εις σξισμ ας ορεων κατεβην εις γην ης οι μοξλὅι αυτἤς κἄτοξοι αἴωνιοι και αναβἤτω",
+      "english_translation": "[3went down 2head 1My]. Into the fissures of mountains I went down; into the earth of which its bars [2holds are the eternal]. Yet let [2ascend",
+      "morphology": [
+        {
+          "surface_form": "ἔδυ",
+          "lemma": "ἔδυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.6"
+        },
+        {
+          "surface_form": "κεφαλ",
+          "lemma": "κεφαλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.6"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.6"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:7",
+      "greek_reference": "Ἰωνᾶς 2:7",
+      "verse_anchor": "Jonah.2.7",
+      "greek_text": "εν τω εκλειπειν απ' εμου την ψυξ ην μου του κυριου εμνησθην και ἔλθοι προς σε η προσευξἤ μου προς νἄον τον αγἴον σου",
+      "english_translation": "In the faltering [2from 3me 1of my soul], I remembered the. And may [2come 3to 4you 1my prayer] in [3temple 2holy 1your].",
+      "morphology": [
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.7"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.7"
+        },
+        {
+          "surface_form": "εκλειπειν",
+          "lemma": "εκλειπειν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.7"
+        },
+        {
+          "surface_form": "απ",
+          "lemma": "απ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:8",
+      "greek_reference": "Ἰωνᾶς 2:8",
+      "verse_anchor": "Jonah.2.8",
+      "greek_text": "φυλασς ομενοι ματαια και ψευδ η ἔλεον αυτὤν",
+      "english_translation": "The ones watching vanities and lies [2their mercy",
+      "morphology": [
+        {
+          "surface_form": "φυλασς",
+          "lemma": "φυλασς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.8"
+        },
+        {
+          "surface_form": "ομενοι",
+          "lemma": "ομενοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.8"
+        },
+        {
+          "surface_form": "ματαια",
+          "lemma": "ματαια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.8"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:9",
+      "greek_reference": "Ἰωνᾶς 2:9",
+      "verse_anchor": "Jonah.2.9",
+      "greek_text": "εγκατἔλιπον εγὤ δε μετἄ φωνἤς αινἔσεως και εχομολογ ησεως θυσω σοι ὅσα ηυχαμην αποδ ωσω σοι εις σωτηρ ιαν μου τω κυριω",
+      "english_translation": "1abandoned]. But I with the voice of praise and acknowledgment will sacrifice to you. As much as I vowed I will render to you. For my deliverance is by the.",
+      "morphology": [
+        {
+          "surface_form": "εγκατἔλιπον",
+          "lemma": "εγκατἔλιπον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.9"
+        },
+        {
+          "surface_form": "εγὤ",
+          "lemma": "εγὤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.9"
+        },
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.9"
+        },
+        {
+          "surface_form": "μετἄ",
+          "lemma": "μετἄ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 2:10",
+      "greek_reference": "Ἰωνᾶς 2:10",
+      "verse_anchor": "Jonah.2.10",
+      "greek_text": "και προσετ αγη απ ο κυριου τω κητει και εχ εβαλε τον Ιωναν επι την χηραν",
+      "english_translation": "And it was assigned from the to the sea monster; and it cast out Jonah upon the dry land.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.10"
+        },
+        {
+          "surface_form": "προσετ",
+          "lemma": "προσετ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.10"
+        },
+        {
+          "surface_form": "αγη",
+          "lemma": "αγη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.10"
+        },
+        {
+          "surface_form": "απ",
+          "lemma": "απ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.2.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:1",
+      "greek_reference": "Ἰωνᾶς 3:1",
+      "verse_anchor": "Jonah.3.1",
+      "greek_text": "και εγἔνετο λὅγος κυρἴου προς Ιωνἄν",
+      "english_translation": "And came to pass the word of the to Jonah",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.1"
+        },
+        {
+          "surface_form": "εγἔνετο",
+          "lemma": "εγἔνετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.1"
+        },
+        {
+          "surface_form": "λὅγος",
+          "lemma": "λὅγος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.1"
+        },
+        {
+          "surface_form": "κυρἴου",
+          "lemma": "κυρἴου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:2",
+      "greek_reference": "Ἰωνᾶς 3:2",
+      "verse_anchor": "Jonah.3.2",
+      "greek_text": "εκ δευτερου λεγων αναστηθι πορε υθητι εις Νινευ+ την πολιν την μεγ αλην και κηρυχον εν αυτη κατἄ το κἤρυγμα το ἔμπροσθεν ο εγὤ",
+      "english_translation": "from a second time, saying, Rise up, go unto Nineveh the [2city 1great], and proclaim in her according to the proclamation, the one [6before 1which 2I 450-*",
+      "morphology": [
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.2"
+        },
+        {
+          "surface_form": "δευτερου",
+          "lemma": "δευτερου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.2"
+        },
+        {
+          "surface_form": "λεγων",
+          "lemma": "λεγων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.2"
+        },
+        {
+          "surface_form": "αναστηθι",
+          "lemma": "αναστηθι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:3",
+      "greek_reference": "Ἰωνᾶς 3:3",
+      "verse_anchor": "Jonah.3.3",
+      "greek_text": "ελαλησα προς σε και ανεστη Ιωνας και επορε υθη εις Νινευ+ καθ α ελαλησε κυριος η δε Νινευ+ ην πὅλις μεγἄλη τω θἔω ωσἔι πορἔιας οδὅυ τρἴων",
+      "english_translation": "3spoke 4to 5you]! And Jonah rose up, and went into Nineveh, as the spoke. And Nineveh was [2city 1a great] to God, as the goings of a journey of three 756-*",
+      "morphology": [
+        {
+          "surface_form": "ελαλησα",
+          "lemma": "ελαλησα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.3"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.3"
+        },
+        {
+          "surface_form": "σε",
+          "lemma": "σε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.3"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:4",
+      "greek_reference": "Ἰωνᾶς 3:4",
+      "verse_anchor": "Jonah.3.4",
+      "greek_text": "ημερ ων και ἤρχατο Ιωνἄς του εισπορε υεσθαι εις την πὅλιν ωσἔι πορἔιαν ημἔρας μἴας και εκἤρυχε και ε ιπεν ἔτι τρεις ημ εραι και Νινευ+ καταστραφ ησεται",
+      "english_translation": "days. And Jonah began to enter into the city, as the going [2day 1of one]. And he proclaimed, and said, Yet three days, and Nineveh shall be eradicated.",
+      "morphology": [
+        {
+          "surface_form": "ημερ",
+          "lemma": "ημερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.4"
+        },
+        {
+          "surface_form": "ων",
+          "lemma": "ων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.4"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.4"
+        },
+        {
+          "surface_form": "ἤρχατο",
+          "lemma": "ἤρχατο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:5",
+      "greek_reference": "Ἰωνᾶς 3:5",
+      "verse_anchor": "Jonah.3.5",
+      "greek_text": "και επἴστευσαν οι ἄνδρες Νινευ+ τω θἔω και εκηρυχαν νηστε ιαν και ενεδυσαντο ςακκους απ ο μεγ αλου αυτων ἔως μικρο υ αυτων Ι Ω",
+      "english_translation": "And [4believed 1the 2men 3of Nineveh] in God, and they proclaimed a fast, and put on sackcloths, from their great unto their small.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.5"
+        },
+        {
+          "surface_form": "επἴστευσαν",
+          "lemma": "επἴστευσαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.5"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.5"
+        },
+        {
+          "surface_form": "ἄνδρες",
+          "lemma": "ἄνδρες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:6",
+      "greek_reference": "Ἰωνᾶς 3:6",
+      "verse_anchor": "Jonah.3.6",
+      "greek_text": "και ἤγγισεν ο λογος προς τον βασιλ εα Νινευ+ και εχανεστη απ ο του θρονου αυτο υ και περιειλατο την στολ ην αυτο υ αφ' εαυτο υ και ενεδυσατο Σ φυγε ιν εις Θαρσε ις δι οτι ἔγνων ὅτι συ ελεημων και οικτιρμων μακρ οθυμος και πολυ ελεος και",
+      "english_translation": "And [3approached 1the 2word] to the king of Nineveh; and he rose up from his throne, and removed his apparel from himself, and - put on. to flee unto Tarshish; for I knew that you are merciful and pitying, lenient and full of mercy, and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.6"
+        },
+        {
+          "surface_form": "ἤγγισεν",
+          "lemma": "ἤγγισεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.6"
+        },
+        {
+          "surface_form": "λογος",
+          "lemma": "λογος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.6"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:7",
+      "greek_reference": "Ἰωνᾶς 3:7",
+      "verse_anchor": "Jonah.3.7",
+      "greek_text": "περιεβἄλετο σἄκκον και εκἄθισεν επἴ σποδὅυ και εκηρ υξθη και ερρεθη εν τη Νινευ+ παρ α του βασιλ εως και παρ α των μεγιστ ανων αυτο υ λεγοντων οι ἄνθρωποι και τα κτἤνη και οι βὅες και τα πρὅβατα μη γευς ασθωσαν μηδ ε νεμεσθωσαν και ὔδωρ",
+      "english_translation": "wore sackcloth, and sat upon ashes. And it was proclaimed and was spoken in Nineveh by the king, and by his great men, saying, The men, and the cattle, and the oxen, and the sheep – let them not taste, nor feed, and [2water",
+      "morphology": [
+        {
+          "surface_form": "περιεβἄλετο",
+          "lemma": "περιεβἄλετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.7"
+        },
+        {
+          "surface_form": "σἄκκον",
+          "lemma": "σἄκκον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.7"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.7"
+        },
+        {
+          "surface_form": "εκἄθισεν",
+          "lemma": "εκἄθισεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:8",
+      "greek_reference": "Ἰωνᾶς 3:8",
+      "verse_anchor": "Jonah.3.8",
+      "greek_text": "μη πἴετωσαν και περιεβἄλλοντο σἄκκους οι ἄνθρωποι και τα κτηνη και ανεβ οησαν προς τον θεον εκτενὤς και απἔστρεψαν ἔκαστος απὅ της οδὅυ αυτὤν της πονηρ ας και απ ο της αδικιας της εν ξερς ιν αυτων περιεθεντο",
+      "english_translation": "1let them not drink]! And [6put around 7sackcloths 1the 2men 3and 4the 5cattle], and yelled out to God intensely. And [2turned 1each] from [3way 1their 2wicked], and from the iniquity in their hands, - put around.",
+      "morphology": [
+        {
+          "surface_form": "μη",
+          "lemma": "μη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.8"
+        },
+        {
+          "surface_form": "πἴετωσαν",
+          "lemma": "πἴετωσαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.8"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.8"
+        },
+        {
+          "surface_form": "περιεβἄλλοντο",
+          "lemma": "περιεβἄλλοντο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:9",
+      "greek_reference": "Ἰωνᾶς 3:9",
+      "verse_anchor": "Jonah.3.9",
+      "greek_text": "λεγοντες τις οιδεν ει μετανο ησει ο θἔος και αποστρἔψει εχ οργἤς θυμὅυ αυτὅυ",
+      "english_translation": "saying, Who has known if [2shall change his mind 1God], and shall turn from the anger of his rage,",
+      "morphology": [
+        {
+          "surface_form": "λεγοντες",
+          "lemma": "λεγοντες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.9"
+        },
+        {
+          "surface_form": "τις",
+          "lemma": "τις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.9"
+        },
+        {
+          "surface_form": "οιδεν",
+          "lemma": "οιδεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.9"
+        },
+        {
+          "surface_form": "ει",
+          "lemma": "ει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 3:10",
+      "greek_reference": "Ἰωνᾶς 3:10",
+      "verse_anchor": "Jonah.3.10",
+      "greek_text": "και ου μη απολ ωμεθα και ε ιδεν ο θεος τα ἔργα αυτὤν ὅτι απἔστρεψαν απὅ των οδὤν αυτὤν των πονηρ ων και μετενοησεν ο θεος επι τη κακ ια η ελἄλησε του ποἴησαι αυτὅις και ουκ επὅιησε παρεκλἤθη",
+      "english_translation": "and in no way should we perish? And God saw their works, that they turned from [3ways 1their 2wicked]; and God changed his mind over the evil which he spoke to do to them; and he did not do it. 3076-* - relented.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.10"
+        },
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.10"
+        },
+        {
+          "surface_form": "μη",
+          "lemma": "μη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.10"
+        },
+        {
+          "surface_form": "απολ",
+          "lemma": "απολ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.3.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:1",
+      "greek_reference": "Ἰωνᾶς 4:1",
+      "verse_anchor": "Jonah.4.1",
+      "greek_text": "και ελυπ ηθη Ιωνας λυπην μεγ αλην και",
+      "english_translation": "And Jonah was grieved [2distress with great], and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.1"
+        },
+        {
+          "surface_form": "ελυπ",
+          "lemma": "ελυπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.1"
+        },
+        {
+          "surface_form": "ηθη",
+          "lemma": "ηθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.1"
+        },
+        {
+          "surface_form": "Ιωνας",
+          "lemma": "Ιωνας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:2",
+      "greek_reference": "Ἰωνᾶς 4:2",
+      "verse_anchor": "Jonah.4.2",
+      "greek_text": "συνεξὔθη και προσἔυχατο προς κὔριον και ε ιπεν ω κυριε ὅυξ ὅυτοι οι λογοι μου ἔτι ὅντος μου εν τη γη μου δι α τουτο προ εφθασα του παρακαλο υμενος",
+      "english_translation": "was confounded. And he prayed to the, and said, O, were not these my words still being in my land? Because of this I thought beforehand - relenting.",
+      "morphology": [
+        {
+          "surface_form": "συνεξὔθη",
+          "lemma": "συνεξὔθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.2"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.2"
+        },
+        {
+          "surface_form": "προσἔυχατο",
+          "lemma": "προσἔυχατο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.2"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:3",
+      "greek_reference": "Ἰωνᾶς 4:3",
+      "verse_anchor": "Jonah.4.3",
+      "greek_text": "μετανὅων επἴ ταις κακἴαις και νυν δεσποτα κυριε λαβε την ψυξ ην μου απ' εμου ὅτι καλ ον μἄλλον",
+      "english_translation": "one to change his mind over the evils. And now, master, O, take my soul from me! for it is good CP adds - rather.",
+      "morphology": [
+        {
+          "surface_form": "μετανὅων",
+          "lemma": "μετανὅων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.3"
+        },
+        {
+          "surface_form": "επἴ",
+          "lemma": "επἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.3"
+        },
+        {
+          "surface_form": "ταις",
+          "lemma": "ταις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.3"
+        },
+        {
+          "surface_form": "κακἴαις",
+          "lemma": "κακἴαις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:4",
+      "greek_reference": "Ἰωνᾶς 4:4",
+      "verse_anchor": "Jonah.4.4",
+      "greek_text": "το αποθανἔιν με η ζην και ειπἔ κὔριος ει",
+      "english_translation": "for me to die than live. And the said, Have 1831-*",
+      "morphology": [
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.4"
+        },
+        {
+          "surface_form": "αποθανἔιν",
+          "lemma": "αποθανἔιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.4"
+        },
+        {
+          "surface_form": "με",
+          "lemma": "με",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.4"
+        },
+        {
+          "surface_form": "ζην",
+          "lemma": "ζην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:5",
+      "greek_reference": "Ἰωνᾶς 4:5",
+      "verse_anchor": "Jonah.4.5",
+      "greek_text": "σφ οδρα λελυπησαι συ και εχ ηλθεν Ιωνας εκ της πὅλεως και εκἄθισεν απἔναντι της πὅλεως και εποιησεν αυτω εκει σκην ην και εκαθητο υποκ ατω αυτης ἔως ου απ ιδη τι ἔσται τη πολει κατα ανατολας",
+      "english_translation": "[2exceedingly 3been grieved 1you]? And Jonah went forth from out of the city, and sat before the city, and made to himself there a tent, and sat down underneath it, unto of which he could look over what will be to the city. - according to the east.",
+      "morphology": [
+        {
+          "surface_form": "σφ",
+          "lemma": "σφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.5"
+        },
+        {
+          "surface_form": "οδρα",
+          "lemma": "οδρα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.5"
+        },
+        {
+          "surface_form": "λελυπησαι",
+          "lemma": "λελυπησαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.5"
+        },
+        {
+          "surface_form": "συ",
+          "lemma": "συ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:6",
+      "greek_reference": "Ἰωνᾶς 4:6",
+      "verse_anchor": "Jonah.4.6",
+      "greek_text": "και προς εταχε κυριος ο θεος κολοκ υνθη και ανἔβη υπἔρ κεφαλἤς Ιωνἄ του ἔιναισκἴαν υπερἄνω της κεφαλ ης αυτο υ του σκιαζειν αυτω απ ο των κακ ων αυτο υ και εξἄρη Ιωνἄς επἴ τη κολοκὔνθη ξαρἄν μεγἄλην",
+      "english_translation": "And [3assigned the 2God] a gourd; and it ascended above the head of Jonah, to be shading up above his head, to shade him from his hurts. 5463-* And Jonah rejoiced over the gourd [2joy with great]. See CP for variants.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.6"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.6"
+        },
+        {
+          "surface_form": "εταχε",
+          "lemma": "εταχε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.6"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:7",
+      "greek_reference": "Ἰωνᾶς 4:7",
+      "verse_anchor": "Jonah.4.7",
+      "greek_text": "και προς εταχεν ο θεος σκ ωληκι εωθινη τη επἄυριον και επἄταχε την κολὅκυνθαν και εχηρἄνθη",
+      "english_translation": "And God assigned a worm for early morning the next day, and it struck the gourd, and it was dried up.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.7"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.7"
+        },
+        {
+          "surface_form": "εταχεν",
+          "lemma": "εταχεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.7"
+        },
+        {
+          "surface_form": "θεος",
+          "lemma": "θεος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:8",
+      "greek_reference": "Ἰωνᾶς 4:8",
+      "verse_anchor": "Jonah.4.8",
+      "greek_text": "και εγενετο ἄμα τω ανατε ιλαιτον ἤλιον και προς εταχεν ο θεοςπνευματι καυσωνι συγκα ιοντι και επαταχεν ο ἤλιος επι την κεφαλ ην Ιωνα και ωλιγοψ υξει και απελ εγετο την ψυξ ην αυτο υ και",
+      "english_translation": "And it came to pass at the same time as the rising of the sun, and God assigned [2wind 1a burning] to burn. And [3struck 1the 2sun] upon the head of Jonah, and he became faint-hearted, and resigned of his life, and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.8"
+        },
+        {
+          "surface_form": "εγενετο",
+          "lemma": "εγενετο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.8"
+        },
+        {
+          "surface_form": "ἄμα",
+          "lemma": "ἄμα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.8"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Jonah 4:9",
+      "greek_reference": "Ἰωνᾶς 4:9",
+      "verse_anchor": "Jonah.4.9",
+      "greek_text": "ε ιπε καλ ον μοι το αποθανε ινη ζην και ε ιπεν ο θεος προς Ιωναν ει σφ οδρα λελυπησαι συ επι τη κολοκ υνθη και ε ιπε σφ οδρα λελυπημαι",
+      "english_translation": "said, Better for me to die than live. And [2said 1God] to Jonah, Have [2exceedingly 3been grieved 1you] over the gourd? And he said, [3exceedingly 2have been grieved See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "ιπε",
+          "lemma": "ιπε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.9"
+        },
+        {
+          "surface_form": "καλ",
+          "lemma": "καλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.9"
+        },
+        {
+          "surface_form": "ον",
+          "lemma": "ον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.9"
+        },
+        {
+          "surface_form": "μοι",
+          "lemma": "μοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/jonah.json",
+          "verse_anchor": "Jonah.4.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Jonah 4:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

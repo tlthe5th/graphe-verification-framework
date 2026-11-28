@@ -1,0 +1,4324 @@
+{
+  "corpus": "lxx",
+  "book_english": "Zephaniah",
+  "book_greek": "Σοφονίας",
+  "source_file": "store/lxx/zephaniah.json",
+  "passages": [
+    {
+      "reference": "Zephaniah 1:1",
+      "greek_reference": "Σοφονίας 1:1",
+      "verse_anchor": "Zeph.1.1",
+      "greek_text": "λογος κυριου ος εγενηθη προς Σοφονἴαν τον του Ξουσἴ υιὅυ Γοδολἴου του Αμορἴου του Εζεκἴου εν ημἔραις Ιωσἴα υιὅυ Αμμὤν βασιλἔως",
+      "english_translation": "The word of the which came to pass to Zephaniah the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king",
+      "morphology": [
+        {
+          "surface_form": "λογος",
+          "lemma": "λογος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.1"
+        },
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.1"
+        },
+        {
+          "surface_form": "ος",
+          "lemma": "ος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.1"
+        },
+        {
+          "surface_form": "εγενηθη",
+          "lemma": "εγενηθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:2",
+      "greek_reference": "Σοφονίας 1:2",
+      "verse_anchor": "Zeph.1.2",
+      "greek_text": "Ιο υδα εκλειψειεκλειπ ετω απ ο προς ωπου της γης",
+      "english_translation": "of Judah. In want, let all want from the face of the earth!",
+      "morphology": [
+        {
+          "surface_form": "Ιο",
+          "lemma": "Ιο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.2"
+        },
+        {
+          "surface_form": "υδα",
+          "lemma": "υδα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.2"
+        },
+        {
+          "surface_form": "εκλειψειεκλειπ",
+          "lemma": "εκλειψειεκλειπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.2"
+        },
+        {
+          "surface_form": "ετω",
+          "lemma": "ετω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:3",
+      "greek_reference": "Σοφονίας 1:3",
+      "verse_anchor": "Zeph.1.3",
+      "greek_text": "λεγει κυριος εκλιπ ετω ἄνθρωπος και κτἤνη εκλειπ ετω τα πετεινα του ουρανο υ και οι ιξθυες της θαλ ασσης και ασθεν ησουσιν οι ασεβε ις και εχαρὤ τους ανὅμους απὅ προσὤπου της γης",
+      "english_translation": "says the. Let [4be wanting 1man 2and 3cattle]! Let [5be wanting 1the 2birds 3of the 4heaven], and the fishes of the sea! And [3shall be sickened 1the 2impious], and I will lift away the lawless deeds from the face of the land,",
+      "morphology": [
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.3"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.3"
+        },
+        {
+          "surface_form": "εκλιπ",
+          "lemma": "εκλιπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.3"
+        },
+        {
+          "surface_form": "ετω",
+          "lemma": "ετω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:4",
+      "greek_reference": "Σοφονίας 1:4",
+      "verse_anchor": "Zeph.1.4",
+      "greek_text": "λεγει κυριος και εκτενω την ξειρ α μου επἴ Ιὅυδαν και επἴ πἄντας τους κατοικὅυντας Ιερουσαλ ημ και εχαρω εκ του τ οπου τουτου τα ονοματα της Βα αλ και τα ονοματα των ιερ εων μετα",
+      "english_translation": "says the. And I will stretch out my hand upon Judah, and upon all the ones dwelling in Jerusalem; and I will remove from out of this place the names of Baal, and the names of the priests with",
+      "morphology": [
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.4"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.4"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.4"
+        },
+        {
+          "surface_form": "εκτενω",
+          "lemma": "εκτενω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:5",
+      "greek_reference": "Σοφονίας 1:5",
+      "verse_anchor": "Zeph.1.5",
+      "greek_text": "των ιερἔων και τους προσκυνὅυντας επι τα δωματα τη στρατι α του ουρανο υ και τους προσκυνὅυντας και τους ομνὔοντας κατἄ του κυριου και τους ομν υοντας κατα του",
+      "english_translation": "the consecrated things; even the ones doing obeisance upon the roofs to the military of the heaven, and the ones doing obeisance and swearing by an oath according to the; and the ones swearing an oath according to",
+      "morphology": [
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.5"
+        },
+        {
+          "surface_form": "ιερἔων",
+          "lemma": "ιερἔων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.5"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:6",
+      "greek_reference": "Σοφονίας 1:6",
+      "verse_anchor": "Zeph.1.6",
+      "greek_text": "βασιλ εως αυτων και τους εκκλ ινοντας απ ο του κυρἴου και τους μη ζητὅυντας τον κὔριον και τους μη",
+      "english_translation": "their king, and the ones turning aside from the, and the ones not seeking the, and the ones not",
+      "morphology": [
+        {
+          "surface_form": "βασιλ",
+          "lemma": "βασιλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.6"
+        },
+        {
+          "surface_form": "εως",
+          "lemma": "εως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.6"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.6"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:7",
+      "greek_reference": "Σοφονίας 1:7",
+      "verse_anchor": "Zeph.1.7",
+      "greek_text": "αντεξομ ενους αυτο υ ευλαβε ισθε απ ο προς ωπου κυριου του θεου δι οτι εγγυς η ημ ερα του κυριου ὅτι ητοιμασε κυριος την θυς ιαν αυτο υ και",
+      "english_translation": "holding to him. Be cautious before the presence of the God! for [5 is near 1the 2day 3of the]; for the prepared his sacrifice, and",
+      "morphology": [
+        {
+          "surface_form": "αντεξομ",
+          "lemma": "αντεξομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.7"
+        },
+        {
+          "surface_form": "ενους",
+          "lemma": "ενους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.7"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.7"
+        },
+        {
+          "surface_form": "ευλαβε",
+          "lemma": "ευλαβε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:8",
+      "greek_reference": "Σοφονίας 1:8",
+      "verse_anchor": "Zeph.1.8",
+      "greek_text": "ηγιακε τους κλητο υς αυτο υ και ἔσται εν ημἔρα θυσἴας κυρἴου και εκδικἤσω",
+      "english_translation": "has sanctified his chosen. And it will be in the day of the sacrifice of the, and I will take vengeance",
+      "morphology": [
+        {
+          "surface_form": "ηγιακε",
+          "lemma": "ηγιακε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.8"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.8"
+        },
+        {
+          "surface_form": "κλητο",
+          "lemma": "κλητο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.8"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:9",
+      "greek_reference": "Σοφονίας 1:9",
+      "verse_anchor": "Zeph.1.9",
+      "greek_text": "επι τους ἄρξοντας και επι τον οικον του βασιλ εως και επι παντας τους ενδεδυμ ενους ενδυματα αλλ οτρια και εκδικἤσω επἴ πἄντας εμφανὤς επἴ τα προπυλα εν εκεινη τη ημ ερα τους πληρο υντας τον ὅικον κυρἴου θεὅυ αυτὤν ασεβἔιας και δὅλου",
+      "english_translation": "upon the rulers, and upon the house of the king, and upon all the ones having put on [2garments 1alien]. And I will [2take vengeance 3upon 4all 1visibly] at the gateways in that day, of the ones filling the house of the their God with impiety and treachery.",
+      "morphology": [
+        {
+          "surface_form": "επι",
+          "lemma": "επι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.9"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.9"
+        },
+        {
+          "surface_form": "ἄρξοντας",
+          "lemma": "ἄρξοντας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.9"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:10",
+      "greek_reference": "Σοφονίας 1:10",
+      "verse_anchor": "Zeph.1.10",
+      "greek_text": "και ἔσται εν τη ημ ερα εκεινη λεγει κυριος φωνἤ κραυγἤς απὅ πὔλης αποκεντὅυντων και ολολυγμ ος απ ο της δευτερας και συντριμμ ος",
+      "english_translation": "And it will be in that day, says the, the sound of a cry from the gate of men piercing, and shrieking of women from the second quarter, and [2conflict",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.10"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.10"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.10"
+        },
+        {
+          "surface_form": "τη",
+          "lemma": "τη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:11",
+      "greek_reference": "Σοφονίας 1:11",
+      "verse_anchor": "Zeph.1.11",
+      "greek_text": "μεγας απ ο των βουν ων θρην ησατε οι κατοικο υντες την κατακεκομμ ενην ὅτι ωμοι ωθη πας ο λαος Ξανα αν και εχωλοθρε υθησαν παντες",
+      "english_translation": "1great] from the hills. Wail, the ones dwelling the place having been cut in pieces! for [4are like 1all 2the 3people] Canaan, and [5 were utterly destroyed 1all",
+      "morphology": [
+        {
+          "surface_form": "μεγας",
+          "lemma": "μεγας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.11"
+        },
+        {
+          "surface_form": "απ",
+          "lemma": "απ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.11"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.11"
+        },
+        {
+          "surface_form": "βουν",
+          "lemma": "βουν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:12",
+      "greek_reference": "Σοφονίας 1:12",
+      "verse_anchor": "Zeph.1.12",
+      "greek_text": "οι επηρμἔνοι αργυρἴω και ἔσται εν τη ημ ερα εκεινη εχερευνησω την Ιερουσαλ ημ μετἄ λὔξνου και εκδικἤσω επἴ τους ἄνδρας τους καταφρονο υντας επι τα φυλ αγματα αυτων και οι λἔγοντες εν ταις καρδἴαις αυτὤν ου μη",
+      "english_translation": "2the ones 3having lifted up 4silver]. And it will be in that day I will search out Jerusalem with a lamp, and will take vengeance upon the men, the ones paying no attention unto their injunctions, and the ones saying in their hearts, In no way",
+      "morphology": [
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.12"
+        },
+        {
+          "surface_form": "επηρμἔνοι",
+          "lemma": "επηρμἔνοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.12"
+        },
+        {
+          "surface_form": "αργυρἴω",
+          "lemma": "αργυρἴω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.12"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:13",
+      "greek_reference": "Σοφονίας 1:13",
+      "verse_anchor": "Zeph.1.13",
+      "greek_text": "αγαθοποι ηση κυριος ου δε μη κακ ωσει και ἔσται η δυναμις αυτων εις διαρπαγ ην και οι οικοι αυτων εις αφανισμ ον και οικοδομ ησουσιν οικιας και ου μη κατοικ ησουσιν εν αυτα ις και καταφυτε υσουσιν αμπελ ωνας και ου μη πιωσι",
+      "english_translation": "shall the do good, nor shall he inflict evil. And [2will be 1their power] into ravaging, and the things of their houses for extinction. And they shall build houses, but in no way shall they dwell in them. And they shall plant vineyards, and in no way should they drink",
+      "morphology": [
+        {
+          "surface_form": "αγαθοποι",
+          "lemma": "αγαθοποι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.13"
+        },
+        {
+          "surface_form": "ηση",
+          "lemma": "ηση",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.13"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.13"
+        },
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:14",
+      "greek_reference": "Σοφονίας 1:14",
+      "verse_anchor": "Zeph.1.14",
+      "greek_text": "τον οινον αυτων ὅτι εγγυς ημ ερα κυριου η μεγἄλη και εγγὔς ταξἔια σφὅδρα φωνἤ ημἔρας κυριου πικρα και σκληρ α τ ετακται",
+      "english_translation": "of their wine. For [5 is near 3day of the 1the 2great] – and near [2quickly 1very]. The sound of the day of the [2bitter 3and 4harsh 1has been ordered up].",
+      "morphology": [
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.14"
+        },
+        {
+          "surface_form": "οινον",
+          "lemma": "οινον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.14"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.14"
+        },
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:15",
+      "greek_reference": "Σοφονίας 1:15",
+      "verse_anchor": "Zeph.1.15",
+      "greek_text": "δυνατἤ ημἔρα οργἤς η ημἔρα εκἔινη ημἔρα θλιψεως και αναγκης ημ ερα ταλαιπωρ ιας και αφανισμο υ ημ ερα γνοφου και σκ οτους ημ ερα νεφ ελης και ομιξλης",
+      "english_translation": "[2 is a mighty 3day 4of anger 1That day]; a day of affliction and distress; a day of misery and extinction; a day of dimness and darkness; a day of cloud and fog;",
+      "morphology": [
+        {
+          "surface_form": "δυνατἤ",
+          "lemma": "δυνατἤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.15"
+        },
+        {
+          "surface_form": "ημἔρα",
+          "lemma": "ημἔρα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.15"
+        },
+        {
+          "surface_form": "οργἤς",
+          "lemma": "οργἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.15"
+        },
+        {
+          "surface_form": "ημἔρα",
+          "lemma": "ημἔρα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:16",
+      "greek_reference": "Σοφονίας 1:16",
+      "verse_anchor": "Zeph.1.16",
+      "greek_text": "ημ ερα ςαλπιγγος και κραυγ ης επι τας πολεις τας οξυρ ας και επι τας γων ιας τας υψηλ ας",
+      "english_translation": "a day of trumpet and a cry against the [2cities 1fortified], and against the [2corners 1high].",
+      "morphology": [
+        {
+          "surface_form": "ημ",
+          "lemma": "ημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.16"
+        },
+        {
+          "surface_form": "ερα",
+          "lemma": "ερα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.16"
+        },
+        {
+          "surface_form": "ςαλπιγγος",
+          "lemma": "ςαλπιγγος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.16"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:17",
+      "greek_reference": "Σοφονίας 1:17",
+      "verse_anchor": "Zeph.1.17",
+      "greek_text": "και εκθλἴψω τους ανθρὤπους και πορἔυσονται ως τυφλο ι ὅτι τω κυριω εχ ημαρτον και εκξεἔι το ἄιμα αυτὤν ως ξουν και τας",
+      "english_translation": "And I will squeeze out the men, and they shall go as blind men, for against the they led into sin. And he shall pour out their blood as dust, and",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.17"
+        },
+        {
+          "surface_form": "εκθλἴψω",
+          "lemma": "εκθλἴψω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.17"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.17"
+        },
+        {
+          "surface_form": "ανθρὤπους",
+          "lemma": "ανθρὤπους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 1:18",
+      "greek_reference": "Σοφονίας 1:18",
+      "verse_anchor": "Zeph.1.18",
+      "greek_text": "ςαρκας αυτων ως βολβιτα και το αργ υριον αυτων και το ξρυσἴον αυτὤν ου μη δὔνηται εχελἔσθαι αυτὅυς εν ημ ερα οργης κυριου και εν πυρ ιζ ηλου αυτο υ καταναλωθἤσεται πἄσα η γη δἴοτι συντἔλειαν και σπουδ ην ποιησει επι παντας τους κατοικο υντας την γην",
+      "english_translation": "their flesh as dung. And their silver and their gold in no way should be able to rescue them in the day of the anger of the; and by fire his zeal shall consume all the earth. For completion and diligence he will execute it upon all the ones dwelling the earth.",
+      "morphology": [
+        {
+          "surface_form": "ςαρκας",
+          "lemma": "ςαρκας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.18"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.18"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.18"
+        },
+        {
+          "surface_form": "βολβιτα",
+          "lemma": "βολβιτα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.1.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 1:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:1",
+      "greek_reference": "Σοφονίας 2:1",
+      "verse_anchor": "Zeph.2.1",
+      "greek_text": "συν αξθητε και συνδ εθητε το ἔθνος το",
+      "english_translation": "Be gathered and bound together, O [3nation 1the",
+      "morphology": [
+        {
+          "surface_form": "συν",
+          "lemma": "συν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.1"
+        },
+        {
+          "surface_form": "αξθητε",
+          "lemma": "αξθητε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.1"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.1"
+        },
+        {
+          "surface_form": "συνδ",
+          "lemma": "συνδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:2",
+      "greek_reference": "Σοφονίας 2:2",
+      "verse_anchor": "Zeph.2.2",
+      "greek_text": "απα ιδευτον προ του γενεσθαι υμ ας ως ἄνθος παραπορεὔομενον ημἔρα προς του επελθἔιν εφ' υμἄς οργην κυριου προ του επελθε ινεφ' υμ ας ημ εραν",
+      "english_translation": "2uninstructed]! before your becoming as a flower passing the day, before the coming upon you the wrath of the, before the coming upon you the day",
+      "morphology": [
+        {
+          "surface_form": "απα",
+          "lemma": "απα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.2"
+        },
+        {
+          "surface_form": "ιδευτον",
+          "lemma": "ιδευτον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.2"
+        },
+        {
+          "surface_form": "προ",
+          "lemma": "προ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.2"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:3",
+      "greek_reference": "Σοφονίας 2:3",
+      "verse_anchor": "Zeph.2.3",
+      "greek_text": "οργης θυμο υ κυριου ζητησατε τον κυριον παντες ταπεινο ι γης κριμα εργαζεσθε και δικαιος υνην ζητησατε και αποκρ ινεσθε αυτα ὅπως σκεπασθ ητε εν ημ ερα οργης κυριου",
+      "english_translation": "of the wrath of the rage of the. Seek the all you humble ones of the earth! [2equity 1Work], and [2righteousness 1seek], and answer them accordingly! so that you should be sheltered in a day of wrath of the.",
+      "morphology": [
+        {
+          "surface_form": "οργης",
+          "lemma": "οργης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.3"
+        },
+        {
+          "surface_form": "θυμο",
+          "lemma": "θυμο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.3"
+        },
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.3"
+        },
+        {
+          "surface_form": "ζητησατε",
+          "lemma": "ζητησατε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:4",
+      "greek_reference": "Σοφονίας 2:4",
+      "verse_anchor": "Zeph.2.4",
+      "greek_text": "δἴοτι Γἄζα διηρπασμἔνη ἔσται και Ασκαλὤν εις αφανισμὅν και Ἄζωτος μεσημβρἴας",
+      "english_translation": "For Gaza shall be for having been plundered, and Ashkelon for extinction, and Ashdod at midday",
+      "morphology": [
+        {
+          "surface_form": "δἴοτι",
+          "lemma": "δἴοτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.4"
+        },
+        {
+          "surface_form": "Γἄζα",
+          "lemma": "Γἄζα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.4"
+        },
+        {
+          "surface_form": "διηρπασμἔνη",
+          "lemma": "διηρπασμἔνη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.4"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:5",
+      "greek_reference": "Σοφονίας 2:5",
+      "verse_anchor": "Zeph.2.5",
+      "greek_text": "εκριφ ησεται και Ακκαρ ων εκριζωθ ησεται ουα ι Σ Φ οι κατοικὅυντες το σξὅινισμα της θαλἄσσης παροικοι Κρητ ων λογος κυριου εφ υμ ας Ξανα αν γη αλλοφ υλων και απολ ω",
+      "english_translation": "shall be cast forth, and Ekron shall be rooted out. Woe, the ones dwelling the measured out land of the sea – sojourners of Cretans. The word of the is against you, O Canaan, land of the Philistines; and I will destroy 1510.8.3-*",
+      "morphology": [
+        {
+          "surface_form": "εκριφ",
+          "lemma": "εκριφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.5"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.5"
+        },
+        {
+          "surface_form": "Ακκαρ",
+          "lemma": "Ακκαρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:6",
+      "greek_reference": "Σοφονίας 2:6",
+      "verse_anchor": "Zeph.2.6",
+      "greek_text": "υμἄς εκ κατοικἴας και ἔσται Κρἤτη Ι Σ γης και προσκυνἤσουσιν αυτὤ ἔκαστος εκ του τ οπου αυτο υ πασαι αι νησοι των εθνων",
+      "english_translation": "you from out of your dwelling. And Crete shall be earth; and they shall do obeisance to him, each from out of his place – all the islands of the nations.",
+      "morphology": [
+        {
+          "surface_form": "υμἄς",
+          "lemma": "υμἄς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.6"
+        },
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.6"
+        },
+        {
+          "surface_form": "κατοικἴας",
+          "lemma": "κατοικἴας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.6"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:7",
+      "greek_reference": "Σοφονίας 2:7",
+      "verse_anchor": "Zeph.2.7",
+      "greek_text": "νομ η ποιμν ιων και μανδρα προβ ατων και ἔσται το σξο ινισμα της θαλ ασσης τοις καταλο ιποις οικου Ιο υδα επ αυτο υς νεμησονται εν τοιςοικοις Ασκαλ ωνος δειλης καταλ υσουσιν απ ο προς ωπου υι ων Ιο υδα ὅτι επεσκεπται αυτο υς κυριος ο θεος αυτων και αποστρ εψει την αιξμαλως ιαν αυτων",
+      "english_translation": "a pasture of flocks, and a haven for sheep. And [5will be 1the 2measured out piece of land 3by the 4sea] for the remnants of the house of Judah. Upon them they shall pasture in the houses of Ashkelon. In the afternoon they shall rest up from in front of the sons of Judah, for [3has visited 4them the 2their God], and shall return their captivity.",
+      "morphology": [
+        {
+          "surface_form": "νομ",
+          "lemma": "νομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.7"
+        },
+        {
+          "surface_form": "ποιμν",
+          "lemma": "ποιμν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.7"
+        },
+        {
+          "surface_form": "ιων",
+          "lemma": "ιων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.7"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:8",
+      "greek_reference": "Σοφονίας 2:8",
+      "verse_anchor": "Zeph.2.8",
+      "greek_text": "ἤκουσα ονειδισμο υς Μω αβ και κονδυλισμο υς υι ων Αμμ ων εν οις ωνε ιδιζον τον λαον μου και εμεγαλ υνοντο επι τα ὅρἴα μου",
+      "english_translation": "I heard the scorns of Moab, and the ill-treatment by the sons of Ammon, in which they berated my people, and magnified themselves over my borders.",
+      "morphology": [
+        {
+          "surface_form": "ἤκουσα",
+          "lemma": "ἤκουσα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.8"
+        },
+        {
+          "surface_form": "ονειδισμο",
+          "lemma": "ονειδισμο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.8"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.8"
+        },
+        {
+          "surface_form": "Μω",
+          "lemma": "Μω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:9",
+      "greek_reference": "Σοφονίας 2:9",
+      "verse_anchor": "Zeph.2.9",
+      "greek_text": "δἴα τὅυτο ζω εγὤ λἔγει κὔριος των δυναμεων ο θεος Ισρα ηλ δι οτι Μω αβ ως Σοδομα ἔσται και υιὅι Αμμὤν ως Γὅμορρα και Δαμασκὅς εκλελειμμ ενη και ως θημων ια αλος εις τον αἴωνα και οι κατἄλοιποι λαὅυ μου διαρπὤνται αυτο υς και οι καταλοιποι ἔθνους μου κληρονομ ησουσιν",
+      "english_translation": "On account of this, as I live, says the of the forces, the God of Israel, that Moab [2as 3Sodom 1will be], and the sons of Ammon as Gomorrah, and Damascus having ceased. And it will be as a heap of salt into the eon. And the remnants of my people shall plunder them, and the remnants of my nation shall inherit",
+      "morphology": [
+        {
+          "surface_form": "δἴα",
+          "lemma": "δἴα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.9"
+        },
+        {
+          "surface_form": "τὅυτο",
+          "lemma": "τὅυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.9"
+        },
+        {
+          "surface_form": "ζω",
+          "lemma": "ζω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.9"
+        },
+        {
+          "surface_form": "εγὤ",
+          "lemma": "εγὤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:10",
+      "greek_reference": "Σοφονίας 2:10",
+      "verse_anchor": "Zeph.2.10",
+      "greek_text": "αυτο υς αυτη αυτο ις αντι της ὔβρεως αυτὤν δι οτι ωνε ιδισαν και εμεγαλ υνθησαν επι κυριον τον των δυναμεων",
+      "english_translation": "them. This is to them for their insolence, for they berated and magnified themselves over the - of the forces.",
+      "morphology": [
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.10"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.10"
+        },
+        {
+          "surface_form": "αυτη",
+          "lemma": "αυτη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.10"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:11",
+      "greek_reference": "Σοφονίας 2:11",
+      "verse_anchor": "Zeph.2.11",
+      "greek_text": "παντοκρἄτορα επιφανἤσεται κὔριος επ αυτὅυς και εχολοθρε υσει παντας τους θεους των εθνων της",
+      "english_translation": "almighty. The shall appear against them, and he shall utterly destroy all the gods of the nations of the",
+      "morphology": [
+        {
+          "surface_form": "παντοκρἄτορα",
+          "lemma": "παντοκρἄτορα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.11"
+        },
+        {
+          "surface_form": "επιφανἤσεται",
+          "lemma": "επιφανἤσεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.11"
+        },
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.11"
+        },
+        {
+          "surface_form": "επ",
+          "lemma": "επ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:12",
+      "greek_reference": "Σοφονίας 2:12",
+      "verse_anchor": "Zeph.2.12",
+      "greek_text": "και υμἔις Αιθἴοπες τραυματἴαι ρομφἄιας",
+      "english_translation": "And you, O Ethiopians, [2slain 4broadsword",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.12"
+        },
+        {
+          "surface_form": "υμἔις",
+          "lemma": "υμἔις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.12"
+        },
+        {
+          "surface_form": "Αιθἴοπες",
+          "lemma": "Αιθἴοπες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.12"
+        },
+        {
+          "surface_form": "τραυματἴαι",
+          "lemma": "τραυματἴαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:13",
+      "greek_reference": "Σοφονίας 2:13",
+      "verse_anchor": "Zeph.2.13",
+      "greek_text": "μου εστε και εκτενει την ξειρα αυτο υ επἴ βορρἄν και απολἔι τον Ασσὔριον και θησει την Νινευ+ εις αφανισμ ον ἄνυδρον ως",
+      "english_translation": "3of my 1are]. And he will stretch out his hand against the north, and will destroy the Assyrian, and will establish Nineveh for [2extinction 1a waterless], as",
+      "morphology": [
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.13"
+        },
+        {
+          "surface_form": "εστε",
+          "lemma": "εστε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.13"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.13"
+        },
+        {
+          "surface_form": "εκτενει",
+          "lemma": "εκτενει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:14",
+      "greek_reference": "Σοφονίας 2:14",
+      "verse_anchor": "Zeph.2.14",
+      "greek_text": "ἔρημον και νεμησονται εν μεσω αυτης πὅιμνια και πἄντα τα θηρἴα της γης και ξαμαιλ εοντες και εξινοι εν τοις φατν ωμασιν αυτης κοιτασθ ησονται και θηρια φων ησει εν τοις διορυγμασιν αυτης και κορακες εν τοις πυλ ωσιν αυτης",
+      "english_translation": "a wilderness. And [2shall feed 3in the midst 5of her 1flocks], even all the wild beasts of the earth, and chameleons; and hedgehogs [2in 3her fretwork 1shall make a bed]; and wild beasts sound out loud in her ditches; and crows in her gatehouses;",
+      "morphology": [
+        {
+          "surface_form": "ἔρημον",
+          "lemma": "ἔρημον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.14"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.14"
+        },
+        {
+          "surface_form": "νεμησονται",
+          "lemma": "νεμησονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.14"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 2:15",
+      "greek_reference": "Σοφονίας 2:15",
+      "verse_anchor": "Zeph.2.15",
+      "greek_text": "δι οτι κεδρος το αναστημα αυτης ἄυτη η πολις η φαυλ ιστρια η κατοικο υσα επ' ελπ ιδιη λεγουσα εν τη καρδ ια αυτης εγω ειμι και ουκ εστι μετ εμε ἔτι πως εγενηθη εις αφανισμ ον νομ η θηριων πας ο διαπορευ ομενος δι' αυτης συριἔι και κινἤσει τας ξἔιρας αυτὅυ",
+      "english_translation": "for [2 was as the cedar 1her height]. This is the [2city 1heedless] dwelling upon hope, who says in her heart, I am, and there is not after me any longer. O how it was for extinction – a pasture of wild beasts. Every one traveling through her shall whistle and shall shake his hands.",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.15"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.15"
+        },
+        {
+          "surface_form": "κεδρος",
+          "lemma": "κεδρος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.15"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.2.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:1",
+      "greek_reference": "Σοφονίας 3:1",
+      "verse_anchor": "Zeph.3.1",
+      "greek_text": "ω η επιφαν ης και απολελυτρωμ ενη",
+      "english_translation": "O the prominent and having been ransomed",
+      "morphology": [
+        {
+          "surface_form": "επιφαν",
+          "lemma": "επιφαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.1"
+        },
+        {
+          "surface_form": "ης",
+          "lemma": "ης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.1"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.1"
+        },
+        {
+          "surface_form": "απολελυτρωμ",
+          "lemma": "απολελυτρωμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:2",
+      "greek_reference": "Σοφονίας 3:2",
+      "verse_anchor": "Zeph.3.2",
+      "greek_text": "πὅλις η περιστερἄ ουκ εισἤκουσε φωνἤς σου ουκ εδεχατο παιδε ιαν επι τω κυριω ουκ επεπὅιθει και προς τον θἔον αυτἤς",
+      "english_translation": "city, the dove. She listened not to your voice; she did not take instruction; [2upon 3the 1she had not relied], and to her God",
+      "morphology": [
+        {
+          "surface_form": "πὅλις",
+          "lemma": "πὅλις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.2"
+        },
+        {
+          "surface_form": "περιστερἄ",
+          "lemma": "περιστερἄ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.2"
+        },
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.2"
+        },
+        {
+          "surface_form": "εισἤκουσε",
+          "lemma": "εισἤκουσε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:3",
+      "greek_reference": "Σοφονίας 3:3",
+      "verse_anchor": "Zeph.3.3",
+      "greek_text": "ουκ ηγγισεν οι ἄρξοντες αυτἤς εν αυτη ως λεοντες ωρυ ομενοι οι κριται αυτης ως λυκοι",
+      "english_translation": "she did not approach. Her rulers among her are as lions roaring; her judges are as wolves",
+      "morphology": [
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.3"
+        },
+        {
+          "surface_form": "ηγγισεν",
+          "lemma": "ηγγισεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.3"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.3"
+        },
+        {
+          "surface_form": "ἄρξοντες",
+          "lemma": "ἄρξοντες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:4",
+      "greek_reference": "Σοφονίας 3:4",
+      "verse_anchor": "Zeph.3.4",
+      "greek_text": "της Αραβ ιας ουξ υπελ ιποντο εις το πρω+ οι προφ ηται αυτης πνευματοφ οροι ἄνδρες καταφρονητἄι ιερἔις αυτἤς βεβηλὅυσι τα ἄγια",
+      "english_translation": "of Arabia, they did not remain behind into the morning. Her prophets [2carried by the wind are men] – despisers. Her priests profane the holy things,",
+      "morphology": [
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.4"
+        },
+        {
+          "surface_form": "Αραβ",
+          "lemma": "Αραβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.4"
+        },
+        {
+          "surface_form": "ιας",
+          "lemma": "ιας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.4"
+        },
+        {
+          "surface_form": "ουξ",
+          "lemma": "ουξ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:5",
+      "greek_reference": "Σοφονίας 3:5",
+      "verse_anchor": "Zeph.3.5",
+      "greek_text": "και ασεβο υσιν εις τον νομον ο δε κυριος δικαιος εν μεσω αυτης και ου μη ποιησε ι ἄδικον πρω+ πρω+ δὤσει κριμα αυτο υ εις φως και ουκ απεκρ υβη και ουκ ἔγνω αδικἴαν εν απαιτἤσει και ουκ εις γενεαν αυτης του επικαλε ισθαι παντας το ὅνομα κυριου του δουλε υειν αυτω υπ ο ζυγον ἔνα",
+      "english_translation": "and are impious against the law. But the [2 1righteous] is in the midst of her, and in no way shall he do an unrighteous thing. Morning by morning he executes his judgment in light, and it was not concealed; and he does not know injustice by exaction, and not [2by See Bos for variants. her generation, for all to call upon the name of the, to serve him under [2yoke 1one].",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.5"
+        },
+        {
+          "surface_form": "ασεβο",
+          "lemma": "ασεβο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.5"
+        },
+        {
+          "surface_form": "υσιν",
+          "lemma": "υσιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.5"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:6",
+      "greek_reference": "Σοφονίας 3:6",
+      "verse_anchor": "Zeph.3.6",
+      "greek_text": "νεικος αδικιαν κατεσπασα υπερηφ ανους ηφαν ισθησαν γων ιαι αυτων εχερημωσω τας οδους αυτων το παρ απαν του μη διοδευειν εχ ελιπον αι πολεις αυτων δι α το μηδ ενα",
+      "english_translation": "3altercation 1injustice]. I tore down the proud; [2 were obliterated 1their corners]; I shall make quite desolate their ways thoroughly so as to not travel through; [2vanished 1their cities] by reason of no one",
+      "morphology": [
+        {
+          "surface_form": "νεικος",
+          "lemma": "νεικος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.6"
+        },
+        {
+          "surface_form": "αδικιαν",
+          "lemma": "αδικιαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.6"
+        },
+        {
+          "surface_form": "κατεσπασα",
+          "lemma": "κατεσπασα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.6"
+        },
+        {
+          "surface_form": "υπερηφ",
+          "lemma": "υπερηφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:7",
+      "greek_reference": "Σοφονίας 3:7",
+      "verse_anchor": "Zeph.3.7",
+      "greek_text": "υπἄρξειν μηδἔ κατοικἔιν ἔιπα πλην φοβε ισθε με και δεχασθε παιδε ιαν και ου μη εχολοθρευθ ητε εχ οφθαλμ ων αυτης παντα οσα εχεδικησα επ' αυτην ετοιμαζου ὅρθρισον δι εφθαρται πασα η επιφυλλ ις αυτων",
+      "english_translation": "existing nor dwelling. I said, Furthermore fear me, and receive instruction! and in no way should you be utterly destroyed from out of her eyes for all as much vengeance as I brought upon her. Prepare! Rise early! [3has been ruined 1All 2their gleaning].",
+      "morphology": [
+        {
+          "surface_form": "υπἄρξειν",
+          "lemma": "υπἄρξειν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.7"
+        },
+        {
+          "surface_form": "μηδἔ",
+          "lemma": "μηδἔ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.7"
+        },
+        {
+          "surface_form": "κατοικἔιν",
+          "lemma": "κατοικἔιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.7"
+        },
+        {
+          "surface_form": "ἔιπα",
+          "lemma": "ἔιπα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:8",
+      "greek_reference": "Σοφονίας 3:8",
+      "verse_anchor": "Zeph.3.8",
+      "greek_text": "δι α τουτο υπ ομεινον με λεγει κυριος εις ημ εραν αναστ ασε ως μου εις μαρτ υριον δι οτι το κριμα μου εις συναγωγ ας εθνων του εισδεχασθαι βασιλε ις του εκξεαι επ' αυτο υς την οργην μου πασαν οργην θυμο υ δι οτι εν πυρ ι ζ ηλου μου καταναλωθ ησεται πασα η γη",
+      "english_translation": "On account of this, await me! says the, for the day of my rising up for a testimony. For my judgment shall be for a gathering of nations to take kings, to pour out upon them [3anger 2of my 1all] – the anger of my rage, for [5by the fire 7of my zeal 4shall be consumed 1all 2the 3earth].",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.8"
+        },
+        {
+          "surface_form": "τουτο",
+          "lemma": "τουτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.8"
+        },
+        {
+          "surface_form": "υπ",
+          "lemma": "υπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.8"
+        },
+        {
+          "surface_form": "ομεινον",
+          "lemma": "ομεινον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:9",
+      "greek_reference": "Σοφονίας 3:9",
+      "verse_anchor": "Zeph.3.9",
+      "greek_text": "ὅτι τὅτε μεταστρἔψω επἴ λαὅυς γλὤσσαν εις",
+      "english_translation": "For then I will transfer upon peoples a language for",
+      "morphology": [
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.9"
+        },
+        {
+          "surface_form": "τὅτε",
+          "lemma": "τὅτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.9"
+        },
+        {
+          "surface_form": "μεταστρἔψω",
+          "lemma": "μεταστρἔψω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.9"
+        },
+        {
+          "surface_form": "επἴ",
+          "lemma": "επἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:10",
+      "greek_reference": "Σοφονίας 3:10",
+      "verse_anchor": "Zeph.3.10",
+      "greek_text": "εκ περἄτων ποταμὤν Αιθιοπἴας υποδ εχομαι τους διεσπαρμ ενους μου",
+      "english_translation": "From out of the limits of the rivers of Ethiopia, I will welcome the ones of mine having been dispersed. See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.10"
+        },
+        {
+          "surface_form": "περἄτων",
+          "lemma": "περἄτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.10"
+        },
+        {
+          "surface_form": "ποταμὤν",
+          "lemma": "ποταμὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.10"
+        },
+        {
+          "surface_form": "Αιθιοπἴας",
+          "lemma": "Αιθιοπἴας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:11",
+      "greek_reference": "Σοφονίας 3:11",
+      "verse_anchor": "Zeph.3.11",
+      "greek_text": "οισουσι θυσιασματα εμοι εν τη ημ ερα εκεινη ου μη καταισξυνθ ης εκ παντων των επιτηδευμ ατων σου ων ης εβησας εις εμε ὅτι τ οτε περιελω απ ο σου τα φαυλ ισματα της υβρε ως σου και ουκετι μη προσθ ης του μεγαλαυξ ησαι επι το ὅρος το αγιον μου",
+      "english_translation": "They shall bring sacrifices to me. In that day in no way shall you be disgraced from out of all of your practices of which you were impious against me; for then I shall remove from you the careless attitudes of your insolence, and no longer should you proceed to make great brag over [2mountain 1my holy].",
+      "morphology": [
+        {
+          "surface_form": "οισουσι",
+          "lemma": "οισουσι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.11"
+        },
+        {
+          "surface_form": "θυσιασματα",
+          "lemma": "θυσιασματα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.11"
+        },
+        {
+          "surface_form": "εμοι",
+          "lemma": "εμοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.11"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:12",
+      "greek_reference": "Σοφονίας 3:12",
+      "verse_anchor": "Zeph.3.12",
+      "greek_text": "και υπολε ιψομαι εν σοι λαον πρα=ν και ταπεινὅν και ευλαβηθἤσονται απὅ του ονὅματος",
+      "english_translation": "And I will leave behind among you a people gentle and humble, and they shall show reverence at the name",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.12"
+        },
+        {
+          "surface_form": "υπολε",
+          "lemma": "υπολε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.12"
+        },
+        {
+          "surface_form": "ιψομαι",
+          "lemma": "ιψομαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.12"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:13",
+      "greek_reference": "Σοφονίας 3:13",
+      "verse_anchor": "Zeph.3.13",
+      "greek_text": "κυριου οι καταλοιποι του Ισρα ηλ και ου ποἴησουσιν αδικἴαν και ου λαλἤσουσι ματαια και ου μη ευρεθη εν τω στὅματι αυτὤν γλὤσσα δολἴα δἴοτιαυτὅι νεμἤσονται και κοιτασθ ησονται και ουκ εσται ο εκφοβ ων",
+      "english_translation": "of the. The remnant of Israel, even they shall not commit iniquity, and they shall not speak vanity, and in no way should there be found in their mouth [2tongue 1a deceitful]; for they shall feed, and shall lay in bed, and there will not be one frightening",
+      "morphology": [
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.13"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.13"
+        },
+        {
+          "surface_form": "καταλοιποι",
+          "lemma": "καταλοιποι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.13"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:14",
+      "greek_reference": "Σοφονίας 3:14",
+      "verse_anchor": "Zeph.3.14",
+      "greek_text": "αυτο υς ξαιρε θυγατερ Σιων κηρυσσε θυγατερ Ιερουσαλ ημ ευφρα ινου και κατατ ερπου εχ ὅλης της καρδ ιας σου θυγατερ Ιερουσαλ ημ",
+      "english_translation": "them. Rejoice, O daughter of Zion! Proclaim, O daughter of Jerusalem! Be glad and delight yourself from out of [2entire 3heart 1your], O daughter of Jerusalem!",
+      "morphology": [
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.14"
+        },
+        {
+          "surface_form": "υς",
+          "lemma": "υς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.14"
+        },
+        {
+          "surface_form": "ξαιρε",
+          "lemma": "ξαιρε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.14"
+        },
+        {
+          "surface_form": "θυγατερ",
+          "lemma": "θυγατερ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:15",
+      "greek_reference": "Σοφονίας 3:15",
+      "verse_anchor": "Zeph.3.15",
+      "greek_text": "περιειλε κυριος τα αδικηματ α σου λελυτρωτα ι σε εκ ξειρος εξθρων σου βασιλε υς Ισρα ηλ κὔριος εν μἔσω σου ουκ ὅψει κακἄ",
+      "english_translation": "The removed your offences. He has ransomed you from out of the hand of your enemies. The king of Israel – the in the midst of you; you shall not see bad things",
+      "morphology": [
+        {
+          "surface_form": "περιειλε",
+          "lemma": "περιειλε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.15"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.15"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.15"
+        },
+        {
+          "surface_form": "αδικηματ",
+          "lemma": "αδικηματ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:16",
+      "greek_reference": "Σοφονίας 3:16",
+      "verse_anchor": "Zeph.3.16",
+      "greek_text": "εφυλαχ αμην και επτοηθη η κοιλια μου απ ο φωνἤς προσευξἤς ξειλἔων μου και εισἤλθε τρὅμος εις τα οστα μου και υποκ ατωθ εν μου εταραξθη η ἔχις μου αναπα υσομαι εν ημ ερα της θλιψεως μου του αναβ ηναι με προς τον λαον της παροικ ιας μου εφυλαχα εφοβἤθη ισξυς Ι Σ ουκετι εν τω καιρω εκεινω ερει κυριος τη Ιερουσαλἤμ θἄρσει Σἴων μη παρἔισθωσαν",
+      "english_translation": "I watched, and [2was terrified 1my belly] from the sound of the prayer of my lips. And [2entered 1trembling] into my bones, and my part beneath. [2 was disturbed 1My manner]. I will rest in a day of my affliction for me to ascend to the people of my sojourn. - I guarded. - feared. - strength. any longer. In that time the shall say to Jerusalem, Be of courage, O Zion, do not neglect",
+      "morphology": [
+        {
+          "surface_form": "εφυλαχ",
+          "lemma": "εφυλαχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.16"
+        },
+        {
+          "surface_form": "αμην",
+          "lemma": "αμην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.16"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.16"
+        },
+        {
+          "surface_form": "επτοηθη",
+          "lemma": "επτοηθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:17",
+      "greek_reference": "Σοφονίας 3:17",
+      "verse_anchor": "Zeph.3.17",
+      "greek_text": "δι οτισυκ η ου καρποφορ ησει και ουκ εσται γεννηματα εν ταις αμπ ελοις ψευσεται το ἔργον της ελἄιας και τα πεδἴα ου ποἴησει βρὤσιν εχ ελιπεν απ ο βρωσεως προβατα και ουξ υπ αρχουσι παραδὤ τον καρπον φυτ α ποιησουσι βρωματα",
+      "english_translation": "For the fig-tree shall not bear fruit; and there shall not be produce on the grapevines; [5shall lie 1the 2work 3of the 4olive], and the plains shall not produce food; [2cease 3from 4food 1sheep], and [2shall not exist - deliver up fruit. - stems. i.e. fail. - shall produce foods.",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.17"
+        },
+        {
+          "surface_form": "οτισυκ",
+          "lemma": "οτισυκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.17"
+        },
+        {
+          "surface_form": "ου",
+          "lemma": "ου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.17"
+        },
+        {
+          "surface_form": "καρποφορ",
+          "lemma": "καρποφορ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:18",
+      "greek_reference": "Σοφονίας 3:18",
+      "verse_anchor": "Zeph.3.18",
+      "greek_text": "βὅες επἴ φἄτναις εγὤ δε εν τω κυρἴω αγαλλι ασομαι ξαρ ησομαι επι τω θεω τω σωτηρ ι μου ευφρανθἤσομαι",
+      "english_translation": "the oxen] at the stables. But I [2in 3the 1shall exult], I will rejoice over God my deliverer. - I will be glad.",
+      "morphology": [
+        {
+          "surface_form": "βὅες",
+          "lemma": "βὅες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.18"
+        },
+        {
+          "surface_form": "επἴ",
+          "lemma": "επἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.18"
+        },
+        {
+          "surface_form": "φἄτναις",
+          "lemma": "φἄτναις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.18"
+        },
+        {
+          "surface_form": "εγὤ",
+          "lemma": "εγὤ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Zephaniah 3:19",
+      "greek_reference": "Σοφονίας 3:19",
+      "verse_anchor": "Zeph.3.19",
+      "greek_text": "κὔριος ο θἔος δὔναμἴς μου και τἄχει τους πὅδας μου εις συντἔλειαν και επἴ τα υψηλἄ επιβιβ α με του νικησαι με εν τη ωδ η αυτο υ ισξυς θἤσει επιθησει",
+      "english_translation": "The God is my power, and he will arrange my feet unto completion, and upon the high places he shall set me, for me to overcome by his ode. - strength. - set. - put.",
+      "morphology": [
+        {
+          "surface_form": "κὔριος",
+          "lemma": "κὔριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.19"
+        },
+        {
+          "surface_form": "θἔος",
+          "lemma": "θἔος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.19"
+        },
+        {
+          "surface_form": "δὔναμἴς",
+          "lemma": "δὔναμἴς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.19"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/zephaniah.json",
+          "verse_anchor": "Zeph.3.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Zephaniah 3:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

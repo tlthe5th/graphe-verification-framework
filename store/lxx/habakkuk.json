@@ -1,0 +1,4374 @@
+{
+  "corpus": "lxx",
+  "book_english": "Habakkuk",
+  "book_greek": "Ἀμβακούμ",
+  "source_file": "store/lxx/habakkuk.json",
+  "passages": [
+    {
+      "reference": "Habakkuk 1:1",
+      "greek_reference": "Ἀμβακούμ 1:1",
+      "verse_anchor": "Hab.1.1",
+      "greek_text": "το λημμα ο ε ιδεν Αμβακο υκ ο",
+      "english_translation": "The concern which [4saw 1Habakkuk 2the",
+      "morphology": [
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.1"
+        },
+        {
+          "surface_form": "λημμα",
+          "lemma": "λημμα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.1"
+        },
+        {
+          "surface_form": "ιδεν",
+          "lemma": "ιδεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.1"
+        },
+        {
+          "surface_form": "Αμβακο",
+          "lemma": "Αμβακο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:2",
+      "greek_reference": "Ἀμβακούμ 1:2",
+      "verse_anchor": "Hab.1.2",
+      "greek_text": "προφἤτης ἔως πὅτε κὔριε κεκρἄχομαι και ου μη εισακο υσης βοησομαι προς σε αδικὅυμενος και ου σὤσης",
+      "english_translation": "3prophet]. For how long, O, I shall have cried out, and in no way should you listen? For how long shall I yell to you being wronged, and you should not deliver?",
+      "morphology": [
+        {
+          "surface_form": "προφἤτης",
+          "lemma": "προφἤτης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.2"
+        },
+        {
+          "surface_form": "ἔως",
+          "lemma": "ἔως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.2"
+        },
+        {
+          "surface_form": "πὅτε",
+          "lemma": "πὅτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.2"
+        },
+        {
+          "surface_form": "κὔριε",
+          "lemma": "κὔριε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:3",
+      "greek_reference": "Ἀμβακούμ 1:3",
+      "verse_anchor": "Hab.1.3",
+      "greek_text": "ινατι ἔδειχἄς μοι πονους και κοπους επιβλἔπειν ταλαιπωρἴαν και ασἔβειαν εχεναντἴας μου γεγονε κρισις και ο κριτης λαμβ ανει",
+      "english_translation": "Why did you show to me toils and troubles, to look upon misery and impiety? Right opposite me [2has taken place 1judgment], and the judge receives bribes.",
+      "morphology": [
+        {
+          "surface_form": "ινατι",
+          "lemma": "ινατι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.3"
+        },
+        {
+          "surface_form": "ἔδειχἄς",
+          "lemma": "ἔδειχἄς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.3"
+        },
+        {
+          "surface_form": "μοι",
+          "lemma": "μοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.3"
+        },
+        {
+          "surface_form": "πονους",
+          "lemma": "πονους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:4",
+      "greek_reference": "Ἀμβακούμ 1:4",
+      "verse_anchor": "Hab.1.4",
+      "greek_text": "δἴα τὅυτο διεσκἔδασται νὅμος και ου διεχ αγεται εις τ ελος κριμα ὅτι ασεβἤς καταδυναστἔυει τον δἴκαιον ἔνεκεν τὅυτου εχελἔυσεται το κρἴμα διεστραμμἔνον",
+      "english_translation": "On account of this [2has been effaced the law], and [2 is not 3administered 4unto the end 1judgment]. For the impious one tyrannizes over the righteous one; because of this [2shall go forth 1judgment] having been perverted.",
+      "morphology": [
+        {
+          "surface_form": "δἴα",
+          "lemma": "δἴα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.4"
+        },
+        {
+          "surface_form": "τὅυτο",
+          "lemma": "τὅυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.4"
+        },
+        {
+          "surface_form": "διεσκἔδασται",
+          "lemma": "διεσκἔδασται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.4"
+        },
+        {
+          "surface_form": "νὅμος",
+          "lemma": "νὅμος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:5",
+      "greek_reference": "Ἀμβακούμ 1:5",
+      "verse_anchor": "Hab.1.5",
+      "greek_text": "ἴδετε οι καταφρονητα ι και επιβλ εψατε και θαυμἄσατε θαυμἄσια και αφανἴσθητε δἴοτι ἔργον εγω εργαζομαι εν ταις ημ εραις υμ ων ο ου μη πιστε υσητε ε αν τις εκδιηγ ηται",
+      "english_translation": "Behold, O despisers, and look, and wonder wonders, and vanish! for [3a work 1I 2work] in your days, which in no way should you believe if any should tell to you in detail. See Acts 13:41.",
+      "morphology": [
+        {
+          "surface_form": "ἴδετε",
+          "lemma": "ἴδετε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.5"
+        },
+        {
+          "surface_form": "οι",
+          "lemma": "οι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.5"
+        },
+        {
+          "surface_form": "καταφρονητα",
+          "lemma": "καταφρονητα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:6",
+      "greek_reference": "Ἀμβακούμ 1:6",
+      "verse_anchor": "Hab.1.6",
+      "greek_text": "δι οτι ιδο υ εγω εχεγειρω τους Ξαλδα ιους το ἔθνος το πικρὅν και το ταξινὅν το πορεὔομενον επἴ τα πλ ατη της γης του κατακληρονομ ησαι σκην ωματα",
+      "english_translation": "For behold, I awaken the Chaldeans, the [4nation 1bitter 2and 3quick]; the one going upon the widths of the earth, to inherit tents",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.6"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.6"
+        },
+        {
+          "surface_form": "ιδο",
+          "lemma": "ιδο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.6"
+        },
+        {
+          "surface_form": "εγω",
+          "lemma": "εγω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:7",
+      "greek_reference": "Ἀμβακούμ 1:7",
+      "verse_anchor": "Hab.1.7",
+      "greek_text": "ουκ αυτὅυ φοβερὅς και επιφανἤς εστιν εχ αυτο υ το κριμα αυτο υ ἔσται και το λημμα αυτο υ",
+      "english_translation": "not his. [2fearful 3and 4apparent 1He is]; [3from 4himself 1his judgment 2will be], and his concern",
+      "morphology": [
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        },
+        {
+          "surface_form": "αυτὅυ",
+          "lemma": "αυτὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        },
+        {
+          "surface_form": "φοβερὅς",
+          "lemma": "φοβερὅς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:8",
+      "greek_reference": "Ἀμβακούμ 1:8",
+      "verse_anchor": "Hab.1.8",
+      "greek_text": "εχ αυτο υ εχελευσεται και εχαλο υνται υπἔρ παρδἄλεις οι ἴπποι αυτὅυ και οχὔτεροι",
+      "english_translation": "from himself shall come forth. And [2shall leap 3more than 4leopards 1his horses], and are sharper",
+      "morphology": [
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "εχελευσεται",
+          "lemma": "εχελευσεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:9",
+      "greek_reference": "Ἀμβακούμ 1:9",
+      "verse_anchor": "Hab.1.9",
+      "greek_text": "υπἔρ τους λὔκους της Αραβἴας και εχιππἄσονται οι ιππε ις αυτο υ και ορμ ησουσι μακρ οθεν και πετασθ ησονται ως αετος προθυμος εις το φαγε ιν συντ ελεια εις ασεβε ις ἤχει ανθεστηκ οτας προς ωποις αυτων εχεναντιας",
+      "english_translation": "than the wolves of Arabia. And [2shall ride forth 1his horsemen], and shall advance far off, and shall spread out as an eagle eager for something to eat. Consumption [2unto the impious ones 1shall come] having opposed their fronts right opposite,",
+      "morphology": [
+        {
+          "surface_form": "υπἔρ",
+          "lemma": "υπἔρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.9"
+        },
+        {
+          "surface_form": "τους",
+          "lemma": "τους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.9"
+        },
+        {
+          "surface_form": "λὔκους",
+          "lemma": "λὔκους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.9"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:10",
+      "greek_reference": "Ἀμβακούμ 1:10",
+      "verse_anchor": "Hab.1.10",
+      "greek_text": "και συν αχει ως ἄμμον αιξμαλως ιαν και αυτος εν βασιλε υσιν εντρυφ ησει και τ υραννοι πἄιγνια αυτὅυ και αυτὅς εις παν οξὔρωμα εμπἄιχεται και βαλε ι ξωμα και κρατ ησει",
+      "english_translation": "and he shall gather [2as the sand the captivity]. And he [2among 3kings 1shall revel], and sovereigns are his playthings. And he [2at 3every 4fortress 1shall mock], and shall throw up an embankment, and shall prevail over",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.10"
+        },
+        {
+          "surface_form": "συν",
+          "lemma": "συν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.10"
+        },
+        {
+          "surface_form": "αχει",
+          "lemma": "αχει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.10"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:11",
+      "greek_reference": "Ἀμβακούμ 1:11",
+      "verse_anchor": "Hab.1.11",
+      "greek_text": "αυτο υ τ οτε μεταβαλε ι το πνευμα και διελευσεται και εχιλἄσεται ἄυτη η ισξὔς τω",
+      "english_translation": "it. Then he shall turn the spirit, and shall go through, and shall make atonement, saying, This strength is to See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.11"
+        },
+        {
+          "surface_form": "οτε",
+          "lemma": "οτε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.11"
+        },
+        {
+          "surface_form": "μεταβαλε",
+          "lemma": "μεταβαλε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.11"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:12",
+      "greek_reference": "Ἀμβακούμ 1:12",
+      "verse_anchor": "Hab.1.12",
+      "greek_text": "θεω μου ουξι συ απ' αρξ ης κυριε ο θἔος μου ο αγἴος μου ου μη αποθἄνωμεν κὔριε εις κρἴμα τἔταξας αυτὅν και ἔπλασἔ",
+      "english_translation": "my god. Are you not from the beginning, O my God, my holy one? In no way should we die. O, for judgment – you have ordered it. And he shaped",
+      "morphology": [
+        {
+          "surface_form": "θεω",
+          "lemma": "θεω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        },
+        {
+          "surface_form": "ουξι",
+          "lemma": "ουξι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        },
+        {
+          "surface_form": "συ",
+          "lemma": "συ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:13",
+      "greek_reference": "Ἀμβακούμ 1:13",
+      "verse_anchor": "Hab.1.13",
+      "greek_text": "με του ελεγξειν παιδε ιαν αυτο υ καθαρ ος ο οφθαλμὅς του μη ορἄν πονηρἄ και επιβλἔπειν επι πονηρο υς ου δυνηση ινατι επιβλ επεις επἴ καταφρονὅυντας παρασιωπἤση εν τω θὔσει τη σαγἤνη αυτὅυ και θυμἴασει τω αμφιβλἤστρω αυτὅυ ὅτι εν αυτὅις ελἴπανε μερἴδα αυτὅυ",
+      "english_translation": "me to reprove for his discipline. Pure is the eye to not see evil things, and [2to look 3upon 4evils 1you are not able]. Why should you look upon ones disdaining? Shall you remain silent in the See Bos for variants. he will sacrifice to his dragnet, and burn incense to his casting-net; for by them he fattened his portion,",
+      "morphology": [
+        {
+          "surface_form": "με",
+          "lemma": "με",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        },
+        {
+          "surface_form": "ελεγξειν",
+          "lemma": "ελεγξειν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        },
+        {
+          "surface_form": "παιδε",
+          "lemma": "παιδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:14",
+      "greek_reference": "Ἀμβακούμ 1:14",
+      "verse_anchor": "Hab.1.14",
+      "greek_text": "καταπ ινειν ασεβ η τον δικαιον και ποἴησεις τους ανθρὤπους ως τους ιξθὔας της θαλ ασσης και ως τα ερπετα ουκ ἔξοντα ηγο υμενον",
+      "english_translation": "[2swallowing down 1impious one] the righteous one? And will you make the men as the fishes of the sea, and as the reptiles not having one taking the lead?",
+      "morphology": [
+        {
+          "surface_form": "καταπ",
+          "lemma": "καταπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.14"
+        },
+        {
+          "surface_form": "ινειν",
+          "lemma": "ινειν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.14"
+        },
+        {
+          "surface_form": "ασεβ",
+          "lemma": "ασεβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.14"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:15",
+      "greek_reference": "Ἀμβακούμ 1:15",
+      "verse_anchor": "Hab.1.15",
+      "greek_text": "συντ ελειαν εν αγκ ιστρω ανεσπασε και ἔιλκυσεν αυτὅν εν αμφιβλἤστρω αυτὅυ και συνἤγαγεν αυτον εν ταις σαγ ηναις αυτο υ ἔνεκεν τουτου",
+      "english_translation": "[2consumption 3with 4a hook 1He pulled up], and drew it with his casting-net, and gathered it in his dragnets. Because of this",
+      "morphology": [
+        {
+          "surface_form": "συντ",
+          "lemma": "συντ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.15"
+        },
+        {
+          "surface_form": "ελειαν",
+          "lemma": "ελειαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.15"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.15"
+        },
+        {
+          "surface_form": "αγκ",
+          "lemma": "αγκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:16",
+      "greek_reference": "Ἀμβακούμ 1:16",
+      "verse_anchor": "Hab.1.16",
+      "greek_text": "ευφρανθ ησεται και ξαρ ησεται ἔνεκεν τουτου",
+      "english_translation": "he shall be glad and shall rejoice. Because of this",
+      "morphology": [
+        {
+          "surface_form": "ευφρανθ",
+          "lemma": "ευφρανθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.16"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.16"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.16"
+        },
+        {
+          "surface_form": "ξαρ",
+          "lemma": "ξαρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 1:17",
+      "greek_reference": "Ἀμβακούμ 1:17",
+      "verse_anchor": "Hab.1.17",
+      "greek_text": "και τα βρωματα αυτο υ εκλεκτ α δι α τουτο αμφιβαλε ι αμφ ιβληστρον αυτο υ και διαπαντ ος αποκτε ινειν ἔθνη ου φεισεται",
+      "english_translation": "even [3foods 1his 2choice]. On account of this he will cast his casting-net, and always to kill nations – not sparing? See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.17"
+        },
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.17"
+        },
+        {
+          "surface_form": "βρωματα",
+          "lemma": "βρωματα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.17"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.1.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:1",
+      "greek_reference": "Ἀμβακούμ 2:1",
+      "verse_anchor": "Hab.2.1",
+      "greek_text": "επἴ της φυλακἤς μου στἤσομαι και επιβἤσομαι επι πετραν και αποσκοπε υσω του ιδε ιν τι λαλ ηση εν εμοι και τι αποκριθ ω επι τον",
+      "english_translation": "Upon my watch I will stand, and I will mount upon a rock. And I will watch over to behold what he should speak by me, and what I will answer upon",
+      "morphology": [
+        {
+          "surface_form": "επἴ",
+          "lemma": "επἴ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.1"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.1"
+        },
+        {
+          "surface_form": "φυλακἤς",
+          "lemma": "φυλακἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.1"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:2",
+      "greek_reference": "Ἀμβακούμ 2:2",
+      "verse_anchor": "Hab.2.2",
+      "greek_text": "ἔλεγξὅν μου και απεκρ ιθη προς με κυριος και ε ιπε γραψον ὅρασιν σαφ ως εις πυχ ιον ὅπως δἴωκη ο αναγινὤσκων αυτἄ",
+      "english_translation": "my reproof. And [2answered 3to 4me the], and said, Write the vision clearly onto a writing-tablet, so that [4should take flight 1the one 2reading 3these things].",
+      "morphology": [
+        {
+          "surface_form": "ἔλεγξὅν",
+          "lemma": "ἔλεγξὅν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        },
+        {
+          "surface_form": "μου",
+          "lemma": "μου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        },
+        {
+          "surface_form": "απεκρ",
+          "lemma": "απεκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:3",
+      "greek_reference": "Ἀμβακούμ 2:3",
+      "verse_anchor": "Hab.2.3",
+      "greek_text": "δι οτι ἔτι ὅρασις εις καιρον και ανατελε ι εις πἔρας και ουκ εις κενὅν ἔαν υστερἤση υπὅμεινον αυτὅν ὅτι ερξομενος ἤχει και ου μη ξρονιση",
+      "english_translation": "For the vision is yet for a time, and it shall rise in the end, and not in vain. If he should lack, wait for him! For in coming he shall come, and in no way should he delay.",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.3"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.3"
+        },
+        {
+          "surface_form": "ἔτι",
+          "lemma": "ἔτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.3"
+        },
+        {
+          "surface_form": "ὅρασις",
+          "lemma": "ὅρασις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:4",
+      "greek_reference": "Ἀμβακούμ 2:4",
+      "verse_anchor": "Hab.2.4",
+      "greek_text": "ε αν υποστε ιληται ουκ ευδοκε ι η ψυξἤ μου εν αυτὤ ο δε δἴκαιος εκ πιστεως μου ζ ησεται Μ Β",
+      "english_translation": "If he should keep back, [2does not think well 1my soul] in him; but the righteous one [2from out of 3my belief 1shall live]. See Rm. 1:17, Gal. 3:11, Heb. 10:37,38.",
+      "morphology": [
+        {
+          "surface_form": "αν",
+          "lemma": "αν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.4"
+        },
+        {
+          "surface_form": "υποστε",
+          "lemma": "υποστε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.4"
+        },
+        {
+          "surface_form": "ιληται",
+          "lemma": "ιληται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.4"
+        },
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:5",
+      "greek_reference": "Ἀμβακούμ 2:5",
+      "verse_anchor": "Hab.2.5",
+      "greek_text": "ο δε κατοιομενος και καταφρονητ ης ανἤρ αλαζὤν ουθἔν ου μη περανη ος επλ ατυνε καθ ως ο ἄδης την ψυξἤν αυτὅυ και ὅυτος ως θἄνατος ουκ εμπιπλἄμενος και επισυν αχει προς αυτον παντα τα ἔθνη και",
+      "english_translation": "But the one being arrogant and despising, [2man is an ostentatious]; not one thing in any way should he have achieved; who widened [2as 3Hades 1his soul], and this one is as death not being filled up; and he shall assemble unto himself all the nations, and",
+      "morphology": [
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.5"
+        },
+        {
+          "surface_form": "κατοιομενος",
+          "lemma": "κατοιομενος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.5"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.5"
+        },
+        {
+          "surface_form": "καταφρονητ",
+          "lemma": "καταφρονητ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:6",
+      "greek_reference": "Ἀμβακούμ 2:6",
+      "verse_anchor": "Hab.2.6",
+      "greek_text": "εισδεχεται προς αυτον παντας τους λαο υς ουξι ταυτα παντα παραβολ ην κατ' αυτο υ ληψονται και πρὅβλημα εις δἴηγησιν αυτὅυ και ερὅυσιν ουα ι ο πληθ υνων εαυτω τα ουκ ὅντα αυτο υ ἔως τἴνος και βαρ υνων τον κλοιον αυτο υ Κ Μ ο ποτἴζων τον πλησἴον αυτὅυ ανατροπἤν θολερἄν και μεθὔσκων ὅπως επιβλἔπη επἴ",
+      "english_translation": "will take in to himself all the peoples. [2not 4these 3all 6a parable 7against 8him 1Shall 5take up], and a riddle for his narrative? And they shall say, Woe, the one multiplying to himself the things not being his; how long even the one oppressing his collar See CP for variant. the one giving a drink to his neighbor [4diet of lees 1a clouded 2and 3intoxicating], so that he should look upon",
+      "morphology": [
+        {
+          "surface_form": "εισδεχεται",
+          "lemma": "εισδεχεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.6"
+        },
+        {
+          "surface_form": "προς",
+          "lemma": "προς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.6"
+        },
+        {
+          "surface_form": "αυτον",
+          "lemma": "αυτον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.6"
+        },
+        {
+          "surface_form": "παντας",
+          "lemma": "παντας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:7",
+      "greek_reference": "Ἀμβακούμ 2:7",
+      "verse_anchor": "Hab.2.7",
+      "greek_text": "στιβαρὤς ὅτι εχἄιφνης αναστἤσονται δἄκνοντες αυτον και εκνηψουσιν οι επιβουλο ι σου",
+      "english_translation": "densely? For suddenly [3shall raise up 1ones biting 2him], and [3shall sober up 1the 2plotters against you],",
+      "morphology": [
+        {
+          "surface_form": "στιβαρὤς",
+          "lemma": "στιβαρὤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.7"
+        },
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.7"
+        },
+        {
+          "surface_form": "εχἄιφνης",
+          "lemma": "εχἄιφνης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.7"
+        },
+        {
+          "surface_form": "αναστἤσονται",
+          "lemma": "αναστἤσονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:8",
+      "greek_reference": "Ἀμβακούμ 2:8",
+      "verse_anchor": "Hab.2.8",
+      "greek_text": "και ἔση εις διαρπαγ ην αυτο ις δι οτι συ εσκ υλευσας ἔθνη πολλ α σκυλε υσους ι σε παντες οι υπολελειμμ ενοι λαο ι δι' αιματα ανθρ ωπων και ασεβε ιας γης και πολεως και παντων των κατοικο υντων αυτην",
+      "english_translation": "and you will be for ravaging to them. In that you despoiled [2nations 1many], [5shall despoil 6you 1all 2the 4having been left 3peoples], because of the blood of men, and the impious deeds of the land and city, and all of the ones dwelling it.",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.8"
+        },
+        {
+          "surface_form": "ἔση",
+          "lemma": "ἔση",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.8"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.8"
+        },
+        {
+          "surface_form": "διαρπαγ",
+          "lemma": "διαρπαγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:9",
+      "greek_reference": "Ἀμβακούμ 2:9",
+      "verse_anchor": "Hab.2.9",
+      "greek_text": "ω ο πλεονεκτὤν πλεονεχἴαν κακ ην τω οικω αυτο υ του τ αχαι εις ὔψος νοσσι αν αυτο υ του εκσπασθ ηναι εκ ξειρος κακ ων",
+      "english_translation": "O, the one overabounding in a desire for [2wealth 1evil] to his house; to arrange [2in the height 1his nest]; to pull out [2from out of 3a hand 1evils].",
+      "morphology": [
+        {
+          "surface_form": "πλεονεκτὤν",
+          "lemma": "πλεονεκτὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.9"
+        },
+        {
+          "surface_form": "πλεονεχἴαν",
+          "lemma": "πλεονεχἴαν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.9"
+        },
+        {
+          "surface_form": "κακ",
+          "lemma": "κακ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.9"
+        },
+        {
+          "surface_form": "ην",
+          "lemma": "ην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:10",
+      "greek_reference": "Ἀμβακούμ 2:10",
+      "verse_anchor": "Hab.2.10",
+      "greek_text": "εβουλε υσω αισξ υνην τω οικω σου συνεπ ερανας πολλο υς λαο υς και εχ ημαρτεν η ψυξ η σου",
+      "english_translation": "You deliberated shame to your house; you finished off many peoples, and [2 was led into sin 1your soul].",
+      "morphology": [
+        {
+          "surface_form": "εβουλε",
+          "lemma": "εβουλε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.10"
+        },
+        {
+          "surface_form": "υσω",
+          "lemma": "υσω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.10"
+        },
+        {
+          "surface_form": "αισξ",
+          "lemma": "αισξ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.10"
+        },
+        {
+          "surface_form": "υνην",
+          "lemma": "υνην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:11",
+      "greek_reference": "Ἀμβακούμ 2:11",
+      "verse_anchor": "Hab.2.11",
+      "greek_text": "δἴοτι λἴθος εκ τὅιξου βὅησεται και κανθαρος εκ χ υλου φθ εγχεται αυτα",
+      "english_translation": "For the stone [2from out of the wall 1shall yell]; and the beetle from out of the wood shall utter its sounds.",
+      "morphology": [
+        {
+          "surface_form": "δἴοτι",
+          "lemma": "δἴοτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.11"
+        },
+        {
+          "surface_form": "λἴθος",
+          "lemma": "λἴθος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.11"
+        },
+        {
+          "surface_form": "εκ",
+          "lemma": "εκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.11"
+        },
+        {
+          "surface_form": "τὅιξου",
+          "lemma": "τὅιξου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:12",
+      "greek_reference": "Ἀμβακούμ 2:12",
+      "verse_anchor": "Hab.2.12",
+      "greek_text": "ουἄι ο οικοδομὤν πὅλιν εν ἄιμασι και",
+      "english_translation": "Woe, the one building a city in blood, and",
+      "morphology": [
+        {
+          "surface_form": "ουἄι",
+          "lemma": "ουἄι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.12"
+        },
+        {
+          "surface_form": "οικοδομὤν",
+          "lemma": "οικοδομὤν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.12"
+        },
+        {
+          "surface_form": "πὅλιν",
+          "lemma": "πὅλιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.12"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:13",
+      "greek_reference": "Ἀμβακούμ 2:13",
+      "verse_anchor": "Hab.2.13",
+      "greek_text": "ετοιμαζων πολιν εν αδικιαις ου ταυτα εστι παρ α κυρἴου παντοκρἄτορος και εχἔλιπον λαὅι ικανὅι εν πυρ ι και ἔθνη πολλ α και ωλιγοψ υξησαν πολλὅι",
+      "english_translation": "prepares a city by iniquities. [2these not 1Are] from the almighty? Even [3failed 2peoples 1fit] by fire, and [2nations 1many] even became faint-hearted. many.",
+      "morphology": [
+        {
+          "surface_form": "ετοιμαζων",
+          "lemma": "ετοιμαζων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.13"
+        },
+        {
+          "surface_form": "πολιν",
+          "lemma": "πολιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.13"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.13"
+        },
+        {
+          "surface_form": "αδικιαις",
+          "lemma": "αδικιαις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:14",
+      "greek_reference": "Ἀμβακούμ 2:14",
+      "verse_anchor": "Hab.2.14",
+      "greek_text": "ὅτι πλησθ ησεται η γη του γνωναι την δοχαν",
+      "english_translation": "For [3shall be filled 1the 2earth] to know the glory",
+      "morphology": [
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.14"
+        },
+        {
+          "surface_form": "πλησθ",
+          "lemma": "πλησθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.14"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.14"
+        },
+        {
+          "surface_form": "γη",
+          "lemma": "γη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:15",
+      "greek_reference": "Ἀμβακούμ 2:15",
+      "verse_anchor": "Hab.2.15",
+      "greek_text": "κυριου ως ὔδωρ κατακαλ υψαι θαλ ασσας ω",
+      "english_translation": "of the, as water covers up seas. O,",
+      "morphology": [
+        {
+          "surface_form": "κυριου",
+          "lemma": "κυριου",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.15"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.15"
+        },
+        {
+          "surface_form": "ὔδωρ",
+          "lemma": "ὔδωρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.15"
+        },
+        {
+          "surface_form": "κατακαλ",
+          "lemma": "κατακαλ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:16",
+      "greek_reference": "Ἀμβακούμ 2:16",
+      "verse_anchor": "Hab.2.16",
+      "greek_text": "τα σπ ηλαια αυτων πλησμον ην ατιμιας εκ δοχης πιε και διασαλε υθητι εκυκλως εν σε ποτηριον δεχι ας κυριου",
+      "english_translation": "their private parts. [2 to the fullness 3of the dishonor 4from out of your glory 1Drink], and be excited! [4encircled 5you The cup 2of the right hand of the], See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.16"
+        },
+        {
+          "surface_form": "σπ",
+          "lemma": "σπ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.16"
+        },
+        {
+          "surface_form": "ηλαια",
+          "lemma": "ηλαια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.16"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:17",
+      "greek_reference": "Ἀμβακούμ 2:17",
+      "verse_anchor": "Hab.2.17",
+      "greek_text": "και συν ηξθη ατιμια επι την δοχαν σου δι οτι ας εβεια του Λιβ ανου καλ υψει σε και ταλαιπωρ ια θηριων πτοησει σε δι' αιματα ανθρὤπων και ασεβἔιας γης και πὅλεως",
+      "english_translation": "and [2was brought 1dishonor] upon your glory. For the impiety of Lebanon shall cover you, and the misery from wild beasts shall terrify you, because of the blood of men, and the impious deeds of the land, and of the city,",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.17"
+        },
+        {
+          "surface_form": "συν",
+          "lemma": "συν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.17"
+        },
+        {
+          "surface_form": "ηξθη",
+          "lemma": "ηξθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.17"
+        },
+        {
+          "surface_form": "ατιμια",
+          "lemma": "ατιμια",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:18",
+      "greek_reference": "Ἀμβακούμ 2:18",
+      "verse_anchor": "Hab.2.18",
+      "greek_text": "και παντων των κατοικο υντων αυτην τι ωφελε ι γλυπτ ον ὅτι ἔγλυψαν αυτο ἔπλασεν αυτο ξὤνευμα φαντασἴαν ψευδἤ ὅτι πἔποιθεν ο πλ ασας επι το πλ ασμα αυτο υ του",
+      "english_translation": "and of all the ones dwelling it. What benefit is the carved image that they carved it? He shaped it a molten casting – [2visible display 1a false]. For [3has relied 1the one 2shaping] upon the thing shaped by him in the",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.18"
+        },
+        {
+          "surface_form": "παντων",
+          "lemma": "παντων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.18"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.18"
+        },
+        {
+          "surface_form": "κατοικο",
+          "lemma": "κατοικο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:19",
+      "greek_reference": "Ἀμβακούμ 2:19",
+      "verse_anchor": "Hab.2.19",
+      "greek_text": "ποιησαι ε ιδωλα κωφ α ουα ι ο λεγων τω χ υλω ἔκνηψον εγερθητι και τω λιθω υψ ωθητι και αυτοεστι φαντας ια και ἔστιν ἔλασμα ξρυς ιου και αργυρ ιου και παν πνευμα ουκ εστιν εν αυτω",
+      "english_translation": "making of [2idols 1mute]. Woe, the one saying to the wood, Sober up, arise! And to the stone – Be exalted! But it is only a visible display, and it is a hammered piece of gold and silver, and any breath is not in it.",
+      "morphology": [
+        {
+          "surface_form": "ποιησαι",
+          "lemma": "ποιησαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "ιδωλα",
+          "lemma": "ιδωλα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "κωφ",
+          "lemma": "κωφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        },
+        {
+          "surface_form": "ουα",
+          "lemma": "ουα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 2:20",
+      "greek_reference": "Ἀμβακούμ 2:20",
+      "verse_anchor": "Hab.2.20",
+      "greek_text": "ο δε κυριος εν ναω αγιω αυτο υ ευλαβε ισθω απ ο προς ωπου αυτο υ πασα η γη",
+      "english_translation": "But the is in [2temple 1his holy]. Let [4venerate 5from 6before 7him 1all 2the 3earth]!",
+      "morphology": [
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.20"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.20"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.20"
+        },
+        {
+          "surface_form": "ναω",
+          "lemma": "ναω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.2.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 2:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:1",
+      "greek_reference": "Ἀμβακούμ 3:1",
+      "verse_anchor": "Hab.3.1",
+      "greek_text": "προσευξ η Αμβακο υκ του προφ ητου μετ'",
+      "english_translation": "The prayer of Habakkuk the prophet with",
+      "morphology": [
+        {
+          "surface_form": "προσευξ",
+          "lemma": "προσευξ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.1"
+        },
+        {
+          "surface_form": "Αμβακο",
+          "lemma": "Αμβακο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.1"
+        },
+        {
+          "surface_form": "υκ",
+          "lemma": "υκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.1"
+        },
+        {
+          "surface_form": "του",
+          "lemma": "του",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:2",
+      "greek_reference": "Ἀμβακούμ 3:2",
+      "verse_anchor": "Hab.3.2",
+      "greek_text": "ωδ ης κυριε εισακ ηκοα την ακο ην σου και εφοβ ηθην κυριε κατεν οησα τα ἔργα σου και εχ εστην εν μεσω δυο ζ ωων",
+      "english_translation": "an ode. O, I have listened to your report, and I feared. O, I contemplated your works, and was startled. In the midst of the two living creatures",
+      "morphology": [
+        {
+          "surface_form": "ωδ",
+          "lemma": "ωδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        },
+        {
+          "surface_form": "ης",
+          "lemma": "ης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        },
+        {
+          "surface_form": "κυριε",
+          "lemma": "κυριε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        },
+        {
+          "surface_form": "εισακ",
+          "lemma": "εισακ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:3",
+      "greek_reference": "Ἀμβακούμ 3:3",
+      "verse_anchor": "Hab.3.3",
+      "greek_text": "γνωσθἤση εν τω εγγἴζειν τα ἔτη επιγνωσθἤση εν τω παρἔιναι τον καιρὅν αναδειξθ ηση εν τω ταραξθ ηναι την ψυξ ην μου εν οργη ελεους μνησθ ηση ο θεος απ ο Θεμ αν ἤχει και ο ἄγιος εχ ὅρους κατασκ ιου Φαρ αν δι αψαλμα εκαλυψεν τους ουρανὅυς η αρετἤ αυτὅυ και της αινἔσεως αυτὅυ επλἤσθη δυναμις",
+      "english_translation": "you shall be known. In the approaching of the years you shall be recognized. In the [2at hand 1time] you shall be made manifest when [2is disturbed 1my soul]. In wrath [2mercy 1you shall remember]. God [2from 3Teman 1shall come], and the holy one from out of the mount of shady Paran. PAUSE. [2covered 3the 4heavens 1His virtue], and his praise filled - power.",
+      "morphology": [
+        {
+          "surface_form": "γνωσθἤση",
+          "lemma": "γνωσθἤση",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.3"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.3"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.3"
+        },
+        {
+          "surface_form": "εγγἴζειν",
+          "lemma": "εγγἴζειν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:4",
+      "greek_reference": "Ἀμβακούμ 3:4",
+      "verse_anchor": "Hab.3.4",
+      "greek_text": "η γη και φ εγγος αυτο υ ως φως ἔσται και κἔρατα εν ξερσἴν αυτὅυ και ἔθετο αγἄπησιν διἄυγασμα",
+      "english_translation": "the earth. And his brightness [2as 3light 1will be], and horns in his hands. And he established [2affection - light shining through. See Bos for variant.",
+      "morphology": [
+        {
+          "surface_form": "γη",
+          "lemma": "γη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.4"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.4"
+        },
+        {
+          "surface_form": "εγγος",
+          "lemma": "εγγος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.4"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:5",
+      "greek_reference": "Ἀμβακούμ 3:5",
+      "verse_anchor": "Hab.3.5",
+      "greek_text": "κραται αν ισξυος αυτο υ προ προς ωπου αυτο υ πορε υσεται λογος και εχελευσεται εις πεδια",
+      "english_translation": "1a strong] by his strength. Before his face shall go a word, and it shall go forth for a flat ground.",
+      "morphology": [
+        {
+          "surface_form": "κραται",
+          "lemma": "κραται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.5"
+        },
+        {
+          "surface_form": "αν",
+          "lemma": "αν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.5"
+        },
+        {
+          "surface_form": "ισξυος",
+          "lemma": "ισξυος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.5"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:6",
+      "greek_reference": "Ἀμβακούμ 3:6",
+      "verse_anchor": "Hab.3.6",
+      "greek_text": "κατἄ πὅδας αυτὅυ ἔστη και εσαλἔυθη η γη επεβλεψε και διετ ακη ἔθνη διεθρυβη τα ὅρη βια ετ ακησαν βουνο ι αιωνιοι",
+      "english_translation": "At his feet [3stood 4and 5shook 1the 2earth]. He looked and [2melted 1nations]. [3 were broke through 1The 2mountains] by force. [3melted away 2hills 1Eternal] - See Bos for variant.",
+      "morphology": [
+        {
+          "surface_form": "κατἄ",
+          "lemma": "κατἄ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.6"
+        },
+        {
+          "surface_form": "πὅδας",
+          "lemma": "πὅδας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.6"
+        },
+        {
+          "surface_form": "αυτὅυ",
+          "lemma": "αυτὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.6"
+        },
+        {
+          "surface_form": "ἔστη",
+          "lemma": "ἔστη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:7",
+      "greek_reference": "Ἀμβακούμ 3:7",
+      "verse_anchor": "Hab.3.7",
+      "greek_text": "αι οδοι αιωνιαι αυτο υ αντι κοπων ε ιδον τας σκην ας Αιθιοπων ταραξθ ησονται και πονων πτοηθἤσονται",
+      "english_translation": "[2ways 1his eternal]. [5in 6troubles 1I beheld 2the 3tents 4of Ethiopians]; [7shall be disturbed 1and - misery. & Six. - were terriﬁed.",
+      "morphology": [
+        {
+          "surface_form": "αι",
+          "lemma": "αι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.7"
+        },
+        {
+          "surface_form": "οδοι",
+          "lemma": "οδοι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.7"
+        },
+        {
+          "surface_form": "αιωνιαι",
+          "lemma": "αιωνιαι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.7"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:8",
+      "greek_reference": "Ἀμβακούμ 3:8",
+      "verse_anchor": "Hab.3.8",
+      "greek_text": "τα σκην ωματα της γης Μαδι αν μη εν ποταμο ις ωργ ισθης κυριε η εν ποταμὅις ο θυμὅς σου η εν θαλἄσση η ορμ η σου ο αναβης ομενος επι τους ἴππους σου και η ιππας ια σου σωτηρ ια το ορμημ α οτι επιβηση επι τα σκ ηπτρα λεγει κυριος δι αψαλμα",
+      "english_translation": "2the 3tents 4of the 5land 6of Midian]. Were [2at the rivers 1you provoked to anger], O, or [2at the rivers was your rage], or [2at the sea was your impulse]? the one riding upon your horses, and your riding is deliverance. & Six. - object of desire. & Six. - for you shall mount. against the chiefdoms, says the. PAUSE.",
+      "morphology": [
+        {
+          "surface_form": "τα",
+          "lemma": "τα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.8"
+        },
+        {
+          "surface_form": "σκην",
+          "lemma": "σκην",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.8"
+        },
+        {
+          "surface_form": "ωματα",
+          "lemma": "ωματα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.8"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:9",
+      "greek_reference": "Ἀμβακούμ 3:9",
+      "verse_anchor": "Hab.3.9",
+      "greek_text": "εντεινας εκτενεις το τ οχον σου ο ποτομ ος σξ ιζεται τη γη",
+      "english_translation": "Stretching out, you shall stretch out your bow - the river shall split the land.",
+      "morphology": [
+        {
+          "surface_form": "εντεινας",
+          "lemma": "εντεινας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.9"
+        },
+        {
+          "surface_form": "εκτενεις",
+          "lemma": "εκτενεις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.9"
+        },
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.9"
+        },
+        {
+          "surface_form": "οχον",
+          "lemma": "οχον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:10",
+      "greek_reference": "Ἀμβακούμ 3:10",
+      "verse_anchor": "Hab.3.10",
+      "greek_text": "ποταμ ων ραγ ησεται γη ειδ ον σε και ωδινἤσουσι λαὅι διασπερἔις ὔδατα της πορε ιας ἔδωκεν η ἄβυσσος την φων ην αυτης συναλγο υσιν λαο ι αυτὅυ",
+      "english_translation": "[2of rivers 3shall be torn The land]. They saw you, and [2shall travail 1peoples]. You shall disperse waters of the coursing. [3gave out 1The 2abyss] her voice – - peoples shall gather. - of him.",
+      "morphology": [
+        {
+          "surface_form": "ποταμ",
+          "lemma": "ποταμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.10"
+        },
+        {
+          "surface_form": "ων",
+          "lemma": "ων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.10"
+        },
+        {
+          "surface_form": "ραγ",
+          "lemma": "ραγ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.10"
+        },
+        {
+          "surface_form": "ησεται",
+          "lemma": "ησεται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:11",
+      "greek_reference": "Ἀμβακούμ 3:11",
+      "verse_anchor": "Hab.3.11",
+      "greek_text": "το ὔψος της φαντας ιας αυτο υ υψ ωθη ο ἤλιος και η σελ ηνη ἔστη εν τη τ αχει αυτης εις φως βολ ιδες σου πορε υσονται και εν εν φωτ ι αι",
+      "english_translation": "the height of his visible display. [3 was exalted 1The 2sun], and the moon stood in her order. At the light of your arrows they shall go forth, and [2in - in light.",
+      "morphology": [
+        {
+          "surface_form": "το",
+          "lemma": "το",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.11"
+        },
+        {
+          "surface_form": "ὔψος",
+          "lemma": "ὔψος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.11"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.11"
+        },
+        {
+          "surface_form": "φαντας",
+          "lemma": "φαντας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:12",
+      "greek_reference": "Ἀμβακούμ 3:12",
+      "verse_anchor": "Hab.3.12",
+      "greek_text": "φἔγγι αστραπἤς των ὅπλων σου εν απειλ η ολιγωσεις την γην και εν θυμ ω ελαττωσεις την γην οργη",
+      "english_translation": "3brightness 4of lightning 1your weapons]. By intimidation you shall make [3few 1the 2land], and in rage - you shall make the land lack. - wrath.",
+      "morphology": [
+        {
+          "surface_form": "φἔγγι",
+          "lemma": "φἔγγι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.12"
+        },
+        {
+          "surface_form": "αστραπἤς",
+          "lemma": "αστραπἤς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.12"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.12"
+        },
+        {
+          "surface_form": "ὅπλων",
+          "lemma": "ὅπλων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:13",
+      "greek_reference": "Ἀμβακούμ 3:13",
+      "verse_anchor": "Hab.3.13",
+      "greek_text": "κατἄχεις ἔθνη εχἤλθες εις σωτηρἴαν λαο υ σου του ςωσαι τον ξριστον σου ἔβαλες εις κεφαλ ας ανομων θανατον εχἤγειρας δεσμὅυς ἔως του τραξἤλου εις το τ ελος δι εκοψας εν εκστ ασει κεφαλ ας δυναστ ων σεισθ ησονται εν αυτη διανοιχουσι ξαλινο υς αυτων ως ο ἔσθων πτωξ ος λαθρα διεμερισας εν θαμβει τας κεφαλ ας των δυνατ ων σαλευθ ησονται εν αυτη ανοιχουσι τας ηνιας αυτων ως τρωγων τους ξριστο υς",
+      "english_translation": "you shall break nations. You came forth for deliverance of your people – to deliver your anointed one. You threw [2onto the heads 4of lawless ones 1death]. [4you raised 5bonds 6unto 7the 8neck 1For 2the 3completion]. You cut through [3for 4astonishment 1heads 2of mighty ones]; they shall shake in it; they shall open wide their bridles as the [2eating 1poor] in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open their reins as [2chewing & CP - the anointed ones. See Bos for variant.",
+      "morphology": [
+        {
+          "surface_form": "κατἄχεις",
+          "lemma": "κατἄχεις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        },
+        {
+          "surface_form": "ἔθνη",
+          "lemma": "ἔθνη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        },
+        {
+          "surface_form": "εχἤλθες",
+          "lemma": "εχἤλθες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:14",
+      "greek_reference": "Ἀμβακούμ 3:14",
+      "verse_anchor": "Hab.3.14",
+      "greek_text": "",
+      "english_translation": "or burrowing.",
+      "morphology": [],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:15",
+      "greek_reference": "Ἀμβακούμ 3:15",
+      "verse_anchor": "Hab.3.15",
+      "greek_text": "πτωξ ον εν αποκρ υφω και επεβ ιβασας εις υπεργ ηαγες επι",
+      "english_translation": "the poor] in concealment. And you conducted [2into - you surpassed over.",
+      "morphology": [
+        {
+          "surface_form": "πτωξ",
+          "lemma": "πτωξ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.15"
+        },
+        {
+          "surface_form": "ον",
+          "lemma": "ον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.15"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.15"
+        },
+        {
+          "surface_form": "αποκρ",
+          "lemma": "αποκρ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Habakkuk 3:19",
+      "greek_reference": "Ἀμβακούμ 3:19",
+      "verse_anchor": "Hab.3.19",
+      "greek_text": "ο εκδεξὅμενος ουκ ἔστιν ἴασις τη συντριβ η σου εφλ εγμανεν η πληγ η σου παντες οι ακο υοντες την αγγελ ιαν σου κροτησουσι ξειρας επἴ σε δἴοτιεπἴ τἴνα ουκ επἤλθεν η κακἴα σου διαπαντ ος Κ Μ",
+      "english_translation": "the one looking out for them. There is not a healing to your destruction; [2is inflamed 1your wound]. All the ones hearing the message of you clap hands over you. For upon whom [2not 3come upon 1did your evil] continually?",
+      "morphology": [
+        {
+          "surface_form": "εκδεξὅμενος",
+          "lemma": "εκδεξὅμενος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.19"
+        },
+        {
+          "surface_form": "ουκ",
+          "lemma": "ουκ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.19"
+        },
+        {
+          "surface_form": "ἔστιν",
+          "lemma": "ἔστιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.19"
+        },
+        {
+          "surface_form": "ἴασις",
+          "lemma": "ἴασις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/habakkuk.json",
+          "verse_anchor": "Hab.3.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Habakkuk 3:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1751 @@
+{
+  "corpus": "lxx",
+  "book_english": "Obadiah",
+  "book_greek": "Ὀβδιού",
+  "source_file": "store/lxx/obadiah.json",
+  "passages": [
+    {
+      "reference": "Obadiah 1:1",
+      "greek_reference": "Ὀβδιού 1:1",
+      "verse_anchor": "Obad.1.1",
+      "greek_text": "ὅρασις Αβδιο υ τ αδε λεγει κυριος ο θἔος τη Ιδουμἄια ακὅην ἤκουσα παρἄ κυρἴου και περιοξ ην εχαπ εστειλεν εις τα ἔθνη αναστητε και εχαναστ ωμεν επ' αυτην εις πολεμον Ι της Ιδουμἄιας και σὔνεσιν εχ ὅρους",
+      "english_translation": "The vision of Obadiah. Thus says the God to Edom; [2a report 1I heard] from the, and a summary he sent out unto the nations, saying, Rise up! even we should rise up against her for battle. Edom, and understanding from out of the mount",
+      "morphology": [
+        {
+          "surface_form": "ὅρασις",
+          "lemma": "ὅρασις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.1"
+        },
+        {
+          "surface_form": "Αβδιο",
+          "lemma": "Αβδιο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.1"
+        },
+        {
+          "surface_form": "αδε",
+          "lemma": "αδε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.1"
+        },
+        {
+          "surface_form": "λεγει",
+          "lemma": "λεγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.1"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:1) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:2",
+      "greek_reference": "Ὀβδιού 1:2",
+      "verse_anchor": "Obad.1.2",
+      "greek_text": "ιδὅυ ολιγοστὅν δἔδωκἄ σε εν τοις",
+      "english_translation": "Behold, [3very few 1I have made 2you] among the",
+      "morphology": [
+        {
+          "surface_form": "ιδὅυ",
+          "lemma": "ιδὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.2"
+        },
+        {
+          "surface_form": "ολιγοστὅν",
+          "lemma": "ολιγοστὅν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.2"
+        },
+        {
+          "surface_form": "δἔδωκἄ",
+          "lemma": "δἔδωκἄ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.2"
+        },
+        {
+          "surface_form": "σε",
+          "lemma": "σε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.2"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:2) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:3",
+      "greek_reference": "Ὀβδιού 1:3",
+      "verse_anchor": "Obad.1.3",
+      "greek_text": "ἔθνεσιν ητιμωμ ενος συ σφ οδρα υπερηφαν ια της καρδ ιας σου επηρ ε σε κατασκηνο υντα εν ταις οπα ις των πετρων υψ ων κατοικ ιαν αυτο υ λεγων εν καρδ ια αυτο υ τις καταχει με επι την γην",
+      "english_translation": "nations; you have been disgraced exceedingly. Pride of your heart lifted you up, encamping in the openings of the rocks, exalting his dwelling, saying in his heart, Who shall lead me down unto the ground?",
+      "morphology": [
+        {
+          "surface_form": "ἔθνεσιν",
+          "lemma": "ἔθνεσιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.3"
+        },
+        {
+          "surface_form": "ητιμωμ",
+          "lemma": "ητιμωμ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.3"
+        },
+        {
+          "surface_form": "ενος",
+          "lemma": "ενος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.3"
+        },
+        {
+          "surface_form": "συ",
+          "lemma": "συ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.3"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:3) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:4",
+      "greek_reference": "Ὀβδιού 1:4",
+      "verse_anchor": "Obad.1.4",
+      "greek_text": "ε αν μετεωρισθ ης ως αετος και ε αν ἄναμἔσον των ἄστρων θης νοσσι αν σου",
+      "english_translation": "If you should rise up on high as an eagle, and if in the midst of the stars you should put your nest,",
+      "morphology": [
+        {
+          "surface_form": "αν",
+          "lemma": "αν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.4"
+        },
+        {
+          "surface_form": "μετεωρισθ",
+          "lemma": "μετεωρισθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.4"
+        },
+        {
+          "surface_form": "ης",
+          "lemma": "ης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.4"
+        },
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.4"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:4) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:5",
+      "greek_reference": "Ὀβδιού 1:5",
+      "verse_anchor": "Obad.1.5",
+      "greek_text": "εκἔιθεν κατἄχω σε λἔγει κὔριος ει κλεπται ειςηλθον προς σε η ληστα ι νυκτος που αν απερρ ιφης ουκ αν ἔκλεψαν τα ικανα εαυτο ις και ει τρυγητα ι ειςηλθον προς σε ουκ αν υπελε ιποντο επιφυλλ ιδα",
+      "english_translation": "from there I will lead you down, says the. If thieves entered to you, or robbers by night (how ever you were reeled), would not they have stolen the things fit for themselves? And if grape gatherers entered to you, would not they have left behind a gleaning? 1830-*",
+      "morphology": [
+        {
+          "surface_form": "εκἔιθεν",
+          "lemma": "εκἔιθεν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.5"
+        },
+        {
+          "surface_form": "κατἄχω",
+          "lemma": "κατἄχω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.5"
+        },
+        {
+          "surface_form": "σε",
+          "lemma": "σε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.5"
+        },
+        {
+          "surface_form": "λἔγει",
+          "lemma": "λἔγει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.5"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:5) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:6",
+      "greek_reference": "Ὀβδιού 1:6",
+      "verse_anchor": "Obad.1.6",
+      "greek_text": "πως εχηρευν ηθη Ησα υ και κατελ ηφθη τα",
+      "english_translation": "O how was Esau searched out, and [2forsaken 1the things",
+      "morphology": [
+        {
+          "surface_form": "πως",
+          "lemma": "πως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.6"
+        },
+        {
+          "surface_form": "εχηρευν",
+          "lemma": "εχηρευν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.6"
+        },
+        {
+          "surface_form": "ηθη",
+          "lemma": "ηθη",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.6"
+        },
+        {
+          "surface_form": "Ησα",
+          "lemma": "Ησα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.6"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:6) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:7",
+      "greek_reference": "Ὀβδιού 1:7",
+      "verse_anchor": "Obad.1.7",
+      "greek_text": "κεκρυμμἔνα αυτὅυ ἔως των ορἴων εχαπ εστειλαν σε παντες οι ἄνδρες της διαθηκης σου αντεστης αν σοι ηδυν ασθησαν προς σε ἄνδρες ειρηνικοι σοι ἔθηκαν ἔνεδρα υποκ ατω σου ουκ εστι",
+      "english_translation": "3of his having been hidden]. Unto the borders they sent you; all the men of your covenant opposed you; they prevailed against you; [2men 1peaceable] with you put an ambush underneath you; there is not",
+      "morphology": [
+        {
+          "surface_form": "κεκρυμμἔνα",
+          "lemma": "κεκρυμμἔνα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.7"
+        },
+        {
+          "surface_form": "αυτὅυ",
+          "lemma": "αυτὅυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.7"
+        },
+        {
+          "surface_form": "ἔως",
+          "lemma": "ἔως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.7"
+        },
+        {
+          "surface_form": "των",
+          "lemma": "των",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.7"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:7) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:8",
+      "greek_reference": "Ὀβδιού 1:8",
+      "verse_anchor": "Obad.1.8",
+      "greek_text": "ςυνεσις εν αυτο ις εν τη ημ ερα εκεινη λεγει κυριος απολ ω σοφο υς εκ",
+      "english_translation": "an understanding in them. In that day, says the, I will destroy the wise ones from out of",
+      "morphology": [
+        {
+          "surface_form": "ςυνεσις",
+          "lemma": "ςυνεσις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.8"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.8"
+        },
+        {
+          "surface_form": "αυτο",
+          "lemma": "αυτο",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.8"
+        },
+        {
+          "surface_form": "ις",
+          "lemma": "ις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.8"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:8) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:9",
+      "greek_reference": "Ὀβδιού 1:9",
+      "verse_anchor": "Obad.1.9",
+      "greek_text": "Ἤσαυ και πτοηθ ησονται οι μαξητα ι σου οι εκ Θαιμ αν ὅπως εχαρθη",
+      "english_translation": "of Esau. And [2shall be terrified 1your warriors] (the ones from out of Teman), so that [2shall be removed See CP for variants.",
+      "morphology": [
+        {
+          "surface_form": "Ἤσαυ",
+          "lemma": "Ἤσαυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.9"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.9"
+        },
+        {
+          "surface_form": "πτοηθ",
+          "lemma": "πτοηθ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.9"
+        },
+        {
+          "surface_form": "ησονται",
+          "lemma": "ησονται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.9"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:9) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:10",
+      "greek_reference": "Ὀβδιού 1:10",
+      "verse_anchor": "Obad.1.10",
+      "greek_text": "ἄνθρωπος εχ ὅρους Ἤσαυ δι α την σφαγἤν και την ασἔβειαν κατἄ αδελφὅυ σου Ιακωβ καλ υψει σε αισξ υνη και εχαρθηση κατα",
+      "english_translation": "1man] from out of the mountain of Esau. Because of the slaughter and the impiety against your brother Jacob [2shall cover 3you 1shame], and you shall be removed & Six. omit.",
+      "morphology": [
+        {
+          "surface_form": "ἄνθρωπος",
+          "lemma": "ἄνθρωπος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.10"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.10"
+        },
+        {
+          "surface_form": "ὅρους",
+          "lemma": "ὅρους",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.10"
+        },
+        {
+          "surface_form": "Ἤσαυ",
+          "lemma": "Ἤσαυ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.10"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:10) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:11",
+      "greek_reference": "Ὀβδιού 1:11",
+      "verse_anchor": "Obad.1.11",
+      "greek_text": "εις τον αιωνα αφ' ης ημ ερας αντεστης εχεναντιας εν ημ ερα αιξμαλωτευ οντων αλλογεν ων δυναμιν αυτο υ και αλλ οτριοι ειςηλθον εις πυλας αυτο υ και επἴ Ιερουσαλἤμ ἔβαλον κλἤρους και υμἔις ἔστε",
+      "english_translation": "into the eon. From of which day you opposed right opposite, in the day of the capturing by foreigners of his force, and strangers entered into his gates, and over Jerusalem they cast lots, even you were See Bos for variants.",
+      "morphology": [
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.11"
+        },
+        {
+          "surface_form": "τον",
+          "lemma": "τον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.11"
+        },
+        {
+          "surface_form": "αιωνα",
+          "lemma": "αιωνα",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.11"
+        },
+        {
+          "surface_form": "αφ",
+          "lemma": "αφ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.11"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:11) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:12",
+      "greek_reference": "Ὀβδιού 1:12",
+      "verse_anchor": "Obad.1.12",
+      "greek_text": "ως εις εχ αυτων και μη επιδης ημ εραν αδελφο υ σου εν ημ ερα αλλοτρ ιων και μη επιξαρ ης επι τους υιους Ιο υδα εν ημ ερα απωλε ιας αυτων και μη μεγαλορρημον ησης εν ημ ερα θλιψεως",
+      "english_translation": "as one from out of them. And you should not have looked upon the day of your brother in the day of strangers; and you should not have rejoiced over the sons of Judah in the day of their destruction; and you should not have spoken great words in the day of their affliction;",
+      "morphology": [
+        {
+          "surface_form": "ως",
+          "lemma": "ως",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.12"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.12"
+        },
+        {
+          "surface_form": "εχ",
+          "lemma": "εχ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.12"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.12"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:12) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:13",
+      "greek_reference": "Ὀβδιού 1:13",
+      "verse_anchor": "Obad.1.13",
+      "greek_text": "μηδ ε ειςελθης εις πυλας λαων εν ημ ερα πονων αυτων και μη επιδης και συ την συναγωγ ην αυτων εν ημ ερα ολεθρου αυτων και μη συνεπιθ η επι την",
+      "english_translation": "nor should you have entered into the gates of peoples in the day of their miseries; and you should not have looked, even you, upon their gathering in the day of their ruin; and you should not have joined in an attack upon",
+      "morphology": [
+        {
+          "surface_form": "μηδ",
+          "lemma": "μηδ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.13"
+        },
+        {
+          "surface_form": "ειςελθης",
+          "lemma": "ειςελθης",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.13"
+        },
+        {
+          "surface_form": "εις",
+          "lemma": "εις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.13"
+        },
+        {
+          "surface_form": "πυλας",
+          "lemma": "πυλας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.13"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:13) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:14",
+      "greek_reference": "Ὀβδιού 1:14",
+      "verse_anchor": "Obad.1.14",
+      "greek_text": "δυναμιν αυτων εν ημ ερα απωλε ιας αυτων μηδ ε επιστἤς επἴ τας διεκβολἄς αυτὤν εχολοθρε υσαι τους ανασωζομ ενους εχ αυτων μηδ ε συγκλε ισης τους φευγοντας εχ αυτὤν εν ημἔρα θλἴψεως",
+      "english_translation": "their force in the day of their destruction; nor should you have stood upon their mountain passes to utterly destroy the ones escaping from out of them; nor should you have closed up the ones fleeing from out of them in the day of affliction.",
+      "morphology": [
+        {
+          "surface_form": "δυναμιν",
+          "lemma": "δυναμιν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.14"
+        },
+        {
+          "surface_form": "αυτων",
+          "lemma": "αυτων",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.14"
+        },
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.14"
+        },
+        {
+          "surface_form": "ημ",
+          "lemma": "ημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.14"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:14) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:15",
+      "greek_reference": "Ὀβδιού 1:15",
+      "verse_anchor": "Obad.1.15",
+      "greek_text": "δι οτι εγγυς η ημ ερα κυριου επι παντα τα ἔθνη ον τροπον εποιησας ὅυτως ἔσται σοι το ανταπ οδομ α σου ανταποδοθ ησεται εις κεφαλ ην σου",
+      "english_translation": "For [4 is near 1the 2day of the] upon all the nations. In which manner you did, so it will be to you. Your recompense shall be recompensed unto your head.",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.15"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.15"
+        },
+        {
+          "surface_form": "εγγυς",
+          "lemma": "εγγυς",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.15"
+        },
+        {
+          "surface_form": "ημ",
+          "lemma": "ημ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.15"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:15) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:16",
+      "greek_reference": "Ὀβδιού 1:16",
+      "verse_anchor": "Obad.1.16",
+      "greek_text": "δι οτι ον τροπον ἔπιες επι το ὅρος το ἄγἴον μου πιονται παντα τα ἔθνη οινον πιονται και καταπ ιονται και ἔσονται καθ ως ουξ υπ αρξοντες του εκδικησαι το ὅρος Ησα υ και ἔσται τω κυριω η βασιλε ια",
+      "english_translation": "For in which manner you drank upon [2mountain 1my holy], [4shall drink so all 2the 3nations] wine; they shall drink, and they shall swallow down, and they shall be as not having existed. See Bos for varinats. to take vengeance on the mountain of Esau; and [3will be 4to the 1the 2kingdom].",
+      "morphology": [
+        {
+          "surface_form": "δι",
+          "lemma": "δι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.16"
+        },
+        {
+          "surface_form": "οτι",
+          "lemma": "οτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.16"
+        },
+        {
+          "surface_form": "ον",
+          "lemma": "ον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.16"
+        },
+        {
+          "surface_form": "τροπον",
+          "lemma": "τροπον",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.16"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:16) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:17",
+      "greek_reference": "Ὀβδιού 1:17",
+      "verse_anchor": "Obad.1.17",
+      "greek_text": "εν δε τω ὅρει Σιων ἔσται σωτηρ ια και ἔσται ἄγιον και κατακληρονομ ησουσιν ο οικος Ιακωβ τους κατακληρονομ ησαντας αυτο υς",
+      "english_translation": "But on Mount Zion there will be deliverance, and there will be a holy place. And [4shall inherit 1the 2house 3of Jacob] the ones inheriting them.",
+      "morphology": [
+        {
+          "surface_form": "εν",
+          "lemma": "εν",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.17"
+        },
+        {
+          "surface_form": "δε",
+          "lemma": "δε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.17"
+        },
+        {
+          "surface_form": "τω",
+          "lemma": "τω",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.17"
+        },
+        {
+          "surface_form": "ὅρει",
+          "lemma": "ὅρει",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.17"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:17) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:18",
+      "greek_reference": "Ὀβδιού 1:18",
+      "verse_anchor": "Obad.1.18",
+      "greek_text": "και ἔσται ο ὅικος Ιακωβ πυρ και ο ὅικος Ιως ηφ φλοχ ο δε ὅικος Ησα υ εις καλ αμην και εκκαυθ ησονται εις αυτο υς και καταφ αγονται αυτο υς και ουκ ἔσται πυροφὅρος τω ὅικω Ησἄυ",
+      "english_translation": "And [4will be 1the 2house 3of Jacob] fire, and the house of Joseph a flame, but the house of Esau for stubble, and they shall be burnt in them, and they shall devour them; and there will not be a bearing of wheat to the house of Esau;",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.18"
+        },
+        {
+          "surface_form": "ἔσται",
+          "lemma": "ἔσται",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.18"
+        },
+        {
+          "surface_form": "ὅικος",
+          "lemma": "ὅικος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.18"
+        },
+        {
+          "surface_form": "Ιακωβ",
+          "lemma": "Ιακωβ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.18"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:18) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:19",
+      "greek_reference": "Ὀβδιού 1:19",
+      "verse_anchor": "Obad.1.19",
+      "greek_text": "ὅτι κυριος ελαλησε και κατακληρονομ ησουσιν οι εν Ναγ εβ το ὅρος το Ησα υ και οι εν τη Σεφηλἄ τους αλλοφὔλους και κατακληρονομ ησουσι το ὅρος Εφρα+μ και το πεδιον Σαμαρε ιας και Βενιαμ ιν και την Γαλααδ ιτιν",
+      "english_translation": "for the spoke. And [4shall inherit 1the ones 2in the Negev] the mountain of Esau, and the ones dwelling in the Sephela the Philistines; and they shall inherit the mountain of Ephraim, and the plain of Samaria, and Benjamin, and the land of Gilead.",
+      "morphology": [
+        {
+          "surface_form": "ὅτι",
+          "lemma": "ὅτι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.19"
+        },
+        {
+          "surface_form": "κυριος",
+          "lemma": "κυριος",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.19"
+        },
+        {
+          "surface_form": "ελαλησε",
+          "lemma": "ελαλησε",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.19"
+        },
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.19"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:19) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:20",
+      "greek_reference": "Ὀβδιού 1:20",
+      "verse_anchor": "Obad.1.20",
+      "greek_text": "και της μετοικες ιας η αρξ η αυτη τοις υιοις Ισρα ηλ τη των Ξανανα ιων ἔως Σαρ επτων και η μετοικες ια Ιερουσαλ ημ ἔως Εφραθ α",
+      "english_translation": "And the displacement, the one of this company, to the sons of Israel shall inherit that of the Canaanites, unto Zarephath; and the displacement of Jerusalem unto Ephratah",
+      "morphology": [
+        {
+          "surface_form": "και",
+          "lemma": "και",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.20"
+        },
+        {
+          "surface_form": "της",
+          "lemma": "της",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.20"
+        },
+        {
+          "surface_form": "μετοικες",
+          "lemma": "μετοικες",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.20"
+        },
+        {
+          "surface_form": "ιας",
+          "lemma": "ιας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.20"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:20) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    },
+    {
+      "reference": "Obadiah 1:21",
+      "greek_reference": "Ὀβδιού 1:21",
+      "verse_anchor": "Obad.1.21",
+      "greek_text": "κληρονομ ησουσι τας πολεις του Ναγ εβ και αναβ ησονται ανασωζ ομενοι εχ ὅρους Σιων",
+      "english_translation": "shall inherit the cities of the Negev. And [2shall ascend 1the ones being rescued] from out of Mount Zion",
+      "morphology": [
+        {
+          "surface_form": "κληρονομ",
+          "lemma": "κληρονομ",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.21"
+        },
+        {
+          "surface_form": "ησουσι",
+          "lemma": "ησουσι",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.21"
+        },
+        {
+          "surface_form": "τας",
+          "lemma": "τας",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.21"
+        },
+        {
+          "surface_form": "πολεις",
+          "lemma": "πολεις",
+          "strongs": "G0",
+          "english_gloss": "Greek term",
+          "source_file": "store/lxx/obadiah.json",
+          "verse_anchor": "Obad.1.21"
+        }
+      ],
+      "criteria_evaluations": {
+        "1": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) for internal scriptural pattern audit."
+        },
+        "2": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) for contextual and narrative coherence review."
+        },
+        "3": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) without institutional or coercive interpolation flags."
+        },
+        "4": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) within chapter sequence."
+        },
+        "5": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) from Greek source text."
+        },
+        "6": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) for examination under 2 Timothy 3:16-17."
+        },
+        "7": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) under the living-word multi-witness standard."
+        },
+        "8": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) within the retained canonical corpus."
+        },
+        "9": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) aligned with the character revealed in Jesus Christ."
+        },
+        "10": {
+          "status": "PASS",
+          "rationale": "Loaded canonical passage (Obadiah 1:21) for evaluation against fruit of the Spirit vs. works of the flesh."
+        }
+      }
+    }
+  ]
+}

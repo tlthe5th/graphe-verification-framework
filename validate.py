@@ -1,4 +1,4 @@
-﻿"""Core citation-enforced verification engine for graphe-verification-framework.
+"""Core citation-enforced verification engine for graphe-verification-framework.
 
 This module implements:
 1. Strict Unicode NFC normalization for Greek strings.
@@ -32,7 +32,7 @@ STORE_DIRS = [REPO_ROOT / "store" / "lxx", REPO_ROOT / "store" / "nt"]
 # Greek & Coptic (U+0370-U+03FF) and Greek Extended (U+1F00-U+1FFF),
 # plus Greek numeral sign (U+02B9), colon, numbers, whitespace, and punctuation.
 GREEK_FIELD_PATTERN = re.compile(
-    r"^[\u0370-\u03FF\u1F00-\u1FFF\u02B90-9\s.,:;·'’\"“”\u2013\u2014()\[\]-]+$"
+    r"^[\u0370-\u03FF\u1F00-\u1FFF\u02B90-9\s.,:;·'’\"“”!?…\u2013\u2014()\[\]-]+$"
 )
 
 # Stricter pattern for Greek morphological surface_form and lemma tokens.
@@ -40,21 +40,91 @@ GREEK_TOKEN_PATTERN = re.compile(r"^[\u0370-\u03FF\u1F00-\u1FFF'’\-]+$")
 
 # Book alias map supporting English and Greek references (normalized to NFC and lowercase).
 BOOK_ALIASES: dict[str, tuple[str, str]] = {
-    # LXX Old Testament books in store
+    # LXX Old Testament books
     "genesis": ("Genesis", "Γένεσις"),
     "gen": ("Genesis", "Γένεσις"),
     "γένεσις": ("Genesis", "Γένεσις"),
     "γένεσιν": ("Genesis", "Γένεσις"),
+    "exodus": ("Exodus", "Ἔξοδος"),
+    "exod": ("Exodus", "Ἔξοδος"),
+    "έξοδος": ("Exodus", "Ἔξοδος"),
+    "leviticus": ("Leviticus", "Λευιτικόν"),
+    "lev": ("Leviticus", "Λευιτικόν"),
+    "λευιτικόν": ("Leviticus", "Λευιτικόν"),
+    "numbers": ("Numbers", "Ἀριθμοί"),
+    "num": ("Numbers", "Ἀριθμοί"),
+    "αριθμοί": ("Numbers", "Ἀριθμοί"),
     "deuteronomy": ("Deuteronomy", "Δευτερονόμιον"),
     "deut": ("Deuteronomy", "Δευτερονόμιον"),
     "δευτερονόμιον": ("Deuteronomy", "Δευτερονόμιον"),
+    "joshua": ("Joshua", "Ἰησοῦς τοῦ Ναυῆ"),
+    "josh": ("Joshua", "Ἰησοῦς τοῦ Ναυῆ"),
+    "judges": ("Judges", "Κριταί"),
+    "judg": ("Judges", "Κριταί"),
+    "ruth": ("Ruth", "Ῥούθ"),
     "1 samuel": ("1 Samuel", "Βασιλειῶν Α"),
     "1sam": ("1 Samuel", "Βασιλειῶν Α"),
     "1 sam": ("1 Samuel", "Βασιλειῶν Α"),
     "first samuel": ("1 Samuel", "Βασιλειῶν Α"),
     "βασιλειῶν α": ("1 Samuel", "Βασιλειῶν Α"),
     "βασιλειων α": ("1 Samuel", "Βασιλειῶν Α"),
-    # NT books in store
+    "2 samuel": ("2 Samuel", "Βασιλειῶν Β"),
+    "2sam": ("2 Samuel", "Βασιλειῶν Β"),
+    "2 sam": ("2 Samuel", "Βασιλειῶν Β"),
+    "1 kings": ("1 Kings", "Βασιλειῶν Γ"),
+    "1kgs": ("1 Kings", "Βασιλειῶν Γ"),
+    "2 kings": ("2 Kings", "Βασιλειῶν Δ"),
+    "2kgs": ("2 Kings", "Βασιλειῶν Δ"),
+    "1 chronicles": ("1 Chronicles", "Παραλειπομένων Α"),
+    "1chr": ("1 Chronicles", "Παραλειπομένων Α"),
+    "2 chronicles": ("2 Chronicles", "Παραλειπομένων Β"),
+    "2chr": ("2 Chronicles", "Παραλειπομένων Β"),
+    "ezra": ("Ezra", "Ἔσδρας Β"),
+    "nehemiah": ("Nehemiah", "Νεεμίας"),
+    "neh": ("Nehemiah", "Νεεμίας"),
+    "esther": ("Esther", "Ἐσθήρ"),
+    "est": ("Esther", "Ἐσθήρ"),
+    "job": ("Job", "Ἰώβ"),
+    "psalms": ("Psalms", "Ψαλμοί"),
+    "psalm": ("Psalms", "Ψαλμοί"),
+    "ps": ("Psalms", "Ψαλμοί"),
+    "ψαλμοί": ("Psalms", "Ψαλμοί"),
+    "proverbs": ("Proverbs", "Παροιμίαι"),
+    "prov": ("Proverbs", "Παροιμίαι"),
+    "παροιμίαι": ("Proverbs", "Παροιμίαι"),
+    "ecclesiastes": ("Ecclesiastes", "Ἐκκλησιαστής"),
+    "eccl": ("Ecclesiastes", "Ἐκκλησιαστής"),
+    "isaiah": ("Isaiah", "Ἠσαΐας"),
+    "isa": ("Isaiah", "Ἠσαΐας"),
+    "ησαΐας": ("Isaiah", "Ἠσαΐας"),
+    "jeremiah": ("Jeremiah", "Ἱερεμίας"),
+    "jer": ("Jeremiah", "Ἱερεμίας"),
+    "lamentations": ("Lamentations", "Θρῆνοι"),
+    "lam": ("Lamentations", "Θρῆνοι"),
+    "ezekiel": ("Ezekiel", "Ἰεζεκιήλ"),
+    "ezek": ("Ezekiel", "Ἰεζεκιήλ"),
+    "daniel": ("Daniel", "Δανιήλ"),
+    "dan": ("Daniel", "Δανιήλ"),
+    "hosea": ("Hosea", "Ὡσηέ"),
+    "hos": ("Hosea", "Ὡσηέ"),
+    "joel": ("Joel", "Ἰωήλ"),
+    "amos": ("Amos", "Ἀμώς"),
+    "obadiah": ("Obadiah", "Ὀβδιού"),
+    "jonah": ("Jonah", "Ἰωνᾶς"),
+    "micah": ("Micah", "Μιχαίας"),
+    "mic": ("Micah", "Μιχαίας"),
+    "nahum": ("Nahum", "Ναούμ"),
+    "habakkuk": ("Habakkuk", "Ἀμβακούμ"),
+    "hab": ("Habakkuk", "Ἀμβακούμ"),
+    "zephaniah": ("Zephaniah", "Σοφονίας"),
+    "zeph": ("Zephaniah", "Σοφονίας"),
+    "haggai": ("Haggai", "Ἀγγαῖος"),
+    "hag": ("Haggai", "Ἀγγαῖος"),
+    "zechariah": ("Zechariah", "Ζαχαρίας"),
+    "zech": ("Zechariah", "Ζαχαρίας"),
+    "malachi": ("Malachi", "Μαλαχίας"),
+    "mal": ("Malachi", "Μαλαχίας"),
+    # NT books
     "matthew": ("Matthew", "Κατὰ Ματθαῖον"),
     "matt": ("Matthew", "Κατὰ Ματθαῖον"),
     "ματθαῖος": ("Matthew", "Κατὰ Ματθαῖον"),
@@ -77,10 +147,36 @@ BOOK_ALIASES: dict[str, tuple[str, str]] = {
     "romans": ("Romans", "Πρὸς Ῥωμαίους"),
     "rom": ("Romans", "Πρὸς Ῥωμαίους"),
     "πρὸς ῥωμαίους": ("Romans", "Πρὸς Ῥωμαίους"),
+    "1 corinthians": ("1 Corinthians", "Πρὸς Κορινθίους Α"),
+    "1cor": ("1 Corinthians", "Πρὸς Κορινθίους Α"),
+    "1 cor": ("1 Corinthians", "Πρὸς Κορινθίους Α"),
+    "2 corinthians": ("2 Corinthians", "Πρὸς Κορινθίους Β"),
+    "2cor": ("2 Corinthians", "Πρὸς Κορινθίους Β"),
+    "2 cor": ("2 Corinthians", "Πρὸς Κορινθίους Β"),
+    "galatians": ("Galatians", "Πρὸς Γαλάτας"),
+    "gal": ("Galatians", "Πρὸς Γαλάτας"),
+    "ephesians": ("Ephesians", "Πρὸς Ἐφεσίους"),
+    "eph": ("Ephesians", "Πρὸς Ἐφεσίους"),
+    "philippians": ("Philippians", "Πρὸς Φιλιππησίους"),
+    "phil": ("Philippians", "Πρὸς Φιλιππησίους"),
+    "colossians": ("Colossians", "Πρὸς Κολασσαεῖς"),
+    "col": ("Colossians", "Πρὸς Κολασσαεῖς"),
+    "1 thessalonians": ("1 Thessalonians", "Πρὸς Θεσσαλονικεῖς Α"),
+    "1thess": ("1 Thessalonians", "Πρὸς Θεσσαλονικεῖς Α"),
+    "1 thess": ("1 Thessalonians", "Πρὸς Θεσσαλονικεῖς Α"),
+    "2 thessalonians": ("2 Thessalonians", "Πρὸς Θεσσαλονικεῖς Β"),
+    "2thess": ("2 Thessalonians", "Πρὸς Θεσσαλονικεῖς Β"),
+    "2 thess": ("2 Thessalonians", "Πρὸς Θεσσαλονικεῖς Β"),
+    "1 timothy": ("1 Timothy", "Πρὸς Τιμόθεον Α"),
+    "1tim": ("1 Timothy", "Πρὸς Τιμόθεον Α"),
+    "1 tim": ("1 Timothy", "Πρὸς Τιμόθεον Α"),
     "2 timothy": ("2 Timothy", "Πρὸς Τιμόθεον Β"),
     "2tim": ("2 Timothy", "Πρὸς Τιμόθεον Β"),
     "2 tim": ("2 Timothy", "Πρὸς Τιμόθεον Β"),
     "πρὸς τιμόθεον β": ("2 Timothy", "Πρὸς Τιμόθεον Β"),
+    "titus": ("Titus", "Πρὸς Τίτον"),
+    "philemon": ("Philemon", "Πρὸς Φιλήμονα"),
+    "phlm": ("Philemon", "Πρὸς Φιλήμονα"),
     "1 peter": ("1 Peter", "Πέτρου Α"),
     "1pet": ("1 Peter", "Πέτρου Α"),
     "1 pet": ("1 Peter", "Πέτρου Α"),
@@ -93,6 +189,10 @@ BOOK_ALIASES: dict[str, tuple[str, str]] = {
     "1john": ("1 John", "Ἰωάννου Α"),
     "1 jn": ("1 John", "Ἰωάννου Α"),
     "ἰωάννου α": ("1 John", "Ἰωάννου Α"),
+    "2 john": ("2 John", "Ἰωάννου Β"),
+    "2john": ("2 John", "Ἰωάννου Β"),
+    "3 john": ("3 John", "Ἰωάννου Γ"),
+    "3john": ("3 John", "Ἰωάννου Γ"),
     # Excluded books (must fail closed at exclusion gate)
     "song of solomon": ("Song of Solomon", "Ἆσμα Ἀσμάτων"),
     "song of songs": ("Song of Solomon", "Ἆσμα Ἀσμάτων"),
@@ -211,7 +311,7 @@ def parse_reference_query(raw_query: str) -> tuple[str, str, str]:
 
     # Match numbered books like "1 samuel 15:3", "2 peter 2:7-8", "1 john 5:7-8"
     numbered_match = re.match(
-        r"^([123]\s+[a-z\u0370-\u03ff\u1f00-\u1fff]+(?:\s+[a-z\u0370-\u03ff\u1f00-\u1fff]+)?)\s*(.*)$",
+        r"^([123]\s+[a-z\u0370-\u03ff\u1f00-\u1fff]+(?:\s+[a-z\u0370-\u1f00-\u1fff]+)?)\s*(.*)$",
         normalized_query,
     )
     if numbered_match:
@@ -249,20 +349,32 @@ def parse_reference_query(raw_query: str) -> tuple[str, str, str]:
     )
 
 
-def _match_verse_part(passage: dict[str, Any], verse_part: str) -> bool:
-    """Return True if a stored passage matches the requested chapter/verse string."""
+def _match_verse_part(passage: dict[str, Any], eng_book: str, verse_part: str) -> bool:
+    """Return True if a stored passage matches the requested book and chapter/verse string."""
+    passage_ref = _normalize_dash_and_spacing(str(passage.get("reference", "")))
+    expected_book = _normalize_dash_and_spacing(eng_book)
+    if expected_book and passage_ref and not passage_ref.startswith(expected_book + " "):
+        return False
+
     if not verse_part:
         return True
+
     target = _normalize_dash_and_spacing(verse_part).replace(" ", "")
-    candidates = [
-        passage.get("reference", ""),
-        passage.get("greek_reference", ""),
-        passage.get("verse_anchor", ""),
-    ]
-    for cand in candidates:
-        norm_cand = _normalize_dash_and_spacing(cand).replace(" ", "")
-        if norm_cand.endswith(target) or target in norm_cand:
-            return True
+    target_dot = target.replace(":", ".")
+
+    # Match exact "Book chapter:verse" in reference or ".chapter.verse" in verse_anchor
+    # so "1:1" does not accidentally match "1:10", "1:11", or "11:1".
+    if passage_ref == f"{expected_book} {target}".strip():
+        return True
+
+    anchor = _normalize_dash_and_spacing(str(passage.get("verse_anchor", ""))).replace(" ", "")
+    if anchor.endswith("." + target_dot):
+        return True
+
+    greek_ref = _normalize_dash_and_spacing(str(passage.get("greek_reference", ""))).replace(" ", "")
+    if greek_ref.endswith(" " + target):
+        return True
+
     return False
 
 
@@ -295,7 +407,7 @@ def find_stored_passage(
             for passage in data.get("passages", []):
                 if not isinstance(passage, dict):
                     continue
-                if _match_verse_part(passage, verse_part):
+                if _match_verse_part(passage, eng_book, verse_part):
                     return rel_source, corpus, passage
     return None
 
@@ -524,25 +636,25 @@ def verify_passage(query: str) -> dict[str, Any]:
         _enforce_schema_or_raise(validator, payload)
         return payload
 
-    # STEP 2: No citation, no claim — if not in store/ and not in gate/exclusions.json,
-    # fail closed rather than inventing or guessing content.
+    # STEP 2: Passage is not excluded and not yet loaded in store/ — mark as not_loaded
+    # while failing closed rather than inventing or guessing content.
     if stored_match is None:
         fail_reason = (
-            f"No citation found in store/ for reference '{normalized_ref}'. "
+            f"Passage '{normalized_ref}' is not loaded in store/ yet. "
             "Fail-closed policy prohibits unverified or uncited claims."
         )
         greek_fallback = validate_greek_text_field(grk_book, "fallback.greek_book")
         citation_obj = {
-            "file": "gate/exclusions.json",
-            "anchor": f"Uncited.{normalized_ref.replace(' ', '_')}",
+            "file": "store/",
+            "anchor": f"NotLoaded.{normalized_ref.replace(' ', '_')}",
             "greek_excerpt": greek_fallback,
         }
         payload = {
             "schema_version": "1.0.0",
             "query": clean_query,
             "normalized_reference": normalized_ref,
-            "corpus": "excluded_unknown",
-            "source_file": "gate/exclusions.json",
+            "corpus": "not_loaded",
+            "source_file": "store/",
             "verse_anchor": citation_obj["anchor"],
             "greek_text": greek_fallback,
             "excluded": False,

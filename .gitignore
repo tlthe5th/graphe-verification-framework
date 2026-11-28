@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.venv/
+extracted/
+app - Copy.py
+2john.txt
+gospels_test.txt
+test_1john.txt
+*.py[cod]
